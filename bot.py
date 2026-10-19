@@ -126,8 +126,18 @@ _NUM_WORDS = {"one": 1, "two": 2, "three": 3, "four": 4, "five": 5, "six": 6,
 def timeline_from_news(texts: list[str]) -> tuple[str, int | None] | None:
     """Read an absence estimate from news text. Returns (label, days) or None."""
     import re
+    from datetime import date
+    months = ["january", "february", "march", "april", "may", "june", "july",
+              "august", "september", "october", "november", "december"]
     for t in texts:
         t = t.lower()
+        m = re.search(r"(?:return|back|until|target)\D{0,40}?\b(" + "|".join(months) + r")\b", t)
+        if m:
+            today = datetime.now(timezone.utc).date()
+            mi = months.index(m.group(1)) + 1
+            year = today.year if mi >= today.month else today.year + 1
+            days = (date(year, mi, 1) - today).days
+            return (f"{m.group(1)[:3]}/{year} (pelas notícias)", max(days, 0))
         if re.search(r"(rest of|remainder of) the (regular )?season|season-ending|out for the season", t):
             return ("resto da temporada", 180)
         m = re.search(r"(\d+|a few|several|one|two|three|four|five|six|seven|eight|nine|ten|a)[\s-]+(?:to[\s-]+\w+[\s-]+)?(week|month)s?", t)
@@ -352,7 +362,8 @@ def enrich_timelines(league, old: dict, new: dict) -> None:
             continue
         try:
             card = league.player_info(playerId=int(pid), include_news=True)
-            texts = [n.get("headline", "") + " " + n.get("story", "") for n in (card.news or [])[:3]]
+            items = (card.news or [])[:3]
+            texts = [n.get("headline", "") for n in items] + [n.get("story", "") for n in items]
             p["timeline"] = timeline_from_news(texts)
         except Exception as e:
             print(f"News lookup failed for {p['name']}: {e!r}")
@@ -481,8 +492,10 @@ def main() -> int:
                 sent_now = set(state.get("sent_keys", []))
                 alerts += [(k, m) for k, m in hot_alerts(games, snap["players"], now) if k not in sent_now]
                 state["last_hot_check"] = time.time()
+                state["hot_status"] = f"ok: {len(games)} FAs, {sum(len(g) for g in games.values())} games"
             except Exception as e:
                 print(f"Hot-player check failed: {e!r}")
+                state["hot_status"] = f"error: {e!r}"[:300]
 
     sent = list(state.get("sent_keys", []))
     for key, msg in alerts:

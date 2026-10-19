@@ -151,3 +151,11 @@ def test_hot_ignores_unfinished_and_stale_games():
     players = league()
     assert bot.hot_alerts({"8": [_g(1, 60), _g(25, 10)]}, players, now) == []   # still playing
     assert bot.hot_alerts({"8": [_g(60, 40), _g(84, 40)]}, players, now) == []  # too old
+
+
+def test_timeline_month_names_and_headline_first():
+    label, days = bot.timeline_from_news([
+        "Butler (knee) could return sometime between January and February",
+        "ACL tears usually take nine months to recover from",
+    ])
+    assert label.startswith("jan/") and days is not None

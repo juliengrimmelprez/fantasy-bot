@@ -134,7 +134,7 @@ def main() -> None:
     for pid, items in news.items():
         if not players[pid].get("return_date"):
             players[pid]["timeline"] = bot.timeline_from_news(
-                [n.get("headline", "") + " " + n.get("story", "") for n in items[:3]])
+                [n.get("headline", "") for n in items[:3]] + [n.get("story", "") for n in items[:3]])
     inj_alerts = bot.injury_alerts(old, players)
     alerted_ids = {k.split(":")[1] for k, _ in inj_alerts}
 

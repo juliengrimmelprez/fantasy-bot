@@ -89,3 +89,8 @@ def test_player_value_blend():
     assert bot.player_value(30, 26, 0) == 28.0
     assert bot.player_value(0, 26, 0) == 26.0
     assert bot.player_value(20, 20, 40) == 30.0     # hot streak counts half
+
+
+def test_telegram_html_formatting():
+    out = bot.to_telegram_html("🚨 *A & B <x>* ok *C*")
+    assert out == "🚨 <b>A &amp; B &lt;x&gt;</b> ok <b>C</b>"

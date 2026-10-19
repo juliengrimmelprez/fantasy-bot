@@ -1,13 +1,14 @@
-"""Fantasy basketball WhatsApp alert bot (v1).
+"""Fantasy basketball alert bot (v1): Telegram, with optional WhatsApp.
 
 Each run:
   1. reads the league from ESPN (rosters, free agents, recent activity),
   2. compares it with the snapshot saved last run (state.json),
-  3. sends a WhatsApp message (CallMeBot) for anything worth acting on,
+  3. sends a Telegram message (and WhatsApp via CallMeBot, if set) for anything worth acting on,
   4. saves the new snapshot.
 
 Secrets come from environment variables (GitHub Secrets):
-  ESPN_S2, ESPN_SWID, CALLMEBOT_PHONE, CALLMEBOT_APIKEY
+  ESPN_S2, ESPN_SWID, TELEGRAM_BOT_TOKEN, TELEGRAM_CHAT_ID
+  (optional) CALLMEBOT_PHONE, CALLMEBOT_APIKEY
 """
 
 from __future__ import annotations
@@ -235,31 +236,65 @@ def compute_alerts(state: dict, snap: dict) -> list[tuple[str, str]]:
 
 
 # ---------------------------------------------------------------------------
-# WhatsApp
+# Delivery: Telegram (primary) and WhatsApp via CallMeBot (optional)
 # ---------------------------------------------------------------------------
 
-def send_whatsapp(text: str) -> bool:
-    phone = os.environ.get("CALLMEBOT_PHONE")
-    key = os.environ.get("CALLMEBOT_APIKEY")
-    if not phone or not key:
-        print("[dry-run] would send:\n" + text + "\n")
-        return True
-    url = (
-        "https://api.callmebot.com/whatsapp.php?phone="
-        + urllib.parse.quote(phone)
-        + "&text=" + urllib.parse.quote(text)
-        + "&apikey=" + urllib.parse.quote(key)
-    )
+def to_telegram_html(text: str) -> str:
+    """Escape HTML, then turn WhatsApp-style *bold* into <b>bold</b>."""
+    import html
+    import re
+    safe = html.escape(text, quote=False)
+    return re.sub(r"\*([^*\n]+)\*", r"<b>\1</b>", safe)
+
+
+def _post_with_retry(name: str, call) -> bool:
     for attempt in range(3):
         try:
-            r = requests.get(url, timeout=30)
+            r = call()
             if r.ok:
                 return True
-            print(f"CallMeBot HTTP {r.status_code}: {r.text[:200]}")
+            print(f"{name} HTTP {r.status_code}: {r.text[:200]}")
         except requests.RequestException as e:
-            print(f"CallMeBot error: {e}")
+            print(f"{name} error: {e}")
         time.sleep(3 * (attempt + 1))
     return False
+
+
+def send_telegram(text: str) -> bool:
+    token = os.environ["TELEGRAM_BOT_TOKEN"]
+    chat = os.environ["TELEGRAM_CHAT_ID"]
+    url = f"https://api.telegram.org/bot{token}/sendMessage"
+    payload = {
+        "chat_id": chat,
+        "text": to_telegram_html(text),
+        "parse_mode": "HTML",
+        "disable_web_page_preview": True,
+    }
+    return _post_with_retry("Telegram", lambda: requests.post(url, json=payload, timeout=30))
+
+
+def send_callmebot(text: str) -> bool:
+    url = (
+        "https://api.callmebot.com/whatsapp.php?phone="
+        + urllib.parse.quote(os.environ["CALLMEBOT_PHONE"])
+        + "&text=" + urllib.parse.quote(text)
+        + "&apikey=" + urllib.parse.quote(os.environ["CALLMEBOT_APIKEY"])
+    )
+    return _post_with_retry("CallMeBot", lambda: requests.get(url, timeout=30))
+
+
+def send_alert(text: str) -> bool:
+    """Send through every configured channel; success if any channel worked."""
+    channels = []
+    if os.environ.get("TELEGRAM_BOT_TOKEN") and os.environ.get("TELEGRAM_CHAT_ID"):
+        channels.append(send_telegram)
+    if os.environ.get("CALLMEBOT_PHONE") and os.environ.get("CALLMEBOT_APIKEY"):
+        channels.append(send_callmebot)
+    if not channels:
+        print("[dry-run] would send:\n" + text + "\n")
+        return True
+    results = [send(text) for send in channels]
+    return any(results)
 
 
 # ---------------------------------------------------------------------------
@@ -286,7 +321,7 @@ def main() -> int:
         print(f"ESPN fetch failed: {e!r}")
         last = state.get("last_error_alert", 0)
         if time.time() - last > config.ERROR_ALERT_HOURS * 3600:
-            send_whatsapp(f"⚠️ Fantasy bot: não consegui ler a ESPN.\n{str(e)[:200]}\nSe persistir, renove os cookies.")
+            send_alert(f"⚠️ Fantasy bot: não consegui ler a ESPN.\n{str(e)[:200]}\nSe persistir, renove os cookies.")
             state["last_error_alert"] = time.time()
             save_state(state)
         return 0  # handled: avoid GitHub failure emails every run
@@ -297,7 +332,7 @@ def main() -> int:
     if first_run:
         w = worst_player(snap["players"])
         mine = my_roster(snap["players"])
-        send_whatsapp(
+        send_alert(
             f"🏀 Fantasy bot online!\n{len(mine)} jogadores no {config.MY_TEAM_NAME}. "
             f"Seu pior jogador hoje: {w['name']} ({w['value']} FP).\n"
             f"Você vai receber alertas de lesão, drops e trocas daqui pra frente."
@@ -308,7 +343,7 @@ def main() -> int:
 
     sent = list(state.get("sent_keys", []))
     for key, msg in alerts:
-        if send_whatsapp(msg):
+        if send_alert(msg):
             sent.append(key)
         else:
             print(f"Failed to send alert {key}; will retry next run")

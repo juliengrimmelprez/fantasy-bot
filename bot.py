@@ -560,46 +560,52 @@ def schedule_alerts(ctx: dict, now: datetime) -> list[tuple[str, str]]:
         return out
 
     plan = planner.streaming_plan(ctx["roster"], ctx["fas"], rem, sched, pdates, ctx["adds_left"], now_ms)
+    gain = sum(sl["gain"] for sl in plan["slots"])
+    status = week_projection(ctx, rem, gain)
 
-    # 3 + 5) weekly digest on the matchup's first day
     if today == ctx["periods"][0]:
-        d0, d1 = pdates.get(rem[0]), pdates.get(rem[-1])
-        mine_pts, mine_g = planner.projected_remaining(ctx["roster"], rem, sched, pdates, now_ms)
-        opp_pts, opp_g = planner.projected_remaining(ctx["opp_roster"], rem, sched, pdates, now_ms) if ctx["opp_roster"] else (0, 0)
+        # weekly digest on the matchup's first day: projection + plan
+        d0, d1 = pdates.get(ctx["periods"][0]), pdates.get(ctx["periods"][-1])
         title = f"🗓️ *Rodada {ctx['matchup']}* ({d0:%d/%m}–{d1:%d/%m}) vs {ctx['opponent'] or '?'}"
-        body = planner.render_plan(plan, pdates, ctx["adds_left"], title)
-        body += (f"\n\nJogos úteis na semana: você *{mine_g}* × {opp_g} adversário"
-                 f"\nProjeção: você ~{mine_pts:.0f} × ~{opp_pts:.0f} FP")
+        body = title + "\n" + status + "\n\n" + planner.render_plan(plan, pdates, ctx["adds_left"], "*Plano de FAs*")
         out.append((f"week:{ctx['matchup']}", body))
     else:
-        # daily reminder when today's step exists
+        # every other day: where the week stands, plus today's moves if any
+        lines = [f"📊 *Rodada {ctx['matchup']}* — {planner.day_label(pdates[today])}", status]
         todays = [st for sl in plan["slots"] for st in sl["steps"] if st["period"] == today]
         if todays:
-            lines = ["📋 *Plano de hoje*"]
+            lines.append("\n📋 *Plano de hoje*")
             for st in todays:
                 days = ", ".join(planner.day_label(pdates[q]) for q in st["games"])
                 lines.append(f"• dropar {st['drop']['name']} → pegar *{st['add']['name']}* ({st['add']['nba_team']}, {st['add']['value']} FP; joga {days})")
-            lines.append(f"Adds restantes na rodada: {ctx['adds_left']}")
             lines.append(config.ADD_PLAYERS_URL)
-            out.append((f"planday:{today}", "\n".join(lines)))
-
-    # 6) matchup status on the last two days
-    if len(rem) <= 2 and ctx["opp_roster"]:
-        mine_pts, mine_g = planner.projected_remaining(ctx["roster"], rem, sched, pdates, now_ms)
-        opp_pts, opp_g = planner.projected_remaining(ctx["opp_roster"], rem, sched, pdates, now_ms)
-        ms, os_ = ctx.get("my_score") or 0, ctx.get("opp_score") or 0
-        fin_me, fin_opp = ms + mine_pts, os_ + opp_pts
-        diff = fin_me - fin_opp
-        if diff > 60:
-            verdict = "Vitória bem encaminhada: não gaste adds à toa."
-        elif diff < -60:
-            verdict = "Desvantagem grande: vale arriscar streaming agressivo."
-        else:
-            verdict = "Jogo apertado: cada jogo extra conta, use os adds."
-        out.append((f"score:{today}", f"🏆 *Rodada {ctx['matchup']}* — você {ms:.0f} × {os_:.0f} {ctx['opponent']}\n"
-                    f"Jogos restantes: você {mine_g} × {opp_g}\n"
-                    f"Projeção final: ~{fin_me:.0f} × ~{fin_opp:.0f}\n{verdict}\nAdds restantes: {ctx['adds_left']}"))
+        out.append((f"daily:{today}", "\n".join(lines)))
     return out
+
+
+def week_projection(ctx: dict, rem: list[int], plan_gain: float) -> str:
+    """Whole-matchup forecast: points already scored + rest of the week, rosters as they are."""
+    sched, pdates, now_ms = ctx["sched"], ctx["pdates"], ctx["now_ms"]
+    my_now, opp_now = ctx.get("my_score") or 0, ctx.get("opp_score") or 0
+    my_rest, my_g = planner.projected_remaining(ctx["roster"], rem, sched, pdates, now_ms)
+    if ctx["opp_roster"]:
+        opp_rest, opp_g = planner.projected_remaining(ctx["opp_roster"], rem, sched, pdates, now_ms)
+    else:
+        opp_rest, opp_g = 0.0, 0
+    me_final, opp_final = my_now + my_rest, opp_now + opp_rest
+    diff = me_final - opp_final
+    close = abs(diff) < 0.05 * max(me_final, opp_final, 1)
+    verdict = "apertado" if close else ("vitória provável" if diff > 0 else "derrota provável")
+    lines = []
+    if my_now or opp_now:
+        lines.append(f"Placar até agora: você {my_now:.0f} × {opp_now:.0f}")
+    lines.append(f"Projeção da rodada inteira *sem FAs*: você ~{me_final:.0f} × ~{opp_final:.0f} → *{verdict}* ({diff:+.0f})")
+    lines.append(f"Jogos restantes: você {my_g} × {opp_g}")
+    if plan_gain >= 1:
+        with_plan = diff + plan_gain
+        v2 = "vitória provável" if with_plan > 0 else "ainda atrás"
+        lines.append(f"Com o plano de FAs: ~{me_final + plan_gain:.0f} → {v2} ({with_plan:+.0f})")
+    return "\n".join(lines)
 
 
 def enrich_timelines(league, old: dict, new: dict) -> None:

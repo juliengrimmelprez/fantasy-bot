@@ -123,3 +123,14 @@ def test_week_days_mapping():
     sched = {"A": {i + 1: int((tue + timedelta(days=i)).timestamp() * 1000) for i in range(14)}}
     assert planner.week_days(sched, [1]) == [1, 2, 3, 4, 5, 6]
     assert planner.week_days(sched, [2]) == [7, 8, 9, 10, 11, 12, 13]
+
+
+def test_week_projection_whole_matchup_without_fas():
+    roster, fas, periods, sched, pdates = world()
+    opp = [P(f"o{i}", f"Opp{i}", f"T{i}", 30, "Rival") for i in range(9)]
+    ctx = {"sched": sched, "pdates": pdates, "now_ms": tip(4) - 3600_000, "roster": roster,
+           "opp_roster": opp, "my_score": 1000, "opp_score": 900}
+    text = bot.week_projection(ctx, [4, 5, 6, 7], plan_gain=0)
+    # rest of week: me 9*35*4 + Camara on day 6 = 1283.8; opp 9*30*4 = 1080
+    assert "você ~2284 × ~1980" in text and "vitória provável" in text and "sem FAs" in text
+    assert "Placar até agora: você 1000 × 900" in text

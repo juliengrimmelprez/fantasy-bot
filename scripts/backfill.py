@@ -168,9 +168,7 @@ def main() -> None:
         print(f"(dia {ctx['today']}, rodada {ctx['matchup']}: períodos {ctx['periods']}, adversário {ctx['opponent']}, adds restantes {ctx['adds_left']})\n")
         plan = bot.planner.streaming_plan(ctx["roster"], ctx["fas"], ctx["remaining"], ctx["sched"], ctx["pdates"], ctx["adds_left"], ctx["now_ms"])
         print(bot.planner.render_plan(plan, ctx["pdates"], ctx["adds_left"], "🗓️ *Plano da rodada*"))
-        mp, mg = bot.planner.projected_remaining(ctx["roster"], ctx["remaining"], ctx["sched"], ctx["pdates"], ctx["now_ms"])
-        op, og = bot.planner.projected_remaining(ctx["opp_roster"], ctx["remaining"], ctx["sched"], ctx["pdates"], ctx["now_ms"])
-        print(f"\nJogos úteis: você {mg} × {og}; projeção ~{mp:.0f} × ~{op:.0f}")
+        print("\n" + bot.week_projection(ctx, ctx["remaining"], sum(sl["gain"] for sl in plan["slots"])))
         per_day = []
         for per in ctx["remaining"]:
             n = sum(bot.planner.plays(p, per, ctx["sched"], ctx["pdates"]) for p in ctx["roster"])

@@ -1,4 +1,4 @@
-# Backfill — últimos 7 dias (até 19/10 19:17 ET)
+# Backfill — últimos 7 dias (até 19/10 19:19 ET)
 
 Seu pior jogador hoje (referência para drops): Toumani Camara (23.8 FP)
 

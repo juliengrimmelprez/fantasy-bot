@@ -116,20 +116,47 @@ def test_return_line_long_absence_flag():
     assert bot.return_line({}) == "Volta: sem previsão"
 
 
-def test_star_alert_suppressed_when_replacement_worse_than_my_worst():
+def test_actionable_uses_projected_value_with_extra_minutes():
+    # Backup Center is 18 FP, below a worst of 20, but with the starter's
+    # minutes he projects higher, so the alert goes out ("middle ground").
     old = league(**{"5": P("5", "My Worst", "MIA", 20, "King Coopa", pos=("PG",))})
     new = dict(old)
     new["1"] = P("1", "Star Center", "DET", 40, "Lucky", status="OUT")
-    assert bot.injury_alerts(old, new) == []          # best free option 18 < 20
-    new["5"] = old["5"] = P("5", "My Worst", "MIA", 17, "King Coopa", pos=("PG",))
-    assert len(bot.injury_alerts(old, new)) == 1      # 18 > 17: worth it
+    alerts = bot.injury_alerts(old, new)
+    assert len(alerts) == 1 and "Backup Center* (C, 18 → ~" in alerts[0][1]
+    # Even with the boost he wouldn't beat a 35 FP worst player: silent.
+    old["5"] = new["5"] = P("5", "My Worst", "MIA", 35, "King Coopa", pos=("PG",))
+    assert bot.injury_alerts(old, new) == []
+
+
+def test_position_weighting_with_cascade():
+    team = {
+        "out": {**P("out", "Star PG", "BOS", 40, "Lucky", pos=("PG",)), "mpg": 34},
+        "pg2": {**P("pg2", "Backup PG", "BOS", 18, None, pos=("PG",)), "mpg": 18},
+        "sg2": {**P("sg2", "Backup SG", "BOS", 18, None, pos=("SG",)), "mpg": 18},
+        "sf2": {**P("sf2", "Backup SF", "BOS", 18, None, pos=("SF",)), "mpg": 18},
+        "c2":  {**P("c2", "Backup C", "BOS", 18, None, pos=("C",)), "mpg": 18},
+    }
+    b = bot.minutes_boost(team["out"], team)
+    assert b["pg2"]["extra_min"] > b["sg2"]["extra_min"] > b["sf2"]["extra_min"] > b["c2"]["extra_min"]
+    assert b["c2"]["extra_min"] >= 0 and b["sf2"]["extra_min"] > 0   # cascade: farther still gets a bit
+    best = bot.beneficiaries(team["out"], team)[0]
+    assert best["name"] == "Backup PG"
+
+
+def test_minutes_cap():
+    team = {
+        "out": {**P("out", "Star C", "BOS", 40, "Lucky"), "mpg": 34},
+        "c2": {**P("c2", "Big Min C", "BOS", 30, None), "mpg": 33},
+    }
+    assert bot.minutes_boost(team["out"], team)["c2"]["extra_min"] <= 3   # MAX_MPG 36
 
 
 def _g(hours_ago, fp, mins=30, now=datetime(2026, 11, 5, 12, tzinfo=timezone.utc)):
     return {"date": now - timedelta(hours=hours_ago), "fp": fp, "min": mins}
 
 
-def test_hot_streak_and_fluke():
+def test_hot_streak_individual_alert():
     now = datetime(2026, 11, 5, 12, tzinfo=timezone.utc)
     players = league()
     games = {
@@ -139,11 +166,9 @@ def test_hot_streak_and_fluke():
         "7": [_g(10, 50), _g(34, 50)],                 # Role Wing: rostered, ignored
     }
     out = dict(bot.hot_alerts(games, players, now))
-    assert len(out) == 2
+    assert len(out) == 1                       # only the 2-game streak; singles go to the digest
     streak = next(m for k, m in out.items() if k.startswith("hot:8:"))
     assert "2 jogos bons seguidos" in streak and "34" in streak
-    fluke = next(m for k, m in out.items() if k.startswith("hot:2:"))
-    assert "fluke" in fluke
 
 
 def test_hot_ignores_unfinished_and_stale_games():
@@ -159,3 +184,25 @@ def test_timeline_month_names_and_headline_first():
         "ACL tears usually take nine months to recover from",
     ])
     assert label.startswith("jan/") and days is not None
+
+
+def test_hourly_digest_consolidates_and_dedups():
+    now = datetime(2026, 11, 5, 12, tzinfo=timezone.utc)
+    players = league()
+    games = {
+        "8": [_g(10, 34), _g(34, 31)],   # 2 in a row → 🔥2
+        "2": [_g(5, 48)],                # single big game
+        "3": [_g(5, 22)],                # below 30, left out
+        "7": [_g(5, 50)],                # rostered, left out
+        "4": [_g(1, 40)],                # still playing, left out
+    }
+    msg, keys = bot.digest_message(games, players, now, set())
+    assert msg.splitlines()[1].startswith("• *Backup Center*")    # sorted by FP
+    assert "🔥2 seguidos" in msg and "Bench Guard" not in msg and "Role Wing" not in msg
+    assert len(keys) == 2
+    assert bot.digest_message(games, players, now, set(keys)) == (None, [])   # no repeats
+
+
+def test_no_single_game_individual_alert():
+    now = datetime(2026, 11, 5, 12, tzinfo=timezone.utc)
+    assert bot.hot_alerts({"2": [_g(10, 60), _g(34, 10)]}, league(), now) == []

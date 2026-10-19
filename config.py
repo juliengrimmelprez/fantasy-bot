@@ -23,10 +23,19 @@ FREE_AGENT_POOL = 250
 # How many replacement names to show per alert.
 MAX_SUGGESTIONS = 2
 
-# Only alert on other teams' injuries when the best free replacement is at
-# least as good as your worst player minus this margin (0 = strictly useful).
+# Only alert on other teams' injuries when the best free replacement, *with
+# the extra minutes he should get*, beats your worst player minus this margin.
 ACTIONABLE_ONLY = True
 ACTIONABLE_MARGIN_FP = 0.0
+
+# --- Who absorbs the minutes of an absent player ------------------------------
+# Share of the freed minutes by position distance (PG=1 ... C=5), so a PG out
+# mostly helps guards, but teams also slide players over (SF->SG, PF->SF, new
+# PF in), so farther positions still get a little.
+POS_WEIGHTS = [1.0, 0.6, 0.25, 0.1, 0.05]   # distance 0, 1, 2, 3, 4
+MAX_MPG = 36                                # nobody goes above this
+DEFAULT_MPG = 20                            # when ESPN has no minutes yet
+DEFAULT_OUT_MPG = 30                        # minutes freed by a starter
 
 # Absences at least this long get the "replacement is worth it for weeks" flag.
 LONG_ABSENCE_DAYS = 14
@@ -36,8 +45,10 @@ LONG_ABSENCE_DAYS = 14
 HOT_GAME_FP = 30.0
 # Consecutive good games needed for a 🔥 alert (2-3 = more confidence).
 HOT_MIN_STREAK = 2
-# A single game this big alerts too, flagged as a possible fluke.
-HOT_SINGLE_GAME_FP = 45.0
+# Single big games don't get their own alert; they go in the hourly digest.
+HOT_SINGLE_GAME_FP = None
+# Hourly digest: every free agent who finished a game with HOT_GAME_FP or more.
+DIGEST_EVERY_MINUTES = 60
 # Only games that started at least this many hours ago count (finished).
 HOT_GAME_DONE_HOURS = 3
 # Ignore streaks whose last game is older than this.

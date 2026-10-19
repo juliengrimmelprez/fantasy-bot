@@ -53,6 +53,16 @@ def player_value(season_avg: float, projected_avg: float, last15_avg: float) -> 
 # ESPN -> plain dicts (the only part that touches the espn_api library)
 # ---------------------------------------------------------------------------
 
+def _mpg(p) -> float | None:
+    year = config.SEASON
+    for key in (f"{year}_total", f"{year}_last_15", f"{year}_projected"):
+        avg = (p.stats.get(key) or {}).get("avg") or {}
+        m = avg.get("MIN") or avg.get("MPG")
+        if m:
+            return round(float(m), 1)
+    return None
+
+
 def _to_dict(p, fantasy_team: str | None, slot: str = "") -> dict:
     year = config.SEASON
     last15 = p.stats.get(f"{year}_last_15", {}).get("applied_avg", 0) or 0
@@ -65,6 +75,7 @@ def _to_dict(p, fantasy_team: str | None, slot: str = "") -> dict:
         "fantasy_team": fantasy_team,
         "slot": slot or getattr(p, "lineupSlot", ""),
         "value": player_value(p.avg_points, p.projected_avg_points, last15),
+        "mpg": _mpg(p),
         "return_date": p.expected_return_date.isoformat() if getattr(p, "expected_return_date", None) else None,
     }
 
@@ -187,19 +198,62 @@ def worst_player(players: dict) -> dict | None:
     return min(roster, key=lambda p: p["value"]) if roster else None
 
 
-def beneficiaries(out_player: dict, players: dict) -> list[dict]:
-    """Free agents on the same NBA team, best first; same position ranks higher."""
-    pos = set(out_player["positions"])
-    cands = [
+POS_NUM = {"PG": 1, "SG": 2, "SF": 3, "PF": 4, "C": 5}
+
+
+def pos_distance(a: list[str], b: list[str]) -> int:
+    na = [POS_NUM[x] for x in a if x in POS_NUM]
+    nb = [POS_NUM[x] for x in b if x in POS_NUM]
+    if not na or not nb:
+        return 2
+    return min(abs(x - y) for x in na for y in nb)
+
+
+def minutes_boost(out_player: dict, players: dict) -> dict[str, dict]:
+    """Estimate how the absent player's minutes spread over healthy teammates.
+
+    Returns {pid: {"extra_min", "boost", "projected"}} for every healthy teammate
+    (rostered or free), so shares are realistic even if we only suggest FAs.
+    """
+    freed = out_player.get("mpg") or config.DEFAULT_OUT_MPG
+    mates = [
         p for p in players.values()
-        if p["fantasy_team"] is None
-        and p["nba_team"] == out_player["nba_team"]
-        and p["id"] != out_player["id"]
-        and not is_out(p["status"])
-        and p["value"] >= config.BENEFICIARY_MIN_FP
+        if p["nba_team"] == out_player["nba_team"] and p["id"] != out_player["id"]
+        and not is_out(p["status"]) and p["nba_team"] != "FA"
     ]
-    cands.sort(key=lambda p: (bool(pos & set(p["positions"])), p["value"]), reverse=True)
+    weights = {}
+    for p in mates:
+        d = min(pos_distance(out_player["positions"], p["positions"]), len(config.POS_WEIGHTS) - 1)
+        weights[p["id"]] = config.POS_WEIGHTS[d]
+    total = sum(weights.values()) or 1
+    out = {}
+    for p in mates:
+        mpg = p.get("mpg") or config.DEFAULT_MPG
+        extra = min(freed * weights[p["id"]] / total, max(config.MAX_MPG - mpg, 0))
+        fpm = (p["value"] / mpg) if mpg else 0
+        boost = extra * fpm
+        out[p["id"]] = {"extra_min": round(extra), "boost": round(boost, 1),
+                        "projected": round(p["value"] + boost, 1)}
+    return out
+
+
+def beneficiaries(out_player: dict, players: dict) -> list[dict]:
+    """Free teammates ranked by projected value *with* the extra minutes."""
+    boosts = minutes_boost(out_player, players)
+    cands = []
+    for pid, b in boosts.items():
+        p = players[pid]
+        if p["fantasy_team"] is None and b["projected"] >= config.BENEFICIARY_MIN_FP:
+            cands.append({**p, **b})
+    cands.sort(key=lambda p: p["projected"], reverse=True)
     return cands[: config.MAX_SUGGESTIONS]
+
+
+def ben_text(b: dict) -> str:
+    pos = "/".join(b["positions"])
+    if b["boost"] >= 1:
+        return f"*{b['name']}* ({pos}, {b['value']} → ~{b['projected']:g} FP com +{b['extra_min']} min)"
+    return f"*{b['name']}* ({pos}, {b['value']} FP)"
 
 
 def _drop_hint(players: dict, pickup_value: float) -> str:
@@ -224,7 +278,7 @@ def injury_alerts(old: dict, new: dict) -> list[tuple[str, str]]:
             if is_out(p["status"]):
                 msg += "\n" + return_line(p)
                 for b in beneficiaries(p, new):
-                    msg += f"\nReposição livre: *{b['name']}* ({b['value']} FP)"
+                    msg += f"\nReposição livre: {ben_text(b)}"
             out.append((key, msg))
             continue
 
@@ -233,14 +287,14 @@ def injury_alerts(old: dict, new: dict) -> list[tuple[str, str]]:
             if not bens:
                 continue  # nobody free to grab: not actionable
             w = worst_player(new)
-            if config.ACTIONABLE_ONLY and w and bens[0]["value"] < w["value"] - config.ACTIONABLE_MARGIN_FP:
+            if config.ACTIONABLE_ONLY and w and bens[0]["projected"] < w["value"] - config.ACTIONABLE_MARGIN_FP:
                 continue  # best free option wouldn't make your roster
             owner = p["fantasy_team"] or "free agent"
             msg = f"🚨 *{p['name']} ({p['nba_team']}) → {label(p['status'])}*\n({owner}, {p['value']} FP)\n" + return_line(p)
             for i, b in enumerate(bens):
                 tag = "ADD" if i == 0 else "alt."
-                msg += f"\n{tag}: *{b['name']}* ({'/'.join(b['positions'])}, {b['value']} FP) — LIVRE"
-            msg += _drop_hint(new, bens[0]["value"])
+                msg += f"\n{tag}: {ben_text(b)} — LIVRE"
+            msg += _drop_hint(new, bens[0]["projected"])
             msg += f"\n{config.ADD_PLAYERS_URL}"
             out.append((key, msg))
     return out
@@ -285,7 +339,7 @@ def trade_alerts(old: dict, new: dict) -> list[tuple[str, str]]:
         # His old team loses minutes: anyone free to benefit?
         bens = beneficiaries({**prev, "id": pid}, new)
         for b in bens:
-            msg += f"\nGanha minutos no {prev['nba_team']}: *{b['name']}* ({b['value']} FP) — LIVRE"
+            msg += f"\nGanha minutos no {prev['nba_team']}: {ben_text(b)} — LIVRE"
         out.append((f"trade:{pid}:{p['nba_team']}", msg))
     return out
 
@@ -334,7 +388,7 @@ def hot_alerts(games_by_pid: dict, players: dict, now: datetime) -> list[tuple[s
         if streak >= config.HOT_MIN_STREAK:
             head = f"🔥 *{p['name']}* ({p['nba_team']}, LIVRE) — {streak} jogos bons seguidos"
             note = "Sequência = sinal mais confiável."
-        elif streak == 1 and last["fp"] >= config.HOT_SINGLE_GAME_FP:
+        elif streak == 1 and config.HOT_SINGLE_GAME_FP and last["fp"] >= config.HOT_SINGLE_GAME_FP:
             head = f"📈 *{p['name']}* ({p['nba_team']}, LIVRE) — 1 jogo enorme"
             note = "Só 1 jogo: pode ser fluke. Vale observar o próximo."
         else:
@@ -347,6 +401,42 @@ def hot_alerts(games_by_pid: dict, players: dict, now: datetime) -> list[tuple[s
         msg += f"\n{config.ADD_PLAYERS_URL}"
         out.append((f"hot:{pid}:{last['date']:%Y%m%d}", msg))
     return out
+
+
+def digest_message(games_by_pid: dict, players: dict, now: datetime, seen: set) -> tuple[str | None, list[str]]:
+    """One message with every free agent who finished a HOT_GAME_FP+ game not yet reported."""
+    rows, keys = [], []
+    for pid, games in games_by_pid.items():
+        p = players.get(pid)
+        if not p or p["fantasy_team"] is not None:
+            continue
+        done = [g for g in games if (now - g["date"]).total_seconds() >= config.HOT_GAME_DONE_HOURS * 3600]
+        if not done:
+            continue
+        g = done[0]
+        key = f"{pid}:{g['date']:%Y%m%d}"
+        if key in seen or g["fp"] < config.HOT_GAME_FP:
+            continue
+        if (now - g["date"]).total_seconds() > config.HOT_FRESH_HOURS * 3600:
+            continue
+        streak = 0
+        for x in done:
+            if x["fp"] < config.HOT_GAME_FP:
+                break
+            streak += 1
+        rows.append((g["fp"], p, g, streak))
+        keys.append(key)
+    if not rows:
+        return None, []
+    rows.sort(key=lambda r: r[0], reverse=True)
+    lines = [f"📊 *Free agents com {config.HOT_GAME_FP:g}+ FP* ({len(rows)})"]
+    for fp, p, g, streak in rows:
+        fire = f" 🔥{streak} seguidos" if streak >= 2 else ""
+        lines.append(f"• *{p['name']}* ({p['nba_team']}, {'/'.join(p['positions'])}) — {fp:g} FP, {g['min']} min · ref {p['value']}{fire}")
+    w = worst_player(players)
+    if w:
+        lines.append(f"Seu pior hoje: {w['name']} ({w['value']} FP)")
+    return "\n".join(lines), keys
 
 
 def enrich_timelines(league, old: dict, new: dict) -> None:
@@ -484,14 +574,22 @@ def main() -> int:
         league = snap.get("league")
         enrich_timelines(league, state["players"], snap["players"])
         alerts = compute_alerts(state, snap)
-        last_hot = state.get("last_hot_check", 0)
-        if league and time.time() - last_hot >= config.HOT_CHECK_MINUTES * 60:
+        hot_due = time.time() - state.get("last_hot_check", 0) >= config.HOT_CHECK_MINUTES * 60
+        digest_due = time.time() - state.get("last_digest", 0) >= config.DIGEST_EVERY_MINUTES * 60
+        if league and (hot_due or digest_due):
             try:
                 fa_ids = [pid for pid, p in snap["players"].items() if p["fantasy_team"] is None]
                 games = fetch_recent_games(league, fa_ids)
-                sent_now = set(state.get("sent_keys", []))
-                alerts += [(k, m) for k, m in hot_alerts(games, snap["players"], now) if k not in sent_now]
-                state["last_hot_check"] = time.time()
+                if hot_due:
+                    sent_now = set(state.get("sent_keys", []))
+                    alerts += [(k, m) for k, m in hot_alerts(games, snap["players"], now) if k not in sent_now]
+                    state["last_hot_check"] = time.time()
+                if digest_due:
+                    seen = set(state.get("digest_seen", []))
+                    msg, keys = digest_message(games, snap["players"], now, seen)
+                    if msg is None or send_alert(msg):
+                        state["digest_seen"] = (list(seen) + keys)[-1000:]
+                        state["last_digest"] = time.time()
                 state["hot_status"] = f"ok: {len(games)} FAs, {sum(len(g) for g in games.values())} games"
             except Exception as e:
                 print(f"Hot-player check failed: {e!r}")

@@ -1,4 +1,4 @@
-# Backfill — últimos 1 dias (até 19/10 19:49 ET)
+# Backfill — últimos 1 dias (até 19/10 19:50 ET)
 
 Seu pior jogador hoje (referência para drops): Toumani Camara (23.8 FP)
 
@@ -17,6 +17,7 @@ Seu pior jogador hoje (referência para drops): Toumani Camara (23.8 FP)
     · 2026-10-19 Curry (ankle) is expected to play in Wednesday's regular-season opener against the Lakers, per Kenzo Fukuda of ClutchPoints.com.
     · 2026-10-18 Curry sustained a right ankle injury during Sunday's practice but is expected to be fine, Dalton Johnson of NBC Sports Bay Area reports.
 -   silencioso | Bam Adebayo (MIA, 39.6 FP, BL0CK BY ZION) — Day-to-day
+    · 2026-10-19 Adebayo (groin) participated in Monday's practice, Anthony Chiang of the Miami Herald reports.
     · 2026-10-18 Adebayo (groin) participated in Sunday's practice, Ira Winderman of the South Florida Sun Sentinel reports.
 - 🔔 ALERTA | Jimmy Butler III (GSW, 38.8 FP, Fernando  Diniz) — OUT
     Volta: jan/2027 (pelas notícias) | 🗓️ Ausência longa → reposição vale por semanas
@@ -143,7 +144,9 @@ _Vaga do Neemias Queta: +51 FP_
 • *Sáb 24*: dropar Neemias Queta → pegar *Grayson Allen* (CHA, 26.6 FP; joga Sáb 24)
 • *Dom 25*: dropar Grayson Allen → pegar *Aaron Nesmith* (IND, 24.6 FP; joga Dom 25)
 
-Jogos úteis: você 34 × 38; projeção ~1198 × ~1291
+Projeção da rodada inteira *sem FAs*: você ~1198 × ~1291 → *derrota provável* (-93)
+Jogos restantes: você 34 × 38
+Com o plano de FAs: ~1352 → vitória provável (+61)
 Seus jogadores jogando por dia: Ter 20: 3, Qua 21: 10, Qui 22: 0, Sex 23: 13, Sáb 24: 6, Dom 25: 5
 
 Checagem de lineup hoje: ok

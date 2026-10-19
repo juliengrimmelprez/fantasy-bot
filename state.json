@@ -1,0 +1,5435 @@
+{
+ "last_activity_ms": 1792411199867,
+ "last_run": "2026-10-19T22:05:14+00:00",
+ "players": {
+  "1966": {
+   "fantasy_team": "Lucky",
+   "id": "1966",
+   "name": "LeBron James",
+   "nba_team": "PHL",
+   "positions": [
+    "SF",
+    "PF"
+   ],
+   "slot": "SF",
+   "status": "ACTIVE",
+   "value": 42.5
+  },
+  "2326307": {
+   "fantasy_team": null,
+   "id": "2326307",
+   "name": "Seth Curry",
+   "nba_team": "FA",
+   "positions": [
+    "PG",
+    "SG"
+   ],
+   "slot": "",
+   "status": "ACTIVE",
+   "value": 0.0
+  },
+  "2490149": {
+   "fantasy_team": "Contagem Hunters",
+   "id": "2490149",
+   "name": "CJ McCollum",
+   "nba_team": "ATL",
+   "positions": [
+    "PG",
+    "SG"
+   ],
+   "slot": "UT",
+   "status": "ACTIVE",
+   "value": 32.4
+  },
+  "2528210": {
+   "fantasy_team": null,
+   "id": "2528210",
+   "name": "Tim Hardaway Jr.",
+   "nba_team": "MIA",
+   "positions": [
+    "SG",
+    "SF"
+   ],
+   "slot": "",
+   "status": "ACTIVE",
+   "value": 20.9
+  },
+  "2528426": {
+   "fantasy_team": null,
+   "id": "2528426",
+   "name": "Jordan Clarkson",
+   "nba_team": "NYK",
+   "positions": [
+    "SG",
+    "SF"
+   ],
+   "slot": "",
+   "status": "ACTIVE",
+   "value": 15.1
+  },
+  "2530530": {
+   "fantasy_team": null,
+   "id": "2530530",
+   "name": "T.J. McConnell",
+   "nba_team": "IND",
+   "positions": [
+    "PG"
+   ],
+   "slot": "",
+   "status": "DAY_TO_DAY",
+   "value": 24.4
+  },
+  "2566769": {
+   "fantasy_team": null,
+   "id": "2566769",
+   "name": "Malcolm Brogdon",
+   "nba_team": "NYK",
+   "positions": [
+    "PG"
+   ],
+   "slot": "",
+   "status": "ACTIVE",
+   "value": 0.0
+  },
+  "2578185": {
+   "fantasy_team": null,
+   "id": "2578185",
+   "name": "Dorian Finney-Smith",
+   "nba_team": "ATL",
+   "positions": [
+    "PF"
+   ],
+   "slot": "",
+   "status": "ACTIVE",
+   "value": 10.6
+  },
+  "2580365": {
+   "fantasy_team": null,
+   "id": "2580365",
+   "name": "Larry Nance Jr.",
+   "nba_team": "IND",
+   "positions": [
+    "PF"
+   ],
+   "slot": "",
+   "status": "ACTIVE",
+   "value": 16.9
+  },
+  "2580782": {
+   "fantasy_team": null,
+   "id": "2580782",
+   "name": "Spencer Dinwiddie",
+   "nba_team": "FA",
+   "positions": [
+    "PG",
+    "SG"
+   ],
+   "slot": "",
+   "status": "ACTIVE",
+   "value": 0.0
+  },
+  "2581018": {
+   "fantasy_team": null,
+   "id": "2581018",
+   "name": "Kentavious Caldwell-Pope",
+   "nba_team": "PHL",
+   "positions": [
+    "SG",
+    "SF"
+   ],
+   "slot": "",
+   "status": "ACTIVE",
+   "value": 17.4
+  },
+  "2583632": {
+   "fantasy_team": null,
+   "id": "2583632",
+   "name": "Royce O'Neale",
+   "nba_team": "CHA",
+   "positions": [
+    "SF",
+    "PF"
+   ],
+   "slot": "",
+   "status": "ACTIVE",
+   "value": 21.3
+  },
+  "2595516": {
+   "fantasy_team": "Contagem Hunters",
+   "id": "2595516",
+   "name": "Norman Powell",
+   "nba_team": "CHI",
+   "positions": [
+    "SG",
+    "SF"
+   ],
+   "slot": "UT",
+   "status": "ACTIVE",
+   "value": 36.0
+  },
+  "2779": {
+   "fantasy_team": null,
+   "id": "2779",
+   "name": "Chris Paul",
+   "nba_team": "FA",
+   "positions": [
+    "PG"
+   ],
+   "slot": "",
+   "status": "ACTIVE",
+   "value": 0.0
+  },
+  "2990962": {
+   "fantasy_team": null,
+   "id": "2990962",
+   "name": "Taurean Prince",
+   "nba_team": "DET",
+   "positions": [
+    "SF"
+   ],
+   "slot": "",
+   "status": "ACTIVE",
+   "value": 12.6
+  },
+  "2990969": {
+   "fantasy_team": null,
+   "id": "2990969",
+   "name": "Georges Niang",
+   "nba_team": "GSW",
+   "positions": [
+    "PF"
+   ],
+   "slot": "",
+   "status": "ACTIVE",
+   "value": 0.0
+  },
+  "2990984": {
+   "fantasy_team": null,
+   "id": "2990984",
+   "name": "Buddy Hield",
+   "nba_team": "CHI",
+   "positions": [
+    "SG",
+    "SF"
+   ],
+   "slot": "",
+   "status": "ACTIVE",
+   "value": 16.9
+  },
+  "2990992": {
+   "fantasy_team": null,
+   "id": "2990992",
+   "name": "Marcus Smart",
+   "nba_team": "HOU",
+   "positions": [
+    "PG",
+    "SG"
+   ],
+   "slot": "",
+   "status": "ACTIVE",
+   "value": 20.4
+  },
+  "2991043": {
+   "fantasy_team": null,
+   "id": "2991043",
+   "name": "Caris LeVert",
+   "nba_team": "MIL",
+   "positions": [
+    "SG",
+    "SF"
+   ],
+   "slot": "",
+   "status": "ACTIVE",
+   "value": 19.4
+  },
+  "2991070": {
+   "fantasy_team": "Caxias French Fries",
+   "id": "2991070",
+   "name": "Jerami Grant",
+   "nba_team": "MEM",
+   "positions": [
+    "PF"
+   ],
+   "slot": "BE",
+   "status": "DAY_TO_DAY",
+   "value": 27.0
+  },
+  "2991139": {
+   "fantasy_team": null,
+   "id": "2991139",
+   "name": "Kris Dunn",
+   "nba_team": "LAC",
+   "positions": [
+    "PG",
+    "SG"
+   ],
+   "slot": "",
+   "status": "ACTIVE",
+   "value": 20.0
+  },
+  "2991230": {
+   "fantasy_team": "Coringas do Gansola",
+   "id": "2991230",
+   "name": "Fred VanVleet",
+   "nba_team": "HOU",
+   "positions": [
+    "PG",
+    "SG"
+   ],
+   "slot": "UT",
+   "status": "ACTIVE",
+   "value": 33.4
+  },
+  "2991235": {
+   "fantasy_team": null,
+   "id": "2991235",
+   "name": "Steven Adams",
+   "nba_team": "HOU",
+   "positions": [
+    "C"
+   ],
+   "slot": "",
+   "status": "ACTIVE",
+   "value": 10.6
+  },
+  "2991350": {
+   "fantasy_team": "CCCP  Баскетбол",
+   "id": "2991350",
+   "name": "Alex Caruso",
+   "nba_team": "OKC",
+   "positions": [
+    "PG",
+    "SG"
+   ],
+   "slot": "UT",
+   "status": "ACTIVE",
+   "value": 24.0
+  },
+  "2993874": {
+   "fantasy_team": null,
+   "id": "2993874",
+   "name": "Kyle Anderson",
+   "nba_team": "TOR",
+   "positions": [
+    "SF",
+    "PF"
+   ],
+   "slot": "",
+   "status": "ACTIVE",
+   "value": 17.6
+  },
+  "3012": {
+   "fantasy_team": null,
+   "id": "3012",
+   "name": "Kyle Lowry",
+   "nba_team": "PHL",
+   "positions": [
+    "PG"
+   ],
+   "slot": "",
+   "status": "ACTIVE",
+   "value": 0.0
+  },
+  "3032976": {
+   "fantasy_team": "Lucky",
+   "id": "3032976",
+   "name": "Rudy Gobert",
+   "nba_team": "MIN",
+   "positions": [
+    "C"
+   ],
+   "slot": "C",
+   "status": "ACTIVE",
+   "value": 34.3
+  },
+  "3032977": {
+   "fantasy_team": "Fernando  Diniz",
+   "id": "3032977",
+   "name": "Giannis Antetokounmpo",
+   "nba_team": "MIA",
+   "positions": [
+    "PF",
+    "C"
+   ],
+   "slot": "PF",
+   "status": "ACTIVE",
+   "value": 57.5
+  },
+  "3032979": {
+   "fantasy_team": null,
+   "id": "3032979",
+   "name": "Dennis Schroder",
+   "nba_team": "CHA",
+   "positions": [
+    "PG"
+   ],
+   "slot": "",
+   "status": "ACTIVE",
+   "value": 23.0
+  },
+  "3037789": {
+   "fantasy_team": null,
+   "id": "3037789",
+   "name": "Bogdan Bogdanovic",
+   "nba_team": "HOU",
+   "positions": [
+    "SG",
+    "SF"
+   ],
+   "slot": "",
+   "status": "ACTIVE",
+   "value": 16.4
+  },
+  "3059318": {
+   "fantasy_team": "Caxias French Fries",
+   "id": "3059318",
+   "name": "Joel Embiid",
+   "nba_team": "PHL",
+   "positions": [
+    "C"
+   ],
+   "slot": "C",
+   "status": "ACTIVE",
+   "value": 45.4
+  },
+  "3059319": {
+   "fantasy_team": "Tiki Taka Laranja",
+   "id": "3059319",
+   "name": "Andrew Wiggins",
+   "nba_team": "MIA",
+   "positions": [
+    "SF",
+    "PF"
+   ],
+   "slot": "BE",
+   "status": "ACTIVE",
+   "value": 32.0
+  },
+  "3062679": {
+   "fantasy_team": "King Coopa",
+   "id": "3062679",
+   "name": "Josh Hart",
+   "nba_team": "NYK",
+   "positions": [
+    "SG",
+    "SF"
+   ],
+   "slot": "UT",
+   "status": "DAY_TO_DAY",
+   "value": 33.0
+  },
+  "3064290": {
+   "fantasy_team": "CCCP  Баскетбол",
+   "id": "3064290",
+   "name": "Aaron Gordon",
+   "nba_team": "DEN",
+   "positions": [
+    "PF"
+   ],
+   "slot": "PF",
+   "status": "ACTIVE",
+   "value": 28.9
+  },
+  "3064440": {
+   "fantasy_team": "BL0CK BY ZION",
+   "id": "3064440",
+   "name": "Zach LaVine",
+   "nba_team": "SAC",
+   "positions": [
+    "SG",
+    "SF"
+   ],
+   "slot": "BE",
+   "status": "ACTIVE",
+   "value": 32.0
+  },
+  "3064482": {
+   "fantasy_team": null,
+   "id": "3064482",
+   "name": "Bobby Portis",
+   "nba_team": "MIA",
+   "positions": [
+    "PF",
+    "C"
+   ],
+   "slot": "",
+   "status": "ACTIVE",
+   "value": 26.0
+  },
+  "3064514": {
+   "fantasy_team": "Lebron GOAT",
+   "id": "3064514",
+   "name": "Julius Randle",
+   "nba_team": "BKN",
+   "positions": [
+    "PF"
+   ],
+   "slot": "PF",
+   "status": "ACTIVE",
+   "value": 37.0
+  },
+  "3064560": {
+   "fantasy_team": null,
+   "id": "3064560",
+   "name": "Luke Kornet",
+   "nba_team": "SAS",
+   "positions": [
+    "C"
+   ],
+   "slot": "",
+   "status": "ACTIVE",
+   "value": 17.0
+  },
+  "3078576": {
+   "fantasy_team": "Lucky",
+   "id": "3078576",
+   "name": "Derrick White",
+   "nba_team": "BOS",
+   "positions": [
+    "PG",
+    "SG"
+   ],
+   "slot": "SG",
+   "status": "ACTIVE",
+   "value": 37.0
+  },
+  "3102529": {
+   "fantasy_team": null,
+   "id": "3102529",
+   "name": "Clint Capela",
+   "nba_team": "HOU",
+   "positions": [
+    "C"
+   ],
+   "slot": "",
+   "status": "ACTIVE",
+   "value": 19.3
+  },
+  "3102530": {
+   "fantasy_team": "Lucky",
+   "id": "3102530",
+   "name": "Jusuf Nurkic",
+   "nba_team": "UTA",
+   "positions": [
+    "C"
+   ],
+   "slot": "BE",
+   "status": "OUT",
+   "value": 27.6
+  },
+  "3102531": {
+   "fantasy_team": "Contagem Hunters",
+   "id": "3102531",
+   "name": "Kristaps Porzingis",
+   "nba_team": "GSW",
+   "positions": [
+    "PF",
+    "C"
+   ],
+   "slot": "IR",
+   "status": "OUT",
+   "value": 37.0
+  },
+  "3102533": {
+   "fantasy_team": null,
+   "id": "3102533",
+   "name": "Thanasis Antetokounmpo",
+   "nba_team": "FA",
+   "positions": [
+    "SF"
+   ],
+   "slot": "",
+   "status": "ACTIVE",
+   "value": 0.0
+  },
+  "3112335": {
+   "fantasy_team": "Tropa do Nikola",
+   "id": "3112335",
+   "name": "Nikola Jokic",
+   "nba_team": "DEN",
+   "positions": [
+    "C"
+   ],
+   "slot": "C",
+   "status": "ACTIVE",
+   "value": 67.2
+  },
+  "3133603": {
+   "fantasy_team": "Coringas do Gansola",
+   "id": "3133603",
+   "name": "Kelly Oubre Jr.",
+   "nba_team": "IND",
+   "positions": [
+    "SG",
+    "SF"
+   ],
+   "slot": "BE",
+   "status": "ACTIVE",
+   "value": 23.2
+  },
+  "3133626": {
+   "fantasy_team": null,
+   "id": "3133626",
+   "name": "Kenrich Williams",
+   "nba_team": "OKC",
+   "positions": [
+    "SF"
+   ],
+   "slot": "",
+   "status": "ACTIVE",
+   "value": 14.2
+  },
+  "3133628": {
+   "fantasy_team": "Caxias French Fries",
+   "id": "3133628",
+   "name": "Myles Turner",
+   "nba_team": "MIL",
+   "positions": [
+    "C"
+   ],
+   "slot": "BE",
+   "status": "ACTIVE",
+   "value": 28.4
+  },
+  "3134903": {
+   "fantasy_team": null,
+   "id": "3134903",
+   "name": "Gary Payton II",
+   "nba_team": "GSW",
+   "positions": [
+    "SG"
+   ],
+   "slot": "",
+   "status": "ACTIVE",
+   "value": 0.0
+  },
+  "3134907": {
+   "fantasy_team": null,
+   "id": "3134907",
+   "name": "Kyle Kuzma",
+   "nba_team": "MIL",
+   "positions": [
+    "SF",
+    "PF"
+   ],
+   "slot": "",
+   "status": "ACTIVE",
+   "value": 23.3
+  },
+  "3134908": {
+   "fantasy_team": "Tiki Taka Laranja",
+   "id": "3134908",
+   "name": "Jakob Poeltl",
+   "nba_team": "TOR",
+   "positions": [
+    "C"
+   ],
+   "slot": "BE",
+   "status": "ACTIVE",
+   "value": 31.6
+  },
+  "3134916": {
+   "fantasy_team": null,
+   "id": "3134916",
+   "name": "Jordan McLaughlin",
+   "nba_team": "SAS",
+   "positions": [
+    "PG"
+   ],
+   "slot": "",
+   "status": "ACTIVE",
+   "value": 9.7
+  },
+  "3135045": {
+   "fantasy_team": null,
+   "id": "3135045",
+   "name": "Grayson Allen",
+   "nba_team": "CHA",
+   "positions": [
+    "PG",
+    "SG"
+   ],
+   "slot": "",
+   "status": "DAY_TO_DAY",
+   "value": 26.6
+  },
+  "3135046": {
+   "fantasy_team": null,
+   "id": "3135046",
+   "name": "Tyus Jones",
+   "nba_team": "DEN",
+   "positions": [
+    "PG"
+   ],
+   "slot": "",
+   "status": "ACTIVE",
+   "value": 14.0
+  },
+  "3136193": {
+   "fantasy_team": "Caxias French Fries",
+   "id": "3136193",
+   "name": "Devin Booker",
+   "nba_team": "PHO",
+   "positions": [
+    "PG",
+    "SG"
+   ],
+   "slot": "PG",
+   "status": "ACTIVE",
+   "value": 43.2
+  },
+  "3136195": {
+   "fantasy_team": "Contagem Hunters",
+   "id": "3136195",
+   "name": "Karl-Anthony Towns",
+   "nba_team": "NYK",
+   "positions": [
+    "C"
+   ],
+   "slot": "C",
+   "status": "ACTIVE",
+   "value": 44.1
+  },
+  "3136196": {
+   "fantasy_team": null,
+   "id": "3136196",
+   "name": "Trey Lyles",
+   "nba_team": "MIN",
+   "positions": [
+    "PF"
+   ],
+   "slot": "",
+   "status": "ACTIVE",
+   "value": 16.0
+  },
+  "3136776": {
+   "fantasy_team": null,
+   "id": "3136776",
+   "name": "D'Angelo Russell",
+   "nba_team": "FA",
+   "positions": [
+    "PG",
+    "SG"
+   ],
+   "slot": "",
+   "status": "ACTIVE",
+   "value": 17.3
+  },
+  "3137259": {
+   "fantasy_team": null,
+   "id": "3137259",
+   "name": "Gabe Vincent",
+   "nba_team": "FA",
+   "positions": [
+    "PG"
+   ],
+   "slot": "",
+   "status": "ACTIVE",
+   "value": 0.0
+  },
+  "3138160": {
+   "fantasy_team": null,
+   "id": "3138160",
+   "name": "Caleb Martin",
+   "nba_team": "DAL",
+   "positions": [
+    "SG"
+   ],
+   "slot": "",
+   "status": "ACTIVE",
+   "value": 12.4
+  },
+  "3138196": {
+   "fantasy_team": "Bull Market",
+   "id": "3138196",
+   "name": "Cameron Johnson",
+   "nba_team": "DEN",
+   "positions": [
+    "SF",
+    "PF"
+   ],
+   "slot": "UT",
+   "status": "ACTIVE",
+   "value": 26.1
+  },
+  "3146557": {
+   "fantasy_team": null,
+   "id": "3146557",
+   "name": "Jock Landale",
+   "nba_team": "ATL",
+   "positions": [
+    "C"
+   ],
+   "slot": "",
+   "status": "ACTIVE",
+   "value": 0.0
+  },
+  "3147657": {
+   "fantasy_team": "Caxias French Fries",
+   "id": "3147657",
+   "name": "Mikal Bridges",
+   "nba_team": "NYK",
+   "positions": [
+    "SG",
+    "SF"
+   ],
+   "slot": "SG",
+   "status": "ACTIVE",
+   "value": 32.8
+  },
+  "3149673": {
+   "fantasy_team": "Coringas do Gansola",
+   "id": "3149673",
+   "name": "Pascal Siakam",
+   "nba_team": "IND",
+   "positions": [
+    "PF"
+   ],
+   "slot": "PF",
+   "status": "ACTIVE",
+   "value": 41.1
+  },
+  "3150844": {
+   "fantasy_team": null,
+   "id": "3150844",
+   "name": "Moritz Wagner",
+   "nba_team": "BKN",
+   "positions": [
+    "C"
+   ],
+   "slot": "",
+   "status": "ACTIVE",
+   "value": 14.2
+  },
+  "3155526": {
+   "fantasy_team": "Tropa do Nikola",
+   "id": "3155526",
+   "name": "Dillon Brooks",
+   "nba_team": "PHO",
+   "positions": [
+    "SG",
+    "SF"
+   ],
+   "slot": "BE",
+   "status": "ACTIVE",
+   "value": 26.9
+  },
+  "3155535": {
+   "fantasy_team": null,
+   "id": "3155535",
+   "name": "Kevon Looney",
+   "nba_team": "LAL",
+   "positions": [
+    "C"
+   ],
+   "slot": "",
+   "status": "ACTIVE",
+   "value": 15.7
+  },
+  "3155942": {
+   "fantasy_team": "Polga Silva",
+   "id": "3155942",
+   "name": "Domantas Sabonis",
+   "nba_team": "SAC",
+   "positions": [
+    "PF",
+    "C"
+   ],
+   "slot": "C",
+   "status": "ACTIVE",
+   "value": 46.7
+  },
+  "3157465": {
+   "fantasy_team": null,
+   "id": "3157465",
+   "name": "Duncan Robinson",
+   "nba_team": "DET",
+   "positions": [
+    "SG",
+    "SF"
+   ],
+   "slot": "",
+   "status": "ACTIVE",
+   "value": 21.6
+  },
+  "3195": {
+   "fantasy_team": null,
+   "id": "3195",
+   "name": "Mike Conley",
+   "nba_team": "BOS",
+   "positions": [
+    "PG"
+   ],
+   "slot": "",
+   "status": "ACTIVE",
+   "value": 14.8
+  },
+  "3202": {
+   "fantasy_team": "Contagem Hunters",
+   "id": "3202",
+   "name": "Kevin Durant",
+   "nba_team": "HOU",
+   "positions": [
+    "SF",
+    "PF"
+   ],
+   "slot": "SF",
+   "status": "ACTIVE",
+   "value": 42.9
+  },
+  "3213": {
+   "fantasy_team": null,
+   "id": "3213",
+   "name": "Al Horford",
+   "nba_team": "GSW",
+   "positions": [
+    "PF",
+    "C"
+   ],
+   "slot": "",
+   "status": "ACTIVE",
+   "value": 25.1
+  },
+  "3448": {
+   "fantasy_team": "Lucky",
+   "id": "3448",
+   "name": "Brook Lopez",
+   "nba_team": "LAC",
+   "positions": [
+    "C"
+   ],
+   "slot": "BE",
+   "status": "ACTIVE",
+   "value": 26.2
+  },
+  "3449": {
+   "fantasy_team": null,
+   "id": "3449",
+   "name": "Kevin Love",
+   "nba_team": "FA",
+   "positions": [
+    "PF"
+   ],
+   "slot": "",
+   "status": "ACTIVE",
+   "value": 0.0
+  },
+  "3468": {
+   "fantasy_team": null,
+   "id": "3468",
+   "name": "Russell Westbrook",
+   "nba_team": "FA",
+   "positions": [
+    "PG"
+   ],
+   "slot": "",
+   "status": "ACTIVE",
+   "value": 0.0
+  },
+  "3893023": {
+   "fantasy_team": "Lakers x Bortolan 23",
+   "id": "3893023",
+   "name": "Paul Zipser",
+   "nba_team": "CHI",
+   "positions": [
+    "SF"
+   ],
+   "slot": "BE",
+   "status": "NORMAL",
+   "value": 0.0
+  },
+  "3899664": {
+   "fantasy_team": null,
+   "id": "3899664",
+   "name": "Simone Fontecchio",
+   "nba_team": "MIA",
+   "positions": [
+    "SF"
+   ],
+   "slot": "",
+   "status": "ACTIVE",
+   "value": 15.3
+  },
+  "3904625": {
+   "fantasy_team": null,
+   "id": "3904625",
+   "name": "Tacko Fall",
+   "nba_team": "PHL",
+   "positions": [
+    "C"
+   ],
+   "slot": "",
+   "status": "OUT",
+   "value": 0.0
+  },
+  "3907387": {
+   "fantasy_team": null,
+   "id": "3907387",
+   "name": "Ben Simmons",
+   "nba_team": "SAC",
+   "positions": [
+    "PG"
+   ],
+   "slot": "",
+   "status": "OUT",
+   "value": 21.7
+  },
+  "3907497": {
+   "fantasy_team": "Lakers x Bortolan 23",
+   "id": "3907497",
+   "name": "Dejounte Murray",
+   "nba_team": "NOP",
+   "positions": [
+    "PG",
+    "SG"
+   ],
+   "slot": "SG",
+   "status": "ACTIVE",
+   "value": 39.0
+  },
+  "3907498": {
+   "fantasy_team": null,
+   "id": "3907498",
+   "name": "Matisse Thybulle",
+   "nba_team": "LAL",
+   "positions": [
+    "SF"
+   ],
+   "slot": "",
+   "status": "ACTIVE",
+   "value": 19.2
+  },
+  "3907823": {
+   "fantasy_team": null,
+   "id": "3907823",
+   "name": "Terance Mann",
+   "nba_team": "BKN",
+   "positions": [
+    "SG",
+    "SF"
+   ],
+   "slot": "",
+   "status": "ACTIVE",
+   "value": 17.7
+  },
+  "3908809": {
+   "fantasy_team": "Bull Market",
+   "id": "3908809",
+   "name": "Donovan Mitchell",
+   "nba_team": "CLE",
+   "positions": [
+    "PG",
+    "SG"
+   ],
+   "slot": "PG",
+   "status": "ACTIVE",
+   "value": 46.5
+  },
+  "3908845": {
+   "fantasy_team": "CCCP  Баскетбол",
+   "id": "3908845",
+   "name": "John Collins",
+   "nba_team": "DET",
+   "positions": [
+    "PF",
+    "C"
+   ],
+   "slot": "UT",
+   "status": "ACTIVE",
+   "value": 31.8
+  },
+  "3912848": {
+   "fantasy_team": null,
+   "id": "3912848",
+   "name": "Dean Wade",
+   "nba_team": "PHL",
+   "positions": [
+    "PF"
+   ],
+   "slot": "",
+   "status": "DAY_TO_DAY",
+   "value": 16.3
+  },
+  "3913174": {
+   "fantasy_team": null,
+   "id": "3913174",
+   "name": "Luke Kennard",
+   "nba_team": "PHO",
+   "positions": [
+    "SG"
+   ],
+   "slot": "",
+   "status": "DAY_TO_DAY",
+   "value": 19.1
+  },
+  "3913176": {
+   "fantasy_team": "Tiki Taka Laranja",
+   "id": "3913176",
+   "name": "Brandon Ingram",
+   "nba_team": "LAC",
+   "positions": [
+    "SF",
+    "PF"
+   ],
+   "slot": "IR",
+   "status": "OUT",
+   "value": 38.5
+  },
+  "3914044": {
+   "fantasy_team": null,
+   "id": "3914044",
+   "name": "Landry Shamet",
+   "nba_team": "NYK",
+   "positions": [
+    "SG"
+   ],
+   "slot": "",
+   "status": "ACTIVE",
+   "value": 15.0
+  },
+  "3917376": {
+   "fantasy_team": "BL0CK BY ZION",
+   "id": "3917376",
+   "name": "Jaylen Brown",
+   "nba_team": "PHL",
+   "positions": [
+    "SG",
+    "SF"
+   ],
+   "slot": "SF",
+   "status": "ACTIVE",
+   "value": 38.6
+  },
+  "3934672": {
+   "fantasy_team": "Coringas do Gansola",
+   "id": "3934672",
+   "name": "Jalen Brunson",
+   "nba_team": "NYK",
+   "positions": [
+    "PG"
+   ],
+   "slot": "PG",
+   "status": "ACTIVE",
+   "value": 43.8
+  },
+  "3934673": {
+   "fantasy_team": null,
+   "id": "3934673",
+   "name": "Donte DiVincenzo",
+   "nba_team": "MIN",
+   "positions": [
+    "PG",
+    "SG"
+   ],
+   "slot": "",
+   "status": "OUT",
+   "value": 23.0
+  },
+  "3934719": {
+   "fantasy_team": "Caxias French Fries",
+   "id": "3934719",
+   "name": "OG Anunoby",
+   "nba_team": "NYK",
+   "positions": [
+    "SF",
+    "PF"
+   ],
+   "slot": "PF",
+   "status": "ACTIVE",
+   "value": 33.1
+  },
+  "3934723": {
+   "fantasy_team": null,
+   "id": "3934723",
+   "name": "Thomas Bryant",
+   "nba_team": "CLE",
+   "positions": [
+    "C"
+   ],
+   "slot": "",
+   "status": "ACTIVE",
+   "value": 13.7
+  },
+  "3936099": {
+   "fantasy_team": null,
+   "id": "3936099",
+   "name": "Derrick Jones Jr.",
+   "nba_team": "LAC",
+   "positions": [
+    "SF",
+    "PF"
+   ],
+   "slot": "",
+   "status": "ACTIVE",
+   "value": 21.1
+  },
+  "3936299": {
+   "fantasy_team": "Lucky",
+   "id": "3936299",
+   "name": "Jamal Murray",
+   "nba_team": "DEN",
+   "positions": [
+    "PG"
+   ],
+   "slot": "UT",
+   "status": "ACTIVE",
+   "value": 43.9
+  },
+  "3945274": {
+   "fantasy_team": "Lakers x Bortolan 23",
+   "id": "3945274",
+   "name": "Luka Doncic",
+   "nba_team": "LAL",
+   "positions": [
+    "PG"
+   ],
+   "slot": "PG",
+   "status": "ACTIVE",
+   "value": 60.6
+  },
+  "3948153": {
+   "fantasy_team": null,
+   "id": "3948153",
+   "name": "Chris Boucher",
+   "nba_team": "FA",
+   "positions": [
+    "PF",
+    "C"
+   ],
+   "slot": "",
+   "status": "ACTIVE",
+   "value": 0.0
+  },
+  "3975": {
+   "fantasy_team": "Lucky",
+   "id": "3975",
+   "name": "Stephen Curry",
+   "nba_team": "GSW",
+   "positions": [
+    "PG"
+   ],
+   "slot": "UT",
+   "status": "DAY_TO_DAY",
+   "value": 43.0
+  },
+  "3978": {
+   "fantasy_team": "Tiki Taka Laranja",
+   "id": "3978",
+   "name": "DeMar DeRozan",
+   "nba_team": "DEN",
+   "positions": [
+    "SF",
+    "PF"
+   ],
+   "slot": "UT",
+   "status": "ACTIVE",
+   "value": 29.8
+  },
+  "3992": {
+   "fantasy_team": "Tiki Taka Laranja",
+   "id": "3992",
+   "name": "James Harden",
+   "nba_team": "CLE",
+   "positions": [
+    "PG",
+    "SG"
+   ],
+   "slot": "UT",
+   "status": "ACTIVE",
+   "value": 42.1
+  },
+  "3995": {
+   "fantasy_team": "Polga Silva",
+   "id": "3995",
+   "name": "Jrue Holiday",
+   "nba_team": "POR",
+   "positions": [
+    "PG",
+    "SG"
+   ],
+   "slot": "SG",
+   "status": "DAY_TO_DAY",
+   "value": 28.1
+  },
+  "4017837": {
+   "fantasy_team": "Caxias French Fries",
+   "id": "4017837",
+   "name": "Ivica Zubac",
+   "nba_team": "IND",
+   "positions": [
+    "C"
+   ],
+   "slot": "UT",
+   "status": "ACTIVE",
+   "value": 35.5
+  },
+  "4017844": {
+   "fantasy_team": null,
+   "id": "4017844",
+   "name": "Guerschon Yabusele",
+   "nba_team": "FA",
+   "positions": [
+    "PF",
+    "C"
+   ],
+   "slot": "",
+   "status": "ACTIVE",
+   "value": 0.0
+  },
+  "4065648": {
+   "fantasy_team": "Caxias French Fries",
+   "id": "4065648",
+   "name": "Jayson Tatum",
+   "nba_team": "BOS",
+   "positions": [
+    "SF",
+    "PF"
+   ],
+   "slot": "SF",
+   "status": "ACTIVE",
+   "value": 48.1
+  },
+  "4065654": {
+   "fantasy_team": null,
+   "id": "4065654",
+   "name": "Jonathan Isaac",
+   "nba_team": "ORL",
+   "positions": [
+    "PF"
+   ],
+   "slot": "",
+   "status": "DAY_TO_DAY",
+   "value": 10.9
+  },
+  "4065670": {
+   "fantasy_team": null,
+   "id": "4065670",
+   "name": "Bruce Brown",
+   "nba_team": "FA",
+   "positions": [
+    "SG",
+    "SF"
+   ],
+   "slot": "",
+   "status": "ACTIVE",
+   "value": 0.0
+  },
+  "4065731": {
+   "fantasy_team": null,
+   "id": "4065731",
+   "name": "Jay Huff",
+   "nba_team": "IND",
+   "positions": [
+    "C"
+   ],
+   "slot": "",
+   "status": "ACTIVE",
+   "value": 0.0
+  },
+  "4065732": {
+   "fantasy_team": null,
+   "id": "4065732",
+   "name": "De'Andre Hunter",
+   "nba_team": "SAC",
+   "positions": [
+    "SF",
+    "PF"
+   ],
+   "slot": "",
+   "status": "ACTIVE",
+   "value": 23.9
+  },
+  "4065733": {
+   "fantasy_team": "BL0CK BY ZION",
+   "id": "4065733",
+   "name": "Ty Jerome",
+   "nba_team": "MEM",
+   "positions": [
+    "PG",
+    "SG"
+   ],
+   "slot": "SG",
+   "status": "ACTIVE",
+   "value": 39.8
+  },
+  "4065778": {
+   "fantasy_team": null,
+   "id": "4065778",
+   "name": "Max Strus",
+   "nba_team": "LAC",
+   "positions": [
+    "SF"
+   ],
+   "slot": "",
+   "status": "OUT",
+   "value": 22.4
+  },
+  "4065804": {
+   "fantasy_team": null,
+   "id": "4065804",
+   "name": "Sam Hauser",
+   "nba_team": "BOS",
+   "positions": [
+    "SF",
+    "PF"
+   ],
+   "slot": "",
+   "status": "ACTIVE",
+   "value": 20.1
+  },
+  "4066211": {
+   "fantasy_team": null,
+   "id": "4066211",
+   "name": "Robert Williams III",
+   "nba_team": "POR",
+   "positions": [
+    "C"
+   ],
+   "slot": "",
+   "status": "ACTIVE",
+   "value": 26.9
+  },
+  "4066218": {
+   "fantasy_team": null,
+   "id": "4066218",
+   "name": "Grant Williams",
+   "nba_team": "CHA",
+   "positions": [
+    "PF"
+   ],
+   "slot": "",
+   "status": "DAY_TO_DAY",
+   "value": 16.2
+  },
+  "4066259": {
+   "fantasy_team": "Coringas do Gansola",
+   "id": "4066259",
+   "name": "De'Aaron Fox",
+   "nba_team": "SAS",
+   "positions": [
+    "PG",
+    "SG"
+   ],
+   "slot": "UT",
+   "status": "ACTIVE",
+   "value": 38.1
+  },
+  "4066261": {
+   "fantasy_team": "BL0CK BY ZION",
+   "id": "4066261",
+   "name": "Bam Adebayo",
+   "nba_team": "MIA",
+   "positions": [
+    "PF",
+    "C"
+   ],
+   "slot": "C",
+   "status": "DAY_TO_DAY",
+   "value": 39.6
+  },
+  "4066262": {
+   "fantasy_team": "Coringas do Gansola",
+   "id": "4066262",
+   "name": "Malik Monk",
+   "nba_team": "SAC",
+   "positions": [
+    "PG",
+    "SG"
+   ],
+   "slot": "BE",
+   "status": "DAY_TO_DAY",
+   "value": 27.7
+  },
+  "4066320": {
+   "fantasy_team": "Fernando  Diniz",
+   "id": "4066320",
+   "name": "Desmond Bane",
+   "nba_team": "ORL",
+   "positions": [
+    "SG",
+    "SF"
+   ],
+   "slot": "SG",
+   "status": "ACTIVE",
+   "value": 38.2
+  },
+  "4066328": {
+   "fantasy_team": "Polga Silva",
+   "id": "4066328",
+   "name": "Jarrett Allen",
+   "nba_team": "CLE",
+   "positions": [
+    "C"
+   ],
+   "slot": "UT",
+   "status": "ACTIVE",
+   "value": 36.9
+  },
+  "4066336": {
+   "fantasy_team": "Fernando  Diniz",
+   "id": "4066336",
+   "name": "Lauri Markkanen",
+   "nba_team": "UTA",
+   "positions": [
+    "SF",
+    "PF"
+   ],
+   "slot": "SF",
+   "status": "ACTIVE",
+   "value": 38.6
+  },
+  "4066354": {
+   "fantasy_team": "Coringas do Gansola",
+   "id": "4066354",
+   "name": "Payton Pritchard",
+   "nba_team": "BOS",
+   "positions": [
+    "PG",
+    "SG"
+   ],
+   "slot": "UT",
+   "status": "ACTIVE",
+   "value": 31.6
+  },
+  "4066372": {
+   "fantasy_team": null,
+   "id": "4066372",
+   "name": "Kevin Huerter",
+   "nba_team": "DET",
+   "positions": [
+    "SG",
+    "SF"
+   ],
+   "slot": "",
+   "status": "ACTIVE",
+   "value": 22.9
+  },
+  "4066383": {
+   "fantasy_team": "Caxias French Fries",
+   "id": "4066383",
+   "name": "Miles Bridges",
+   "nba_team": "PHO",
+   "positions": [
+    "SF",
+    "PF"
+   ],
+   "slot": "UT",
+   "status": "ACTIVE",
+   "value": 33.9
+  },
+  "4066421": {
+   "fantasy_team": null,
+   "id": "4066421",
+   "name": "Lonzo Ball",
+   "nba_team": "FA",
+   "positions": [
+    "PG",
+    "SG"
+   ],
+   "slot": "",
+   "status": "ACTIVE",
+   "value": 0.0
+  },
+  "4066436": {
+   "fantasy_team": null,
+   "id": "4066436",
+   "name": "De'Anthony Melton",
+   "nba_team": "GSW",
+   "positions": [
+    "PG",
+    "SG"
+   ],
+   "slot": "",
+   "status": "ACTIVE",
+   "value": 24.0
+  },
+  "4066457": {
+   "fantasy_team": "King Coopa",
+   "id": "4066457",
+   "name": "Austin Reaves",
+   "nba_team": "LAL",
+   "positions": [
+    "PG",
+    "SG"
+   ],
+   "slot": "SG",
+   "status": "ACTIVE",
+   "value": 43.3
+  },
+  "4066648": {
+   "fantasy_team": "Lakers x Bortolan 23",
+   "id": "4066648",
+   "name": "Rui Hachimura",
+   "nba_team": "LAC",
+   "positions": [
+    "SF",
+    "PF"
+   ],
+   "slot": "SF",
+   "status": "ACTIVE",
+   "value": 24.0
+  },
+  "4066650": {
+   "fantasy_team": null,
+   "id": "4066650",
+   "name": "Zach Collins",
+   "nba_team": "CHI",
+   "positions": [
+    "C"
+   ],
+   "slot": "",
+   "status": "DAY_TO_DAY",
+   "value": 15.8
+  },
+  "4066731": {
+   "fantasy_team": null,
+   "id": "4066731",
+   "name": "Jalen McDaniels",
+   "nba_team": "FA",
+   "positions": [
+    "PF"
+   ],
+   "slot": "",
+   "status": "ACTIVE",
+   "value": 0.0
+  },
+  "4066757": {
+   "fantasy_team": null,
+   "id": "4066757",
+   "name": "Sam Merrill",
+   "nba_team": "CLE",
+   "positions": [
+    "SG"
+   ],
+   "slot": "",
+   "status": "DAY_TO_DAY",
+   "value": 20.0
+  },
+  "4222252": {
+   "fantasy_team": "Fernando  Diniz",
+   "id": "4222252",
+   "name": "Isaiah Hartenstein",
+   "nba_team": "OKC",
+   "positions": [
+    "C"
+   ],
+   "slot": "C",
+   "status": "ACTIVE",
+   "value": 30.5
+  },
+  "4251": {
+   "fantasy_team": "Bull Market",
+   "id": "4251",
+   "name": "Paul George",
+   "nba_team": "BOS",
+   "positions": [
+    "SF",
+    "PF"
+   ],
+   "slot": "SF",
+   "status": "ACTIVE",
+   "value": 38.5
+  },
+  "4277811": {
+   "fantasy_team": "Lucky",
+   "id": "4277811",
+   "name": "Collin Sexton",
+   "nba_team": "LAL",
+   "positions": [
+    "PG",
+    "SG"
+   ],
+   "slot": "UT",
+   "status": "DAY_TO_DAY",
+   "value": 28.8
+  },
+  "4277813": {
+   "fantasy_team": null,
+   "id": "4277813",
+   "name": "Herbert Jones",
+   "nba_team": "NOP",
+   "positions": [
+    "SF",
+    "PF"
+   ],
+   "slot": "",
+   "status": "ACTIVE",
+   "value": 22.1
+  },
+  "4277843": {
+   "fantasy_team": null,
+   "id": "4277843",
+   "name": "Gary Trent Jr.",
+   "nba_team": "MIL",
+   "positions": [
+    "SG",
+    "SF"
+   ],
+   "slot": "",
+   "status": "ACTIVE",
+   "value": 14.4
+  },
+  "4277847": {
+   "fantasy_team": "Lebron GOAT",
+   "id": "4277847",
+   "name": "Wendell Carter Jr.",
+   "nba_team": "ORL",
+   "positions": [
+    "C"
+   ],
+   "slot": "BE",
+   "status": "ACTIVE",
+   "value": 23.0
+  },
+  "4277848": {
+   "fantasy_team": "CCCP  Баскетбол",
+   "id": "4277848",
+   "name": "Marvin Bagley III",
+   "nba_team": "DEN",
+   "positions": [
+    "PF",
+    "C"
+   ],
+   "slot": "UT",
+   "status": "ACTIVE",
+   "value": 21.8
+  },
+  "4277869": {
+   "fantasy_team": null,
+   "id": "4277869",
+   "name": "Jose Alvarado",
+   "nba_team": "NYK",
+   "positions": [
+    "PG"
+   ],
+   "slot": "",
+   "status": "ACTIVE",
+   "value": 19.5
+  },
+  "4277905": {
+   "fantasy_team": "BL0CK BY ZION",
+   "id": "4277905",
+   "name": "Trae Young",
+   "nba_team": "WAS",
+   "positions": [
+    "PG"
+   ],
+   "slot": "PG",
+   "status": "ACTIVE",
+   "value": 44.4
+  },
+  "4277919": {
+   "fantasy_team": null,
+   "id": "4277919",
+   "name": "Mo Bamba",
+   "nba_team": "UTA",
+   "positions": [
+    "C"
+   ],
+   "slot": "",
+   "status": "ACTIVE",
+   "value": 0.0
+  },
+  "4277922": {
+   "fantasy_team": null,
+   "id": "4277922",
+   "name": "Jericho Sims",
+   "nba_team": "MIL",
+   "positions": [
+    "C"
+   ],
+   "slot": "",
+   "status": "DAY_TO_DAY",
+   "value": 13.9
+  },
+  "4277951": {
+   "fantasy_team": null,
+   "id": "4277951",
+   "name": "Luka Garza",
+   "nba_team": "BOS",
+   "positions": [
+    "C"
+   ],
+   "slot": "",
+   "status": "ACTIVE",
+   "value": 0.0
+  },
+  "4277956": {
+   "fantasy_team": "CCCP  Баскетбол",
+   "id": "4277956",
+   "name": "Jordan Poole",
+   "nba_team": "NOP",
+   "positions": [
+    "PG",
+    "SG"
+   ],
+   "slot": "BE",
+   "status": "ACTIVE",
+   "value": 22.0
+  },
+  "4277961": {
+   "fantasy_team": "Bull Market",
+   "id": "4277961",
+   "name": "Jaren Jackson Jr.",
+   "nba_team": "UTA",
+   "positions": [
+    "PF",
+    "C"
+   ],
+   "slot": "PF",
+   "status": "ACTIVE",
+   "value": 38.1
+  },
+  "4278039": {
+   "fantasy_team": "Tropa do Nikola",
+   "id": "4278039",
+   "name": "Nickeil Alexander-Walker",
+   "nba_team": "ATL",
+   "positions": [
+    "PG",
+    "SG"
+   ],
+   "slot": "SG",
+   "status": "ACTIVE",
+   "value": 34.0
+  },
+  "4278049": {
+   "fantasy_team": "Fernando  Diniz",
+   "id": "4278049",
+   "name": "Daniel Gafford",
+   "nba_team": "DAL",
+   "positions": [
+    "C"
+   ],
+   "slot": "UT",
+   "status": "ACTIVE",
+   "value": 29.3
+  },
+  "4278053": {
+   "fantasy_team": "Tropa do Nikola",
+   "id": "4278053",
+   "name": "Davion Mitchell",
+   "nba_team": "MIA",
+   "positions": [
+    "PG"
+   ],
+   "slot": "BE",
+   "status": "ACTIVE",
+   "value": 25.5
+  },
+  "4278067": {
+   "fantasy_team": "BL0CK BY ZION",
+   "id": "4278067",
+   "name": "Nic Claxton",
+   "nba_team": "CHI",
+   "positions": [
+    "C"
+   ],
+   "slot": "BE",
+   "status": "OUT",
+   "value": 30.3
+  },
+  "4278073": {
+   "fantasy_team": "Polga Silva",
+   "id": "4278073",
+   "name": "Shai Gilgeous-Alexander",
+   "nba_team": "OKC",
+   "positions": [
+    "PG"
+   ],
+   "slot": "PG",
+   "status": "ACTIVE",
+   "value": 56.8
+  },
+  "4278076": {
+   "fantasy_team": null,
+   "id": "4278076",
+   "name": "Nick Richards",
+   "nba_team": "MIA",
+   "positions": [
+    "C"
+   ],
+   "slot": "",
+   "status": "ACTIVE",
+   "value": 0.0
+  },
+  "4278077": {
+   "fantasy_team": null,
+   "id": "4278077",
+   "name": "Jarred Vanderbilt",
+   "nba_team": "LAL",
+   "positions": [
+    "SF",
+    "PF"
+   ],
+   "slot": "",
+   "status": "DAY_TO_DAY",
+   "value": 14.9
+  },
+  "4278078": {
+   "fantasy_team": "Polga Silva",
+   "id": "4278078",
+   "name": "P.J. Washington",
+   "nba_team": "DAL",
+   "positions": [
+    "SF",
+    "PF"
+   ],
+   "slot": "BE",
+   "status": "ACTIVE",
+   "value": 26.9
+  },
+  "4278104": {
+   "fantasy_team": "Tropa do Nikola",
+   "id": "4278104",
+   "name": "Michael Porter Jr.",
+   "nba_team": "BKN",
+   "positions": [
+    "SF",
+    "PF"
+   ],
+   "slot": "UT",
+   "status": "ACTIVE",
+   "value": 38.9
+  },
+  "4278129": {
+   "fantasy_team": "Contagem Hunters",
+   "id": "4278129",
+   "name": "Deandre Ayton",
+   "nba_team": "WAS",
+   "positions": [
+    "C"
+   ],
+   "slot": "BE",
+   "status": "ACTIVE",
+   "value": 25.3
+  },
+  "4278355": {
+   "fantasy_team": null,
+   "id": "4278355",
+   "name": "Obi Toppin",
+   "nba_team": "IND",
+   "positions": [
+    "PF"
+   ],
+   "slot": "",
+   "status": "ACTIVE",
+   "value": 21.9
+  },
+  "4278402": {
+   "fantasy_team": null,
+   "id": "4278402",
+   "name": "Jordan Goodwin",
+   "nba_team": "PHO",
+   "positions": [
+    "PG",
+    "SG"
+   ],
+   "slot": "",
+   "status": "ACTIVE",
+   "value": 0.0
+  },
+  "4278562": {
+   "fantasy_team": null,
+   "id": "4278562",
+   "name": "Paul Reed",
+   "nba_team": "DET",
+   "positions": [
+    "PF",
+    "C"
+   ],
+   "slot": "",
+   "status": "ACTIVE",
+   "value": 20.4
+  },
+  "4278572": {
+   "fantasy_team": null,
+   "id": "4278572",
+   "name": "Jamal Cain",
+   "nba_team": "ORL",
+   "positions": [
+    "SF"
+   ],
+   "slot": "",
+   "status": "ACTIVE",
+   "value": 15.6
+  },
+  "4278580": {
+   "fantasy_team": null,
+   "id": "4278580",
+   "name": "Sandro Mamukelashvili",
+   "nba_team": "LAL",
+   "positions": [
+    "PF",
+    "C"
+   ],
+   "slot": "",
+   "status": "ACTIVE",
+   "value": 0.0
+  },
+  "4278585": {
+   "fantasy_team": "Lucky",
+   "id": "4278585",
+   "name": "Collin Gillespie",
+   "nba_team": "PHO",
+   "positions": [
+    "PG"
+   ],
+   "slot": "UT",
+   "status": "ACTIVE",
+   "value": 28.5
+  },
+  "4278594": {
+   "fantasy_team": null,
+   "id": "4278594",
+   "name": "Naji Marshall",
+   "nba_team": "DAL",
+   "positions": [
+    "SF",
+    "PF"
+   ],
+   "slot": "",
+   "status": "ACTIVE",
+   "value": 22.4
+  },
+  "4279888": {
+   "fantasy_team": "BL0CK BY ZION",
+   "id": "4279888",
+   "name": "Ja Morant",
+   "nba_team": "POR",
+   "positions": [
+    "PG"
+   ],
+   "slot": "UT",
+   "status": "ACTIVE",
+   "value": 37.5
+  },
+  "4280151": {
+   "fantasy_team": null,
+   "id": "4280151",
+   "name": "Corey Kispert",
+   "nba_team": "ATL",
+   "positions": [
+    "SG",
+    "SF"
+   ],
+   "slot": "",
+   "status": "ACTIVE",
+   "value": 16.6
+  },
+  "4348700": {
+   "fantasy_team": null,
+   "id": "4348700",
+   "name": "Goga Bitadze",
+   "nba_team": "ORL",
+   "positions": [
+    "C"
+   ],
+   "slot": "",
+   "status": "ACTIVE",
+   "value": 16.8
+  },
+  "4351851": {
+   "fantasy_team": null,
+   "id": "4351851",
+   "name": "Anfernee Simons",
+   "nba_team": "PHL",
+   "positions": [
+    "PG",
+    "SG"
+   ],
+   "slot": "",
+   "status": "DAY_TO_DAY",
+   "value": 23.4
+  },
+  "4351852": {
+   "fantasy_team": "Fernando  Diniz",
+   "id": "4351852",
+   "name": "Mitchell Robinson",
+   "nba_team": "BOS",
+   "positions": [
+    "C"
+   ],
+   "slot": "BE",
+   "status": "ACTIVE",
+   "value": 30.3
+  },
+  "4395625": {
+   "fantasy_team": "Lebron GOAT",
+   "id": "4395625",
+   "name": "RJ Barrett",
+   "nba_team": "TOR",
+   "positions": [
+    "SG",
+    "SF"
+   ],
+   "slot": "UT",
+   "status": "ACTIVE",
+   "value": 32.6
+  },
+  "4395626": {
+   "fantasy_team": "Bull Market",
+   "id": "4395626",
+   "name": "Tre Jones",
+   "nba_team": "CHI",
+   "positions": [
+    "PG"
+   ],
+   "slot": "BE",
+   "status": "ACTIVE",
+   "value": 25.8
+  },
+  "4395628": {
+   "fantasy_team": "BL0CK BY ZION",
+   "id": "4395628",
+   "name": "Zion Williamson",
+   "nba_team": "NOP",
+   "positions": [
+    "PF",
+    "C"
+   ],
+   "slot": "PF",
+   "status": "ACTIVE",
+   "value": 40.0
+  },
+  "4395630": {
+   "fantasy_team": "Contagem Hunters",
+   "id": "4395630",
+   "name": "Devin Vassell",
+   "nba_team": "SAS",
+   "positions": [
+    "SG",
+    "SF"
+   ],
+   "slot": "SG",
+   "status": "ACTIVE",
+   "value": 26.8
+  },
+  "4395650": {
+   "fantasy_team": null,
+   "id": "4395650",
+   "name": "Leaky Black",
+   "nba_team": "SAC",
+   "positions": [
+    "SF"
+   ],
+   "slot": "",
+   "status": "ACTIVE",
+   "value": 0.0
+  },
+  "4395651": {
+   "fantasy_team": "Caxias French Fries",
+   "id": "4395651",
+   "name": "Coby White",
+   "nba_team": "CHA",
+   "positions": [
+    "PG",
+    "SG"
+   ],
+   "slot": "UT",
+   "status": "DAY_TO_DAY",
+   "value": 32.9
+  },
+  "4395702": {
+   "fantasy_team": null,
+   "id": "4395702",
+   "name": "Isaiah Joe",
+   "nba_team": "DET",
+   "positions": [
+    "SG"
+   ],
+   "slot": "",
+   "status": "ACTIVE",
+   "value": 20.1
+  },
+  "4395712": {
+   "fantasy_team": "Lakers x Bortolan 23",
+   "id": "4395712",
+   "name": "Andrew Nembhard",
+   "nba_team": "IND",
+   "positions": [
+    "PG",
+    "SG"
+   ],
+   "slot": "UT",
+   "status": "ACTIVE",
+   "value": 28.2
+  },
+  "4395723": {
+   "fantasy_team": "Polga Silva",
+   "id": "4395723",
+   "name": "Keldon Johnson",
+   "nba_team": "SAS",
+   "positions": [
+    "SF",
+    "PF"
+   ],
+   "slot": "UT",
+   "status": "ACTIVE",
+   "value": 24.0
+  },
+  "4395724": {
+   "fantasy_team": "Fernando  Diniz",
+   "id": "4395724",
+   "name": "Immanuel Quickley",
+   "nba_team": "TOR",
+   "positions": [
+    "PG",
+    "SG"
+   ],
+   "slot": "PG",
+   "status": "ACTIVE",
+   "value": 34.9
+  },
+  "4395725": {
+   "fantasy_team": "Contagem Hunters",
+   "id": "4395725",
+   "name": "Tyler Herro",
+   "nba_team": "MIL",
+   "positions": [
+    "PG",
+    "SG"
+   ],
+   "slot": "PG",
+   "status": "ACTIVE",
+   "value": 38.8
+  },
+  "4396818": {
+   "fantasy_team": null,
+   "id": "4396818",
+   "name": "Jordan Miller",
+   "nba_team": "LAC",
+   "positions": [
+    "SF"
+   ],
+   "slot": "",
+   "status": "OUT",
+   "value": 0.0
+  },
+  "4396907": {
+   "fantasy_team": "Tropa do Nikola",
+   "id": "4396907",
+   "name": "Darius Garland",
+   "nba_team": "LAC",
+   "positions": [
+    "PG"
+   ],
+   "slot": "BE",
+   "status": "ACTIVE",
+   "value": 40.4
+  },
+  "4396909": {
+   "fantasy_team": null,
+   "id": "4396909",
+   "name": "Aaron Nesmith",
+   "nba_team": "IND",
+   "positions": [
+    "SG",
+    "SF"
+   ],
+   "slot": "",
+   "status": "DAY_TO_DAY",
+   "value": 24.6
+  },
+  "4396971": {
+   "fantasy_team": "Polga Silva",
+   "id": "4396971",
+   "name": "Naz Reid",
+   "nba_team": "CHA",
+   "positions": [
+    "PF",
+    "C"
+   ],
+   "slot": "PF",
+   "status": "ACTIVE",
+   "value": 35.5
+  },
+  "4396993": {
+   "fantasy_team": "Lebron GOAT",
+   "id": "4396993",
+   "name": "Tyrese Haliburton",
+   "nba_team": "IND",
+   "positions": [
+    "PG",
+    "SG"
+   ],
+   "slot": "SG",
+   "status": "ACTIVE",
+   "value": 48.6
+  },
+  "4397002": {
+   "fantasy_team": "Tiki Taka Laranja",
+   "id": "4397002",
+   "name": "Ayo Dosunmu",
+   "nba_team": "MIN",
+   "positions": [
+    "PG",
+    "SG"
+   ],
+   "slot": "UT",
+   "status": "ACTIVE",
+   "value": 30.4
+  },
+  "4397014": {
+   "fantasy_team": "BL0CK BY ZION",
+   "id": "4397014",
+   "name": "Quentin Grimes",
+   "nba_team": "LAL",
+   "positions": [
+    "SG",
+    "SF"
+   ],
+   "slot": "BE",
+   "status": "ACTIVE",
+   "value": 28.1
+  },
+  "4397018": {
+   "fantasy_team": null,
+   "id": "4397018",
+   "name": "Ochai Agbaji",
+   "nba_team": "FA",
+   "positions": [
+    "SF"
+   ],
+   "slot": "",
+   "status": "ACTIVE",
+   "value": 0.0
+  },
+  "4397020": {
+   "fantasy_team": null,
+   "id": "4397020",
+   "name": "Luguentz Dort",
+   "nba_team": "ATL",
+   "positions": [
+    "SG",
+    "SF"
+   ],
+   "slot": "",
+   "status": "ACTIVE",
+   "value": 21.2
+  },
+  "4397040": {
+   "fantasy_team": null,
+   "id": "4397040",
+   "name": "Brandon Williams",
+   "nba_team": "GSW",
+   "positions": [
+    "PG",
+    "SG"
+   ],
+   "slot": "",
+   "status": "ACTIVE",
+   "value": 0.0
+  },
+  "4397077": {
+   "fantasy_team": null,
+   "id": "4397077",
+   "name": "Jaxson Hayes",
+   "nba_team": "UTA",
+   "positions": [
+    "C"
+   ],
+   "slot": "",
+   "status": "ACTIVE",
+   "value": 16.5
+  },
+  "4397102": {
+   "fantasy_team": null,
+   "id": "4397102",
+   "name": "Bol Bol",
+   "nba_team": "FA",
+   "positions": [
+    "PF"
+   ],
+   "slot": "",
+   "status": "ACTIVE",
+   "value": 0.0
+  },
+  "4397136": {
+   "fantasy_team": "CCCP  Баскетбол",
+   "id": "4397136",
+   "name": "Saddiq Bey",
+   "nba_team": "NOP",
+   "positions": [
+    "SF",
+    "PF"
+   ],
+   "slot": "UT",
+   "status": "ACTIVE",
+   "value": 25.9
+  },
+  "4397140": {
+   "fantasy_team": "Lakers x Bortolan 23",
+   "id": "4397140",
+   "name": "Kevin Porter Jr.",
+   "nba_team": "MIL",
+   "positions": [
+    "PG",
+    "SG"
+   ],
+   "slot": "UT",
+   "status": "ACTIVE",
+   "value": 33.0
+  },
+  "4397183": {
+   "fantasy_team": null,
+   "id": "4397183",
+   "name": "Aaron Wiggins",
+   "nba_team": "ATL",
+   "positions": [
+    "SG",
+    "SF"
+   ],
+   "slot": "",
+   "status": "ACTIVE",
+   "value": 19.2
+  },
+  "4397189": {
+   "fantasy_team": null,
+   "id": "4397189",
+   "name": "Jalen Smith",
+   "nba_team": "CHI",
+   "positions": [
+    "PF",
+    "C"
+   ],
+   "slot": "",
+   "status": "ACTIVE",
+   "value": 22.4
+  },
+  "4397227": {
+   "fantasy_team": null,
+   "id": "4397227",
+   "name": "Vince Williams Jr.",
+   "nba_team": "FA",
+   "positions": [
+    "PG",
+    "SG"
+   ],
+   "slot": "",
+   "status": "OUT",
+   "value": 0.0
+  },
+  "4397251": {
+   "fantasy_team": null,
+   "id": "4397251",
+   "name": "Ron Harper Jr.",
+   "nba_team": "BOS",
+   "positions": [
+    "SG"
+   ],
+   "slot": "",
+   "status": "ACTIVE",
+   "value": 0.0
+  },
+  "4397424": {
+   "fantasy_team": "King Coopa",
+   "id": "4397424",
+   "name": "Neemias Queta",
+   "nba_team": "BOS",
+   "positions": [
+    "C"
+   ],
+   "slot": "UT",
+   "status": "ACTIVE",
+   "value": 27.2
+  },
+  "4397475": {
+   "fantasy_team": null,
+   "id": "4397475",
+   "name": "AJ Green",
+   "nba_team": "MIL",
+   "positions": [
+    "SG"
+   ],
+   "slot": "",
+   "status": "ACTIVE",
+   "value": 17.0
+  },
+  "4397688": {
+   "fantasy_team": "Lebron GOAT",
+   "id": "4397688",
+   "name": "Trey Murphy III",
+   "nba_team": "NOP",
+   "positions": [
+    "SG",
+    "SF"
+   ],
+   "slot": "UT",
+   "status": "ACTIVE",
+   "value": 36.8
+  },
+  "4397886": {
+   "fantasy_team": null,
+   "id": "4397886",
+   "name": "Charles Bassey",
+   "nba_team": "GSW",
+   "positions": [
+    "C"
+   ],
+   "slot": "",
+   "status": "DAY_TO_DAY",
+   "value": 14.5
+  },
+  "4398390": {
+   "fantasy_team": null,
+   "id": "4398390",
+   "name": "Jalen Pickett",
+   "nba_team": "LAC",
+   "positions": [
+    "PG",
+    "SG"
+   ],
+   "slot": "",
+   "status": "ACTIVE",
+   "value": 8.6
+  },
+  "4431671": {
+   "fantasy_team": "BL0CK BY ZION",
+   "id": "4431671",
+   "name": "Jaden McDaniels",
+   "nba_team": "MIN",
+   "positions": [
+    "SF",
+    "PF"
+   ],
+   "slot": "UT",
+   "status": "ACTIVE",
+   "value": 29.7
+  },
+  "4431678": {
+   "fantasy_team": "Tiki Taka Laranja",
+   "id": "4431678",
+   "name": "Tyrese Maxey",
+   "nba_team": "PHL",
+   "positions": [
+    "PG",
+    "SG"
+   ],
+   "slot": "PG",
+   "status": "ACTIVE",
+   "value": 45.1
+  },
+  "4431679": {
+   "fantasy_team": "Polga Silva",
+   "id": "4431679",
+   "name": "Precious Achiuwa",
+   "nba_team": "SAC",
+   "positions": [
+    "PF",
+    "C"
+   ],
+   "slot": "BE",
+   "status": "ACTIVE",
+   "value": 24.1
+  },
+  "4431680": {
+   "fantasy_team": "Lebron GOAT",
+   "id": "4431680",
+   "name": "Onyeka Okongwu",
+   "nba_team": "ATL",
+   "positions": [
+    "C"
+   ],
+   "slot": "C",
+   "status": "ACTIVE",
+   "value": 34.8
+  },
+  "4431684": {
+   "fantasy_team": null,
+   "id": "4431684",
+   "name": "Trayce Jackson-Davis",
+   "nba_team": "TOR",
+   "positions": [
+    "PF"
+   ],
+   "slot": "",
+   "status": "ACTIVE",
+   "value": 18.2
+  },
+  "4431687": {
+   "fantasy_team": null,
+   "id": "4431687",
+   "name": "Patrick Williams",
+   "nba_team": "CHI",
+   "positions": [
+    "PF"
+   ],
+   "slot": "",
+   "status": "ACTIVE",
+   "value": 14.4
+  },
+  "4431714": {
+   "fantasy_team": null,
+   "id": "4431714",
+   "name": "Jalen Wilson",
+   "nba_team": "ATL",
+   "positions": [
+    "PF"
+   ],
+   "slot": "",
+   "status": "ACTIVE",
+   "value": 11.0
+  },
+  "4431736": {
+   "fantasy_team": "King Coopa",
+   "id": "4431736",
+   "name": "Toumani Camara",
+   "nba_team": "POR",
+   "positions": [
+    "SF",
+    "PF"
+   ],
+   "slot": "BE",
+   "status": "ACTIVE",
+   "value": 23.8
+  },
+  "4431752": {
+   "fantasy_team": null,
+   "id": "4431752",
+   "name": "Kobe Brown",
+   "nba_team": "IND",
+   "positions": [
+    "PF"
+   ],
+   "slot": "",
+   "status": "ACTIVE",
+   "value": 8.1
+  },
+  "4431767": {
+   "fantasy_team": "CCCP  Баскетбол",
+   "id": "4431767",
+   "name": "Christian Braun",
+   "nba_team": "DEN",
+   "positions": [
+    "SG",
+    "SF"
+   ],
+   "slot": "SF",
+   "status": "ACTIVE",
+   "value": 23.1
+  },
+  "4431785": {
+   "fantasy_team": "Lakers x Bortolan 23",
+   "id": "4431785",
+   "name": "Scotty Pippen Jr.",
+   "nba_team": "MEM",
+   "positions": [
+    "PG",
+    "SG"
+   ],
+   "slot": "UT",
+   "status": "ACTIVE",
+   "value": 30.6
+  },
+  "4431823": {
+   "fantasy_team": null,
+   "id": "4431823",
+   "name": "Miles McBride",
+   "nba_team": "NYK",
+   "positions": [
+    "PG",
+    "SG"
+   ],
+   "slot": "",
+   "status": "ACTIVE",
+   "value": 19.7
+  },
+  "4432107": {
+   "fantasy_team": null,
+   "id": "4432107",
+   "name": "Marcus Sasser",
+   "nba_team": "DAL",
+   "positions": [
+    "PG"
+   ],
+   "slot": "",
+   "status": "ACTIVE",
+   "value": 12.4
+  },
+  "4432158": {
+   "fantasy_team": "Tropa do Nikola",
+   "id": "4432158",
+   "name": "Evan Mobley",
+   "nba_team": "CLE",
+   "positions": [
+    "PF",
+    "C"
+   ],
+   "slot": "PF",
+   "status": "ACTIVE",
+   "value": 43.3
+  },
+  "4432165": {
+   "fantasy_team": "King Coopa",
+   "id": "4432165",
+   "name": "Jalen Suggs",
+   "nba_team": "ORL",
+   "positions": [
+    "PG",
+    "SG"
+   ],
+   "slot": "BE",
+   "status": "ACTIVE",
+   "value": 29.1
+  },
+  "4432166": {
+   "fantasy_team": "CCCP  Баскетбол",
+   "id": "4432166",
+   "name": "Cade Cunningham",
+   "nba_team": "DET",
+   "positions": [
+    "PG"
+   ],
+   "slot": "PG",
+   "status": "ACTIVE",
+   "value": 50.5
+  },
+  "4432170": {
+   "fantasy_team": null,
+   "id": "4432170",
+   "name": "Isaiah Jackson",
+   "nba_team": "LAC",
+   "positions": [
+    "PF",
+    "C"
+   ],
+   "slot": "",
+   "status": "ACTIVE",
+   "value": 20.6
+  },
+  "4432171": {
+   "fantasy_team": null,
+   "id": "4432171",
+   "name": "Moses Moody",
+   "nba_team": "GSW",
+   "positions": [
+    "SG",
+    "SF"
+   ],
+   "slot": "",
+   "status": "OUT",
+   "value": 22.4
+  },
+  "4432174": {
+   "fantasy_team": null,
+   "id": "4432174",
+   "name": "Cam Thomas",
+   "nba_team": "FA",
+   "positions": [
+    "SG",
+    "SF"
+   ],
+   "slot": "",
+   "status": "ACTIVE",
+   "value": 0.0
+  },
+  "4432181": {
+   "fantasy_team": null,
+   "id": "4432181",
+   "name": "Julian Strawther",
+   "nba_team": "DEN",
+   "positions": [
+    "SF"
+   ],
+   "slot": "",
+   "status": "OUT",
+   "value": 13.1
+  },
+  "4432194": {
+   "fantasy_team": "Lebron GOAT",
+   "id": "4432194",
+   "name": "Day'Ron Sharpe",
+   "nba_team": "BKN",
+   "positions": [
+    "C"
+   ],
+   "slot": "BE",
+   "status": "ACTIVE",
+   "value": 27.0
+  },
+  "4432241": {
+   "fantasy_team": null,
+   "id": "4432241",
+   "name": "Jamal Shead",
+   "nba_team": "TOR",
+   "positions": [
+    "PG"
+   ],
+   "slot": "",
+   "status": "ACTIVE",
+   "value": 20.7
+  },
+  "4432247": {
+   "fantasy_team": null,
+   "id": "4432247",
+   "name": "Jaylen Clark",
+   "nba_team": "MIN",
+   "positions": [
+    "SG"
+   ],
+   "slot": "",
+   "status": "ACTIVE",
+   "value": 9.3
+  },
+  "4432446": {
+   "fantasy_team": null,
+   "id": "4432446",
+   "name": "Jabari Walker",
+   "nba_team": "PHL",
+   "positions": [
+    "PF"
+   ],
+   "slot": "",
+   "status": "ACTIVE",
+   "value": 0.0
+  },
+  "4432452": {
+   "fantasy_team": null,
+   "id": "4432452",
+   "name": "Alex Antetokounmpo",
+   "nba_team": "FA",
+   "positions": [
+    "SF"
+   ],
+   "slot": "",
+   "status": "ACTIVE",
+   "value": 0.0
+  },
+  "4432573": {
+   "fantasy_team": "Coringas do Gansola",
+   "id": "4432573",
+   "name": "Paolo Banchero",
+   "nba_team": "ORL",
+   "positions": [
+    "SF",
+    "PF"
+   ],
+   "slot": "SF",
+   "status": "ACTIVE",
+   "value": 39.0
+  },
+  "4432582": {
+   "fantasy_team": null,
+   "id": "4432582",
+   "name": "Max Christie",
+   "nba_team": "DAL",
+   "positions": [
+    "SG"
+   ],
+   "slot": "",
+   "status": "ACTIVE",
+   "value": 21.0
+  },
+  "4432639": {
+   "fantasy_team": "Tropa do Nikola",
+   "id": "4432639",
+   "name": "Jabari Smith Jr.",
+   "nba_team": "HOU",
+   "positions": [
+    "PF",
+    "C"
+   ],
+   "slot": "UT",
+   "status": "ACTIVE",
+   "value": 27.6
+  },
+  "4432808": {
+   "fantasy_team": null,
+   "id": "4432808",
+   "name": "James Wiseman",
+   "nba_team": "NYK",
+   "positions": [
+    "C"
+   ],
+   "slot": "",
+   "status": "ACTIVE",
+   "value": 0.0
+  },
+  "4432809": {
+   "fantasy_team": null,
+   "id": "4432809",
+   "name": "Cole Anthony",
+   "nba_team": "FA",
+   "positions": [
+    "PG",
+    "SG"
+   ],
+   "slot": "",
+   "status": "ACTIVE",
+   "value": 0.0
+  },
+  "4432810": {
+   "fantasy_team": "Polga Silva",
+   "id": "4432810",
+   "name": "Isaiah Stewart",
+   "nba_team": "MEM",
+   "positions": [
+    "PF",
+    "C"
+   ],
+   "slot": "BE",
+   "status": "OUT",
+   "value": 25.3
+  },
+  "4432811": {
+   "fantasy_team": null,
+   "id": "4432811",
+   "name": "Josh Green",
+   "nba_team": "UTA",
+   "positions": [
+    "SG"
+   ],
+   "slot": "",
+   "status": "ACTIVE",
+   "value": 11.4
+  },
+  "4432816": {
+   "fantasy_team": "Lucky",
+   "id": "4432816",
+   "name": "LaMelo Ball",
+   "nba_team": "MIN",
+   "positions": [
+    "PG"
+   ],
+   "slot": "PG",
+   "status": "ACTIVE",
+   "value": 46.4
+  },
+  "4432819": {
+   "fantasy_team": null,
+   "id": "4432819",
+   "name": "Tre Mann",
+   "nba_team": "WAS",
+   "positions": [
+    "PG",
+    "SG"
+   ],
+   "slot": "",
+   "status": "ACTIVE",
+   "value": 13.1
+  },
+  "4432822": {
+   "fantasy_team": null,
+   "id": "4432822",
+   "name": "Isaac Okoro",
+   "nba_team": "CHI",
+   "positions": [
+    "SG",
+    "SF"
+   ],
+   "slot": "",
+   "status": "DAY_TO_DAY",
+   "value": 15.2
+  },
+  "4432823": {
+   "fantasy_team": null,
+   "id": "4432823",
+   "name": "Jaylin Williams",
+   "nba_team": "OKC",
+   "positions": [
+    "PF",
+    "C"
+   ],
+   "slot": "",
+   "status": "DAY_TO_DAY",
+   "value": 20.0
+  },
+  "4432847": {
+   "fantasy_team": null,
+   "id": "4432847",
+   "name": "Terrence Shannon Jr.",
+   "nba_team": "MIN",
+   "positions": [
+    "SG"
+   ],
+   "slot": "",
+   "status": "ACTIVE",
+   "value": 14.9
+  },
+  "4432848": {
+   "fantasy_team": "Contagem Hunters",
+   "id": "4432848",
+   "name": "Jaime Jaquez Jr.",
+   "nba_team": "MIL",
+   "positions": [
+    "SG",
+    "SF"
+   ],
+   "slot": "UT",
+   "status": "ACTIVE",
+   "value": 28.2
+  },
+  "4432907": {
+   "fantasy_team": null,
+   "id": "4432907",
+   "name": "Justin Champagnie",
+   "nba_team": "WAS",
+   "positions": [
+    "SF",
+    "PF"
+   ],
+   "slot": "",
+   "status": "ACTIVE",
+   "value": 0.0
+  },
+  "4433076": {
+   "fantasy_team": null,
+   "id": "4433076",
+   "name": "Ben Sheppard",
+   "nba_team": "IND",
+   "positions": [
+    "SG",
+    "SF"
+   ],
+   "slot": "",
+   "status": "ACTIVE",
+   "value": 13.1
+  },
+  "4433083": {
+   "fantasy_team": null,
+   "id": "4433083",
+   "name": "Cam Spencer",
+   "nba_team": "MEM",
+   "positions": [
+    "PG",
+    "SG"
+   ],
+   "slot": "",
+   "status": "ACTIVE",
+   "value": 0.0
+  },
+  "4433134": {
+   "fantasy_team": "Lebron GOAT",
+   "id": "4433134",
+   "name": "Scottie Barnes",
+   "nba_team": "TOR",
+   "positions": [
+    "SG",
+    "SF"
+   ],
+   "slot": "SF",
+   "status": "ACTIVE",
+   "value": 43.7
+  },
+  "4433136": {
+   "fantasy_team": "Tropa do Nikola",
+   "id": "4433136",
+   "name": "Walker Kessler",
+   "nba_team": "LAL",
+   "positions": [
+    "C"
+   ],
+   "slot": "UT",
+   "status": "ACTIVE",
+   "value": 38.6
+  },
+  "4433137": {
+   "fantasy_team": null,
+   "id": "4433137",
+   "name": "Ziaire Williams",
+   "nba_team": "LAL",
+   "positions": [
+    "SG",
+    "SF"
+   ],
+   "slot": "",
+   "status": "ACTIVE",
+   "value": 19.7
+  },
+  "4433144": {
+   "fantasy_team": null,
+   "id": "4433144",
+   "name": "Caleb Love",
+   "nba_team": "PHL",
+   "positions": [
+    "SG"
+   ],
+   "slot": "",
+   "status": "ACTIVE",
+   "value": 0.0
+  },
+  "4433174": {
+   "fantasy_team": null,
+   "id": "4433174",
+   "name": "Dylan Cardwell",
+   "nba_team": "SAC",
+   "positions": [
+    "C"
+   ],
+   "slot": "",
+   "status": "OUT",
+   "value": 0.0
+  },
+  "4433192": {
+   "fantasy_team": null,
+   "id": "4433192",
+   "name": "Tari Eason",
+   "nba_team": "HOU",
+   "positions": [
+    "SF",
+    "PF"
+   ],
+   "slot": "",
+   "status": "ACTIVE",
+   "value": 23.2
+  },
+  "4433218": {
+   "fantasy_team": null,
+   "id": "4433218",
+   "name": "Jaden Ivey",
+   "nba_team": "FA",
+   "positions": [
+    "PG",
+    "SG"
+   ],
+   "slot": "",
+   "status": "DAY_TO_DAY",
+   "value": 0.0
+  },
+  "4433225": {
+   "fantasy_team": null,
+   "id": "4433225",
+   "name": "Tyler Kolek",
+   "nba_team": "NYK",
+   "positions": [
+    "PG"
+   ],
+   "slot": "",
+   "status": "ACTIVE",
+   "value": 0.0
+  },
+  "4433247": {
+   "fantasy_team": "Coringas do Gansola",
+   "id": "4433247",
+   "name": "Jonathan Kuminga",
+   "nba_team": "MIN",
+   "positions": [
+    "SF",
+    "PF"
+   ],
+   "slot": "BE",
+   "status": "ACTIVE",
+   "value": 26.2
+  },
+  "4433249": {
+   "fantasy_team": null,
+   "id": "4433249",
+   "name": "Moussa Diabate",
+   "nba_team": "CHA",
+   "positions": [
+    "PF",
+    "C"
+   ],
+   "slot": "",
+   "status": "DAY_TO_DAY",
+   "value": 24.0
+  },
+  "4433255": {
+   "fantasy_team": "Lakers x Bortolan 23",
+   "id": "4433255",
+   "name": "Chet Holmgren",
+   "nba_team": "OKC",
+   "positions": [
+    "PF",
+    "C"
+   ],
+   "slot": "C",
+   "status": "DAY_TO_DAY",
+   "value": 37.9
+  },
+  "4433287": {
+   "fantasy_team": "Tropa do Nikola",
+   "id": "4433287",
+   "name": "Brandon Miller",
+   "nba_team": "CHA",
+   "positions": [
+    "SG",
+    "SF"
+   ],
+   "slot": "SF",
+   "status": "ACTIVE",
+   "value": 37.4
+  },
+  "4433569": {
+   "fantasy_team": null,
+   "id": "4433569",
+   "name": "Johni Broome",
+   "nba_team": "FA",
+   "positions": [
+    "PF"
+   ],
+   "slot": "",
+   "status": "ACTIVE",
+   "value": 7.0
+  },
+  "4433621": {
+   "fantasy_team": "Coringas do Gansola",
+   "id": "4433621",
+   "name": "Jalen Duren",
+   "nba_team": "DET",
+   "positions": [
+    "C"
+   ],
+   "slot": "C",
+   "status": "ACTIVE",
+   "value": 42.2
+  },
+  "4433627": {
+   "fantasy_team": "Lebron GOAT",
+   "id": "4433627",
+   "name": "Keyonte George",
+   "nba_team": "UTA",
+   "positions": [
+    "PG",
+    "SG"
+   ],
+   "slot": "UT",
+   "status": "ACTIVE",
+   "value": 36.8
+  },
+  "4433629": {
+   "fantasy_team": null,
+   "id": "4433629",
+   "name": "Ryan Nembhard",
+   "nba_team": "DEN",
+   "positions": [
+    "PG",
+    "SG"
+   ],
+   "slot": "",
+   "status": "ACTIVE",
+   "value": 0.0
+  },
+  "4437244": {
+   "fantasy_team": "Tiki Taka Laranja",
+   "id": "4437244",
+   "name": "Jalen Green",
+   "nba_team": "PHO",
+   "positions": [
+    "SG",
+    "SF"
+   ],
+   "slot": "UT",
+   "status": "ACTIVE",
+   "value": 32.4
+  },
+  "4566434": {
+   "fantasy_team": "King Coopa",
+   "id": "4566434",
+   "name": "Franz Wagner",
+   "nba_team": "ORL",
+   "positions": [
+    "SF",
+    "PF"
+   ],
+   "slot": "PF",
+   "status": "DAY_TO_DAY",
+   "value": 38.6
+  },
+  "4576060": {
+   "fantasy_team": null,
+   "id": "4576060",
+   "name": "Ryan Kalkbrenner",
+   "nba_team": "CHA",
+   "positions": [
+    "C"
+   ],
+   "slot": "",
+   "status": "ACTIVE",
+   "value": 22.8
+  },
+  "4576087": {
+   "fantasy_team": "Caxias French Fries",
+   "id": "4576087",
+   "name": "Peyton Watson",
+   "nba_team": "CLE",
+   "positions": [
+    "SF",
+    "PF"
+   ],
+   "slot": "UT",
+   "status": "ACTIVE",
+   "value": 29.2
+  },
+  "4578893": {
+   "fantasy_team": null,
+   "id": "4578893",
+   "name": "Vit Krejci",
+   "nba_team": "POR",
+   "positions": [
+    "PG"
+   ],
+   "slot": "",
+   "status": "ACTIVE",
+   "value": 22.9
+  },
+  "4591259": {
+   "fantasy_team": null,
+   "id": "4591259",
+   "name": "Koby Brea",
+   "nba_team": "PHO",
+   "positions": [
+    "SG"
+   ],
+   "slot": "",
+   "status": "ACTIVE",
+   "value": 8.8
+  },
+  "4591725": {
+   "fantasy_team": "CCCP  Баскетбол",
+   "id": "4591725",
+   "name": "Ryan Rollins",
+   "nba_team": "MIL",
+   "positions": [
+    "PG",
+    "SG"
+   ],
+   "slot": "UT",
+   "status": "ACTIVE",
+   "value": 31.9
+  },
+  "4592479": {
+   "fantasy_team": "Lucky",
+   "id": "4592479",
+   "name": "Julian Champagnie",
+   "nba_team": "SAS",
+   "positions": [
+    "SF",
+    "PF"
+   ],
+   "slot": "UT",
+   "status": "ACTIVE",
+   "value": 23.3
+  },
+  "4592492": {
+   "fantasy_team": null,
+   "id": "4592492",
+   "name": "Bones Hyland",
+   "nba_team": "MIN",
+   "positions": [
+    "PG"
+   ],
+   "slot": "",
+   "status": "ACTIVE",
+   "value": 17.1
+  },
+  "4592691": {
+   "fantasy_team": "CCCP  Баскетбол",
+   "id": "4592691",
+   "name": "Jake LaRavia",
+   "nba_team": "LAL",
+   "positions": [
+    "SF",
+    "PF"
+   ],
+   "slot": "BE",
+   "status": "ACTIVE",
+   "value": 23.7
+  },
+  "4592714": {
+   "fantasy_team": null,
+   "id": "4592714",
+   "name": "Pat Spencer",
+   "nba_team": "PHO",
+   "positions": [
+    "PG",
+    "SG"
+   ],
+   "slot": "",
+   "status": "ACTIVE",
+   "value": 0.0
+  },
+  "4592829": {
+   "fantasy_team": null,
+   "id": "4592829",
+   "name": "Quenton Jackson",
+   "nba_team": "IND",
+   "positions": [
+    "PG",
+    "SG"
+   ],
+   "slot": "",
+   "status": "ACTIVE",
+   "value": 0.0
+  },
+  "4593125": {
+   "fantasy_team": null,
+   "id": "4593125",
+   "name": "Santi Aldama",
+   "nba_team": "DAL",
+   "positions": [
+    "SF",
+    "PF"
+   ],
+   "slot": "",
+   "status": "DAY_TO_DAY",
+   "value": 25.0
+  },
+  "4593803": {
+   "fantasy_team": "Tiki Taka Laranja",
+   "id": "4593803",
+   "name": "Jalen Williams",
+   "nba_team": "OKC",
+   "positions": [
+    "SF",
+    "PF"
+   ],
+   "slot": "SF",
+   "status": "ACTIVE",
+   "value": 41.0
+  },
+  "4593841": {
+   "fantasy_team": null,
+   "id": "4593841",
+   "name": "Baylor Scheierman",
+   "nba_team": "BOS",
+   "positions": [
+    "SG"
+   ],
+   "slot": "",
+   "status": "ACTIVE",
+   "value": 19.2
+  },
+  "4594268": {
+   "fantasy_team": "Bull Market",
+   "id": "4594268",
+   "name": "Anthony Edwards",
+   "nba_team": "MIN",
+   "positions": [
+    "SG",
+    "SF"
+   ],
+   "slot": "SG",
+   "status": "ACTIVE",
+   "value": 47.2
+  },
+  "4594326": {
+   "fantasy_team": null,
+   "id": "4594326",
+   "name": "Kris Murray",
+   "nba_team": "MEM",
+   "positions": [
+    "PF"
+   ],
+   "slot": "",
+   "status": "ACTIVE",
+   "value": 14.6
+  },
+  "4594327": {
+   "fantasy_team": "Tiki Taka Laranja",
+   "id": "4594327",
+   "name": "Keegan Murray",
+   "nba_team": "SAC",
+   "positions": [
+    "SF",
+    "PF"
+   ],
+   "slot": "BE",
+   "status": "ACTIVE",
+   "value": 29.3
+  },
+  "4595400": {
+   "fantasy_team": null,
+   "id": "4595400",
+   "name": "Olivier-Maxence Prosper",
+   "nba_team": "MEM",
+   "positions": [
+    "PF"
+   ],
+   "slot": "",
+   "status": "ACTIVE",
+   "value": 16.9
+  },
+  "4600663": {
+   "fantasy_team": "Tropa do Nikola",
+   "id": "4600663",
+   "name": "Zach Edey",
+   "nba_team": "MEM",
+   "positions": [
+    "C"
+   ],
+   "slot": "UT",
+   "status": "ACTIVE",
+   "value": 33.2
+  },
+  "4601023": {
+   "fantasy_team": "Lebron GOAT",
+   "id": "4601023",
+   "name": "Oso Ighodaro",
+   "nba_team": "PHO",
+   "positions": [
+    "PF"
+   ],
+   "slot": "UT",
+   "status": "DAY_TO_DAY",
+   "value": 25.3
+  },
+  "4601025": {
+   "fantasy_team": "Lebron GOAT",
+   "id": "4601025",
+   "name": "Pelle Larsson",
+   "nba_team": "MIA",
+   "positions": [
+    "SG",
+    "SF"
+   ],
+   "slot": "BE",
+   "status": "DAY_TO_DAY",
+   "value": 0.0
+  },
+  "4610139": {
+   "fantasy_team": null,
+   "id": "4610139",
+   "name": "Jeremy Sochan",
+   "nba_team": "FA",
+   "positions": [
+    "PF"
+   ],
+   "slot": "",
+   "status": "ACTIVE",
+   "value": 19.4
+  },
+  "4683021": {
+   "fantasy_team": "Contagem Hunters",
+   "id": "4683021",
+   "name": "Deni Avdija",
+   "nba_team": "POR",
+   "positions": [
+    "SF",
+    "PF"
+   ],
+   "slot": "PF",
+   "status": "ACTIVE",
+   "value": 40.4
+  },
+  "4683024": {
+   "fantasy_team": null,
+   "id": "4683024",
+   "name": "Killian Hayes",
+   "nba_team": "FA",
+   "positions": [
+    "PG"
+   ],
+   "slot": "",
+   "status": "ACTIVE",
+   "value": 0.0
+  },
+  "4683634": {
+   "fantasy_team": "Fernando  Diniz",
+   "id": "4683634",
+   "name": "Bennedict Mathurin",
+   "nba_team": "NOP",
+   "positions": [
+    "SG",
+    "SF"
+   ],
+   "slot": "BE",
+   "status": "ACTIVE",
+   "value": 25.1
+  },
+  "4683678": {
+   "fantasy_team": null,
+   "id": "4683678",
+   "name": "Scoot Henderson",
+   "nba_team": "POR",
+   "positions": [
+    "PG",
+    "SG"
+   ],
+   "slot": "",
+   "status": "ACTIVE",
+   "value": 25.4
+  },
+  "4683688": {
+   "fantasy_team": "Polga Silva",
+   "id": "4683688",
+   "name": "Dereck Lively II",
+   "nba_team": "DAL",
+   "positions": [
+    "C"
+   ],
+   "slot": "UT",
+   "status": "DAY_TO_DAY",
+   "value": 27.4
+  },
+  "4683689": {
+   "fantasy_team": null,
+   "id": "4683689",
+   "name": "Jordan Walsh",
+   "nba_team": "BOS",
+   "positions": [
+    "SF"
+   ],
+   "slot": "",
+   "status": "ACTIVE",
+   "value": 18.6
+  },
+  "4683692": {
+   "fantasy_team": "Fernando  Diniz",
+   "id": "4683692",
+   "name": "Cason Wallace",
+   "nba_team": "OKC",
+   "positions": [
+    "PG",
+    "SG"
+   ],
+   "slot": "BE",
+   "status": "DAY_TO_DAY",
+   "value": 24.1
+  },
+  "4683747": {
+   "fantasy_team": null,
+   "id": "4683747",
+   "name": "Jaylon Tyson",
+   "nba_team": "CLE",
+   "positions": [
+    "SG",
+    "SF"
+   ],
+   "slot": "",
+   "status": "ACTIVE",
+   "value": 25.6
+  },
+  "4683750": {
+   "fantasy_team": null,
+   "id": "4683750",
+   "name": "Jordan Hawkins",
+   "nba_team": "CHI",
+   "positions": [
+    "SG"
+   ],
+   "slot": "",
+   "status": "ACTIVE",
+   "value": 10.0
+  },
+  "4683766": {
+   "fantasy_team": null,
+   "id": "4683766",
+   "name": "Isaiah Collier",
+   "nba_team": "UTA",
+   "positions": [
+    "PG"
+   ],
+   "slot": "",
+   "status": "ACTIVE",
+   "value": 24.6
+  },
+  "4683771": {
+   "fantasy_team": null,
+   "id": "4683771",
+   "name": "Ronald Holland II",
+   "nba_team": "DET",
+   "positions": [
+    "SF",
+    "PF"
+   ],
+   "slot": "",
+   "status": "ACTIVE",
+   "value": 16.1
+  },
+  "4683774": {
+   "fantasy_team": null,
+   "id": "4683774",
+   "name": "Bronny James",
+   "nba_team": "LAL",
+   "positions": [
+    "PG",
+    "SG"
+   ],
+   "slot": "",
+   "status": "DAY_TO_DAY",
+   "value": 9.0
+  },
+  "4683778": {
+   "fantasy_team": "Tiki Taka Laranja",
+   "id": "4683778",
+   "name": "Jared McCain",
+   "nba_team": "OKC",
+   "positions": [
+    "PG",
+    "SG"
+   ],
+   "slot": "UT",
+   "status": "ACTIVE",
+   "value": 20.2
+  },
+  "4684272": {
+   "fantasy_team": null,
+   "id": "4684272",
+   "name": "Ja'Kobe Walter",
+   "nba_team": "TOR",
+   "positions": [
+    "SG"
+   ],
+   "slot": "",
+   "status": "ACTIVE",
+   "value": 17.6
+  },
+  "4684275": {
+   "fantasy_team": null,
+   "id": "4684275",
+   "name": "Rob Dillingham",
+   "nba_team": "FA",
+   "positions": [
+    "PG"
+   ],
+   "slot": "",
+   "status": "DAY_TO_DAY",
+   "value": 16.5
+  },
+  "4684740": {
+   "fantasy_team": "King Coopa",
+   "id": "4684740",
+   "name": "Amen Thompson",
+   "nba_team": "HOU",
+   "positions": [
+    "SG",
+    "SF"
+   ],
+   "slot": "UT",
+   "status": "ACTIVE",
+   "value": 40.0
+  },
+  "4684742": {
+   "fantasy_team": "Tropa do Nikola",
+   "id": "4684742",
+   "name": "Ausar Thompson",
+   "nba_team": "DET",
+   "positions": [
+    "SF",
+    "PF"
+   ],
+   "slot": "UT",
+   "status": "ACTIVE",
+   "value": 30.8
+  },
+  "4684793": {
+   "fantasy_team": "Lucky",
+   "id": "4684793",
+   "name": "Kyle Filipowski",
+   "nba_team": "UTA",
+   "positions": [
+    "PF",
+    "C"
+   ],
+   "slot": "BE",
+   "status": "DAY_TO_DAY",
+   "value": 24.9
+  },
+  "4684806": {
+   "fantasy_team": null,
+   "id": "4684806",
+   "name": "Taylor Hendricks",
+   "nba_team": "MEM",
+   "positions": [
+    "PF"
+   ],
+   "slot": "",
+   "status": "ACTIVE",
+   "value": 0.0
+  },
+  "4698719": {
+   "fantasy_team": null,
+   "id": "4698719",
+   "name": "Trevon Brazile",
+   "nba_team": "DEN",
+   "positions": [
+    "SF",
+    "PF"
+   ],
+   "slot": "",
+   "status": "ACTIVE",
+   "value": 0.0
+  },
+  "4701230": {
+   "fantasy_team": "Lakers x Bortolan 23",
+   "id": "4701230",
+   "name": "Jalen Johnson",
+   "nba_team": "ATL",
+   "positions": [
+    "PF"
+   ],
+   "slot": "PF",
+   "status": "ACTIVE",
+   "value": 50.0
+  },
+  "4701232": {
+   "fantasy_team": null,
+   "id": "4701232",
+   "name": "Mark Williams",
+   "nba_team": "PHO",
+   "positions": [
+    "C"
+   ],
+   "slot": "",
+   "status": "OUT",
+   "value": 31.0
+  },
+  "4702177": {
+   "fantasy_team": null,
+   "id": "4702177",
+   "name": "Keon Ellis",
+   "nba_team": "BKN",
+   "positions": [
+    "SG",
+    "SF"
+   ],
+   "slot": "",
+   "status": "ACTIVE",
+   "value": 18.1
+  },
+  "4702382": {
+   "fantasy_team": null,
+   "id": "4702382",
+   "name": "Tristan da Silva",
+   "nba_team": "ORL",
+   "positions": [
+    "SF",
+    "PF"
+   ],
+   "slot": "",
+   "status": "ACTIVE",
+   "value": 17.2
+  },
+  "4702384": {
+   "fantasy_team": null,
+   "id": "4702384",
+   "name": "Nique Clifford",
+   "nba_team": "SAC",
+   "positions": [
+    "SG",
+    "SF"
+   ],
+   "slot": "",
+   "status": "ACTIVE",
+   "value": 20.8
+  },
+  "4706557": {
+   "fantasy_team": null,
+   "id": "4706557",
+   "name": "Chris Youngblood",
+   "nba_team": "POR",
+   "positions": [
+    "SG"
+   ],
+   "slot": "",
+   "status": "DAY_TO_DAY",
+   "value": 0.0
+  },
+  "4709138": {
+   "fantasy_team": "CCCP  Баскетбол",
+   "id": "4709138",
+   "name": "Brandin Podziemski",
+   "nba_team": "GSW",
+   "positions": [
+    "PG",
+    "SG"
+   ],
+   "slot": "SG",
+   "status": "DAY_TO_DAY",
+   "value": 30.8
+  },
+  "4711272": {
+   "fantasy_team": "Bull Market",
+   "id": "4711272",
+   "name": "Reed Sheppard",
+   "nba_team": "HOU",
+   "positions": [
+    "PG",
+    "SG"
+   ],
+   "slot": "UT",
+   "status": "ACTIVE",
+   "value": 29.9
+  },
+  "4711294": {
+   "fantasy_team": "Fernando  Diniz",
+   "id": "4711294",
+   "name": "Matas Buzelis",
+   "nba_team": "CHI",
+   "positions": [
+    "SF",
+    "PF"
+   ],
+   "slot": "UT",
+   "status": "ACTIVE",
+   "value": 32.5
+  },
+  "4711297": {
+   "fantasy_team": null,
+   "id": "4711297",
+   "name": "Justin Edwards",
+   "nba_team": "PHL",
+   "positions": [
+    "SF"
+   ],
+   "slot": "",
+   "status": "ACTIVE",
+   "value": 0.0
+  },
+  "4712849": {
+   "fantasy_team": "Contagem Hunters",
+   "id": "4712849",
+   "name": "Anthony Black",
+   "nba_team": "ORL",
+   "positions": [
+    "PG",
+    "SG"
+   ],
+   "slot": "BE",
+   "status": "DAY_TO_DAY",
+   "value": 28.2
+  },
+  "4712863": {
+   "fantasy_team": null,
+   "id": "4712863",
+   "name": "Mouhamed Gueye",
+   "nba_team": "ATL",
+   "positions": [
+    "PF"
+   ],
+   "slot": "",
+   "status": "OUT",
+   "value": 14.2
+  },
+  "4712896": {
+   "fantasy_team": null,
+   "id": "4712896",
+   "name": "Noah Clowney",
+   "nba_team": "BKN",
+   "positions": [
+    "PF"
+   ],
+   "slot": "",
+   "status": "ACTIVE",
+   "value": 15.4
+  },
+  "4845367": {
+   "fantasy_team": "King Coopa",
+   "id": "4845367",
+   "name": "Stephon Castle",
+   "nba_team": "SAS",
+   "positions": [
+    "PG",
+    "SG"
+   ],
+   "slot": "UT",
+   "status": "ACTIVE",
+   "value": 36.9
+  },
+  "4845374": {
+   "fantasy_team": null,
+   "id": "4845374",
+   "name": "Bub Carrington",
+   "nba_team": "WAS",
+   "positions": [
+    "PG",
+    "SG"
+   ],
+   "slot": "",
+   "status": "ACTIVE",
+   "value": 20.1
+  },
+  "4848625": {
+   "fantasy_team": null,
+   "id": "4848625",
+   "name": "Dailyn Swain",
+   "nba_team": "CHI",
+   "positions": [
+    "SF"
+   ],
+   "slot": "",
+   "status": "ACTIVE",
+   "value": 0.0
+  },
+  "4868423": {
+   "fantasy_team": null,
+   "id": "4868423",
+   "name": "Jaden Hardy",
+   "nba_team": "LAL",
+   "positions": [
+    "SG"
+   ],
+   "slot": "",
+   "status": "ACTIVE",
+   "value": 12.0
+  },
+  "4869342": {
+   "fantasy_team": "King Coopa",
+   "id": "4869342",
+   "name": "Dyson Daniels",
+   "nba_team": "ATL",
+   "positions": [
+    "PG",
+    "SG"
+   ],
+   "slot": "PG",
+   "status": "ACTIVE",
+   "value": 35.6
+  },
+  "4869780": {
+   "fantasy_team": "Lucky",
+   "id": "4869780",
+   "name": "Derik Queen",
+   "nba_team": "NOP",
+   "positions": [
+    "PF",
+    "C"
+   ],
+   "slot": "PF",
+   "status": "ACTIVE",
+   "value": 30.5
+  },
+  "4870562": {
+   "fantasy_team": null,
+   "id": "4870562",
+   "name": "Dominick Barlow",
+   "nba_team": "PHL",
+   "positions": [
+    "PF",
+    "C"
+   ],
+   "slot": "",
+   "status": "OUT",
+   "value": 0.0
+  },
+  "4870564": {
+   "fantasy_team": null,
+   "id": "4870564",
+   "name": "Joshua Jefferson",
+   "nba_team": "BKN",
+   "positions": [
+    "SF",
+    "PF"
+   ],
+   "slot": "",
+   "status": "ACTIVE",
+   "value": 0.0
+  },
+  "4871144": {
+   "fantasy_team": "Tiki Taka Laranja",
+   "id": "4871144",
+   "name": "Alperen Sengun",
+   "nba_team": "HOU",
+   "positions": [
+    "C"
+   ],
+   "slot": "C",
+   "status": "ACTIVE",
+   "value": 43.0
+  },
+  "4871145": {
+   "fantasy_team": "Lebron GOAT",
+   "id": "4871145",
+   "name": "Josh Giddey",
+   "nba_team": "CHI",
+   "positions": [
+    "PG",
+    "SG"
+   ],
+   "slot": "PG",
+   "status": "ACTIVE",
+   "value": 46.2
+  },
+  "4873090": {
+   "fantasy_team": null,
+   "id": "4873090",
+   "name": "Labaron Philon Jr.",
+   "nba_team": "PHL",
+   "positions": [
+    "PG",
+    "SG"
+   ],
+   "slot": "",
+   "status": "ACTIVE",
+   "value": 0.0
+  },
+  "4873138": {
+   "fantasy_team": "Bull Market",
+   "id": "4873138",
+   "name": "Ace Bailey",
+   "nba_team": "UTA",
+   "positions": [
+    "SF",
+    "PF"
+   ],
+   "slot": "UT",
+   "status": "ACTIVE",
+   "value": 26.8
+  },
+  "4873153": {
+   "fantasy_team": null,
+   "id": "4873153",
+   "name": "Morez Johnson Jr.",
+   "nba_team": "DAL",
+   "positions": [
+    "PF",
+    "C"
+   ],
+   "slot": "",
+   "status": "ACTIVE",
+   "value": 23.4
+  },
+  "4873201": {
+   "fantasy_team": null,
+   "id": "4873201",
+   "name": "Asa Newell",
+   "nba_team": "ATL",
+   "positions": [
+    "PF"
+   ],
+   "slot": "",
+   "status": "ACTIVE",
+   "value": 13.0
+  },
+  "4888725": {
+   "fantasy_team": null,
+   "id": "4888725",
+   "name": "Ryan Dunn",
+   "nba_team": "PHO",
+   "positions": [
+    "SF",
+    "PF"
+   ],
+   "slot": "",
+   "status": "ACTIVE",
+   "value": 19.2
+  },
+  "4895758": {
+   "fantasy_team": null,
+   "id": "4895758",
+   "name": "Cody Williams",
+   "nba_team": "MIN",
+   "positions": [
+    "SG"
+   ],
+   "slot": "",
+   "status": "ACTIVE",
+   "value": 16.2
+  },
+  "4896372": {
+   "fantasy_team": null,
+   "id": "4896372",
+   "name": "Walter Clayton Jr.",
+   "nba_team": "MEM",
+   "positions": [
+    "PG",
+    "SG"
+   ],
+   "slot": "",
+   "status": "ACTIVE",
+   "value": 23.4
+  },
+  "4897262": {
+   "fantasy_team": null,
+   "id": "4897262",
+   "name": "Will Richard",
+   "nba_team": "GSW",
+   "positions": [
+    "SG",
+    "SF"
+   ],
+   "slot": "",
+   "status": "ACTIVE",
+   "value": 0.0
+  },
+  "4897943": {
+   "fantasy_team": null,
+   "id": "4897943",
+   "name": "Dalton Knecht",
+   "nba_team": "LAL",
+   "positions": [
+    "SG",
+    "SF"
+   ],
+   "slot": "",
+   "status": "ACTIVE",
+   "value": 9.1
+  },
+  "4898371": {
+   "fantasy_team": null,
+   "id": "4898371",
+   "name": "Maxime Raynaud",
+   "nba_team": "SAC",
+   "positions": [
+    "C"
+   ],
+   "slot": "",
+   "status": "OUT",
+   "value": 0.0
+  },
+  "4900671": {
+   "fantasy_team": "Tropa do Nikola",
+   "id": "4900671",
+   "name": "Ajay Mitchell",
+   "nba_team": "OKC",
+   "positions": [
+    "PG",
+    "SG"
+   ],
+   "slot": "PG",
+   "status": "ACTIVE",
+   "value": 25.2
+  },
+  "4903027": {
+   "fantasy_team": "Polga Silva",
+   "id": "4903027",
+   "name": "Cedric Coward",
+   "nba_team": "MEM",
+   "positions": [
+    "SG",
+    "SF"
+   ],
+   "slot": "SF",
+   "status": "ACTIVE",
+   "value": 29.7
+  },
+  "4914336": {
+   "fantasy_team": null,
+   "id": "4914336",
+   "name": "Shaedon Sharpe",
+   "nba_team": "POR",
+   "positions": [
+    "SG",
+    "SF"
+   ],
+   "slot": "",
+   "status": "OUT",
+   "value": 24.8
+  },
+  "4917149": {
+   "fantasy_team": null,
+   "id": "4917149",
+   "name": "Alex Karaban",
+   "nba_team": "SAC",
+   "positions": [
+    "SF",
+    "PF"
+   ],
+   "slot": "",
+   "status": "ACTIVE",
+   "value": 0.0
+  },
+  "4997526": {
+   "fantasy_team": null,
+   "id": "4997526",
+   "name": "Ousmane Dieng",
+   "nba_team": "MIL",
+   "positions": [
+    "SF"
+   ],
+   "slot": "",
+   "status": "ACTIVE",
+   "value": 0.0
+  },
+  "4997528": {
+   "fantasy_team": "Lakers x Bortolan 23",
+   "id": "4997528",
+   "name": "Nikola Jovic",
+   "nba_team": "MIA",
+   "positions": [
+    "PF"
+   ],
+   "slot": "UT",
+   "status": "ACTIVE",
+   "value": 19.1
+  },
+  "4997536": {
+   "fantasy_team": "Bull Market",
+   "id": "4997536",
+   "name": "Gui Santos",
+   "nba_team": "GSW",
+   "positions": [
+    "SF"
+   ],
+   "slot": "UT",
+   "status": "ACTIVE",
+   "value": 19.7
+  },
+  "4997537": {
+   "fantasy_team": null,
+   "id": "4997537",
+   "name": "Tristan Vukcevic",
+   "nba_team": "WAS",
+   "positions": [
+    "PF"
+   ],
+   "slot": "",
+   "status": "OUT",
+   "value": 16.9
+  },
+  "5023693": {
+   "fantasy_team": null,
+   "id": "5023693",
+   "name": "Tyrese Proctor",
+   "nba_team": "CLE",
+   "positions": [
+    "SG"
+   ],
+   "slot": "",
+   "status": "ACTIVE",
+   "value": 0.0
+  },
+  "5037871": {
+   "fantasy_team": "Tiki Taka Laranja",
+   "id": "5037871",
+   "name": "Dylan Harper",
+   "nba_team": "SAS",
+   "positions": [
+    "PG",
+    "SG"
+   ],
+   "slot": "SG",
+   "status": "ACTIVE",
+   "value": 32.3
+  },
+  "5041935": {
+   "fantasy_team": "BL0CK BY ZION",
+   "id": "5041935",
+   "name": "Cameron Boozer",
+   "nba_team": "MEM",
+   "positions": [
+    "PF"
+   ],
+   "slot": "UT",
+   "status": "ACTIVE",
+   "value": 34.3
+  },
+  "5041939": {
+   "fantasy_team": "King Coopa",
+   "id": "5041939",
+   "name": "Cooper Flagg",
+   "nba_team": "DAL",
+   "positions": [
+    "SF",
+    "PF"
+   ],
+   "slot": "SF",
+   "status": "ACTIVE",
+   "value": 45.4
+  },
+  "5041951": {
+   "fantasy_team": "Lakers x Bortolan 23",
+   "id": "5041951",
+   "name": "Meleek Thomas",
+   "nba_team": "CLE",
+   "positions": [
+    "SG"
+   ],
+   "slot": "BE",
+   "status": "ACTIVE",
+   "value": 0.0
+  },
+  "5041953": {
+   "fantasy_team": null,
+   "id": "5041953",
+   "name": "Koa Peat",
+   "nba_team": "PHO",
+   "positions": [
+    "PF"
+   ],
+   "slot": "",
+   "status": "ACTIVE",
+   "value": 0.0
+  },
+  "5041955": {
+   "fantasy_team": "Coringas do Gansola",
+   "id": "5041955",
+   "name": "Darryn Peterson",
+   "nba_team": "UTA",
+   "positions": [
+    "PG",
+    "SG"
+   ],
+   "slot": "UT",
+   "status": "ACTIVE",
+   "value": 29.1
+  },
+  "5044385": {
+   "fantasy_team": null,
+   "id": "5044385",
+   "name": "Leonard Miller",
+   "nba_team": "CHI",
+   "positions": [
+    "SF"
+   ],
+   "slot": "",
+   "status": "ACTIVE",
+   "value": 13.8
+  },
+  "5060701": {
+   "fantasy_team": null,
+   "id": "5060701",
+   "name": "Christian Anderson",
+   "nba_team": "CHA",
+   "positions": [
+    "PG"
+   ],
+   "slot": "",
+   "status": "ACTIVE",
+   "value": 0.0
+  },
+  "5061568": {
+   "fantasy_team": null,
+   "id": "5061568",
+   "name": "Carter Bryant",
+   "nba_team": "SAS",
+   "positions": [
+    "SF"
+   ],
+   "slot": "",
+   "status": "ACTIVE",
+   "value": 0.0
+  },
+  "5061575": {
+   "fantasy_team": "Coringas do Gansola",
+   "id": "5061575",
+   "name": "Kon Knueppel",
+   "nba_team": "CHA",
+   "positions": [
+    "SG",
+    "SF"
+   ],
+   "slot": "SG",
+   "status": "DAY_TO_DAY",
+   "value": 35.2
+  },
+  "5061585": {
+   "fantasy_team": null,
+   "id": "5061585",
+   "name": "Isaiah Evans",
+   "nba_team": "MIN",
+   "positions": [
+    "SG"
+   ],
+   "slot": "",
+   "status": "ACTIVE",
+   "value": 0.0
+  },
+  "5061589": {
+   "fantasy_team": null,
+   "id": "5061589",
+   "name": "Yves Missi",
+   "nba_team": "NOP",
+   "positions": [
+    "C"
+   ],
+   "slot": "",
+   "status": "ACTIVE",
+   "value": 24.7
+  },
+  "5061603": {
+   "fantasy_team": null,
+   "id": "5061603",
+   "name": "Thomas Sorber",
+   "nba_team": "OKC",
+   "positions": [
+    "C"
+   ],
+   "slot": "",
+   "status": "DAY_TO_DAY",
+   "value": 0.0
+  },
+  "5075626": {
+   "fantasy_team": null,
+   "id": "5075626",
+   "name": "Baba Miller",
+   "nba_team": "LAC",
+   "positions": [
+    "PF"
+   ],
+   "slot": "",
+   "status": "ACTIVE",
+   "value": 0.0
+  },
+  "5081727": {
+   "fantasy_team": null,
+   "id": "5081727",
+   "name": "Sidy Cissoko",
+   "nba_team": "POR",
+   "positions": [
+    "SG"
+   ],
+   "slot": "",
+   "status": "ACTIVE",
+   "value": 10.6
+  },
+  "5082206": {
+   "fantasy_team": null,
+   "id": "5082206",
+   "name": "Brayden Burries",
+   "nba_team": "MIL",
+   "positions": [
+    "SG"
+   ],
+   "slot": "",
+   "status": "ACTIVE",
+   "value": 22.2
+  },
+  "5093267": {
+   "fantasy_team": "King Coopa",
+   "id": "5093267",
+   "name": "Collin Murray-Boyles",
+   "nba_team": "TOR",
+   "positions": [
+    "PF"
+   ],
+   "slot": "BE",
+   "status": "ACTIVE",
+   "value": 24.8
+  },
+  "5095151": {
+   "fantasy_team": "BL0CK BY ZION",
+   "id": "5095151",
+   "name": "Caleb Wilson",
+   "nba_team": "CHI",
+   "positions": [
+    "SF"
+   ],
+   "slot": "UT",
+   "status": "ACTIVE",
+   "value": 34.9
+  },
+  "5099752": {
+   "fantasy_team": null,
+   "id": "5099752",
+   "name": "Rayan Rupert",
+   "nba_team": "PHL",
+   "positions": [
+    "SG"
+   ],
+   "slot": "",
+   "status": "ACTIVE",
+   "value": 11.0
+  },
+  "5101761": {
+   "fantasy_team": "Contagem Hunters",
+   "id": "5101761",
+   "name": "Mikel Brown Jr.",
+   "nba_team": "BKN",
+   "positions": [
+    "PG"
+   ],
+   "slot": "BE",
+   "status": "ACTIVE",
+   "value": 24.0
+  },
+  "5101845": {
+   "fantasy_team": null,
+   "id": "5101845",
+   "name": "Jayden Quaintance",
+   "nba_team": "SAS",
+   "positions": [
+    "PF",
+    "C"
+   ],
+   "slot": "",
+   "status": "OUT",
+   "value": 0.0
+  },
+  "5104155": {
+   "fantasy_team": null,
+   "id": "5104155",
+   "name": "Bilal Coulibaly",
+   "nba_team": "WAS",
+   "positions": [
+    "SG",
+    "SF"
+   ],
+   "slot": "",
+   "status": "ACTIVE",
+   "value": 23.0
+  },
+  "5104157": {
+   "fantasy_team": "CCCP  Баскетбол",
+   "id": "5104157",
+   "name": "Victor Wembanyama",
+   "nba_team": "SAS",
+   "positions": [
+    "C"
+   ],
+   "slot": "C",
+   "status": "ACTIVE",
+   "value": 60.5
+  },
+  "5105550": {
+   "fantasy_team": null,
+   "id": "5105550",
+   "name": "GG Jackson",
+   "nba_team": "MEM",
+   "positions": [
+    "PF"
+   ],
+   "slot": "",
+   "status": "DAY_TO_DAY",
+   "value": 23.3
+  },
+  "5105565": {
+   "fantasy_team": "Polga Silva",
+   "id": "5105565",
+   "name": "Donovan Clingan",
+   "nba_team": "POR",
+   "positions": [
+    "C"
+   ],
+   "slot": "UT",
+   "status": "ACTIVE",
+   "value": 33.9
+  },
+  "5105592": {
+   "fantasy_team": null,
+   "id": "5105592",
+   "name": "Cam Whitmore",
+   "nba_team": "DEN",
+   "positions": [
+    "SF",
+    "PF"
+   ],
+   "slot": "",
+   "status": "ACTIVE",
+   "value": 0.0
+  },
+  "5105623": {
+   "fantasy_team": "Lebron GOAT",
+   "id": "5105623",
+   "name": "Kel'el Ware",
+   "nba_team": "MIL",
+   "positions": [
+    "C"
+   ],
+   "slot": "UT",
+   "status": "ACTIVE",
+   "value": 33.8
+  },
+  "5105637": {
+   "fantasy_team": null,
+   "id": "5105637",
+   "name": "Adem Bona",
+   "nba_team": "PHL",
+   "positions": [
+    "C"
+   ],
+   "slot": "",
+   "status": "DAY_TO_DAY",
+   "value": 15.3
+  },
+  "5105809": {
+   "fantasy_team": null,
+   "id": "5105809",
+   "name": "Tarris Reed Jr.",
+   "nba_team": "SAS",
+   "positions": [
+    "C"
+   ],
+   "slot": "",
+   "status": "ACTIVE",
+   "value": 0.0
+  },
+  "5105837": {
+   "fantasy_team": null,
+   "id": "5105837",
+   "name": "Bruce Thornton",
+   "nba_team": "HOU",
+   "positions": [
+    "PG"
+   ],
+   "slot": "",
+   "status": "ACTIVE",
+   "value": 0.0
+  },
+  "5105839": {
+   "fantasy_team": null,
+   "id": "5105839",
+   "name": "Brice Sensabaugh",
+   "nba_team": "UTA",
+   "positions": [
+    "SG",
+    "SF"
+   ],
+   "slot": "",
+   "status": "ACTIVE",
+   "value": 20.6
+  },
+  "5105854": {
+   "fantasy_team": null,
+   "id": "5105854",
+   "name": "Braden Smith",
+   "nba_team": "IND",
+   "positions": [
+    "PG"
+   ],
+   "slot": "",
+   "status": "ACTIVE",
+   "value": 0.0
+  },
+  "5106060": {
+   "fantasy_team": null,
+   "id": "5106060",
+   "name": "Jarace Walker",
+   "nba_team": "IND",
+   "positions": [
+    "SF",
+    "PF"
+   ],
+   "slot": "",
+   "status": "DAY_TO_DAY",
+   "value": 16.5
+  },
+  "5106258": {
+   "fantasy_team": null,
+   "id": "5106258",
+   "name": "Gradey Dick",
+   "nba_team": "LAC",
+   "positions": [
+    "SG",
+    "SF"
+   ],
+   "slot": "",
+   "status": "ACTIVE",
+   "value": 19.5
+  },
+  "5106262": {
+   "fantasy_team": null,
+   "id": "5106262",
+   "name": "Zuby Ejiofor",
+   "nba_team": "ATL",
+   "positions": [
+    "PF"
+   ],
+   "slot": "",
+   "status": "ACTIVE",
+   "value": 0.0
+  },
+  "5107157": {
+   "fantasy_team": null,
+   "id": "5107157",
+   "name": "Ryan Conwell",
+   "nba_team": "MIA",
+   "positions": [
+    "SG"
+   ],
+   "slot": "",
+   "status": "ACTIVE",
+   "value": 0.0
+  },
+  "5107173": {
+   "fantasy_team": "Polga Silva",
+   "id": "5107173",
+   "name": "Danny Wolf",
+   "nba_team": "BKN",
+   "positions": [
+    "PF",
+    "C"
+   ],
+   "slot": "UT",
+   "status": "ACTIVE",
+   "value": 24.7
+  },
+  "5107199": {
+   "fantasy_team": null,
+   "id": "5107199",
+   "name": "Daniss Jenkins",
+   "nba_team": "DET",
+   "positions": [
+    "PG"
+   ],
+   "slot": "",
+   "status": "ACTIVE",
+   "value": 0.0
+  },
+  "5107897": {
+   "fantasy_team": null,
+   "id": "5107897",
+   "name": "Jonathan Mogbo",
+   "nba_team": "SAC",
+   "positions": [
+    "PF"
+   ],
+   "slot": "",
+   "status": "ACTIVE",
+   "value": 11.3
+  },
+  "5108024": {
+   "fantasy_team": null,
+   "id": "5108024",
+   "name": "Yanic Konan Niederhauser",
+   "nba_team": "LAC",
+   "positions": [
+    "C"
+   ],
+   "slot": "",
+   "status": "OUT",
+   "value": 0.0
+  },
+  "5112087": {
+   "fantasy_team": null,
+   "id": "5112087",
+   "name": "Jaylen Wells",
+   "nba_team": "MEM",
+   "positions": [
+    "SG",
+    "SF"
+   ],
+   "slot": "",
+   "status": "ACTIVE",
+   "value": 19.3
+  },
+  "5113969": {
+   "fantasy_team": null,
+   "id": "5113969",
+   "name": "Cameron Carr",
+   "nba_team": "LAL",
+   "positions": [
+    "SG",
+    "SF"
+   ],
+   "slot": "",
+   "status": "DAY_TO_DAY",
+   "value": 0.0
+  },
+  "5124612": {
+   "fantasy_team": "Caxias French Fries",
+   "id": "5124612",
+   "name": "VJ Edgecombe",
+   "nba_team": "PHL",
+   "positions": [
+    "SG"
+   ],
+   "slot": "UT",
+   "status": "ACTIVE",
+   "value": 33.7
+  },
+  "5142620": {
+   "fantasy_team": "BL0CK BY ZION",
+   "id": "5142620",
+   "name": "Darius Acuff Jr.",
+   "nba_team": "SAC",
+   "positions": [
+    "PG"
+   ],
+   "slot": "UT",
+   "status": "ACTIVE",
+   "value": 30.4
+  },
+  "5142621": {
+   "fantasy_team": null,
+   "id": "5142621",
+   "name": "Chris Cenac Jr.",
+   "nba_team": "BOS",
+   "positions": [
+    "PF",
+    "C"
+   ],
+   "slot": "",
+   "status": "ACTIVE",
+   "value": 0.0
+  },
+  "5142718": {
+   "fantasy_team": "Contagem Hunters",
+   "id": "5142718",
+   "name": "AJ Dybantsa",
+   "nba_team": "WAS",
+   "positions": [
+    "SF"
+   ],
+   "slot": "UT",
+   "status": "DAY_TO_DAY",
+   "value": 32.9
+  },
+  "5144091": {
+   "fantasy_team": "King Coopa",
+   "id": "5144091",
+   "name": "Jeremiah Fears",
+   "nba_team": "NOP",
+   "positions": [
+    "PG",
+    "SG"
+   ],
+   "slot": "UT",
+   "status": "ACTIVE",
+   "value": 27.3
+  },
+  "5144126": {
+   "fantasy_team": null,
+   "id": "5144126",
+   "name": "Will Riley",
+   "nba_team": "WAS",
+   "positions": [
+    "SF"
+   ],
+   "slot": "",
+   "status": "ACTIVE",
+   "value": 0.0
+  },
+  "5149077": {
+   "fantasy_team": null,
+   "id": "5149077",
+   "name": "Kingston Flemings",
+   "nba_team": "ATL",
+   "positions": [
+    "SG",
+    "PG"
+   ],
+   "slot": "",
+   "status": "ACTIVE",
+   "value": 22.2
+  },
+  "5149115": {
+   "fantasy_team": null,
+   "id": "5149115",
+   "name": "Allen Graves",
+   "nba_team": "TOR",
+   "positions": [
+    "SF"
+   ],
+   "slot": "",
+   "status": "ACTIVE",
+   "value": 0.0
+  },
+  "5157066": {
+   "fantasy_team": null,
+   "id": "5157066",
+   "name": "Johnny Furphy",
+   "nba_team": "IND",
+   "positions": [
+    "SG"
+   ],
+   "slot": "",
+   "status": "OUT",
+   "value": 11.6
+  },
+  "5157587": {
+   "fantasy_team": null,
+   "id": "5157587",
+   "name": "Rocco Zikarsky",
+   "nba_team": "MIN",
+   "positions": [
+    "C"
+   ],
+   "slot": "",
+   "status": "DAY_TO_DAY",
+   "value": 0.0
+  },
+  "5159895": {
+   "fantasy_team": null,
+   "id": "5159895",
+   "name": "Yuki Kawamura",
+   "nba_team": "FA",
+   "positions": [
+    "PG"
+   ],
+   "slot": "",
+   "status": "ACTIVE",
+   "value": 0.0
+  },
+  "5159925": {
+   "fantasy_team": null,
+   "id": "5159925",
+   "name": "Nikola Topic",
+   "nba_team": "OKC",
+   "positions": [
+    "PG"
+   ],
+   "slot": "",
+   "status": "DAY_TO_DAY",
+   "value": 0.0
+  },
+  "5160992": {
+   "fantasy_team": "King Coopa",
+   "id": "5160992",
+   "name": "Alex Sarr",
+   "nba_team": "WAS",
+   "positions": [
+    "PF",
+    "C"
+   ],
+   "slot": "C",
+   "status": "ACTIVE",
+   "value": 36.6
+  },
+  "5164559": {
+   "fantasy_team": null,
+   "id": "5164559",
+   "name": "Nate Ament",
+   "nba_team": "MIL",
+   "positions": [
+    "SF"
+   ],
+   "slot": "",
+   "status": "DAY_TO_DAY",
+   "value": 13.5
+  },
+  "5174563": {
+   "fantasy_team": "Caxias French Fries",
+   "id": "5174563",
+   "name": "Kyshawn George",
+   "nba_team": "WAS",
+   "positions": [
+    "SG",
+    "SF"
+   ],
+   "slot": "BE",
+   "status": "ACTIVE",
+   "value": 30.1
+  },
+  "5174983": {
+   "fantasy_team": "Lakers x Bortolan 23",
+   "id": "5174983",
+   "name": "Aday Mara",
+   "nba_team": "OKC",
+   "positions": [
+    "C"
+   ],
+   "slot": "UT",
+   "status": "ACTIVE",
+   "value": 0.0
+  },
+  "5175643": {
+   "fantasy_team": "Fernando  Diniz",
+   "id": "5175643",
+   "name": "Egor Demin",
+   "nba_team": "BKN",
+   "positions": [
+    "PG",
+    "SG"
+   ],
+   "slot": "UT",
+   "status": "ACTIVE",
+   "value": 30.0
+  },
+  "5175647": {
+   "fantasy_team": null,
+   "id": "5175647",
+   "name": "Hugo Gonzalez",
+   "nba_team": "BOS",
+   "positions": [
+    "SF"
+   ],
+   "slot": "",
+   "status": "ACTIVE",
+   "value": 15.8
+  },
+  "5175737": {
+   "fantasy_team": "Fernando  Diniz",
+   "id": "5175737",
+   "name": "Yaxel Lendeborg",
+   "nba_team": "GSW",
+   "positions": [
+    "SF",
+    "PF"
+   ],
+   "slot": "UT",
+   "status": "ACTIVE",
+   "value": 23.5
+  },
+  "5203685": {
+   "fantasy_team": "CCCP  Баскетбол",
+   "id": "5203685",
+   "name": "Khaman Maluach",
+   "nba_team": "PHO",
+   "positions": [
+    "C"
+   ],
+   "slot": "BE",
+   "status": "ACTIVE",
+   "value": 22.1
+  },
+  "5211175": {
+   "fantasy_team": null,
+   "id": "5211175",
+   "name": "Zaccharie Risacher",
+   "nba_team": "DAL",
+   "positions": [
+    "SF"
+   ],
+   "slot": "",
+   "status": "ACTIVE",
+   "value": 20.3
+  },
+  "5211983": {
+   "fantasy_team": null,
+   "id": "5211983",
+   "name": "Pacome Dadiet",
+   "nba_team": "NYK",
+   "positions": [
+    "SF"
+   ],
+   "slot": "",
+   "status": "ACTIVE",
+   "value": 6.3
+  },
+  "5214640": {
+   "fantasy_team": null,
+   "id": "5214640",
+   "name": "Kasparas Jakucionis",
+   "nba_team": "MIL",
+   "positions": [
+    "PG"
+   ],
+   "slot": "",
+   "status": "ACTIVE",
+   "value": 20.2
+  },
+  "5217746": {
+   "fantasy_team": null,
+   "id": "5217746",
+   "name": "Yang Hansen",
+   "nba_team": "POR",
+   "positions": [
+    "C"
+   ],
+   "slot": "",
+   "status": "ACTIVE",
+   "value": 8.9
+  },
+  "5231919": {
+   "fantasy_team": null,
+   "id": "5231919",
+   "name": "Karim Lopez",
+   "nba_team": "MEM",
+   "positions": [
+    "SF"
+   ],
+   "slot": "",
+   "status": "ACTIVE",
+   "value": 0.0
+  },
+  "5238230": {
+   "fantasy_team": null,
+   "id": "5238230",
+   "name": "Tre Johnson",
+   "nba_team": "WAS",
+   "positions": [
+    "SG"
+   ],
+   "slot": "",
+   "status": "ACTIVE",
+   "value": 21.5
+  },
+  "5239561": {
+   "fantasy_team": null,
+   "id": "5239561",
+   "name": "Jase Richardson",
+   "nba_team": "ORL",
+   "positions": [
+    "SG"
+   ],
+   "slot": "",
+   "status": "DAY_TO_DAY",
+   "value": 8.6
+  },
+  "5239590": {
+   "fantasy_team": null,
+   "id": "5239590",
+   "name": "Liam McNeeley",
+   "nba_team": "CHA",
+   "positions": [
+    "SF"
+   ],
+   "slot": "",
+   "status": "ACTIVE",
+   "value": 14.5
+  },
+  "5241364": {
+   "fantasy_team": null,
+   "id": "5241364",
+   "name": "Bennett Stirtz",
+   "nba_team": "OKC",
+   "positions": [
+    "PG"
+   ],
+   "slot": "",
+   "status": "ACTIVE",
+   "value": 0.0
+  },
+  "5242496": {
+   "fantasy_team": null,
+   "id": "5242496",
+   "name": "Noa Essengue",
+   "nba_team": "CHI",
+   "positions": [
+    "PF"
+   ],
+   "slot": "",
+   "status": "ACTIVE",
+   "value": 8.3
+  },
+  "5242502": {
+   "fantasy_team": null,
+   "id": "5242502",
+   "name": "Ben Saraf",
+   "nba_team": "BKN",
+   "positions": [
+    "SG"
+   ],
+   "slot": "",
+   "status": "ACTIVE",
+   "value": 0.0
+  },
+  "5254165": {
+   "fantasy_team": null,
+   "id": "5254165",
+   "name": "Keaton Wagler",
+   "nba_team": "LAC",
+   "positions": [
+    "PG",
+    "SG"
+   ],
+   "slot": "",
+   "status": "ACTIVE",
+   "value": 24.4
+  },
+  "5258459": {
+   "fantasy_team": null,
+   "id": "5258459",
+   "name": "Ebuka Okorie",
+   "nba_team": "DET",
+   "positions": [
+    "SG",
+    "PG"
+   ],
+   "slot": "",
+   "status": "ACTIVE",
+   "value": 0.0
+  },
+  "5279129": {
+   "fantasy_team": null,
+   "id": "5279129",
+   "name": "Sergio de Larrea",
+   "nba_team": "DAL",
+   "positions": [
+    "PG"
+   ],
+   "slot": "",
+   "status": "ACTIVE",
+   "value": 0.0
+  },
+  "5279130": {
+   "fantasy_team": null,
+   "id": "5279130",
+   "name": "Nolan Traore",
+   "nba_team": "BKN",
+   "positions": [
+    "PG"
+   ],
+   "slot": "",
+   "status": "ACTIVE",
+   "value": 21.6
+  },
+  "5279133": {
+   "fantasy_team": null,
+   "id": "5279133",
+   "name": "Joan Beringer",
+   "nba_team": "MIN",
+   "positions": [
+    "C"
+   ],
+   "slot": "",
+   "status": "ACTIVE",
+   "value": 0.0
+  },
+  "5281370": {
+   "fantasy_team": null,
+   "id": "5281370",
+   "name": "Hannes Steinbach",
+   "nba_team": "CHA",
+   "positions": [
+    "PF"
+   ],
+   "slot": "",
+   "status": "ACTIVE",
+   "value": 17.4
+  },
+  "5289900": {
+   "fantasy_team": null,
+   "id": "5289900",
+   "name": "Mohamed Diawara",
+   "nba_team": "NYK",
+   "positions": [
+    "PF"
+   ],
+   "slot": "",
+   "status": "ACTIVE",
+   "value": 7.3
+  },
+  "6430": {
+   "fantasy_team": "Fernando  Diniz",
+   "id": "6430",
+   "name": "Jimmy Butler III",
+   "nba_team": "GSW",
+   "positions": [
+    "SG",
+    "SF"
+   ],
+   "slot": "IR",
+   "status": "OUT",
+   "value": 38.8
+  },
+  "6440": {
+   "fantasy_team": "Tiki Taka Laranja",
+   "id": "6440",
+   "name": "Tobias Harris",
+   "nba_team": "SAS",
+   "positions": [
+    "SF",
+    "PF"
+   ],
+   "slot": "PF",
+   "status": "OUT",
+   "value": 30.1
+  },
+  "6442": {
+   "fantasy_team": "Coringas do Gansola",
+   "id": "6442",
+   "name": "Kyrie Irving",
+   "nba_team": "DAL",
+   "positions": [
+    "PG"
+   ],
+   "slot": "UT",
+   "status": "ACTIVE",
+   "value": 44.2
+  },
+  "6450": {
+   "fantasy_team": "Fernando  Diniz",
+   "id": "6450",
+   "name": "Kawhi Leonard",
+   "nba_team": "TOR",
+   "positions": [
+    "SF",
+    "PF"
+   ],
+   "slot": "UT",
+   "status": "ACTIVE",
+   "value": 45.8
+  },
+  "6475": {
+   "fantasy_team": "Bull Market",
+   "id": "6475",
+   "name": "Klay Thompson",
+   "nba_team": "MIA",
+   "positions": [
+    "SG",
+    "SF"
+   ],
+   "slot": "BE",
+   "status": "ACTIVE",
+   "value": 19.5
+  },
+  "6477": {
+   "fantasy_team": null,
+   "id": "6477",
+   "name": "Jonas Valanciunas",
+   "nba_team": "FA",
+   "positions": [
+    "C"
+   ],
+   "slot": "",
+   "status": "ACTIVE",
+   "value": 0.0
+  },
+  "6478": {
+   "fantasy_team": "Contagem Hunters",
+   "id": "6478",
+   "name": "Nikola Vucevic",
+   "nba_team": "ORL",
+   "positions": [
+    "C"
+   ],
+   "slot": "UT",
+   "status": "ACTIVE",
+   "value": 30.2
+  },
+  "6578": {
+   "fantasy_team": null,
+   "id": "6578",
+   "name": "Harrison Barnes",
+   "nba_team": "SAS",
+   "positions": [
+    "SF",
+    "PF"
+   ],
+   "slot": "",
+   "status": "ACTIVE",
+   "value": 15.7
+  },
+  "6580": {
+   "fantasy_team": null,
+   "id": "6580",
+   "name": "Bradley Beal",
+   "nba_team": "LAC",
+   "positions": [
+    "SG",
+    "SF"
+   ],
+   "slot": "",
+   "status": "OUT",
+   "value": 25.6
+  },
+  "6583": {
+   "fantasy_team": "Bull Market",
+   "id": "6583",
+   "name": "Anthony Davis",
+   "nba_team": "WAS",
+   "positions": [
+    "PF",
+    "C"
+   ],
+   "slot": "C",
+   "status": "ACTIVE",
+   "value": 49.6
+  },
+  "6585": {
+   "fantasy_team": null,
+   "id": "6585",
+   "name": "Andre Drummond",
+   "nba_team": "NYK",
+   "positions": [
+    "C"
+   ],
+   "slot": "",
+   "status": "ACTIVE",
+   "value": 20.7
+  },
+  "6589": {
+   "fantasy_team": "Bull Market",
+   "id": "6589",
+   "name": "Draymond Green",
+   "nba_team": "GSW",
+   "positions": [
+    "PF",
+    "C"
+   ],
+   "slot": "BE",
+   "status": "ACTIVE",
+   "value": 28.4
+  },
+  "6606": {
+   "fantasy_team": "Bull Market",
+   "id": "6606",
+   "name": "Damian Lillard",
+   "nba_team": "POR",
+   "positions": [
+    "PG"
+   ],
+   "slot": "UT",
+   "status": "ACTIVE",
+   "value": 38.6
+  },
+  "6609": {
+   "fantasy_team": null,
+   "id": "6609",
+   "name": "Khris Middleton",
+   "nba_team": "WAS",
+   "positions": [
+    "SF",
+    "PF"
+   ],
+   "slot": "",
+   "status": "ACTIVE",
+   "value": 20.5
+  }
+ },
+ "sent_keys": []
+}

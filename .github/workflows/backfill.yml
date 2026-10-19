@@ -11,6 +11,8 @@ jobs:
   report:
     runs-on: ubuntu-latest
     timeout-minutes: 10
+    permissions:
+      contents: write
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5
@@ -23,8 +25,14 @@ jobs:
           ESPN_S2: ${{ secrets.ESPN_S2 }}
           ESPN_SWID: ${{ secrets.ESPN_SWID }}
           BACKFILL_DAYS: ${{ inputs.days }}
-        run: python scripts/backfill.py | tee report.md
-      - uses: actions/upload-artifact@v4
-        with:
-          name: backfill-report
-          path: report.md
+        run: |
+          mkdir -p reports
+          python scripts/backfill.py | tee reports/backfill.md
+      - name: Save report to repo
+        run: |
+          git config user.name "fantasy-bot"
+          git config user.email "fantasy-bot@users.noreply.github.com"
+          git add reports/backfill.md
+          git diff --cached --quiet || git commit -m "backfill report" -q
+          git pull --rebase -q || true
+          git push -q

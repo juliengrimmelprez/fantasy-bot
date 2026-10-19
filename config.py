@@ -58,6 +58,18 @@ HOT_FRESH_HOURS = 36
 # Check per-game stats at most every N minutes (it's a heavier request).
 HOT_CHECK_MINUTES = 15
 
+# --- Week planning (streaming, lineup, matchup) ---------------------------------
+MATCHUP_ADD_LIMIT = 10      # league rule: 10 acquisitions per matchup
+KEEP_FP = 30.0              # never plan to drop players averaging this or more
+MAX_STREAM_SLOTS = 2        # how many weak roster spots to rotate at most
+ADD_COST_FP = 3.0           # an add must earn at least this (adds are scarce)
+MIN_STREAM_GAIN_FP = 8.0    # don't suggest a plan that gains less than this
+STREAM_CANDIDATES = 40      # best healthy FAs considered for the plan
+MIN_STREAMER_FP = 18.0      # don't burn an add on anyone below this
+PLAN_HOUR_ET = 10           # weekly plan / daily step reminder after this hour
+LINEUP_CHECK_MIN_BEFORE = (90, 20)   # window before the day's first tip-off
+WAIVER_HOURS = 26           # recently dropped players are on waivers this long
+
 # --- Drop alerts ------------------------------------------------------------
 # Alert when a dropped player's value beats your worst rostered player
 # (IR slot excluded) by at least this margin.

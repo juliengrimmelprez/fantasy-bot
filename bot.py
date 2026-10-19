@@ -24,6 +24,7 @@ from pathlib import Path
 import requests
 
 import config
+import planner
 
 STATE_FILE = Path(__file__).with_name("state.json")
 MAX_SENT_KEYS = 500
@@ -106,7 +107,7 @@ def fetch_league_snapshot() -> dict:
         players.setdefault(str(p.playerId), _to_dict(p, None))
 
     activity = []
-    for act in league.recent_activity(size=50):
+    for act in league.recent_activity(size=100):
         for (team, action, player_name, _pos) in act.actions:
             activity.append({
                 "date": act.date,
@@ -115,7 +116,33 @@ def fetch_league_snapshot() -> dict:
                 "player": player_name if isinstance(player_name, str) else getattr(player_name, "name", str(player_name)),
             })
 
-    return {"players": players, "activity": activity, "league": league}
+    from espn_api.basketball.constant import PRO_TEAM_MAP
+    sched: dict[str, dict[int, int]] = {}
+    for team_id, games in (getattr(league, "pro_schedule", {}) or {}).items():
+        abbr = PRO_TEAM_MAP.get(team_id)
+        if not abbr:
+            continue
+        for per, glist in games.items():
+            if glist:
+                sched.setdefault(abbr, {})[int(per)] = glist[0]["date"]
+
+    opponent, my_score, opp_score = None, None, None
+    me = next(t for t in league.teams if t.team_name.strip().lower() == config.MY_TEAM_NAME.lower())
+    mp = league.currentMatchupPeriod
+    if 0 < mp <= len(me.schedule):
+        m = me.schedule[mp - 1]
+        home = m.home_team is me
+        other = m.away_team if home else m.home_team
+        opponent = getattr(other, "team_name", None)
+
+        def score(side):
+            live = getattr(m, f"{side}_team_live_score", None)
+            return live if live is not None else getattr(m, f"{side}_final_score", None)
+        my_score, opp_score = (score("home"), score("away")) if home else (score("away"), score("home"))
+
+    return {"players": players, "activity": activity, "league": league, "sched": sched,
+            "today": league.scoringPeriodId, "matchup": mp, "opponent": opponent,
+            "my_score": my_score, "opp_score": opp_score}
 
 
 # ---------------------------------------------------------------------------
@@ -263,7 +290,32 @@ def _drop_hint(players: dict, pickup_value: float) -> str:
     return ""
 
 
-def injury_alerts(old: dict, new: dict) -> list[tuple[str, str]]:
+def _my_player_extras(prev: dict, p: dict, new: dict, ctx: dict | None) -> str:
+    """Lineup swap (late scratch) and IR hints for one of your players."""
+    extra = ""
+    mine = my_roster(new)
+    ir_taken = any(q["slot"] == "IR" and q["id"] != p["id"] for q in mine)
+    if is_out(p["status"]) and not is_out(prev["status"]):
+        if ctx:
+            today, sched, now_ms = ctx["today"], ctx["sched"], ctx["now_ms"]
+            pdates = ctx["pdates"]
+            tip = sched.get(p["nba_team"], {}).get(today)
+            if tip and tip > now_ms and p["slot"] not in planner.BENCH_SLOTS and today in pdates:
+                subs = sorted([q for q in mine if q["slot"] == "BE" and planner.plays(q, today, sched, pdates, after_ms=now_ms)],
+                              key=lambda q: q["value"], reverse=True)
+                when = datetime.fromtimestamp(tip / 1000, planner.ET).strftime("%H:%M")
+                if subs:
+                    extra += f"\n🔄 Está no seu lineup hoje (jogo {when}): troque por *{subs[0]['name']}* ({subs[0]['value']} FP)"
+                else:
+                    extra += f"\n🔄 Está no seu lineup hoje (jogo {when}) e nenhum reserva joga: vaga para um FA"
+        if p["slot"] != "IR" and not ir_taken:
+            extra += "\n🏥 Sua vaga de IR está livre: mova-o para o IR e libere uma vaga no elenco"
+    if prev["status"] != p["status"] and not is_out(p["status"]) and p["slot"] == "IR":
+        extra += "\n🏥 Ele está saudável no IR: tire-o de lá (a ESPN bloqueia suas transações enquanto isso)"
+    return extra
+
+
+def injury_alerts(old: dict, new: dict, ctx: dict | None = None) -> list[tuple[str, str]]:
     out = []
     for pid, p in new.items():
         prev = old.get(pid)
@@ -279,6 +331,7 @@ def injury_alerts(old: dict, new: dict) -> list[tuple[str, str]]:
                 msg += "\n" + return_line(p)
                 for b in beneficiaries(p, new):
                     msg += f"\nReposição livre: {ben_text(b)}"
+            msg += _my_player_extras(prev, p, new, ctx)
             out.append((key, msg))
             continue
 
@@ -438,6 +491,116 @@ def digest_message(games_by_pid: dict, players: dict, now: datetime, seen: set) 
     return "\n".join(lines), keys
 
 
+def matchup_periods(league, state: dict, matchup: int) -> list[int]:
+    """Scoring periods (days) of a matchup, from league settings, cached daily."""
+    cache = state.get("matchup_periods") or {}
+    if not cache or state.get("matchup_periods_day") != datetime.now(planner.ET).date().isoformat():
+        try:
+            data = league.espn_request.league_get(params={"view": "mSettings"})
+            cache = data["settings"]["scheduleSettings"]["matchupPeriods"]
+            state["matchup_periods"] = cache
+            state["matchup_periods_day"] = datetime.now(planner.ET).date().isoformat()
+        except Exception as e:
+            print(f"matchup periods lookup failed: {e!r}")
+    return sorted(int(x) for x in cache.get(str(matchup), []))
+
+
+def build_context(snap: dict, state: dict, now: datetime) -> dict | None:
+    league = snap.get("league")
+    if league is None or not snap.get("sched"):
+        return None
+    today = snap["today"]
+    periods = matchup_periods(league, state, snap["matchup"])
+    all_pers = sorted(set(periods) | {today})
+    pdates = planner.period_dates(snap["sched"], all_pers)
+    now_ms = int(now.timestamp() * 1000)
+    players = snap["players"]
+    me = config.MY_TEAM_NAME.lower()
+    start_ms = min((ms for team in snap["sched"].values() for per, ms in team.items() if periods and per == periods[0]),
+                   default=now_ms) - 14 * 3600 * 1000
+    adds_used = sum(1 for a in snap["activity"] if (a["team"] or "").lower() == me
+                    and a["action"] in ("FA ADDED", "WAIVER ADDED") and a["date"] >= start_ms)
+    on_waivers = {a["player"] for a in snap["activity"]
+                  if a["action"] == "DROPPED" and now_ms - a["date"] < config.WAIVER_HOURS * 3600 * 1000}
+    return {
+        "today": today, "periods": periods, "remaining": [p for p in periods if p >= today],
+        "pdates": pdates, "sched": snap["sched"], "now_ms": now_ms,
+        "roster": my_roster(players),
+        "opp_roster": [p for p in players.values() if snap.get("opponent")
+                       and (p["fantasy_team"] or "").lower() == snap["opponent"].lower()],
+        "opponent": snap.get("opponent"), "my_score": snap.get("my_score"), "opp_score": snap.get("opp_score"),
+        "adds_left": max(config.MATCHUP_ADD_LIMIT - adds_used, 0),
+        "fas": sorted([p for p in players.values() if p["fantasy_team"] is None and p["name"] not in on_waivers
+                       and p["status"] not in config.OUT_STATUSES], key=lambda p: p["value"], reverse=True)[:config.STREAM_CANDIDATES],
+        "matchup": snap["matchup"],
+    }
+
+
+def schedule_alerts(ctx: dict, now: datetime) -> list[tuple[str, str]]:
+    """Time-based messages: lineup check, weekly plan, daily plan step, matchup status."""
+    out = []
+    today, sched, pdates, now_ms = ctx["today"], ctx["sched"], ctx["pdates"], ctx["now_ms"]
+    now_et = now.astimezone(planner.ET)
+    tips = [ms for team in sched.values() for per, ms in team.items() if per == today]
+    first_tip = min(tips) if tips else None
+
+    # 1) lineup check before the day's first game
+    if first_tip and today in pdates:
+        lo, hi = config.LINEUP_CHECK_MIN_BEFORE
+        mins = (first_tip - now_ms) / 60000
+        if hi <= mins <= lo:
+            issues = planner.lineup_issues(ctx["roster"], today, sched, pdates, now_ms)
+            if issues:
+                out.append((f"lineup:{today}", "🧩 *Checagem de lineup* (primeiro jogo em "
+                            f"{mins:.0f} min)\n" + "\n".join(issues)))
+
+    rem = ctx["remaining"]
+    if not rem or now_et.hour < config.PLAN_HOUR_ET:
+        return out
+
+    plan = planner.streaming_plan(ctx["roster"], ctx["fas"], rem, sched, pdates, ctx["adds_left"], now_ms)
+
+    # 3 + 5) weekly digest on the matchup's first day
+    if today == ctx["periods"][0]:
+        d0, d1 = pdates.get(rem[0]), pdates.get(rem[-1])
+        mine_pts, mine_g = planner.projected_remaining(ctx["roster"], rem, sched, pdates, now_ms)
+        opp_pts, opp_g = planner.projected_remaining(ctx["opp_roster"], rem, sched, pdates, now_ms) if ctx["opp_roster"] else (0, 0)
+        title = f"🗓️ *Rodada {ctx['matchup']}* ({d0:%d/%m}–{d1:%d/%m}) vs {ctx['opponent'] or '?'}"
+        body = planner.render_plan(plan, pdates, ctx["adds_left"], title)
+        body += (f"\n\nJogos úteis na semana: você *{mine_g}* × {opp_g} adversário"
+                 f"\nProjeção: você ~{mine_pts:.0f} × ~{opp_pts:.0f} FP")
+        out.append((f"week:{ctx['matchup']}", body))
+    else:
+        # daily reminder when today's step exists
+        todays = [st for sl in plan["slots"] for st in sl["steps"] if st["period"] == today]
+        if todays:
+            lines = ["📋 *Plano de hoje*"]
+            for st in todays:
+                days = ", ".join(planner.day_label(pdates[q]) for q in st["games"])
+                lines.append(f"• dropar {st['drop']['name']} → pegar *{st['add']['name']}* ({st['add']['nba_team']}, {st['add']['value']} FP; joga {days})")
+            lines.append(f"Adds restantes na rodada: {ctx['adds_left']}")
+            lines.append(config.ADD_PLAYERS_URL)
+            out.append((f"planday:{today}", "\n".join(lines)))
+
+    # 6) matchup status on the last two days
+    if len(rem) <= 2 and ctx["opp_roster"]:
+        mine_pts, mine_g = planner.projected_remaining(ctx["roster"], rem, sched, pdates, now_ms)
+        opp_pts, opp_g = planner.projected_remaining(ctx["opp_roster"], rem, sched, pdates, now_ms)
+        ms, os_ = ctx.get("my_score") or 0, ctx.get("opp_score") or 0
+        fin_me, fin_opp = ms + mine_pts, os_ + opp_pts
+        diff = fin_me - fin_opp
+        if diff > 60:
+            verdict = "Vitória bem encaminhada: não gaste adds à toa."
+        elif diff < -60:
+            verdict = "Desvantagem grande: vale arriscar streaming agressivo."
+        else:
+            verdict = "Jogo apertado: cada jogo extra conta, use os adds."
+        out.append((f"score:{today}", f"🏆 *Rodada {ctx['matchup']}* — você {ms:.0f} × {os_:.0f} {ctx['opponent']}\n"
+                    f"Jogos restantes: você {mine_g} × {opp_g}\n"
+                    f"Projeção final: ~{fin_me:.0f} × ~{fin_opp:.0f}\n{verdict}\nAdds restantes: {ctx['adds_left']}"))
+    return out
+
+
 def enrich_timelines(league, old: dict, new: dict) -> None:
     """For players who just went OUT without an ESPN return date, read the news."""
     if league is None:
@@ -458,10 +621,10 @@ def enrich_timelines(league, old: dict, new: dict) -> None:
             print(f"News lookup failed for {p['name']}: {e!r}")
 
 
-def compute_alerts(state: dict, snap: dict) -> list[tuple[str, str]]:
+def compute_alerts(state: dict, snap: dict, ctx: dict | None = None) -> list[tuple[str, str]]:
     old, new = state["players"], snap["players"]
     since = state.get("last_activity_ms", 0)
-    alerts = injury_alerts(old, new) + drop_alerts(new, snap["activity"], since) + trade_alerts(old, new)
+    alerts = injury_alerts(old, new, ctx) + drop_alerts(new, snap["activity"], since) + trade_alerts(old, new)
     sent = set(state.get("sent_keys", []))
     return [(k, m) for k, m in alerts if k not in sent]
 
@@ -572,7 +735,20 @@ def main() -> int:
     else:
         league = snap.get("league")
         enrich_timelines(league, state["players"], snap["players"])
-        alerts = compute_alerts(state, snap)
+        try:
+            ctx = build_context(snap, state, now)
+        except Exception as e:
+            print(f"context failed: {e!r}")
+            ctx = None
+        alerts = compute_alerts(state, snap, ctx)
+        if ctx:
+            try:
+                sent_now = set(state.get("sent_keys", []))
+                alerts += [(k, m) for k, m in schedule_alerts(ctx, now) if k not in sent_now]
+                state["plan_status"] = f"ok: day {ctx['today']}, matchup {ctx['matchup']} {ctx['periods'][:1]}..{ctx['periods'][-1:]}, adds left {ctx['adds_left']}, opp {ctx['opponent']}"
+            except Exception as e:
+                print(f"schedule alerts failed: {e!r}")
+                state["plan_status"] = f"error: {e!r}"[:300]
         hot_due = time.time() - state.get("last_hot_check", 0) >= config.HOT_CHECK_MINUTES * 60
         digest_due = time.time() - state.get("last_digest", 0) >= config.DIGEST_EVERY_MINUTES * 60
         if league and (hot_due or digest_due):

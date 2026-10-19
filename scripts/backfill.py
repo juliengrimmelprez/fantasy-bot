@@ -160,6 +160,29 @@ def main() -> None:
     for d, _, msg in alerts:
         print(f"--- [{fmt_ms(d)}]\n" + msg + "\n")
 
+    # ---- week planning preview (ignores time-of-day windows) --------------
+    print("## Prévia do planejamento da semana\n")
+    try:
+        state = {"players": players}
+        ctx = bot.build_context(snap, state, now)
+        print(f"(dia {ctx['today']}, rodada {ctx['matchup']}: períodos {ctx['periods']}, adversário {ctx['opponent']}, adds restantes {ctx['adds_left']})\n")
+        plan = bot.planner.streaming_plan(ctx["roster"], ctx["fas"], ctx["remaining"], ctx["sched"], ctx["pdates"], ctx["adds_left"], ctx["now_ms"])
+        print(bot.planner.render_plan(plan, ctx["pdates"], ctx["adds_left"], "🗓️ *Plano da rodada*"))
+        mp, mg = bot.planner.projected_remaining(ctx["roster"], ctx["remaining"], ctx["sched"], ctx["pdates"], ctx["now_ms"])
+        op, og = bot.planner.projected_remaining(ctx["opp_roster"], ctx["remaining"], ctx["sched"], ctx["pdates"], ctx["now_ms"])
+        print(f"\nJogos úteis: você {mg} × {og}; projeção ~{mp:.0f} × ~{op:.0f}")
+        per_day = []
+        for per in ctx["remaining"]:
+            n = sum(bot.planner.plays(p, per, ctx["sched"], ctx["pdates"]) for p in ctx["roster"])
+            per_day.append(f"{bot.planner.day_label(ctx['pdates'][per])}: {n}")
+        print("Seus jogadores jogando por dia: " + ", ".join(per_day))
+        issues = bot.planner.lineup_issues(ctx["roster"], ctx["today"], ctx["sched"], ctx["pdates"], ctx["now_ms"])
+        print("\nChecagem de lineup hoje: " + ("\n" + "\n".join(issues) if issues else "ok"))
+    except Exception as e:
+        import traceback
+        print("(prévia falhou)", repr(e)); traceback.print_exc(file=sys.stdout)
+    print()
+
     if os.environ.get("BACKFILL_SEND") == "true":
         msgs = [m for _, m in inj_alerts] + [m for _, _, m in alerts]
         bot.send_alert(f"🔁 *REPLAY dos últimos {DAYS} dias* — {len(msgs)} mensagens simuladas (status de lesão reconstruído do status atual). Não são alertas novos.")

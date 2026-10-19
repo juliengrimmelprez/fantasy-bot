@@ -1,4 +1,4 @@
-# Backfill — últimos 7 dias (até 19/10 19:24 ET)
+# Backfill — últimos 7 dias (até 19/10 19:30 ET)
 
 Seu pior jogador hoje (referência para drops): Toumani Camara (23.8 FP)
 
@@ -20,15 +20,15 @@ Seu pior jogador hoje (referência para drops): Toumani Camara (23.8 FP)
     · 2026-10-19 Curry (ankle) is expected to play in Wednesday's regular-season opener against the Lakers, per Kenzo Fukuda of ClutchPoints.com.
     · 2026-10-18 Curry sustained a right ankle injury during Sunday's practice but is expected to be fine, Dalton Johnson of NBC Sports Bay Area reports.
 -   silencioso | Bam Adebayo (MIA, 39.6 FP, BL0CK BY ZION) — Day-to-day
+    · 2026-10-19 Adebayo (groin) participated in Monday's practice, Anthony Chiang of the Miami Herald reports.
     · 2026-10-18 Adebayo (groin) participated in Sunday's practice, Ira Winderman of the South Florida Sun Sentinel reports.
-    · 2026-10-16 Adebayo (groin) has been ruled out for Friday's preseason game against the Magic, Jason Beede of the Orlando Sentinel reports.
 - 🔔 ALERTA | Jimmy Butler III (GSW, 38.8 FP, Fernando  Diniz) — OUT
-    Volta: ~9 meses (pelas notícias) | 🗓️ Ausência longa → reposição vale por semanas
+    Volta: jan/2027 (pelas notícias) | 🗓️ Ausência longa → reposição vale por semanas
     · 2026-10-16 Butler (knee) could return sometime between January and February as he continues recovering from a torn right ACL, Anthony Slater of ESPN reports.
 - 🔔 ALERTA | Franz Wagner (ORL, 38.6 FP, King Coopa) — Day-to-day
     · 2026-10-18 Head coach Sean Sweeney said the team will continue to evaluate Wagner's right shoulder, and he was limited to "light work" in Sunday's practice, Jason Beede of the Orlando Sentinel reports.
     · 2026-10-17 Wagner exited Friday's 136-115 preseason win over the Heat with right shoulder soreness and did not return, Cody Taylor of USA Today reports.
--   silencioso | Brandon Ingram (LAC, 38.5 FP, Tiki Taka Laranja) — OUT
+- 🔔 ALERTA | Brandon Ingram (LAC, 38.5 FP, Tiki Taka Laranja) — OUT
 - 🔔 ALERTA | Kristaps Porzingis (GSW, 37.0 FP, Contagem Hunters) — OUT
     Volta: indefinido | 🗓️ Ausência indefinida → reposição pode valer por semanas
     · 2026-10-19 Porzingis (undisclosed) won't travel with the Warriors and remains out indefinitely, Luca Evans of the San Francisco Chronicle reports.
@@ -47,7 +47,7 @@ Seu pior jogador hoje (referência para drops): Toumani Camara (23.8 FP)
 -   silencioso | Brandin Podziemski (GSW, 30.8 FP, CCCP  Баскетбол) — Day-to-day
     · 2026-10-19 Podziemski (back) is questionable for Wednesday's regular-season opener against the Lakers, per Dalton Johnson of NBC Sports Bay Area.
     · 2026-10-17 Podziemski logged 17 points (4-10 FG, 3-7 3Pt, 3-3 FT), five assists, four rebounds and one steal over 27 minutes during Friday's 128-118 preseason win over the Trail Blazers.
--   silencioso | Nic Claxton (CHI, 30.3 FP, BL0CK BY ZION) — OUT
+- 🔔 ALERTA | Nic Claxton (CHI, 30.3 FP, BL0CK BY ZION) — OUT
     Volta: ~2 semanas (pelas notícias) | 🗓️ Ausência longa → reposição vale por semanas
     · 2026-10-19 Claxton (hamstring) will be re-evaluated in two weeks, K.C. Johnson of Chicago Sports Network reports.
 -   silencioso | Tobias Harris (SAS, 30.1 FP, Tiki Taka Laranja) — OUT
@@ -86,17 +86,17 @@ Seu pior jogador hoje (referência para drops): Toumani Camara (23.8 FP)
 -   silencioso | Adem Bona (PHL, 15.3 FP, livre) — Day-to-day
 -   silencioso | Isaac Okoro (CHI, 15.2 FP, livre) — Day-to-day
 
-## Mensagens que o bot teria mandado (3)
+## Mensagens que o bot teria mandado (5)
 
 (Lesões: data real desconhecida — reconstruídas do status atual.)
 
 ---
 🚨 *Jimmy Butler III (GSW) → OUT*
 (Fernando  Diniz, 38.8 FP)
-Volta: ~9 meses (pelas notícias)
+Volta: jan/2027 (pelas notícias)
 🗓️ Ausência longa → reposição vale por semanas
-ADD: *De'Anthony Melton* (PG/SG, 24.0 FP) — LIVRE
-alt.: *Al Horford* (PF/C, 25.1 FP) — LIVRE
+ADD: *De'Anthony Melton* (PG/SG, 24.0 → ~27.5 FP com +3 min) — LIVRE
+alt.: *Al Horford* (PF/C, 25.1 → ~27.1 FP com +2 min) — LIVRE
 Drop sugerido: *Toumani Camara* (23.8 FP)
 https://fantasy.espn.com/basketball/players/add?leagueId=41791233
 
@@ -105,14 +105,33 @@ https://fantasy.espn.com/basketball/players/add?leagueId=41791233
 (Contagem Hunters, 37.0 FP)
 Volta: indefinido
 🗓️ Ausência indefinida → reposição pode valer por semanas
-ADD: *Al Horford* (PF/C, 25.1 FP) — LIVRE
-alt.: *De'Anthony Melton* (PG/SG, 24.0 FP) — LIVRE
+ADD: *Al Horford* (PF/C, 25.1 → ~28.8 FP com +4 min) — LIVRE
+alt.: *De'Anthony Melton* (PG/SG, 24.0 → ~25 FP com +1 min) — LIVRE
 Drop sugerido: *Toumani Camara* (23.8 FP)
 https://fantasy.espn.com/basketball/players/add?leagueId=41791233
 
 ---
 ⚠️ *Seu jogador: Franz Wagner* (ORL)
 Ativo → *Day-to-day*
+
+---
+🚨 *Brandon Ingram (LAC) → OUT*
+(Tiki Taka Laranja, 38.5 FP)
+Volta: sem previsão
+ADD: *Keaton Wagler* (PG/SG, 24.4 → ~26.8 FP com +3 min) — LIVRE
+alt.: *Isaiah Jackson* (PF/C, 20.6 → ~25.8 FP com +5 min) — LIVRE
+Drop sugerido: *Toumani Camara* (23.8 FP)
+https://fantasy.espn.com/basketball/players/add?leagueId=41791233
+
+---
+🚨 *Nic Claxton (CHI) → OUT*
+(BL0CK BY ZION, 30.3 FP)
+Volta: ~2 semanas (pelas notícias)
+🗓️ Ausência longa → reposição vale por semanas
+ADD: *Jalen Smith* (PF/C, 22.4 → ~27.9 FP com +5 min) — LIVRE
+alt.: *Zach Collins* (C, 15.8 → ~21 FP com +5 min) — LIVRE
+Drop sugerido: *Toumani Camara* (23.8 FP)
+https://fantasy.espn.com/basketball/players/add?leagueId=41791233
 
 ## Volume de alertas de drop por dia
 

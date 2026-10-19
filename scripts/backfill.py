@@ -64,16 +64,7 @@ def main() -> None:
 
     print(f"# Backfill — últimos {DAYS} dias (até {now.astimezone(ET):%d/%m %H:%M} ET)\n")
     print(f"Seu pior jogador hoje (referência para drops): {worst['name']} ({worst['value']} FP)\n")
-    print(f"(debug) jogadores com minutos/jogo: {sum(1 for p in players.values() if p.get('mpg'))}/{len(players)}")
-    try:
-        sample = league.teams[0].roster[0]
-        print("(debug) stats keys:", sorted(sample.stats.keys())[:12])
-        for k, v in sample.stats.items():
-            if isinstance(v, dict) and v.get("avg"):
-                print("(debug)", k, "avg keys:", sorted(v["avg"].keys())[:30])
-    except Exception as e:
-        print("(debug) err", e)
-    print()
+
 
     counts = Counter(a["action"] for a in acts)
     print(f"## Movimentação da liga: {len(acts)} ações — " + ", ".join(f"{k}: {v}" for k, v in counts.items()) + "\n")

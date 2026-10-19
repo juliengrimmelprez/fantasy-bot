@@ -150,6 +150,14 @@ def main() -> None:
     for d, _, msg in alerts:
         print(f"--- [{fmt_ms(d)}]\n" + msg + "\n")
 
+    if os.environ.get("BACKFILL_SEND") == "true":
+        msgs = [m for _, m in inj_alerts] + [m for _, _, m in alerts]
+        bot.send_alert(f"🔁 *REPLAY dos últimos {DAYS} dias* — {len(msgs)} mensagens simuladas (status de lesão reconstruído do status atual). Não são alertas novos.")
+        for i, m in enumerate(msgs, 1):
+            bot.send_alert(f"[replay {i}/{len(msgs)}]\n{m}")
+            import time; time.sleep(1)
+        bot.send_alert("✅ Fim do replay.")
+
     per_day = Counter(fmt_ms(d)[:9] for d, _, _ in alerts)
     print("## Volume de alertas de drop por dia\n")
     for day, n in sorted(per_day.items()):

@@ -188,7 +188,7 @@
     "SF"
    ],
    "slot": "",
-   "status": "ACTIVE",
+   "status": "DAY_TO_DAY",
    "value": 12.6
   },
   "2990969": {
@@ -415,7 +415,7 @@
     "SF"
    ],
    "slot": "UT",
-   "status": "DAY_TO_DAY",
+   "status": "ACTIVE",
    "value": 33.0
   },
   "3064290": {
@@ -2362,7 +2362,7 @@
    "fantasy_team": "Lakers x Bortolan 23",
    "id": "4397140",
    "name": "Kevin Porter Jr.",
-   "nba_team": "MIL",
+   "nba_team": "FA",
    "positions": [
     "PG",
     "SG"
@@ -2932,7 +2932,7 @@
     "C"
    ],
    "slot": "",
-   "status": "DAY_TO_DAY",
+   "status": "ACTIVE",
    "value": 20.0
   },
   "4432847": {
@@ -3135,7 +3135,7 @@
     "C"
    ],
    "slot": "C",
-   "status": "DAY_TO_DAY",
+   "status": "ACTIVE",
    "value": 37.9
   },
   "4433287": {
@@ -3268,7 +3268,7 @@
    "fantasy_team": null,
    "id": "4591259",
    "name": "Koby Brea",
-   "nba_team": "PHO",
+   "nba_team": "FA",
    "positions": [
     "SG"
    ],
@@ -3575,7 +3575,7 @@
     "SG"
    ],
    "slot": "BE",
-   "status": "DAY_TO_DAY",
+   "status": "ACTIVE",
    "value": 24.1
   },
   "4683747": {
@@ -4112,7 +4112,7 @@
    "fantasy_team": null,
    "id": "4896372",
    "name": "Walter Clayton Jr.",
-   "nba_team": "MEM",
+   "nba_team": "FA",
    "positions": [
     "PG",
     "SG"
@@ -4138,7 +4138,7 @@
    "fantasy_team": null,
    "id": "4897943",
    "name": "Dalton Knecht",
-   "nba_team": "LAL",
+   "nba_team": "FA",
    "positions": [
     "SG",
     "SF"
@@ -4932,7 +4932,7 @@
     "PG"
    ],
    "slot": "",
-   "status": "DAY_TO_DAY",
+   "status": "OUT",
    "value": 0.0
   },
   "5160992": {
@@ -5431,5 +5431,9 @@
    "value": 20.5
   }
  },
- "sent_keys": []
+ "sent_keys": [
+  "inj:3062679:ACTIVE",
+  "trade:4397140:FA",
+  "trade:4896372:FA"
+ ]
 }

@@ -1,0 +1,50 @@
+name: Fantasy check
+
+on:
+  # Main trigger: cron-job.org calls the GitHub API every few minutes.
+  workflow_dispatch:
+  # Backup in case the external cron fails (GitHub's own scheduler can lag).
+  schedule:
+    - cron: "*/15 * * * *"
+
+# Never run two checks at once; a newer one waits for the current one.
+concurrency:
+  group: fantasy-check
+  cancel-in-progress: false
+
+permissions:
+  contents: write   # to save state.json back to the repo
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - run: pip install -r requirements.txt
+
+      - name: Run bot
+        env:
+          ESPN_S2: ${{ secrets.ESPN_S2 }}
+          ESPN_SWID: ${{ secrets.ESPN_SWID }}
+          CALLMEBOT_PHONE: ${{ secrets.CALLMEBOT_PHONE }}
+          CALLMEBOT_APIKEY: ${{ secrets.CALLMEBOT_APIKEY }}
+        run: python bot.py
+
+      - name: Save state
+        if: always()
+        run: |
+          git config user.name "fantasy-bot"
+          git config user.email "fantasy-bot@users.noreply.github.com"
+          if [ -f state.json ]; then
+            git add state.json
+            git diff --cached --quiet || git commit -m "state update" -q
+            git pull --rebase -q || true
+            git push -q || true
+          fi

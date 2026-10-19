@@ -361,7 +361,6 @@ def main() -> int:
         "players": players,
         "sent_keys": sent[-MAX_SENT_KEYS:],
         "last_activity_ms": newest_ms if not any(k.startswith("drop:") for k in failed_keys) else state.get("last_activity_ms", 0),
-        "last_run": now.isoformat(timespec="seconds"),
     })
     save_state(state)
     print(f"OK: {len(alerts)} alert(s), {len(players)} players tracked.")

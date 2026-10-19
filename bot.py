@@ -65,6 +65,7 @@ def _to_dict(p, fantasy_team: str | None, slot: str = "") -> dict:
         "fantasy_team": fantasy_team,
         "slot": slot or getattr(p, "lineupSlot", ""),
         "value": player_value(p.avg_points, p.projected_avg_points, last15),
+        "return_date": p.expected_return_date.isoformat() if getattr(p, "expected_return_date", None) else None,
     }
 
 
@@ -103,7 +104,7 @@ def fetch_league_snapshot() -> dict:
                 "player": player_name if isinstance(player_name, str) else getattr(player_name, "name", str(player_name)),
             })
 
-    return {"players": players, "activity": activity}
+    return {"players": players, "activity": activity, "league": league}
 
 
 # ---------------------------------------------------------------------------
@@ -116,6 +117,54 @@ def label(status: str) -> str:
 
 def is_out(status: str) -> bool:
     return status in config.OUT_STATUSES
+
+
+_NUM_WORDS = {"one": 1, "two": 2, "three": 3, "four": 4, "five": 5, "six": 6,
+              "seven": 7, "eight": 8, "nine": 9, "ten": 10, "a": 1, "a few": 3, "several": 4}
+
+
+def timeline_from_news(texts: list[str]) -> tuple[str, int | None] | None:
+    """Read an absence estimate from news text. Returns (label, days) or None."""
+    import re
+    for t in texts:
+        t = t.lower()
+        if re.search(r"(rest of|remainder of) the (regular )?season|season-ending|out for the season", t):
+            return ("resto da temporada", 180)
+        m = re.search(r"(\d+|a few|several|one|two|three|four|five|six|seven|eight|nine|ten|a)[\s-]+(?:to[\s-]+\w+[\s-]+)?(week|month)s?", t)
+        if m and re.search(r"out|sideline|miss|re-evaluat|reevaluat|return|recover|timetable", t):
+            n = m.group(1)
+            n = int(n) if n.isdigit() else _NUM_WORDS.get(n, 2)
+            days = n * (30 if m.group(2) == "month" else 7)
+            unit = "mês" if m.group(2) == "month" and n == 1 else ("meses" if m.group(2) == "month" else ("semana" if n == 1 else "semanas"))
+            return (f"~{n} {unit} (pelas notícias)", days)
+        if "indefinitely" in t or "no timetable" in t or "without a timetable" in t:
+            return ("indefinido", None)
+        if "day-to-day" in t:
+            return ("dia a dia", 2)
+    return None
+
+
+def return_line(p: dict, today=None) -> str:
+    """Human line about when the player is back, plus a long-absence flag."""
+    from datetime import date
+    today = today or datetime.now(timezone.utc).date()
+    days = None
+    if p.get("return_date"):
+        d = date.fromisoformat(p["return_date"])
+        days = max((d - today).days, 0)
+        weeks = round(days / 7)
+        span = f"{days} dias" if days < 14 else f"~{weeks} semanas"
+        text = f"Volta prevista: {d:%d/%m} ({span})"
+    elif p.get("timeline"):
+        label, days = p["timeline"]
+        text = f"Volta: {label}"
+    else:
+        text = "Volta: sem previsão"
+    if days is None and p.get("timeline") and p["timeline"][0] == "indefinido":
+        text += "\n🗓️ Ausência indefinida → reposição pode valer por semanas"
+    elif days is not None and days >= config.LONG_ABSENCE_DAYS:
+        text += "\n🗓️ Ausência longa → reposição vale por semanas"
+    return text
 
 
 def my_roster(players: dict) -> list[dict]:
@@ -163,6 +212,7 @@ def injury_alerts(old: dict, new: dict) -> list[tuple[str, str]]:
             icon = "🚑" if is_out(p["status"]) else ("✅" if p["status"] == "ACTIVE" else "⚠️")
             msg = f"{icon} *Seu jogador: {p['name']}* ({p['nba_team']})\n{label(prev['status'])} → *{label(p['status'])}*"
             if is_out(p["status"]):
+                msg += "\n" + return_line(p)
                 for b in beneficiaries(p, new):
                     msg += f"\nReposição livre: *{b['name']}* ({b['value']} FP)"
             out.append((key, msg))
@@ -172,8 +222,11 @@ def injury_alerts(old: dict, new: dict) -> list[tuple[str, str]]:
             bens = beneficiaries(p, new)
             if not bens:
                 continue  # nobody free to grab: not actionable
+            w = worst_player(new)
+            if config.ACTIONABLE_ONLY and w and bens[0]["value"] < w["value"] - config.ACTIONABLE_MARGIN_FP:
+                continue  # best free option wouldn't make your roster
             owner = p["fantasy_team"] or "free agent"
-            msg = f"🚨 *{p['name']} ({p['nba_team']}) → {label(p['status'])}*\n({owner}, {p['value']} FP)"
+            msg = f"🚨 *{p['name']} ({p['nba_team']}) → {label(p['status'])}*\n({owner}, {p['value']} FP)\n" + return_line(p)
             for i, b in enumerate(bens):
                 tag = "ADD" if i == 0 else "alt."
                 msg += f"\n{tag}: *{b['name']}* ({'/'.join(b['positions'])}, {b['value']} FP) — LIVRE"
@@ -225,6 +278,84 @@ def trade_alerts(old: dict, new: dict) -> list[tuple[str, str]]:
             msg += f"\nGanha minutos no {prev['nba_team']}: *{b['name']}* ({b['value']} FP) — LIVRE"
         out.append((f"trade:{pid}:{p['nba_team']}", msg))
     return out
+
+
+def fetch_recent_games(league, player_ids: list[str]) -> dict[str, list[dict]]:
+    """Per-game fantasy points for these players: {pid: [{date, fp, min}], newest first}."""
+    if not player_ids:
+        return {}
+    cards = league.player_info(playerId=[int(i) for i in player_ids])
+    cards = cards if isinstance(cards, list) else ([cards] if cards else [])
+    out: dict[str, list[dict]] = {}
+    for pl in cards:
+        games = []
+        for key, st in pl.stats.items():
+            if not key.isdigit() or not st.get("date"):
+                continue
+            total = st.get("total") or {}
+            mins = total.get("MIN", total.get("MPG", 0)) or 0
+            if mins <= 0 and not st.get("applied_total"):
+                continue  # DNP
+            games.append({"date": st["date"].replace(tzinfo=timezone.utc) if st["date"].tzinfo is None else st["date"],
+                          "fp": round(st.get("applied_total", 0) or 0, 1), "min": round(mins)})
+        games.sort(key=lambda g: g["date"], reverse=True)
+        out[str(pl.playerId)] = games
+    return out
+
+
+def hot_alerts(games_by_pid: dict, players: dict, now: datetime) -> list[tuple[str, str]]:
+    """Free agents on a run of good games (or one huge game, flagged as fluke)."""
+    out = []
+    w = worst_player(players)
+    for pid, games in games_by_pid.items():
+        p = players.get(pid)
+        if not p or p["fantasy_team"] is not None:
+            continue
+        done = [g for g in games if (now - g["date"]).total_seconds() >= config.HOT_GAME_DONE_HOURS * 3600]
+        if not done or (now - done[0]["date"]).total_seconds() > config.HOT_FRESH_HOURS * 3600:
+            continue
+        streak = 0
+        for g in done:
+            if g["fp"] >= config.HOT_GAME_FP:
+                streak += 1
+            else:
+                break
+        last = done[0]
+        if streak >= config.HOT_MIN_STREAK:
+            head = f"🔥 *{p['name']}* ({p['nba_team']}, LIVRE) — {streak} jogos bons seguidos"
+            note = "Sequência = sinal mais confiável."
+        elif streak == 1 and last["fp"] >= config.HOT_SINGLE_GAME_FP:
+            head = f"📈 *{p['name']}* ({p['nba_team']}, LIVRE) — 1 jogo enorme"
+            note = "Só 1 jogo: pode ser fluke. Vale observar o próximo."
+        else:
+            continue
+        recent = ", ".join(f"{g['fp']:g} ({g['min']} min)" for g in done[:4])
+        msg = f"{head}\nÚltimos: {recent}\nValor de referência: {p['value']} FP\n{note}"
+        streak_avg = sum(g["fp"] for g in done[:max(streak, 1)]) / max(streak, 1)
+        if w and streak_avg > w["value"]:
+            msg += f"\nSeu pior hoje: *{w['name']}* ({w['value']} FP)"
+        msg += f"\n{config.ADD_PLAYERS_URL}"
+        out.append((f"hot:{pid}:{last['date']:%Y%m%d}", msg))
+    return out
+
+
+def enrich_timelines(league, old: dict, new: dict) -> None:
+    """For players who just went OUT without an ESPN return date, read the news."""
+    if league is None:
+        return
+    for pid, p in new.items():
+        prev = old.get(pid)
+        if not prev or not is_out(p["status"]) or is_out(prev["status"]) or p.get("return_date"):
+            continue
+        mine = (p["fantasy_team"] or "").lower() == config.MY_TEAM_NAME.lower()
+        if not mine and p["value"] < config.STAR_MIN_FP:
+            continue
+        try:
+            card = league.player_info(playerId=int(pid), include_news=True)
+            texts = [n.get("headline", "") + " " + n.get("story", "") for n in (card.news or [])[:3]]
+            p["timeline"] = timeline_from_news(texts)
+        except Exception as e:
+            print(f"News lookup failed for {p['name']}: {e!r}")
 
 
 def compute_alerts(state: dict, snap: dict) -> list[tuple[str, str]]:
@@ -339,7 +470,19 @@ def main() -> int:
         )
         alerts = []
     else:
+        league = snap.get("league")
+        enrich_timelines(league, state["players"], snap["players"])
         alerts = compute_alerts(state, snap)
+        last_hot = state.get("last_hot_check", 0)
+        if league and time.time() - last_hot >= config.HOT_CHECK_MINUTES * 60:
+            try:
+                fa_ids = [pid for pid, p in snap["players"].items() if p["fantasy_team"] is None]
+                games = fetch_recent_games(league, fa_ids)
+                sent_now = set(state.get("sent_keys", []))
+                alerts += [(k, m) for k, m in hot_alerts(games, snap["players"], now) if k not in sent_now]
+                state["last_hot_check"] = time.time()
+            except Exception as e:
+                print(f"Hot-player check failed: {e!r}")
 
     sent = list(state.get("sent_keys", []))
     for key, msg in alerts:
@@ -350,7 +493,7 @@ def main() -> int:
 
     # Keep the old status for players whose alert failed, so it retries next run.
     failed_keys = {k for k, _ in alerts} - set(sent)
-    players = snap["players"]
+    players = {pid: {k: v for k, v in p.items() if k != "timeline"} for pid, p in snap["players"].items()}
     for k in failed_keys:
         if k.startswith("inj:") or k.startswith("trade:"):
             pid = k.split(":")[1]

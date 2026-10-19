@@ -23,6 +23,28 @@ FREE_AGENT_POOL = 250
 # How many replacement names to show per alert.
 MAX_SUGGESTIONS = 2
 
+# Only alert on other teams' injuries when the best free replacement is at
+# least as good as your worst player minus this margin (0 = strictly useful).
+ACTIONABLE_ONLY = True
+ACTIONABLE_MARGIN_FP = 0.0
+
+# Absences at least this long get the "replacement is worth it for weeks" flag.
+LONG_ABSENCE_DAYS = 14
+
+# --- Hot free agents ---------------------------------------------------------
+# A "good game" is at least this many fantasy points.
+HOT_GAME_FP = 30.0
+# Consecutive good games needed for a 🔥 alert (2-3 = more confidence).
+HOT_MIN_STREAK = 2
+# A single game this big alerts too, flagged as a possible fluke.
+HOT_SINGLE_GAME_FP = 45.0
+# Only games that started at least this many hours ago count (finished).
+HOT_GAME_DONE_HOURS = 3
+# Ignore streaks whose last game is older than this.
+HOT_FRESH_HOURS = 36
+# Check per-game stats at most every N minutes (it's a heavier request).
+HOT_CHECK_MINUTES = 15
+
 # --- Drop alerts ------------------------------------------------------------
 # Alert when a dropped player's value beats your worst rostered player
 # (IR slot excluded) by at least this margin.

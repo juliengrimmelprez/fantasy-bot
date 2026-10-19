@@ -127,9 +127,16 @@ def main() -> None:
             info = league.player_info(playerId=[int(p["id"]) for p in relevant], include_news=True)
             info = info if isinstance(info, list) else [info]
             for pl in info:
-                news[str(pl.playerId)] = [n for n in (pl.news or []) if n.get("published", "") >= (now - timedelta(days=DAYS)).isoformat()[:10]]
+                news[str(pl.playerId)] = list(pl.news or [])
         except Exception as e:  # news is a nice-to-have
             print(f"(news indisponível: {e!r})\n")
+    # Recompute with timelines from the news (same as the live bot does).
+    for pid, items in news.items():
+        if not players[pid].get("return_date"):
+            players[pid]["timeline"] = bot.timeline_from_news(
+                [n.get("headline", "") + " " + n.get("story", "") for n in items[:3]])
+    inj_alerts = bot.injury_alerts(old, players)
+    alerted_ids = {k.split(":")[1] for k, _ in inj_alerts}
 
     print(f"## Lesões/status hoje: {len(injured)} jogadores não-ativos entre os {len(players)} acompanhados\n")
     for p in sorted(injured, key=lambda p: -p["value"]):
@@ -138,7 +145,9 @@ def main() -> None:
         tag = "🔔 ALERTA" if p["id"] in alerted_ids else "  silencioso"
         owner = p["fantasy_team"] or "livre"
         print(f"- {tag} | {p['name']} ({p['nba_team']}, {p['value']} FP, {owner}) — {bot.label(p['status'])}")
-        for n in news.get(p["id"], [])[:2]:
+        if p.get("return_date") or p.get("timeline"):
+            print("    " + bot.return_line(p).replace("\n", " | "))
+        for n in [n for n in news.get(p["id"], []) if n.get("published", "") >= (now - timedelta(days=DAYS)).isoformat()[:10]][:2]:
             print(f"    · {n.get('published', '')[:10]} {n.get('headline', '')}")
     print()
 

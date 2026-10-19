@@ -1,0 +1,30 @@
+name: Backfill report
+
+on:
+  workflow_dispatch:
+    inputs:
+      days:
+        description: "Days to look back"
+        default: "7"
+
+jobs:
+  report:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+      - run: pip install -r requirements.txt
+      - name: Build report (sends nothing)
+        env:
+          ESPN_S2: ${{ secrets.ESPN_S2 }}
+          ESPN_SWID: ${{ secrets.ESPN_SWID }}
+          BACKFILL_DAYS: ${{ inputs.days }}
+        run: python scripts/backfill.py | tee report.md
+      - uses: actions/upload-artifact@v4
+        with:
+          name: backfill-report
+          path: report.md

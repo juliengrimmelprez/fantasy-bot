@@ -156,25 +156,29 @@ def _g(hours_ago, fp, mins=30, now=datetime(2026, 11, 5, 12, tzinfo=timezone.utc
     return {"date": now - timedelta(hours=hours_ago), "fp": fp, "min": mins}
 
 
-def test_hot_streak_individual_alert():
+def test_hot_moving_average_crossing():
     now = datetime(2026, 11, 5, 12, tzinfo=timezone.utc)
     players = league()
     games = {
-        "8": [_g(10, 34), _g(34, 31), _g(58, 12)],    # Free Scrub: 2 good games in a row
-        "2": [_g(10, 48), _g(34, 15)],                 # Backup Center: 1 huge game
-        "3": [_g(10, 33), _g(34, 20)],                 # Bench Guard: 1 good game only
-        "7": [_g(10, 50), _g(34, 50)],                 # Role Wing: rostered, ignored
+        "8": [_g(10, 42), _g(34, 26), _g(58, 24), _g(82, 10)],   # avg3 30.7, before 20 → crosses
+        "2": [_g(10, 31), _g(34, 33), _g(58, 35)],              # avg3 33, before 34 → already above
+        "3": [_g(10, 45), _g(34, 12), _g(58, 10)],              # one big game, avg3 22 → no
+        "7": [_g(10, 50), _g(34, 50)],                           # rostered
     }
     out = dict(bot.hot_alerts(games, players, now))
-    assert len(out) == 1                       # only the 2-game streak; singles go to the digest
-    streak = next(m for k, m in out.items() if k.startswith("hot:8:"))
-    assert "2 jogos bons seguidos" in streak and "34" in streak
+    assert list(k.split(":")[1] for k in out) == ["8"]
+    assert "Média dos últimos 3: *30.7 FP*" in out[next(iter(out))]
+
+
+def test_hot_needs_two_games():
+    now = datetime(2026, 11, 5, 12, tzinfo=timezone.utc)
+    assert bot.hot_alerts({"8": [_g(10, 50)]}, league(), now) == []
 
 
 def test_hot_ignores_unfinished_and_stale_games():
     now = datetime(2026, 11, 5, 12, tzinfo=timezone.utc)
     players = league()
-    assert bot.hot_alerts({"8": [_g(1, 60), _g(25, 10)]}, players, now) == []   # still playing
+    assert bot.hot_alerts({"8": [_g(1, 90), _g(25, 10), _g(49, 10)]}, players, now) == []   # 90 FP game still in progress: ignored
     assert bot.hot_alerts({"8": [_g(60, 40), _g(84, 40)]}, players, now) == []  # too old
 
 
@@ -198,11 +202,12 @@ def test_hourly_digest_consolidates_and_dedups():
     }
     msg, keys = bot.digest_message(games, players, now, set())
     assert msg.splitlines()[1].startswith("• *Backup Center*")    # sorted by FP
-    assert "🔥2 seguidos" in msg and "Bench Guard" not in msg and "Role Wing" not in msg
+    assert "média 32.5 🔥" in msg and "Bench Guard" not in msg and "Role Wing" not in msg
     assert len(keys) == 2
     assert bot.digest_message(games, players, now, set(keys)) == (None, [])   # no repeats
 
 
-def test_no_single_game_individual_alert():
+def test_single_big_game_can_lift_average():
+    # 60 + 10 = avg 35 over 2 games: the average decides, not the streak.
     now = datetime(2026, 11, 5, 12, tzinfo=timezone.utc)
-    assert bot.hot_alerts({"2": [_g(10, 60), _g(34, 10)]}, league(), now) == []
+    assert len(bot.hot_alerts({"2": [_g(10, 60), _g(34, 10)]}, league(), now)) == 1

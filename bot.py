@@ -367,39 +367,43 @@ def fetch_recent_games(league, player_ids: list[str]) -> dict[str, list[dict]]:
     return out
 
 
+def moving_avg(games: list[dict], n: int) -> float | None:
+    window = games[:n]
+    return round(sum(g["fp"] for g in window) / len(window), 1) if window else None
+
+
 def hot_alerts(games_by_pid: dict, players: dict, now: datetime) -> list[tuple[str, str]]:
-    """Free agents on a run of good games (or one huge game, flagged as fluke)."""
+    """Free agents whose moving average just reached the bar (one alert per crossing)."""
     out = []
     w = worst_player(players)
+    n = config.HOT_AVG_GAMES
     for pid, games in games_by_pid.items():
         p = players.get(pid)
         if not p or p["fantasy_team"] is not None:
             continue
         done = [g for g in games if (now - g["date"]).total_seconds() >= config.HOT_GAME_DONE_HOURS * 3600]
-        if not done or (now - done[0]["date"]).total_seconds() > config.HOT_FRESH_HOURS * 3600:
+        if len(done) < config.HOT_MIN_GAMES:
             continue
-        streak = 0
-        for g in done:
-            if g["fp"] >= config.HOT_GAME_FP:
-                streak += 1
-            else:
-                break
-        last = done[0]
-        if streak >= config.HOT_MIN_STREAK:
-            head = f"🔥 *{p['name']}* ({p['nba_team']}, LIVRE) — {streak} jogos bons seguidos"
-            note = "Sequência = sinal mais confiável."
-        elif streak == 1 and config.HOT_SINGLE_GAME_FP and last["fp"] >= config.HOT_SINGLE_GAME_FP:
-            head = f"📈 *{p['name']}* ({p['nba_team']}, LIVRE) — 1 jogo enorme"
-            note = "Só 1 jogo: pode ser fluke. Vale observar o próximo."
-        else:
+        if (now - done[0]["date"]).total_seconds() > config.HOT_FRESH_HOURS * 3600:
             continue
-        recent = ", ".join(f"{g['fp']:g} ({g['min']} min)" for g in done[:4])
-        msg = f"{head}\nÚltimos: {recent}\nValor de referência: {p['value']} FP\n{note}"
-        streak_avg = sum(g["fp"] for g in done[:max(streak, 1)]) / max(streak, 1)
-        if w and streak_avg > w["value"]:
+        avg_now = moving_avg(done, n)
+        avg_before = moving_avg(done[1:], n) if len(done[1:]) >= config.HOT_MIN_GAMES else None
+        if avg_now < config.HOT_GAME_FP:
+            continue
+        if avg_before is not None and avg_before >= config.HOT_GAME_FP:
+            continue  # already above the bar last game: alerted then
+        k = min(n, len(done))
+        recent = ", ".join(f"{g['fp']:g} ({g['min']} min)" for g in done[:k])
+        mins_trend = done[0]["min"] - (sum(g["min"] for g in done[1:k + 1]) / max(len(done[1:k + 1]), 1))
+        msg = (f"🔥 *{p['name']}* ({p['nba_team']}, {'/'.join(p['positions'])}, LIVRE)\n"
+               f"Média dos últimos {k}: *{avg_now:g} FP* (ref {p['value']})\n"
+               f"Jogos: {recent}")
+        if mins_trend >= 4:
+            msg += f"\nMinutos subindo (+{mins_trend:.0f} no último jogo)"
+        if w and avg_now > w["value"]:
             msg += f"\nSeu pior hoje: *{w['name']}* ({w['value']} FP)"
         msg += f"\n{config.ADD_PLAYERS_URL}"
-        out.append((f"hot:{pid}:{last['date']:%Y%m%d}", msg))
+        out.append((f"hot:{pid}:{done[0]['date']:%Y%m%d}", msg))
     return out
 
 
@@ -419,19 +423,14 @@ def digest_message(games_by_pid: dict, players: dict, now: datetime, seen: set) 
             continue
         if (now - g["date"]).total_seconds() > config.HOT_FRESH_HOURS * 3600:
             continue
-        streak = 0
-        for x in done:
-            if x["fp"] < config.HOT_GAME_FP:
-                break
-            streak += 1
-        rows.append((g["fp"], p, g, streak))
+        rows.append((g["fp"], p, g, moving_avg(done, config.HOT_AVG_GAMES) if len(done) >= config.HOT_MIN_GAMES else None))
         keys.append(key)
     if not rows:
         return None, []
     rows.sort(key=lambda r: r[0], reverse=True)
     lines = [f"📊 *Free agents com {config.HOT_GAME_FP:g}+ FP* ({len(rows)})"]
-    for fp, p, g, streak in rows:
-        fire = f" 🔥{streak} seguidos" if streak >= 2 else ""
+    for fp, p, g, mavg in rows:
+        fire = f" · média {mavg:g} 🔥" if mavg is not None and mavg >= config.HOT_GAME_FP else (f" · média {mavg:g}" if mavg is not None else "")
         lines.append(f"• *{p['name']}* ({p['nba_team']}, {'/'.join(p['positions'])}) — {fp:g} FP, {g['min']} min · ref {p['value']}{fire}")
     w = worst_player(players)
     if w:

@@ -43,8 +43,10 @@ LONG_ABSENCE_DAYS = 14
 # --- Hot free agents ---------------------------------------------------------
 # A "good game" is at least this many fantasy points.
 HOT_GAME_FP = 30.0
-# Consecutive good games needed for a 🔥 alert (2-3 = more confidence).
-HOT_MIN_STREAK = 2
+# Individual 🔥 alert: moving average of the last HOT_AVG_GAMES games reaches
+# HOT_GAME_FP (needs at least HOT_MIN_GAMES games). Fires when it crosses.
+HOT_AVG_GAMES = 3
+HOT_MIN_GAMES = 2
 # Single big games don't get their own alert; they go in the hourly digest.
 HOT_SINGLE_GAME_FP = None
 # Hourly digest: every free agent who finished a game with HOT_GAME_FP or more.

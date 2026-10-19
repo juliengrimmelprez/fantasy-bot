@@ -33,6 +33,27 @@ def period_dates(sched: dict, periods: list[int]) -> dict[int, date]:
     return out
 
 
+def week_days(sched: dict, weeks: list[int]) -> list[int]:
+    """Scoring periods (days) belonging to these NBA fantasy weeks.
+
+    ESPN's matchup settings list *weeks*, not days. Week 1 runs from opening
+    night to the first Sunday; every later week is Monday-Sunday.
+    """
+    all_pers = sorted({per for team in sched.values() for per in team})
+    if not all_pers:
+        return []
+    dates = period_dates(sched, all_pers)
+    first = dates[all_pers[0]]
+    week1_end = first + timedelta(days=(6 - first.weekday()))
+    out = []
+    for per in all_pers:
+        d = dates[per]
+        wk = 1 if d <= week1_end else 2 + (d - week1_end - timedelta(days=1)).days // 7
+        if wk in weeks:
+            out.append(per)
+    return out
+
+
 def day_label(d: date) -> str:
     return f"{WEEKDAYS[d.weekday()]} {d:%d}"
 
@@ -63,7 +84,7 @@ def plays(p: dict, per: int, sched: dict, pdates: dict, after_ms: int | None = N
 # ---------------------------------------------------------------------------
 
 def lineup_issues(roster: list[dict], today: int, sched: dict, pdates: dict, now_ms: int) -> list[str]:
-    """Starters who won't score today, and bench players who could replace them."""
+    """Swaps that gain points today: idle starters vs bench players with a game."""
     starters = [p for p in roster if p.get("slot") not in BENCH_SLOTS]
     bench = [p for p in roster if p.get("slot") == "BE"]
 
@@ -72,12 +93,12 @@ def lineup_issues(roster: list[dict], today: int, sched: dict, pdates: dict, now
         return ms is None or ms > now_ms
 
     idle = []
-    for p in starters:
+    for p in sorted(starters, key=lambda p: p["value"]):
         if not not_locked(p):
             continue
         if not sched.get(p["nba_team"], {}).get(today):
             idle.append((p, "sem jogo hoje"))
-        elif not available_on(p, pdates[today]) or p["status"] in config.OUT_STATUSES:
+        elif not available_on(p, pdates[today]):
             idle.append((p, "OUT hoje"))
     options = sorted(
         [p for p in bench if plays(p, today, sched, pdates, after_ms=now_ms)],
@@ -87,8 +108,14 @@ def lineup_issues(roster: list[dict], today: int, sched: dict, pdates: dict, now
     for (p, why), sub in zip(idle, options):
         tip = datetime.fromtimestamp(sched[sub["nba_team"]][today] / 1000, ET)
         lines.append(f"• *{p['name']}* ({why}) → coloque *{sub['name']}* ({sub['value']} FP, joga {tip:%H:%M})")
-    for p, why in idle[len(options):]:
-        lines.append(f"• *{p['name']}* ({why}) — nenhum reserva joga hoje; vaga livre para um FA")
+    rest = idle[len(options):]
+    out_today = [p for p, why in rest if why == "OUT hoje"]
+    for p in out_today:
+        lines.append(f"• *{p['name']}* está OUT e no lineup — nenhum reserva joga hoje")
+    if lines or out_today:
+        empty = len(rest)
+        if empty:
+            lines.append(f"{empty} vaga(s) de titular sem jogo hoje → espaço para um FA (veja o plano)")
     return lines
 
 

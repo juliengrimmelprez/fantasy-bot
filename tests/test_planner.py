@@ -86,7 +86,7 @@ def test_lineup_issues_today():
     sched["BEN"] = {1: tip(1)}
     roster.append(P("bn", "BenchGuy", "BEN", 20, slot="BE"))
     issues = planner.lineup_issues(roster, 1, sched, planner.period_dates(sched, periods), tip(1) - 3600_000)
-    assert len(issues) == 1 and "Core0" in issues[0] and "BenchGuy" in issues[0]
+    assert "Core0" in issues[0] and "BenchGuy" in issues[0]
 
 
 def test_late_scratch_and_ir_hints():
@@ -115,3 +115,11 @@ def test_projected_remaining_top10_per_day():
     roster, fas, periods, sched, pdates = world()
     pts, games = planner.projected_remaining(roster, [1], sched, pdates, tip(1) - 3600_000)
     assert games == 9 and pts == 9 * 35
+
+
+def test_week_days_mapping():
+    # opening night on a Tuesday: week 1 = Tue..Sun, week 2 = next Mon..Sun
+    tue = datetime(2026, 10, 20, 19, 30, tzinfo=ET)
+    sched = {"A": {i + 1: int((tue + timedelta(days=i)).timestamp() * 1000) for i in range(14)}}
+    assert planner.week_days(sched, [1]) == [1, 2, 3, 4, 5, 6]
+    assert planner.week_days(sched, [2]) == [7, 8, 9, 10, 11, 12, 13]

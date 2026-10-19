@@ -491,8 +491,8 @@ def digest_message(games_by_pid: dict, players: dict, now: datetime, seen: set) 
     return "\n".join(lines), keys
 
 
-def matchup_periods(league, state: dict, matchup: int) -> list[int]:
-    """Scoring periods (days) of a matchup, from league settings, cached daily."""
+def matchup_periods(league, state: dict, matchup: int, sched: dict | None = None) -> list[int]:
+    """Scoring periods (days) of a matchup: settings give weeks, the schedule gives days."""
     cache = state.get("matchup_periods") or {}
     if not cache or state.get("matchup_periods_day") != datetime.now(planner.ET).date().isoformat():
         try:
@@ -502,7 +502,8 @@ def matchup_periods(league, state: dict, matchup: int) -> list[int]:
             state["matchup_periods_day"] = datetime.now(planner.ET).date().isoformat()
         except Exception as e:
             print(f"matchup periods lookup failed: {e!r}")
-    return sorted(int(x) for x in cache.get(str(matchup), []))
+    weeks = sorted(int(x) for x in cache.get(str(matchup), []))
+    return planner.week_days(sched or {}, weeks)
 
 
 def build_context(snap: dict, state: dict, now: datetime) -> dict | None:
@@ -510,7 +511,7 @@ def build_context(snap: dict, state: dict, now: datetime) -> dict | None:
     if league is None or not snap.get("sched"):
         return None
     today = snap["today"]
-    periods = matchup_periods(league, state, snap["matchup"])
+    periods = matchup_periods(league, state, snap["matchup"], snap["sched"])
     all_pers = sorted(set(periods) | {today})
     pdates = planner.period_dates(snap["sched"], all_pers)
     now_ms = int(now.timestamp() * 1000)

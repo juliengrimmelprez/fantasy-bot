@@ -606,6 +606,18 @@ def diag_message(ctx: dict, rem: list[int]) -> str:
         per_day.append(f"{planner.day_label(pdates[per])} {mine}×{opp}")
     lines.append("Jogos por dia (você×ele): " + " · ".join(per_day))
 
+    # ranked roster: games left this week, expected average, expected total
+    rows = []
+    for i_p, p in enumerate(ctx["roster"]):
+        g = sum(planner.plays(p, per, sched, pdates, after_ms=now_ms if j == 0 else None) for j, per in enumerate(rem))
+        rows.append((g * p["value"], g, p))
+    rows.sort(key=lambda r: (r[0], r[2]["value"]), reverse=True)
+    lines.append("\n*Seu elenco na semana* (jogos × média esperada = pontos):")
+    for n, (tot, g, p) in enumerate(rows, 1):
+        tag = " (IR)" if p.get("slot") == "IR" else (" (OUT)" if p["status"] in config.OUT_STATUSES else "")
+        lines.append(f"{n}. {p['name']}{tag} — {g} × {p['value']:g} = *{tot:.0f}*")
+    lines.append("_Média esperada: metade temporada/projeção, metade últimos 15 dias. Em dias com 10+ jogando, nem todos pontuam._\n")
+
     def missing(roster):
         out = [p["name"] for p in roster if p["status"] in config.OUT_STATUSES or p.get("slot") == "IR"]
         return ", ".join(out) if out else "nenhum"

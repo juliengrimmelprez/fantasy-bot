@@ -1,4 +1,4 @@
-# Backfill — últimos 1 dias (até 19/10 20:03 ET)
+# Backfill — últimos 1 dias (até 19/10 22:08 ET)
 
 Seu pior jogador hoje (referência para drops): Toumani Camara (23.8 FP)
 
@@ -158,7 +158,7 @@ Jogos por dia (você×ele): Ter 20 3×3 · Qua 21 10×10 · Qui 22 0×2 · Sex 2
 11. Collin Murray-Boyles — 3 × 24.8 = *74*
 12. Neemias Queta — 2 × 27.2 = *54*
 13. Toumani Camara — 2 × 23.8 = *48*
-_Média esperada: metade temporada/projeção, metade últimos 15 dias. Em dias com 10+ jogando, nem todos pontuam._
+_Média esperada: metade temporada/projeção, metade últimos 15 dias. A partir de 02/11, só pontos reais. Em dias com 10+ jogando, nem todos pontuam._
 
 Seus desfalques: nenhum
 Desfalques dele: Jimmy Butler III
@@ -178,10 +178,33 @@ _Vaga do Neemias Queta: +51 FP_
 • *Dom 25*: dropar Grayson Allen → pegar *Aaron Nesmith* (IND, 24.6 FP; joga Dom 25)
 
 Com o plano de FAs: ~1352 → vitória provável (+61)
-(diagnóstico e plano enviados ao Telegram)
 Seus jogadores jogando por dia: Ter 20: 3, Qua 21: 10, Qui 22: 0, Sex 23: 13, Sáb 24: 6, Dom 25: 5
 
 Checagem de lineup hoje: ok
 
+## Temporada
+
+🔭 *Diagnóstico da temporada regular* — elencos de hoje, sem FAs
+Projeção: *7V – 5D* e 3 apertados (🟡 = diferença < 5%)
+
+🔴 *R1* 20/10–25/10 vs Fernando  Diniz — jogos 34×38 · ~1198×~1291 (-93)
+🟢 *R2* 26/10–01/11 vs Contagem Hunters — jogos 42×40 · ~1446×~1341 (+106)
+🟢 *R3* 02/11–08/11 vs Polga Silva — jogos 43×41 · ~1501×~1393 (+108)
+🟢 *R4* 09/11–15/11 vs CCCP  Баскетбол — jogos 45×44 · ~1545×~1356 (+189)
+🟡 *R5* 16/11–22/11 vs Bull Market — jogos 46×47 · ~1540×~1604 (-64)
+🔴 *R6* 23/11–29/11 vs Caxias French Fries — jogos 38×44 · ~1268×~1541 (-274)
+🔴 *R7* 30/11–03/12 vs Coringas do Gansola — jogos 24×25 · ~816×~871 (-55)
+🔴 *R8* 12/12–13/12 vs Lebron GOAT — jogos 11×13 · ~353×~426 (-73)
+🟢 *R9* 14/12–20/12 vs Tiki Taka Laranja — jogos 48×41 · ~1660×~1396 (+264)
+🔴 *R10* 21/12–27/12 vs Tropa do Nikola — jogos 41×42 · ~1423×~1588 (-165)
+🟡 *R11* 28/12–03/01 vs Lucky — jogos 46×45 · ~1568×~1527 (+41)
+🟢 *R12* 04/01–10/01 vs Lakers x Bortolan 23 — jogos 46×40 · ~1549×~1035 (+514)
+🟡 *R13* 11/01–17/01 vs BL0CK BY ZION — jogos 45×41 · ~1530×~1460 (+70)
+🟢 *R14* 18/01–24/01 vs Fernando  Diniz — jogos 45×44 · ~1559×~1472 (+86)
+🟢 *R15* 25/01–31/01 vs Contagem Hunters — jogos 47×44 · ~1600×~1452 (+149)
+
+_Assume os elencos atuais a temporada toda, sem trocas nem FAs. Jogador OUT sem data de volta conta como fora; lesões e trocas vão mudar muito as rodadas distantes. Serve para ver onde a agenda te favorece._
+
+(temporada enviada ao Telegram)
 ## Volume de alertas de drop por dia
 

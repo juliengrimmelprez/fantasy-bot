@@ -634,7 +634,7 @@
    "return_date": null,
    "slot": "SG",
    "status": "ACTIVE",
-   "value": 20.5
+   "value": 22.0
   },
   "3102529": {
    "fantasy_team": null,
@@ -1562,7 +1562,7 @@
   "4065648": {
    "fantasy_team": "Caxias French Fries",
    "id": "4065648",
-   "mpg": 27.0,
+   "mpg": 28.0,
    "name": "Jayson Tatum",
    "nba_team": "BOS",
    "positions": [
@@ -1664,7 +1664,7 @@
   "4065804": {
    "fantasy_team": null,
    "id": "4065804",
-   "mpg": 13.0,
+   "mpg": 14.0,
    "name": "Sam Hauser",
    "nba_team": "BOS",
    "positions": [
@@ -1674,7 +1674,7 @@
    "return_date": null,
    "slot": "",
    "status": "ACTIVE",
-   "value": 21.5
+   "value": 22.3
   },
   "4066211": {
    "fantasy_team": null,
@@ -1811,7 +1811,7 @@
   "4066372": {
    "fantasy_team": null,
    "id": "4066372",
-   "mpg": 15.0,
+   "mpg": 16.0,
    "name": "Kevin Huerter",
    "nba_team": "DET",
    "positions": [
@@ -2102,7 +2102,7 @@
   "4277951": {
    "fantasy_team": null,
    "id": "4277951",
-   "mpg": 5.0,
+   "mpg": 6.0,
    "name": "Luka Garza",
    "nba_team": "BOS",
    "positions": [
@@ -2329,7 +2329,7 @@
    "return_date": null,
    "slot": "",
    "status": "ACTIVE",
-   "value": 17.9
+   "value": 14.8
   },
   "4278572": {
    "fantasy_team": null,
@@ -2561,7 +2561,7 @@
    "return_date": null,
    "slot": "",
    "status": "ACTIVE",
-   "value": 15.5
+   "value": 16.3
   },
   "4395712": {
    "fantasy_team": "Lakers x Bortolan 23",
@@ -3176,7 +3176,7 @@
    "return_date": null,
    "slot": "PG",
    "status": "ACTIVE",
-   "value": 29.1
+   "value": 32.1
   },
   "4432170": {
    "fantasy_team": null,
@@ -3803,7 +3803,7 @@
    ],
    "return_date": null,
    "slot": "PF",
-   "status": "DAY_TO_DAY",
+   "status": "ACTIVE",
    "value": 38.6
   },
   "4576060": {
@@ -5547,7 +5547,7 @@
   "5107199": {
    "fantasy_team": null,
    "id": "5107199",
-   "mpg": 7.0,
+   "mpg": 8.0,
    "name": "Daniss Jenkins",
    "nba_team": "DET",
    "positions": [
@@ -5877,7 +5877,7 @@
   "5175647": {
    "fantasy_team": null,
    "id": "5175647",
-   "mpg": 9.0,
+   "mpg": 10.0,
    "name": "Hugo Gonzalez",
    "nba_team": "BOS",
    "positions": [
@@ -6386,6 +6386,7 @@
   "diag:1",
   "inj:5142718:OUT",
   "inj:4395651:OUT",
-  "inj:5061575:OUT"
+  "inj:5061575:OUT",
+  "inj:4566434:ACTIVE"
  ]
 }

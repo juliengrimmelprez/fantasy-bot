@@ -1,9 +1,9 @@
 {
  "digest_seen": [],
- "hot_status": "ok: 250 FAs, 17 games",
+ "hot_status": "ok: 250 FAs, 21 games",
  "last_activity_ms": 1792519769924,
  "last_digest": 1792537696.7425632,
- "last_hot_check": 1792539620.1015413,
+ "last_hot_check": 1792540579.9738195,
  "last_run": "2026-10-19T22:05:14+00:00",
  "matchup_periods": {
   "1": [
@@ -70,7 +70,7 @@
   "1966": {
    "fantasy_team": "Lucky",
    "id": "1966",
-   "mpg": 10.0,
+   "mpg": 11.0,
    "name": "LeBron James",
    "nba_team": "PHL",
    "positions": [
@@ -80,7 +80,7 @@
    "return_date": null,
    "slot": "SF",
    "status": "ACTIVE",
-   "value": 13.6
+   "value": 14.4
   },
   "2326307": {
    "fantasy_team": null,
@@ -130,7 +130,7 @@
   "2528426": {
    "fantasy_team": null,
    "id": "2528426",
-   "mpg": 1.0,
+   "mpg": 2.0,
    "name": "Jordan Clarkson",
    "nba_team": "NYK",
    "positions": [
@@ -982,7 +982,7 @@
   "3147657": {
    "fantasy_team": "Caxias French Fries",
    "id": "3147657",
-   "mpg": 11.0,
+   "mpg": 12.0,
    "name": "Mikal Bridges",
    "nba_team": "NYK",
    "positions": [
@@ -1343,7 +1343,7 @@
   "3914044": {
    "fantasy_team": null,
    "id": "3914044",
-   "mpg": 5.0,
+   "mpg": 6.0,
    "name": "Landry Shamet",
    "nba_team": "NYK",
    "positions": [
@@ -1352,12 +1352,12 @@
    "return_date": null,
    "slot": "",
    "status": "ACTIVE",
-   "value": 5.3
+   "value": 4.5
   },
   "3917376": {
    "fantasy_team": "BL0CK BY ZION",
    "id": "3917376",
-   "mpg": 10.0,
+   "mpg": 11.0,
    "name": "Jaylen Brown",
    "nba_team": "PHL",
    "positions": [
@@ -1367,7 +1367,7 @@
    "return_date": null,
    "slot": "SF",
    "status": "ACTIVE",
-   "value": 14.2
+   "value": 12.7
   },
   "3934672": {
    "fantasy_team": "Coringas do Gansola",
@@ -2074,7 +2074,7 @@
   "4277869": {
    "fantasy_team": null,
    "id": "4277869",
-   "mpg": 4.0,
+   "mpg": 5.0,
    "name": "Jose Alvarado",
    "nba_team": "NYK",
    "positions": [
@@ -2083,7 +2083,7 @@
    "return_date": null,
    "slot": "",
    "status": "ACTIVE",
-   "value": 6.4
+   "value": 10.9
   },
   "4277905": {
    "fantasy_team": "BL0CK BY ZION",
@@ -2463,7 +2463,7 @@
   "4351851": {
    "fantasy_team": null,
    "id": "4351851",
-   "mpg": 7.0,
+   "mpg": 9.0,
    "name": "Anfernee Simons",
    "nba_team": "PHL",
    "positions": [
@@ -2977,7 +2977,7 @@
   "4431678": {
    "fantasy_team": "Tiki Taka Laranja",
    "id": "4431678",
-   "mpg": 10.0,
+   "mpg": 11.0,
    "name": "Tyrese Maxey",
    "nba_team": "PHL",
    "positions": [
@@ -2987,7 +2987,7 @@
    "return_date": null,
    "slot": "PG",
    "status": "ACTIVE",
-   "value": 25.5
+   "value": 27.8
   },
   "4431679": {
    "fantasy_team": "Polga Silva",
@@ -3296,7 +3296,7 @@
   "4432446": {
    "fantasy_team": null,
    "id": "4432446",
-   "mpg": null,
+   "mpg": 1.0,
    "name": "Jabari Walker",
    "nba_team": "PHL",
    "positions": [
@@ -3305,7 +3305,7 @@
    "return_date": null,
    "slot": "",
    "status": "ACTIVE",
-   "value": 0.0
+   "value": 2.0
   },
   "4432452": {
    "fantasy_team": null,
@@ -6322,7 +6322,7 @@
   "6585": {
    "fantasy_team": null,
    "id": "6585",
-   "mpg": 10.0,
+   "mpg": 11.0,
    "name": "Andre Drummond",
    "nba_team": "NYK",
    "positions": [
@@ -6331,7 +6331,7 @@
    "return_date": null,
    "slot": "",
    "status": "ACTIVE",
-   "value": 23.2
+   "value": 26.9
   },
   "6589": {
    "fantasy_team": "Bull Market",

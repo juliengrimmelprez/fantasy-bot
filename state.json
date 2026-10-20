@@ -3937,21 +3937,6 @@
    "status": "ACTIVE",
    "value": 0.0
   },
-  "4592829": {
-   "fantasy_team": null,
-   "id": "4592829",
-   "mpg": null,
-   "name": "Quenton Jackson",
-   "nba_team": "IND",
-   "positions": [
-    "PG",
-    "SG"
-   ],
-   "return_date": null,
-   "slot": "",
-   "status": "ACTIVE",
-   "value": 0.0
-  },
   "4593125": {
    "fantasy_team": null,
    "id": "4593125",
@@ -4212,6 +4197,20 @@
    "slot": "PG",
    "status": "ACTIVE",
    "value": 24.1
+  },
+  "4683742": {
+   "fantasy_team": null,
+   "id": "4683742",
+   "mpg": null,
+   "name": "Julian Reese",
+   "nba_team": "NOP",
+   "positions": [
+    "PF"
+   ],
+   "return_date": null,
+   "slot": "",
+   "status": "ACTIVE",
+   "value": 0.0
   },
   "4683747": {
    "fantasy_team": null,

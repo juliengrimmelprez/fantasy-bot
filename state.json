@@ -2726,20 +2726,6 @@
    "status": "ACTIVE",
    "value": 28.1
   },
-  "4397018": {
-   "fantasy_team": null,
-   "id": "4397018",
-   "mpg": null,
-   "name": "Ochai Agbaji",
-   "nba_team": "FA",
-   "positions": [
-    "SF"
-   ],
-   "return_date": null,
-   "slot": "",
-   "status": "ACTIVE",
-   "value": 0.0
-  },
   "4397020": {
    "fantasy_team": null,
    "id": "4397020",
@@ -5015,6 +5001,20 @@
    "slot": "",
    "status": "OUT",
    "value": 16.9
+  },
+  "5023693": {
+   "fantasy_team": null,
+   "id": "5023693",
+   "mpg": null,
+   "name": "Tyrese Proctor",
+   "nba_team": "CLE",
+   "positions": [
+    "SG"
+   ],
+   "return_date": null,
+   "slot": "",
+   "status": "ACTIVE",
+   "value": 0.0
   },
   "5037871": {
    "fantasy_team": "Tiki Taka Laranja",

@@ -187,6 +187,16 @@ def main() -> None:
         print("(prévia falhou)", repr(e)); traceback.print_exc(file=sys.stdout)
     print()
 
+    if os.environ.get("SEND_SEASON") == "true":
+        try:
+            outlook = bot.season_outlook(snap, {"players": players})
+            print("## Temporada\n\n" + outlook + "\n")
+            bot.send_alert(outlook)
+            print("(temporada enviada ao Telegram)")
+        except Exception as e:
+            import traceback
+            print("(temporada falhou)", repr(e)); traceback.print_exc(file=sys.stdout)
+
     if os.environ.get("BACKFILL_SEND") == "true":
         msgs = [m for _, m in inj_alerts] + [m for _, _, m in alerts]
         bot.send_alert(f"🔁 *REPLAY dos últimos {DAYS} dias* — {len(msgs)} mensagens simuladas (status de lesão reconstruído do status atual). Não são alertas novos.")

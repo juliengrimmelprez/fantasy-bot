@@ -648,6 +648,45 @@ def diag_message(ctx: dict, rem: list[int]) -> str:
     return "\n".join(lines)
 
 
+def season_outlook(snap: dict, state: dict) -> str:
+    """Every regular-season matchup projected with today's rosters (no FAs)."""
+    league = snap["league"]
+    sched = snap["sched"]
+    me = next(t for t in league.teams if t.team_name.strip().lower() == config.MY_TEAM_NAME.lower())
+    matchup_periods(league, state, 1, sched)          # fills the settings cache
+    weeks_by_matchup = state.get("matchup_periods") or {}
+    players = snap["players"]
+    roster = my_roster(players)
+    now_ms = int(datetime.now(timezone.utc).timestamp() * 1000)
+    rows, wins, losses, close_n = [], 0, 0, 0
+    for i, m in enumerate(me.schedule, 1):
+        weeks = sorted(int(x) for x in weeks_by_matchup.get(str(i), []))
+        if not weeks:
+            continue
+        pers = planner.week_days(sched, weeks)
+        if not pers:
+            continue
+        pdates = planner.period_dates(sched, pers)
+        other = m.away_team if m.home_team is me else m.home_team
+        opp_name = getattr(other, "team_name", "?")
+        opp_roster = [p for p in players.values() if (p["fantasy_team"] or "").lower() == opp_name.lower()]
+        mine, mg = planner.projected_remaining(roster, pers, sched, pdates, now_ms if pers[0] <= snap["today"] else None)
+        opp, og = planner.projected_remaining(opp_roster, pers, sched, pdates, now_ms if pers[0] <= snap["today"] else None)
+        diff = mine - opp
+        close = abs(diff) < 0.05 * max(mine, opp, 1)
+        icon = "🟡" if close else ("🟢" if diff > 0 else "🔴")
+        wins += diff > 0 and not close
+        losses += diff < 0 and not close
+        close_n += close
+        d0, d1 = pdates[pers[0]], pdates[pers[-1]]
+        rows.append(f"{icon} *R{i}* {d0:%d/%m}–{d1:%d/%m} vs {opp_name} — jogos {mg}×{og} · ~{mine:.0f}×~{opp:.0f} ({diff:+.0f})")
+    head = [f"🔭 *Diagnóstico da temporada regular* — elencos de hoje, sem FAs",
+            f"Projeção: *{wins}V – {losses}D* e {close_n} apertados (🟡 = diferença < 5%)", ""]
+    foot = ["", "_Assume os elencos atuais a temporada toda, sem trocas nem FAs. Jogador OUT sem data de volta conta como fora; "
+            "lesões e trocas vão mudar muito as rodadas distantes. Serve para ver onde a agenda te favorece._"]
+    return "\n".join(head + rows + foot)
+
+
 def week_projection(ctx: dict, rem: list[int], plan_gain: float) -> str:
     """Whole-matchup forecast: points already scored + rest of the week, rosters as they are."""
     sched, pdates, now_ms = ctx["sched"], ctx["pdates"], ctx["now_ms"]

@@ -2887,20 +2887,6 @@
    "status": "OUT",
    "value": 0.0
   },
-  "4397251": {
-   "fantasy_team": null,
-   "id": "4397251",
-   "mpg": null,
-   "name": "Ron Harper Jr.",
-   "nba_team": "BOS",
-   "positions": [
-    "SG"
-   ],
-   "return_date": null,
-   "slot": "",
-   "status": "ACTIVE",
-   "value": 0.0
-  },
   "4397424": {
    "fantasy_team": "King Coopa",
    "id": "4397424",
@@ -3956,6 +3942,21 @@
    "mpg": null,
    "name": "Pat Spencer",
    "nba_team": "PHO",
+   "positions": [
+    "PG",
+    "SG"
+   ],
+   "return_date": null,
+   "slot": "",
+   "status": "ACTIVE",
+   "value": 0.0
+  },
+  "4592829": {
+   "fantasy_team": null,
+   "id": "4592829",
+   "mpg": null,
+   "name": "Quenton Jackson",
+   "nba_team": "IND",
    "positions": [
     "PG",
     "SG"

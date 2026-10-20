@@ -1,7 +1,7 @@
 {
  "digest_seen": [],
  "hot_status": "ok: 250 FAs, 0 games",
- "last_activity_ms": 1792411199867,
+ "last_activity_ms": 1792519769924,
  "last_digest": 1792519228.3685744,
  "last_hot_check": 1792519456.3667328,
  "last_run": "2026-10-19T22:05:14+00:00",
@@ -5572,6 +5572,20 @@
    "status": "ACTIVE",
    "value": 11.3
   },
+  "5107968": {
+   "fantasy_team": null,
+   "id": "5107968",
+   "mpg": null,
+   "name": "Ja'Kobi Gillespie",
+   "nba_team": "SAS",
+   "positions": [
+    "PG"
+   ],
+   "return_date": null,
+   "slot": "",
+   "status": "ACTIVE",
+   "value": 0.0
+  },
   "5108024": {
    "fantasy_team": null,
    "id": "5108024",
@@ -5904,7 +5918,7 @@
    "value": 22.1
   },
   "5211175": {
-   "fantasy_team": null,
+   "fantasy_team": "BL0CK BY ZION",
    "id": "5211175",
    "mpg": 22.8,
    "name": "Zaccharie Risacher",
@@ -5913,7 +5927,7 @@
     "SF"
    ],
    "return_date": null,
-   "slot": "",
+   "slot": "BE",
    "status": "ACTIVE",
    "value": 20.3
   },

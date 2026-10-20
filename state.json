@@ -5670,7 +5670,7 @@
    ],
    "return_date": null,
    "slot": "UT",
-   "status": "DAY_TO_DAY",
+   "status": "OUT",
    "value": 32.9
   },
   "5144091": {
@@ -6369,6 +6369,7 @@
   "trade:4896372:FA",
   "week:1",
   "score:1",
-  "diag:1"
+  "diag:1",
+  "inj:5142718:OUT"
  ]
 }

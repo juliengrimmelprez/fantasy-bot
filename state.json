@@ -624,7 +624,7 @@
   "3078576": {
    "fantasy_team": "Lucky",
    "id": "3078576",
-   "mpg": 18.0,
+   "mpg": 19.0,
    "name": "Derrick White",
    "nba_team": "BOS",
    "positions": [
@@ -634,7 +634,7 @@
    "return_date": null,
    "slot": "SG",
    "status": "ACTIVE",
-   "value": 15.3
+   "value": 16.8
   },
   "3102529": {
    "fantasy_team": null,
@@ -749,20 +749,6 @@
    "slot": "BE",
    "status": "ACTIVE",
    "value": 28.4
-  },
-  "3133635": {
-   "fantasy_team": null,
-   "id": "3133635",
-   "mpg": 15.4,
-   "name": "Jevon Carter",
-   "nba_team": "ORL",
-   "positions": [
-    "PG"
-   ],
-   "return_date": null,
-   "slot": "",
-   "status": "ACTIVE",
-   "value": 13.4
   },
   "3134903": {
    "fantasy_team": null,
@@ -1055,7 +1041,7 @@
   "3157465": {
    "fantasy_team": null,
    "id": "3157465",
-   "mpg": 13.0,
+   "mpg": 14.0,
    "name": "Duncan Robinson",
    "nba_team": "DET",
    "positions": [
@@ -1271,7 +1257,7 @@
   "3908845": {
    "fantasy_team": "CCCP  Баскетбол",
    "id": "3908845",
-   "mpg": 18.0,
+   "mpg": 19.0,
    "name": "John Collins",
    "nba_team": "DET",
    "positions": [
@@ -1281,7 +1267,7 @@
    "return_date": null,
    "slot": "UT",
    "status": "ACTIVE",
-   "value": 17.7
+   "value": 18.4
   },
   "3912848": {
    "fantasy_team": null,
@@ -1576,7 +1562,7 @@
   "4065648": {
    "fantasy_team": "Caxias French Fries",
    "id": "4065648",
-   "mpg": 20.0,
+   "mpg": 21.0,
    "name": "Jayson Tatum",
    "nba_team": "BOS",
    "positions": [
@@ -1586,7 +1572,7 @@
    "return_date": null,
    "slot": "SF",
    "status": "ACTIVE",
-   "value": 30.8
+   "value": 30.0
   },
   "4065654": {
    "fantasy_team": null,
@@ -1688,7 +1674,7 @@
    "return_date": null,
    "slot": "",
    "status": "ACTIVE",
-   "value": 17.0
+   "value": 17.8
   },
   "4066211": {
    "fantasy_team": null,
@@ -1715,7 +1701,7 @@
    ],
    "return_date": null,
    "slot": "",
-   "status": "DAY_TO_DAY",
+   "status": "OUT",
    "value": 16.2
   },
   "4066259": {
@@ -1971,7 +1957,7 @@
   "4251": {
    "fantasy_team": "Bull Market",
    "id": "4251",
-   "mpg": 16.0,
+   "mpg": 17.0,
    "name": "Paul George",
    "nba_team": "BOS",
    "positions": [
@@ -1981,7 +1967,7 @@
    "return_date": null,
    "slot": "SF",
    "status": "ACTIVE",
-   "value": 38.9
+   "value": 42.6
   },
   "4277811": {
    "fantasy_team": "Lucky",
@@ -3181,7 +3167,7 @@
   "4432166": {
    "fantasy_team": "CCCP  Баскетбол",
    "id": "4432166",
-   "mpg": 18.0,
+   "mpg": 19.0,
    "name": "Cade Cunningham",
    "nba_team": "DET",
    "positions": [
@@ -3758,7 +3744,7 @@
    "return_date": null,
    "slot": "C",
    "status": "ACTIVE",
-   "value": 27.1
+   "value": 30.1
   },
   "4433627": {
    "fantasy_team": "Lebron GOAT",
@@ -3942,21 +3928,6 @@
    "mpg": null,
    "name": "Pat Spencer",
    "nba_team": "PHO",
-   "positions": [
-    "PG",
-    "SG"
-   ],
-   "return_date": null,
-   "slot": "",
-   "status": "ACTIVE",
-   "value": 0.0
-  },
-  "4592829": {
-   "fantasy_team": null,
-   "id": "4592829",
-   "mpg": null,
-   "name": "Quenton Jackson",
-   "nba_team": "IND",
    "positions": [
     "PG",
     "SG"
@@ -4226,6 +4197,20 @@
    "slot": "PG",
    "status": "ACTIVE",
    "value": 24.1
+  },
+  "4683742": {
+   "fantasy_team": null,
+   "id": "4683742",
+   "mpg": null,
+   "name": "Julian Reese",
+   "nba_team": "NOP",
+   "positions": [
+    "PF"
+   ],
+   "return_date": null,
+   "slot": "",
+   "status": "ACTIVE",
+   "value": 0.0
   },
   "4683747": {
    "fantasy_team": null,
@@ -5586,6 +5571,20 @@
    "slot": "",
    "status": "ACTIVE",
    "value": 11.3
+  },
+  "5107968": {
+   "fantasy_team": null,
+   "id": "5107968",
+   "mpg": null,
+   "name": "Ja'Kobi Gillespie",
+   "nba_team": "SAS",
+   "positions": [
+    "PG"
+   ],
+   "return_date": null,
+   "slot": "",
+   "status": "ACTIVE",
+   "value": 0.0
   },
   "5108024": {
    "fantasy_team": null,

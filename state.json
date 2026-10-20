@@ -3,7 +3,7 @@
  "hot_status": "ok: 250 FAs, 0 games",
  "last_activity_ms": 1792411199867,
  "last_digest": 1792456458.0777018,
- "last_hot_check": 1792458978.656575,
+ "last_hot_check": 1792459936.0425653,
  "last_run": "2026-10-19T22:05:14+00:00",
  "matchup_periods": {
   "1": [
@@ -1538,6 +1538,20 @@
    "nba_team": "FA",
    "positions": [
     "PF",
+    "C"
+   ],
+   "return_date": null,
+   "slot": "",
+   "status": "ACTIVE",
+   "value": 0.0
+  },
+  "4017850": {
+   "fantasy_team": null,
+   "id": "4017850",
+   "mpg": null,
+   "name": "Wang Zhelin",
+   "nba_team": "MEM",
+   "positions": [
     "C"
    ],
    "return_date": null,
@@ -5001,20 +5015,6 @@
    "slot": "",
    "status": "OUT",
    "value": 16.9
-  },
-  "5023693": {
-   "fantasy_team": null,
-   "id": "5023693",
-   "mpg": null,
-   "name": "Tyrese Proctor",
-   "nba_team": "CLE",
-   "positions": [
-    "SG"
-   ],
-   "return_date": null,
-   "slot": "",
-   "status": "ACTIVE",
-   "value": 0.0
   },
   "5037871": {
    "fantasy_team": "Tiki Taka Laranja",

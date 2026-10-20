@@ -1,4 +1,4 @@
-# Backfill — últimos 1 dias (até 19/10 20:02 ET)
+# Backfill — últimos 1 dias (até 19/10 20:03 ET)
 
 Seu pior jogador hoje (referência para drops): Toumani Camara (23.8 FP)
 
@@ -143,6 +143,23 @@ Você × *Fernando  Diniz* — elencos atuais, sem FAs
 Projeção da rodada inteira *sem FAs*: você ~1198 × ~1291 → *derrota provável* (-93)
 Jogos restantes: você 34 × 38
 Jogos por dia (você×ele): Ter 20 3×3 · Qua 21 10×10 · Qui 22 0×2 · Sex 23 10×10 · Sáb 24 6×6 · Dom 25 5×7
+
+*Seu elenco na semana* (jogos × média esperada = pontos):
+1. Cooper Flagg — 3 × 45.4 = *136*
+2. Austin Reaves — 3 × 43.3 = *130*
+3. Amen Thompson — 3 × 40 = *120*
+4. Franz Wagner — 3 × 38.6 = *116*
+5. Stephon Castle — 3 × 36.9 = *111*
+6. Alex Sarr — 3 × 36.6 = *110*
+7. Dyson Daniels — 3 × 35.6 = *107*
+8. Josh Hart — 3 × 33 = *99*
+9. Jalen Suggs — 3 × 29.1 = *87*
+10. Jeremiah Fears — 3 × 27.3 = *82*
+11. Collin Murray-Boyles — 3 × 24.8 = *74*
+12. Neemias Queta — 2 × 27.2 = *54*
+13. Toumani Camara — 2 × 23.8 = *48*
+_Média esperada: metade temporada/projeção, metade últimos 15 dias. Em dias com 10+ jogando, nem todos pontuam._
+
 Seus desfalques: nenhum
 Desfalques dele: Jimmy Butler III
 

@@ -216,7 +216,7 @@
   "2581018": {
    "fantasy_team": null,
    "id": "2581018",
-   "mpg": 4.0,
+   "mpg": 6.0,
    "name": "Kentavious Caldwell-Pope",
    "nba_team": "PHL",
    "positions": [
@@ -982,7 +982,7 @@
   "3147657": {
    "fantasy_team": "Caxias French Fries",
    "id": "3147657",
-   "mpg": 8.0,
+   "mpg": 9.0,
    "name": "Mikal Bridges",
    "nba_team": "NYK",
    "positions": [
@@ -1343,7 +1343,7 @@
   "3914044": {
    "fantasy_team": null,
    "id": "3914044",
-   "mpg": 2.0,
+   "mpg": 3.0,
    "name": "Landry Shamet",
    "nba_team": "NYK",
    "positions": [
@@ -1352,12 +1352,12 @@
    "return_date": null,
    "slot": "",
    "status": "ACTIVE",
-   "value": 4.5
+   "value": 15.0
   },
   "3917376": {
    "fantasy_team": "BL0CK BY ZION",
    "id": "3917376",
-   "mpg": 7.0,
+   "mpg": 8.0,
    "name": "Jaylen Brown",
    "nba_team": "PHL",
    "positions": [
@@ -2074,7 +2074,7 @@
   "4277869": {
    "fantasy_team": null,
    "id": "4277869",
-   "mpg": 1.0,
+   "mpg": 2.0,
    "name": "Jose Alvarado",
    "nba_team": "NYK",
    "positions": [
@@ -2083,7 +2083,7 @@
    "return_date": null,
    "slot": "",
    "status": "ACTIVE",
-   "value": 19.5
+   "value": 5.6
   },
   "4277905": {
    "fantasy_team": "BL0CK BY ZION",
@@ -2463,7 +2463,7 @@
   "4351851": {
    "fantasy_team": null,
    "id": "4351851",
-   "mpg": 4.0,
+   "mpg": 5.0,
    "name": "Anfernee Simons",
    "nba_team": "PHL",
    "positions": [
@@ -2977,7 +2977,7 @@
   "4431678": {
    "fantasy_team": "Tiki Taka Laranja",
    "id": "4431678",
-   "mpg": 7.0,
+   "mpg": 8.0,
    "name": "Tyrese Maxey",
    "nba_team": "PHL",
    "positions": [
@@ -3122,7 +3122,7 @@
   "4431823": {
    "fantasy_team": null,
    "id": "4431823",
-   "mpg": 3.0,
+   "mpg": 4.0,
    "name": "Miles McBride",
    "nba_team": "NYK",
    "positions": [
@@ -3132,7 +3132,7 @@
    "return_date": null,
    "slot": "",
    "status": "ACTIVE",
-   "value": 8.7
+   "value": 11.7
   },
   "4432107": {
    "fantasy_team": null,
@@ -5418,7 +5418,7 @@
   "5105637": {
    "fantasy_team": null,
    "id": "5105637",
-   "mpg": 1.0,
+   "mpg": 2.0,
    "name": "Adem Bona",
    "nba_team": "PHL",
    "positions": [
@@ -5427,7 +5427,7 @@
    "return_date": null,
    "slot": "",
    "status": "ACTIVE",
-   "value": 6.1
+   "value": 6.8
   },
   "5105809": {
    "fantasy_team": null,
@@ -6322,7 +6322,7 @@
   "6585": {
    "fantasy_team": null,
    "id": "6585",
-   "mpg": 7.0,
+   "mpg": 8.0,
    "name": "Andre Drummond",
    "nba_team": "NYK",
    "positions": [
@@ -6331,7 +6331,7 @@
    "return_date": null,
    "slot": "",
    "status": "ACTIVE",
-   "value": 18.7
+   "value": 19.4
   },
   "6589": {
    "fantasy_team": "Bull Market",

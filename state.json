@@ -531,7 +531,7 @@
    "return_date": null,
    "slot": "C",
    "status": "ACTIVE",
-   "value": 18.1
+   "value": 15.1
   },
   "3059319": {
    "fantasy_team": "Tiki Taka Laranja",
@@ -2473,7 +2473,7 @@
    "return_date": null,
    "slot": "",
    "status": "ACTIVE",
-   "value": 10.3
+   "value": 11.1
   },
   "4351852": {
    "fantasy_team": "Fernando  Diniz",
@@ -4516,7 +4516,7 @@
    ],
    "return_date": null,
    "slot": "UT",
-   "status": "DAY_TO_DAY",
+   "status": "OUT",
    "value": 30.8
   },
   "4711272": {
@@ -6388,6 +6388,7 @@
   "inj:5142718:OUT",
   "inj:4395651:OUT",
   "inj:5061575:OUT",
-  "inj:4566434:ACTIVE"
+  "inj:4566434:ACTIVE",
+  "inj:4709138:OUT"
  ]
 }

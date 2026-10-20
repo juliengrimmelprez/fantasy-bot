@@ -3,7 +3,7 @@
  "hot_status": "ok: 250 FAs, 11 games",
  "last_activity_ms": 1792519769924,
  "last_digest": 1792526658.9264343,
- "last_hot_check": 1792528096.5087583,
+ "last_hot_check": 1792529057.6012096,
  "last_run": "2026-10-19T22:05:14+00:00",
  "matchup_periods": {
   "1": [
@@ -624,7 +624,7 @@
   "3078576": {
    "fantasy_team": "Lucky",
    "id": "3078576",
-   "mpg": 23.0,
+   "mpg": 24.0,
    "name": "Derrick White",
    "nba_team": "BOS",
    "positions": [
@@ -1562,7 +1562,7 @@
   "4065648": {
    "fantasy_team": "Caxias French Fries",
    "id": "4065648",
-   "mpg": 24.0,
+   "mpg": 26.0,
    "name": "Jayson Tatum",
    "nba_team": "BOS",
    "positions": [
@@ -1796,7 +1796,7 @@
   "4066354": {
    "fantasy_team": "Coringas do Gansola",
    "id": "4066354",
-   "mpg": 13.0,
+   "mpg": 14.0,
    "name": "Payton Pritchard",
    "nba_team": "BOS",
    "positions": [
@@ -1811,7 +1811,7 @@
   "4066372": {
    "fantasy_team": null,
    "id": "4066372",
-   "mpg": 13.0,
+   "mpg": 14.0,
    "name": "Kevin Huerter",
    "nba_team": "DET",
    "positions": [
@@ -2102,7 +2102,7 @@
   "4277951": {
    "fantasy_team": null,
    "id": "4277951",
-   "mpg": 3.0,
+   "mpg": 4.0,
    "name": "Luka Garza",
    "nba_team": "BOS",
    "positions": [
@@ -2111,7 +2111,7 @@
    "return_date": null,
    "slot": "",
    "status": "ACTIVE",
-   "value": 5.0
+   "value": 3.0
   },
   "4277956": {
    "fantasy_team": "CCCP  Баскетбол",
@@ -2319,7 +2319,7 @@
   "4278562": {
    "fantasy_team": null,
    "id": "4278562",
-   "mpg": 9.0,
+   "mpg": 10.0,
    "name": "Paul Reed",
    "nba_team": "DET",
    "positions": [
@@ -2329,7 +2329,7 @@
    "return_date": null,
    "slot": "",
    "status": "ACTIVE",
-   "value": 11.8
+   "value": 16.4
   },
   "4278572": {
    "fantasy_team": null,
@@ -3167,7 +3167,7 @@
   "4432166": {
    "fantasy_team": "CCCP  Баскетбол",
    "id": "4432166",
-   "mpg": 23.0,
+   "mpg": 24.0,
    "name": "Cade Cunningham",
    "nba_team": "DET",
    "positions": [
@@ -5877,7 +5877,7 @@
   "5175647": {
    "fantasy_team": null,
    "id": "5175647",
-   "mpg": 6.0,
+   "mpg": 8.0,
    "name": "Hugo Gonzalez",
    "nba_team": "BOS",
    "positions": [

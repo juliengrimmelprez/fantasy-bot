@@ -3,7 +3,7 @@
  "hot_status": "ok: 250 FAs, 12 games",
  "last_activity_ms": 1792519769924,
  "last_digest": 1792537696.7425632,
- "last_hot_check": 1792537696.742429,
+ "last_hot_check": 1792538658.353501,
  "last_run": "2026-10-19T22:05:14+00:00",
  "matchup_periods": {
   "1": [
@@ -551,7 +551,7 @@
   "3062679": {
    "fantasy_team": "King Coopa",
    "id": "3062679",
-   "mpg": 3.0,
+   "mpg": 4.0,
    "name": "Josh Hart",
    "nba_team": "NYK",
    "positions": [
@@ -891,7 +891,7 @@
    "return_date": null,
    "slot": "C",
    "status": "ACTIVE",
-   "value": 14.0
+   "value": 12.5
   },
   "3136196": {
    "fantasy_team": null,
@@ -1357,7 +1357,7 @@
   "3917376": {
    "fantasy_team": "BL0CK BY ZION",
    "id": "3917376",
-   "mpg": 3.0,
+   "mpg": 4.0,
    "name": "Jaylen Brown",
    "nba_team": "PHL",
    "positions": [
@@ -1367,12 +1367,12 @@
    "return_date": null,
    "slot": "SF",
    "status": "ACTIVE",
-   "value": 10.4
+   "value": 12.7
   },
   "3934672": {
    "fantasy_team": "Coringas do Gansola",
    "id": "3934672",
-   "mpg": 3.0,
+   "mpg": 4.0,
    "name": "Jalen Brunson",
    "nba_team": "NYK",
    "positions": [
@@ -1401,7 +1401,7 @@
   "3934719": {
    "fantasy_team": "Caxias French Fries",
    "id": "3934719",
-   "mpg": 3.0,
+   "mpg": 4.0,
    "name": "OG Anunoby",
    "nba_team": "NYK",
    "positions": [
@@ -2977,7 +2977,7 @@
   "4431678": {
    "fantasy_team": "Tiki Taka Laranja",
    "id": "4431678",
-   "mpg": 3.0,
+   "mpg": 4.0,
    "name": "Tyrese Maxey",
    "nba_team": "PHL",
    "positions": [
@@ -2987,7 +2987,7 @@
    "return_date": null,
    "slot": "PG",
    "status": "ACTIVE",
-   "value": 20.3
+   "value": 23.3
   },
   "4431679": {
    "fantasy_team": "Polga Silva",

@@ -34,12 +34,24 @@ MAX_SENT_KEYS = 500
 # Value of a player, in fantasy points per game
 # ---------------------------------------------------------------------------
 
-def player_value(season_avg: float, projected_avg: float, last15_avg: float) -> float:
-    """Blend of what he has done and what ESPN expects.
+def player_value(season_avg: float, projected_avg: float, last15_avg: float, today=None) -> float:
+    """Expected fantasy points per game.
 
-    Recent form (last 15 days) catches role changes; the projection keeps
-    the number sensible early in the season when few games exist.
+    Early season (until config.PROJECTIONS_UNTIL): blend of what he has done and
+    what ESPN projects. After that: real points only, weighting the last 15 days
+    more (config.LAST15_WEIGHT); projection only if he has no games at all.
     """
+    from datetime import date
+    today = today or datetime.now(timezone.utc).date()
+    real_only = today >= date.fromisoformat(config.PROJECTIONS_UNTIL)
+    if real_only:
+        s15 = last15_avg if last15_avg and last15_avg > 0 else None
+        sea = season_avg if season_avg and season_avg > 0 else None
+        if s15 and sea:
+            return round(config.LAST15_WEIGHT * s15 + (1 - config.LAST15_WEIGHT) * sea, 1)
+        if s15 or sea:
+            return round(s15 or sea, 1)
+        return round(projected_avg or 0.0, 1)
     parts = [v for v in (season_avg, projected_avg, last15_avg) if v and v > 0]
     if not parts:
         return 0.0
@@ -48,6 +60,16 @@ def player_value(season_avg: float, projected_avg: float, last15_avg: float) -> 
         base = sum(others) / len(others) if others else last15_avg
         return round(0.5 * last15_avg + 0.5 * base, 1)
     return round(sum(parts) / len(parts), 1)
+
+
+def value_method_note(today=None) -> str:
+    from datetime import date
+    today = today or datetime.now(timezone.utc).date()
+    if today >= date.fromisoformat(config.PROJECTIONS_UNTIL):
+        w = round(config.LAST15_WEIGHT * 100)
+        return f"Média esperada: {w}% últimos 15 dias + {100 - w}% média real da temporada (sem projeções da ESPN)."
+    return (f"Média esperada: metade temporada/projeção, metade últimos 15 dias. "
+            f"A partir de {date.fromisoformat(config.PROJECTIONS_UNTIL):%d/%m}, só pontos reais.")
 
 
 # ---------------------------------------------------------------------------
@@ -616,7 +638,7 @@ def diag_message(ctx: dict, rem: list[int]) -> str:
     for n, (tot, g, p) in enumerate(rows, 1):
         tag = " (IR)" if p.get("slot") == "IR" else (" (OUT)" if p["status"] in config.OUT_STATUSES else "")
         lines.append(f"{n}. {p['name']}{tag} — {g} × {p['value']:g} = *{tot:.0f}*")
-    lines.append("_Média esperada: metade temporada/projeção, metade últimos 15 dias. Em dias com 10+ jogando, nem todos pontuam._\n")
+    lines.append(f"_{value_method_note()} Em dias com 10+ jogando, nem todos pontuam._\n")
 
     def missing(roster):
         out = [p["name"] for p in roster if p["status"] in config.OUT_STATUSES or p.get("slot") == "IR"]

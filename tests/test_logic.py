@@ -86,9 +86,19 @@ def test_dedup_via_sent_keys():
 
 
 def test_player_value_blend():
-    assert bot.player_value(30, 26, 0) == 28.0
-    assert bot.player_value(0, 26, 0) == 26.0
-    assert bot.player_value(20, 20, 40) == 30.0     # hot streak counts half
+    from datetime import date
+    early = date(2026, 10, 25)
+    assert bot.player_value(30, 26, 0, early) == 28.0
+    assert bot.player_value(0, 26, 0, early) == 26.0
+    assert bot.player_value(20, 20, 40, early) == 30.0     # hot streak counts half
+
+
+def test_player_value_real_points_after_two_weeks():
+    from datetime import date
+    later = date(2026, 11, 10)
+    assert bot.player_value(20, 99, 40, later) == 33.0     # 0.65*40 + 0.35*20, projection ignored
+    assert bot.player_value(25, 99, 0, later) == 25.0      # no recent games: season average
+    assert bot.player_value(0, 22, 0, later) == 22.0       # no games at all: projection fallback
 
 
 def test_telegram_html_formatting():

@@ -10,6 +10,14 @@ MY_TEAM_NAME = "King Coopa"
 LEAGUE_URL = f"https://fantasy.espn.com/basketball/league?leagueId={LEAGUE_ID}"
 ADD_PLAYERS_URL = f"https://fantasy.espn.com/basketball/players/add?leagueId={LEAGUE_ID}"
 
+# --- How a player's expected FP per game is computed ---------------------------
+# Until this date: blend of ESPN projection, season average and last 15 days.
+# From this date on: real points only — season average and last-15-day
+# average, with more weight on the last 15 days. Projection only for players
+# with no games at all (e.g. back from a long injury).
+PROJECTIONS_UNTIL = "2026-11-02"
+LAST15_WEIGHT = 0.65        # season average gets the rest (0.35)
+
 # --- Who counts as a "good player" whose absence matters -------------------
 # A player whose value (FP per game) is at or above this triggers an injury
 # alert even when he isn't on your team, as long as a free teammate benefits.

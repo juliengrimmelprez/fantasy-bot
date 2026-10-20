@@ -1,9 +1,9 @@
 {
  "digest_seen": [],
- "hot_status": "ok: 250 FAs, 11 games",
+ "hot_status": "ok: 250 FAs, 12 games",
  "last_activity_ms": 1792519769924,
  "last_digest": 1792530376.23556,
- "last_hot_check": 1792530980.1732707,
+ "last_hot_check": 1792531936.6739204,
  "last_run": "2026-10-19T22:05:14+00:00",
  "matchup_periods": {
   "1": [
@@ -257,6 +257,20 @@
    "slot": "UT",
    "status": "ACTIVE",
    "value": 36.0
+  },
+  "2596112": {
+   "fantasy_team": null,
+   "id": "2596112",
+   "mpg": 17.0,
+   "name": "Javonte Green",
+   "nba_team": "DET",
+   "positions": [
+    "SF"
+   ],
+   "return_date": null,
+   "slot": "",
+   "status": "ACTIVE",
+   "value": 26.0
   },
   "2779": {
    "fantasy_team": null,
@@ -750,6 +764,20 @@
    "status": "ACTIVE",
    "value": 28.4
   },
+  "3133635": {
+   "fantasy_team": null,
+   "id": "3133635",
+   "mpg": 15.4,
+   "name": "Jevon Carter",
+   "nba_team": "ORL",
+   "positions": [
+    "PG"
+   ],
+   "return_date": null,
+   "slot": "",
+   "status": "ACTIVE",
+   "value": 13.4
+  },
   "3134903": {
    "fantasy_team": null,
    "id": "3134903",
@@ -1041,7 +1069,7 @@
   "3157465": {
    "fantasy_team": null,
    "id": "3157465",
-   "mpg": 27.0,
+   "mpg": 28.0,
    "name": "Duncan Robinson",
    "nba_team": "DET",
    "positions": [
@@ -1562,7 +1590,7 @@
   "4065648": {
    "fantasy_team": "Caxias French Fries",
    "id": "4065648",
-   "mpg": 37.0,
+   "mpg": 38.0,
    "name": "Jayson Tatum",
    "nba_team": "BOS",
    "positions": [
@@ -4198,20 +4226,6 @@
    "status": "ACTIVE",
    "value": 24.1
   },
-  "4683742": {
-   "fantasy_team": null,
-   "id": "4683742",
-   "mpg": null,
-   "name": "Julian Reese",
-   "nba_team": "NOP",
-   "positions": [
-    "PF"
-   ],
-   "return_date": null,
-   "slot": "",
-   "status": "ACTIVE",
-   "value": 0.0
-  },
   "4683747": {
    "fantasy_team": null,
    "id": "4683747",
@@ -5571,20 +5585,6 @@
    "slot": "",
    "status": "ACTIVE",
    "value": 11.3
-  },
-  "5107968": {
-   "fantasy_team": null,
-   "id": "5107968",
-   "mpg": null,
-   "name": "Ja'Kobi Gillespie",
-   "nba_team": "SAS",
-   "positions": [
-    "PG"
-   ],
-   "return_date": null,
-   "slot": "",
-   "status": "ACTIVE",
-   "value": 0.0
   },
   "5108024": {
    "fantasy_team": null,

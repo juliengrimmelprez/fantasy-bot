@@ -1,9 +1,9 @@
 {
  "digest_seen": [],
- "hot_status": "ok: 250 FAs, 10 games",
+ "hot_status": "ok: 250 FAs, 11 games",
  "last_activity_ms": 1792519769924,
  "last_digest": 1792522939.5348032,
- "last_hot_check": 1792525221.8668535,
+ "last_hot_check": 1792526178.1464553,
  "last_run": "2026-10-19T22:05:14+00:00",
  "matchup_periods": {
   "1": [
@@ -624,7 +624,7 @@
   "3078576": {
    "fantasy_team": "Lucky",
    "id": "3078576",
-   "mpg": 10.0,
+   "mpg": 12.0,
    "name": "Derrick White",
    "nba_team": "BOS",
    "positions": [
@@ -634,7 +634,7 @@
    "return_date": null,
    "slot": "SG",
    "status": "ACTIVE",
-   "value": 13.0
+   "value": 11.5
   },
   "3102529": {
    "fantasy_team": null,
@@ -1271,7 +1271,7 @@
   "3908845": {
    "fantasy_team": "CCCP  Баскетбол",
    "id": "3908845",
-   "mpg": 9.0,
+   "mpg": 11.0,
    "name": "John Collins",
    "nba_team": "DET",
    "positions": [
@@ -1576,7 +1576,7 @@
   "4065648": {
    "fantasy_team": "Caxias French Fries",
    "id": "4065648",
-   "mpg": 12.0,
+   "mpg": 13.0,
    "name": "Jayson Tatum",
    "nba_team": "BOS",
    "positions": [
@@ -1586,7 +1586,7 @@
    "return_date": null,
    "slot": "SF",
    "status": "ACTIVE",
-   "value": 23.3
+   "value": 26.3
   },
   "4065654": {
    "fantasy_team": null,
@@ -1678,7 +1678,7 @@
   "4065804": {
    "fantasy_team": null,
    "id": "4065804",
-   "mpg": 6.0,
+   "mpg": 7.0,
    "name": "Sam Hauser",
    "nba_team": "BOS",
    "positions": [
@@ -1971,7 +1971,7 @@
   "4251": {
    "fantasy_team": "Bull Market",
    "id": "4251",
-   "mpg": 8.0,
+   "mpg": 9.0,
    "name": "Paul George",
    "nba_team": "BOS",
    "positions": [
@@ -1981,7 +1981,7 @@
    "return_date": null,
    "slot": "SF",
    "status": "ACTIVE",
-   "value": 17.1
+   "value": 16.4
   },
   "4277811": {
    "fantasy_team": "Lucky",
@@ -2116,7 +2116,7 @@
   "4277951": {
    "fantasy_team": null,
    "id": "4277951",
-   "mpg": 2.0,
+   "mpg": 3.0,
    "name": "Luka Garza",
    "nba_team": "BOS",
    "positions": [
@@ -2333,7 +2333,7 @@
   "4278562": {
    "fantasy_team": null,
    "id": "4278562",
-   "mpg": 5.0,
+   "mpg": 6.0,
    "name": "Paul Reed",
    "nba_team": "DET",
    "positions": [
@@ -2899,7 +2899,7 @@
    "return_date": null,
    "slot": "UT",
    "status": "ACTIVE",
-   "value": 12.0
+   "value": 12.8
   },
   "4397475": {
    "fantasy_team": null,
@@ -3181,7 +3181,7 @@
   "4432166": {
    "fantasy_team": "CCCP  Баскетбол",
    "id": "4432166",
-   "mpg": 9.0,
+   "mpg": 11.0,
    "name": "Cade Cunningham",
    "nba_team": "DET",
    "positions": [
@@ -3190,7 +3190,7 @@
    "return_date": null,
    "slot": "PG",
    "status": "ACTIVE",
-   "value": 20.9
+   "value": 20.1
   },
   "4432170": {
    "fantasy_team": null,
@@ -4008,7 +4008,7 @@
    "return_date": null,
    "slot": "",
    "status": "ACTIVE",
-   "value": 9.3
+   "value": 8.6
   },
   "4594268": {
    "fantasy_team": "Bull Market",
@@ -4361,7 +4361,7 @@
   "4684742": {
    "fantasy_team": "Tropa do Nikola",
    "id": "4684742",
-   "mpg": 14.0,
+   "mpg": 16.0,
    "name": "Ausar Thompson",
    "nba_team": "DET",
    "positions": [
@@ -4371,7 +4371,7 @@
    "return_date": null,
    "slot": "SF",
    "status": "ACTIVE",
-   "value": 19.7
+   "value": 21.9
   },
   "4684793": {
    "fantasy_team": "Lucky",

@@ -560,27 +560,58 @@ def schedule_alerts(ctx: dict, now: datetime) -> list[tuple[str, str]]:
         return out
 
     plan = planner.streaming_plan(ctx["roster"], ctx["fas"], rem, sched, pdates, ctx["adds_left"], now_ms)
-    gain = sum(sl["gain"] for sl in plan["slots"])
-    status = week_projection(ctx, rem, gain)
+
+    # Diagnosis of the matchup (rosters as they are, no FAs): every morning
+    out.append((f"diag:{today}", diag_message(ctx, rem)))
 
     if today == ctx["periods"][0]:
-        # weekly digest on the matchup's first day: projection + plan
-        d0, d1 = pdates.get(ctx["periods"][0]), pdates.get(ctx["periods"][-1])
-        title = f"🗓️ *Rodada {ctx['matchup']}* ({d0:%d/%m}–{d1:%d/%m}) vs {ctx['opponent'] or '?'}"
-        body = title + "\n" + status + "\n\n" + planner.render_plan(plan, pdates, ctx["adds_left"], "*Plano de FAs*")
-        out.append((f"week:{ctx['matchup']}", body))
+        out.append((f"week:{ctx['matchup']}", plan_message(ctx, plan)))
     else:
-        # every other day: where the week stands, plus today's moves if any
-        lines = [f"📊 *Rodada {ctx['matchup']}* — {planner.day_label(pdates[today])}", status]
         todays = [st for sl in plan["slots"] for st in sl["steps"] if st["period"] == today]
         if todays:
-            lines.append("\n📋 *Plano de hoje*")
+            lines = [f"📋 *Plano de FAs — hoje ({planner.day_label(pdates[today])})*"]
             for st in todays:
                 days = ", ".join(planner.day_label(pdates[q]) for q in st["games"])
                 lines.append(f"• dropar {st['drop']['name']} → pegar *{st['add']['name']}* ({st['add']['nba_team']}, {st['add']['value']} FP; joga {days})")
+            lines.append(f"Adds restantes na rodada: {ctx['adds_left']}")
             lines.append(config.ADD_PLAYERS_URL)
-        out.append((f"daily:{today}", "\n".join(lines)))
+            out.append((f"planday:{today}", "\n".join(lines)))
     return out
+
+
+def plan_message(ctx: dict, plan: dict) -> str:
+    pdates = ctx["pdates"]
+    d0, d1 = pdates.get(ctx["periods"][0]), pdates.get(ctx["periods"][-1])
+    title = f"🗓️ *Plano de FAs — Rodada {ctx['matchup']}* ({d0:%d/%m}–{d1:%d/%m})"
+    body = planner.render_plan(plan, pdates, ctx["adds_left"], title)
+    gain = sum(sl["gain"] for sl in plan["slots"])
+    if gain >= 1:
+        body += "\n\n" + week_projection(ctx, ctx["remaining"], gain).splitlines()[-1]
+    return body
+
+
+def diag_message(ctx: dict, rem: list[int]) -> str:
+    """🔎 Will I win this week with the rosters as they are?"""
+    sched, pdates, now_ms = ctx["sched"], ctx["pdates"], ctx["now_ms"]
+    d0, d1 = pdates.get(ctx["periods"][0]), pdates.get(ctx["periods"][-1])
+    lines = [f"🔎 *Diagnóstico do matchup — Rodada {ctx['matchup']}* ({d0:%d/%m}–{d1:%d/%m})",
+             f"Você × *{ctx['opponent'] or '?'}* — elencos atuais, sem FAs"]
+    lines.append(week_projection(ctx, rem, 0))
+    # games per remaining day, both sides (top 10 count)
+    per_day = []
+    for i, per in enumerate(rem):
+        after = now_ms if i == 0 else None
+        mine = min(sum(planner.plays(p, per, sched, pdates, after_ms=after) for p in ctx["roster"]), planner.STARTER_SLOTS)
+        opp = min(sum(planner.plays(p, per, sched, pdates, after_ms=after) for p in ctx["opp_roster"]), planner.STARTER_SLOTS)
+        per_day.append(f"{planner.day_label(pdates[per])} {mine}×{opp}")
+    lines.append("Jogos por dia (você×ele): " + " · ".join(per_day))
+
+    def missing(roster):
+        out = [p["name"] for p in roster if p["status"] in config.OUT_STATUSES or p.get("slot") == "IR"]
+        return ", ".join(out) if out else "nenhum"
+    lines.append(f"Seus desfalques: {missing(ctx['roster'])}")
+    lines.append(f"Desfalques dele: {missing(ctx['opp_roster'])}")
+    return "\n".join(lines)
 
 
 def week_projection(ctx: dict, rem: list[int], plan_gain: float) -> str:

@@ -168,7 +168,13 @@ def main() -> None:
         print(f"(dia {ctx['today']}, rodada {ctx['matchup']}: períodos {ctx['periods']}, adversário {ctx['opponent']}, adds restantes {ctx['adds_left']})\n")
         plan = bot.planner.streaming_plan(ctx["roster"], ctx["fas"], ctx["remaining"], ctx["sched"], ctx["pdates"], ctx["adds_left"], ctx["now_ms"])
         print(bot.planner.render_plan(plan, ctx["pdates"], ctx["adds_left"], "🗓️ *Plano da rodada*"))
-        print("\n" + bot.week_projection(ctx, ctx["remaining"], sum(sl["gain"] for sl in plan["slots"])))
+        diag = bot.diag_message(ctx, ctx["remaining"])
+        planmsg = bot.plan_message(ctx, plan)
+        print("\n" + diag + "\n\n" + planmsg)
+        if os.environ.get("SEND_WEEK") == "true":
+            bot.send_alert(diag)
+            bot.send_alert(planmsg)
+            print("(diagnóstico e plano enviados ao Telegram)")
         per_day = []
         for per in ctx["remaining"]:
             n = sum(bot.planner.plays(p, per, ctx["sched"], ctx["pdates"]) for p in ctx["roster"])

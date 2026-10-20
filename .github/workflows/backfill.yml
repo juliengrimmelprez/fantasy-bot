@@ -9,6 +9,9 @@ on:
       send:
         description: "Also send the simulated messages to Telegram"
         default: "false"
+      send_week:
+        description: "Send this week's matchup diagnosis and FA plan to Telegram now"
+        default: "false"
 
 jobs:
   report:
@@ -29,6 +32,7 @@ jobs:
           ESPN_SWID: ${{ secrets.ESPN_SWID }}
           BACKFILL_DAYS: ${{ inputs.days }}
           BACKFILL_SEND: ${{ inputs.send }}
+          SEND_WEEK: ${{ inputs.send_week }}
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
         run: |

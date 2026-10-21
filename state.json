@@ -3,7 +3,7 @@
  "hot_status": "ok: 250 FAs, 21 games",
  "last_activity_ms": 1792519769924,
  "last_digest": 1792545022.4750922,
- "last_hot_check": 1792545376.0499187,
+ "last_hot_check": 1792546336.6474633,
  "last_run": "2026-10-19T22:05:14+00:00",
  "matchup_periods": {
   "1": [
@@ -70,7 +70,7 @@
   "1966": {
    "fantasy_team": "Lucky",
    "id": "1966",
-   "mpg": 27.0,
+   "mpg": 28.0,
    "name": "LeBron James",
    "nba_team": "PHL",
    "positions": [
@@ -547,7 +547,7 @@
    "return_date": null,
    "slot": "UT",
    "status": "ACTIVE",
-   "value": 27.0
+   "value": 28.5
   },
   "3064290": {
    "fantasy_team": "CCCP  Баскетбол",
@@ -749,20 +749,6 @@
    "slot": "BE",
    "status": "ACTIVE",
    "value": 28.4
-  },
-  "3133635": {
-   "fantasy_team": null,
-   "id": "3133635",
-   "mpg": 15.4,
-   "name": "Jevon Carter",
-   "nba_team": "ORL",
-   "positions": [
-    "PG"
-   ],
-   "return_date": null,
-   "slot": "",
-   "status": "ACTIVE",
-   "value": 13.4
   },
   "3134903": {
    "fantasy_team": null,
@@ -2871,6 +2857,20 @@
    "return_date": null,
    "slot": "",
    "status": "OUT",
+   "value": 0.0
+  },
+  "4397251": {
+   "fantasy_team": null,
+   "id": "4397251",
+   "mpg": null,
+   "name": "Ron Harper Jr.",
+   "nba_team": "BOS",
+   "positions": [
+    "SG"
+   ],
+   "return_date": null,
+   "slot": "",
+   "status": "ACTIVE",
    "value": 0.0
   },
   "4397424": {

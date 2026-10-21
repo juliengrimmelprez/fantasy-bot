@@ -766,6 +766,20 @@
    "status": "ACTIVE",
    "value": 28.4
   },
+  "3133635": {
+   "fantasy_team": null,
+   "id": "3133635",
+   "mpg": 15.4,
+   "name": "Jevon Carter",
+   "nba_team": "ORL",
+   "positions": [
+    "PG"
+   ],
+   "return_date": null,
+   "slot": "",
+   "status": "ACTIVE",
+   "value": 13.4
+  },
   "3134903": {
    "fantasy_team": null,
    "id": "3134903",
@@ -909,20 +923,6 @@
    "slot": "",
    "status": "ACTIVE",
    "value": 17.3
-  },
-  "3137259": {
-   "fantasy_team": null,
-   "id": "3137259",
-   "mpg": null,
-   "name": "Gabe Vincent",
-   "nba_team": "FA",
-   "positions": [
-    "PG"
-   ],
-   "return_date": null,
-   "slot": "",
-   "status": "ACTIVE",
-   "value": 0.0
   },
   "3138160": {
    "fantasy_team": null,
@@ -1545,35 +1545,6 @@
    "slot": "UT",
    "status": "ACTIVE",
    "value": 35.5
-  },
-  "4017844": {
-   "fantasy_team": null,
-   "id": "4017844",
-   "mpg": null,
-   "name": "Guerschon Yabusele",
-   "nba_team": "FA",
-   "positions": [
-    "PF",
-    "C"
-   ],
-   "return_date": null,
-   "slot": "",
-   "status": "ACTIVE",
-   "value": 0.0
-  },
-  "4017850": {
-   "fantasy_team": null,
-   "id": "4017850",
-   "mpg": null,
-   "name": "Wang Zhelin",
-   "nba_team": "MEM",
-   "positions": [
-    "C"
-   ],
-   "return_date": null,
-   "slot": "",
-   "status": "ACTIVE",
-   "value": 0.0
   },
   "4065648": {
    "fantasy_team": "Caxias French Fries",
@@ -2875,6 +2846,20 @@
    "status": "OUT",
    "value": 0.0
   },
+  "4397251": {
+   "fantasy_team": null,
+   "id": "4397251",
+   "mpg": null,
+   "name": "Ron Harper Jr.",
+   "nba_team": "BOS",
+   "positions": [
+    "SG"
+   ],
+   "return_date": null,
+   "slot": "",
+   "status": "ACTIVE",
+   "value": 0.0
+  },
   "4397424": {
    "fantasy_team": "King Coopa",
    "id": "4397424",
@@ -3616,6 +3601,20 @@
    "status": "OUT",
    "value": 0.0
   },
+  "4433188": {
+   "fantasy_team": null,
+   "id": "4433188",
+   "mpg": null,
+   "name": "Devin Carter",
+   "nba_team": "BOS",
+   "positions": [
+    "PG"
+   ],
+   "return_date": null,
+   "slot": "",
+   "status": "OUT",
+   "value": 0.0
+  },
   "4433192": {
    "fantasy_team": null,
    "id": "4433192",
@@ -3851,6 +3850,20 @@
    "status": "ACTIVE",
    "value": 22.9
   },
+  "4591259": {
+   "fantasy_team": null,
+   "id": "4591259",
+   "mpg": 10.2,
+   "name": "Koby Brea",
+   "nba_team": "FA",
+   "positions": [
+    "SG"
+   ],
+   "return_date": null,
+   "slot": "",
+   "status": "ACTIVE",
+   "value": 8.8
+  },
   "4591725": {
    "fantasy_team": "CCCP  Баскетбол",
    "id": "4591725",
@@ -3925,15 +3938,15 @@
    "status": "ACTIVE",
    "value": 0.0
   },
-  "4592829": {
+  "4593016": {
    "fantasy_team": null,
-   "id": "4592829",
+   "id": "4593016",
    "mpg": null,
-   "name": "Quenton Jackson",
-   "nba_team": "IND",
+   "name": "Quinten Post",
+   "nba_team": "MEM",
    "positions": [
-    "PG",
-    "SG"
+    "PF",
+    "C"
    ],
    "return_date": null,
    "slot": "",
@@ -4127,20 +4140,6 @@
    "slot": "PF",
    "status": "DAY_TO_DAY",
    "value": 40.4
-  },
-  "4683024": {
-   "fantasy_team": null,
-   "id": "4683024",
-   "mpg": null,
-   "name": "Killian Hayes",
-   "nba_team": "FA",
-   "positions": [
-    "PG"
-   ],
-   "return_date": null,
-   "slot": "",
-   "status": "ACTIVE",
-   "value": 0.0
   },
   "4683634": {
    "fantasy_team": "Fernando  Diniz",

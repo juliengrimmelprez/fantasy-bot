@@ -1282,7 +1282,7 @@
    ],
    "return_date": null,
    "slot": "",
-   "status": "OUT",
+   "status": "DAY_TO_DAY",
    "value": 16.3
   },
   "3913174": {
@@ -2861,20 +2861,6 @@
    "status": "OUT",
    "value": 0.0
   },
-  "4397251": {
-   "fantasy_team": null,
-   "id": "4397251",
-   "mpg": null,
-   "name": "Ron Harper Jr.",
-   "nba_team": "BOS",
-   "positions": [
-    "SG"
-   ],
-   "return_date": null,
-   "slot": "",
-   "status": "ACTIVE",
-   "value": 0.0
-  },
   "4397424": {
    "fantasy_team": "King Coopa",
    "id": "4397424",
@@ -3458,7 +3444,7 @@
   "4432823": {
    "fantasy_team": null,
    "id": "4432823",
-   "mpg": 2.0,
+   "mpg": 3.0,
    "name": "Jaylin Williams",
    "nba_team": "OKC",
    "positions": [
@@ -4448,6 +4434,20 @@
    "status": "ACTIVE",
    "value": 18.1
   },
+  "4702352": {
+   "fantasy_team": null,
+   "id": "4702352",
+   "mpg": null,
+   "name": "Kobe Sanders",
+   "nba_team": "LAC",
+   "positions": [
+    "SG"
+   ],
+   "return_date": null,
+   "slot": "",
+   "status": "ACTIVE",
+   "value": 0.0
+  },
   "4702382": {
    "fantasy_team": null,
    "id": "4702382",
@@ -5335,7 +5335,7 @@
   "5104157": {
    "fantasy_team": "CCCP  Баскетбол",
    "id": "5104157",
-   "mpg": 9.0,
+   "mpg": 10.0,
    "name": "Victor Wembanyama",
    "nba_team": "SAS",
    "positions": [
@@ -5344,7 +5344,7 @@
    "return_date": null,
    "slot": "C",
    "status": "ACTIVE",
-   "value": 17.4
+   "value": 19.6
   },
   "5105550": {
    "fantasy_team": null,

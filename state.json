@@ -2,7 +2,7 @@
  "digest_seen": [],
  "hot_status": "ok: 250 FAs, 21 games",
  "last_activity_ms": 1792519769924,
- "last_digest": 1792541420.4417396,
+ "last_digest": 1792545022.4750922,
  "last_hot_check": 1792544414.6934907,
  "last_run": "2026-10-19T22:05:14+00:00",
  "matchup_periods": {
@@ -508,7 +508,7 @@
   "3059318": {
    "fantasy_team": "Caxias French Fries",
    "id": "3059318",
-   "mpg": 21.0,
+   "mpg": 22.0,
    "name": "Joel Embiid",
    "nba_team": "PHL",
    "positions": [
@@ -868,7 +868,7 @@
   "3136195": {
    "fantasy_team": "Contagem Hunters",
    "id": "3136195",
-   "mpg": 14.0,
+   "mpg": 15.0,
    "name": "Karl-Anthony Towns",
    "nba_team": "NYK",
    "positions": [
@@ -877,7 +877,7 @@
    "return_date": null,
    "slot": "C",
    "status": "ACTIVE",
-   "value": 20.8
+   "value": 23.8
   },
   "3136196": {
    "fantasy_team": null,
@@ -1343,7 +1343,7 @@
   "3917376": {
    "fantasy_team": "BL0CK BY ZION",
    "id": "3917376",
-   "mpg": 24.0,
+   "mpg": 26.0,
    "name": "Jaylen Brown",
    "nba_team": "PHL",
    "positions": [
@@ -1353,12 +1353,12 @@
    "return_date": null,
    "slot": "SF",
    "status": "ACTIVE",
-   "value": 30.7
+   "value": 31.4
   },
   "3934672": {
    "fantasy_team": "Coringas do Gansola",
    "id": "3934672",
-   "mpg": 23.0,
+   "mpg": 24.0,
    "name": "Jalen Brunson",
    "nba_team": "NYK",
    "positions": [
@@ -2449,7 +2449,7 @@
   "4351851": {
    "fantasy_team": null,
    "id": "4351851",
-   "mpg": 16.0,
+   "mpg": 17.0,
    "name": "Anfernee Simons",
    "nba_team": "PHL",
    "positions": [
@@ -2459,7 +2459,7 @@
    "return_date": null,
    "slot": "",
    "status": "ACTIVE",
-   "value": 10.3
+   "value": 14.1
   },
   "4351852": {
    "fantasy_team": "Fernando  Diniz",
@@ -5634,7 +5634,7 @@
   "5124612": {
    "fantasy_team": "Caxias French Fries",
    "id": "5124612",
-   "mpg": 25.0,
+   "mpg": 27.0,
    "name": "VJ Edgecombe",
    "nba_team": "PHL",
    "positions": [

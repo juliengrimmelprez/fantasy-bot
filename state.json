@@ -5,7 +5,7 @@
  "hot_status": "ok: 250 FAs, 26 games",
  "last_activity_ms": 1792519769924,
  "last_digest": 1792552454.8514166,
- "last_hot_check": 1792554022.6515257,
+ "last_hot_check": 1792554974.5573037,
  "last_run": "2026-10-19T22:05:14+00:00",
  "matchup_periods": {
   "1": [
@@ -408,7 +408,7 @@
   "2991350": {
    "fantasy_team": "CCCP  Баскетбол",
    "id": "2991350",
-   "mpg": 20.0,
+   "mpg": 21.0,
    "name": "Alex Caruso",
    "nba_team": "OKC",
    "positions": [
@@ -2510,7 +2510,7 @@
   "4395630": {
    "fantasy_team": "Contagem Hunters",
    "id": "4395630",
-   "mpg": 24.0,
+   "mpg": 25.0,
    "name": "Devin Vassell",
    "nba_team": "SAS",
    "positions": [
@@ -2583,7 +2583,7 @@
   "4395723": {
    "fantasy_team": "Polga Silva",
    "id": "4395723",
-   "mpg": 15.0,
+   "mpg": 16.0,
    "name": "Keldon Johnson",
    "nba_team": "SAS",
    "positions": [
@@ -2593,7 +2593,7 @@
    "return_date": null,
    "slot": "UT",
    "status": "ACTIVE",
-   "value": 18.7
+   "value": 21.0
   },
   "4395724": {
    "fantasy_team": "Fernando  Diniz",
@@ -3444,7 +3444,7 @@
   "4432823": {
    "fantasy_team": null,
    "id": "4432823",
-   "mpg": 12.0,
+   "mpg": 13.0,
    "name": "Jaylin Williams",
    "nba_team": "OKC",
    "positions": [
@@ -3679,7 +3679,7 @@
   "4433255": {
    "fantasy_team": "Lakers x Bortolan 23",
    "id": "4433255",
-   "mpg": 23.0,
+   "mpg": 25.0,
    "name": "Chet Holmgren",
    "nba_team": "OKC",
    "positions": [
@@ -3689,7 +3689,7 @@
    "return_date": null,
    "slot": "C",
    "status": "ACTIVE",
-   "value": 29.7
+   "value": 30.5
   },
   "4433287": {
    "fantasy_team": "Tropa do Nikola",
@@ -3944,7 +3944,7 @@
   "4593803": {
    "fantasy_team": "Tiki Taka Laranja",
    "id": "4593803",
-   "mpg": 22.0,
+   "mpg": 24.0,
    "name": "Jalen Williams",
    "nba_team": "OKC",
    "positions": [
@@ -3954,7 +3954,7 @@
    "return_date": null,
    "slot": "SF",
    "status": "ACTIVE",
-   "value": 29.0
+   "value": 28.2
   },
   "4593841": {
    "fantasy_team": null,
@@ -4597,7 +4597,7 @@
   "4845367": {
    "fantasy_team": "King Coopa",
    "id": "4845367",
-   "mpg": 22.0,
+   "mpg": 23.0,
    "name": "Stephon Castle",
    "nba_team": "SAS",
    "positions": [
@@ -4607,7 +4607,7 @@
    "return_date": null,
    "slot": "UT",
    "status": "ACTIVE",
-   "value": 22.7
+   "value": 24.2
   },
   "4845374": {
    "fantasy_team": null,
@@ -4891,7 +4891,7 @@
   "4900671": {
    "fantasy_team": "Tropa do Nikola",
    "id": "4900671",
-   "mpg": 19.0,
+   "mpg": 21.0,
    "name": "Ajay Mitchell",
    "nba_team": "OKC",
    "positions": [
@@ -4901,7 +4901,7 @@
    "return_date": null,
    "slot": "PG",
    "status": "ACTIVE",
-   "value": 16.0
+   "value": 15.3
   },
   "4903027": {
    "fantasy_team": "Polga Silva",
@@ -5021,7 +5021,7 @@
   "5037871": {
    "fantasy_team": "Tiki Taka Laranja",
    "id": "5037871",
-   "mpg": 23.0,
+   "mpg": 24.0,
    "name": "Dylan Harper",
    "nba_team": "SAS",
    "positions": [
@@ -5335,7 +5335,7 @@
   "5104157": {
    "fantasy_team": "CCCP  Баскетбол",
    "id": "5104157",
-   "mpg": 28.0,
+   "mpg": 29.0,
    "name": "Victor Wembanyama",
    "nba_team": "SAS",
    "positions": [
@@ -5344,7 +5344,7 @@
    "return_date": null,
    "slot": "C",
    "status": "ACTIVE",
-   "value": 42.9
+   "value": 44.4
   },
   "5105550": {
    "fantasy_team": null,

@@ -1561,6 +1561,21 @@
    "status": "ACTIVE",
    "value": 35.5
   },
+  "4017844": {
+   "fantasy_team": null,
+   "id": "4017844",
+   "mpg": null,
+   "name": "Guerschon Yabusele",
+   "nba_team": "FA",
+   "positions": [
+    "PF",
+    "C"
+   ],
+   "return_date": null,
+   "slot": "",
+   "status": "ACTIVE",
+   "value": 0.0
+  },
   "4065648": {
    "fantasy_team": "Caxias French Fries",
    "id": "4065648",
@@ -3947,21 +3962,6 @@
    "positions": [
     "PG",
     "SG"
-   ],
-   "return_date": null,
-   "slot": "",
-   "status": "ACTIVE",
-   "value": 0.0
-  },
-  "4593016": {
-   "fantasy_team": null,
-   "id": "4593016",
-   "mpg": null,
-   "name": "Quinten Post",
-   "nba_team": "MEM",
-   "positions": [
-    "PF",
-    "C"
    ],
    "return_date": null,
    "slot": "",

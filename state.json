@@ -3,7 +3,7 @@
   "6585:20261020"
  ],
  "hot_status": "ok: 250 FAs, 29 games",
- "last_activity_ms": 1792573370683,
+ "last_activity_ms": 1792580236728,
  "last_digest": 1792578258.9202566,
  "last_hot_check": 1792579937.091933,
  "last_run": "2026-10-19T22:05:14+00:00",
@@ -2561,7 +2561,7 @@
     "SG"
    ],
    "return_date": null,
-   "slot": "SG",
+   "slot": "IR",
    "status": "OUT",
    "value": 32.9
   },
@@ -3676,7 +3676,7 @@
    "value": 26.2
   },
   "4433249": {
-   "fantasy_team": null,
+   "fantasy_team": "Caxias French Fries",
    "id": "4433249",
    "mpg": 24.6,
    "name": "Moussa Diabate",
@@ -3686,7 +3686,7 @@
     "C"
    ],
    "return_date": null,
-   "slot": "",
+   "slot": "BE",
    "status": "ACTIVE",
    "value": 24.0
   },
@@ -4082,6 +4082,20 @@
    ],
    "return_date": null,
    "slot": "BE",
+   "status": "ACTIVE",
+   "value": 0.0
+  },
+  "4602025": {
+   "fantasy_team": null,
+   "id": "4602025",
+   "mpg": null,
+   "name": "Sion James",
+   "nba_team": "CHA",
+   "positions": [
+    "SF"
+   ],
+   "return_date": null,
+   "slot": "",
    "status": "ACTIVE",
    "value": 0.0
   },

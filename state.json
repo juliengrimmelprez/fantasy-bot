@@ -156,20 +156,6 @@
    "status": "OUT",
    "value": 24.4
   },
-  "2566769": {
-   "fantasy_team": null,
-   "id": "2566769",
-   "mpg": null,
-   "name": "Malcolm Brogdon",
-   "nba_team": "NYK",
-   "positions": [
-    "PG"
-   ],
-   "return_date": null,
-   "slot": "",
-   "status": "ACTIVE",
-   "value": 0.0
-  },
   "2578185": {
    "fantasy_team": null,
    "id": "2578185",
@@ -1372,7 +1358,7 @@
   "3934672": {
    "fantasy_team": "Coringas do Gansola",
    "id": "3934672",
-   "mpg": 16.0,
+   "mpg": 17.0,
    "name": "Jalen Brunson",
    "nba_team": "NYK",
    "positions": [
@@ -1381,7 +1367,7 @@
    "return_date": null,
    "slot": "PG",
    "status": "ACTIVE",
-   "value": 20.0
+   "value": 20.7
   },
   "3934673": {
    "fantasy_team": null,
@@ -3122,7 +3108,7 @@
   "4431823": {
    "fantasy_team": null,
    "id": "4431823",
-   "mpg": 6.0,
+   "mpg": 7.0,
    "name": "Miles McBride",
    "nba_team": "NYK",
    "positions": [
@@ -3132,7 +3118,7 @@
    "return_date": null,
    "slot": "",
    "status": "ACTIVE",
-   "value": 11.7
+   "value": 10.9
   },
   "4432107": {
    "fantasy_team": null,
@@ -3863,20 +3849,6 @@
    "status": "ACTIVE",
    "value": 22.9
   },
-  "4591259": {
-   "fantasy_team": null,
-   "id": "4591259",
-   "mpg": 10.2,
-   "name": "Koby Brea",
-   "nba_team": "FA",
-   "positions": [
-    "SG"
-   ],
-   "return_date": null,
-   "slot": "",
-   "status": "ACTIVE",
-   "value": 8.8
-  },
   "4591725": {
    "fantasy_team": "CCCP  Баскетбол",
    "id": "4591725",
@@ -4226,6 +4198,20 @@
    "slot": "PG",
    "status": "ACTIVE",
    "value": 24.1
+  },
+  "4683742": {
+   "fantasy_team": null,
+   "id": "4683742",
+   "mpg": null,
+   "name": "Julian Reese",
+   "nba_team": "NOP",
+   "positions": [
+    "PF"
+   ],
+   "return_date": null,
+   "slot": "",
+   "status": "ACTIVE",
+   "value": 0.0
   },
   "4683747": {
    "fantasy_team": null,
@@ -5586,6 +5572,20 @@
    "slot": "",
    "status": "ACTIVE",
    "value": 11.3
+  },
+  "5107968": {
+   "fantasy_team": null,
+   "id": "5107968",
+   "mpg": null,
+   "name": "Ja'Kobi Gillespie",
+   "nba_team": "SAS",
+   "positions": [
+    "PG"
+   ],
+   "return_date": null,
+   "slot": "",
+   "status": "ACTIVE",
+   "value": 0.0
   },
   "5108024": {
    "fantasy_team": null,

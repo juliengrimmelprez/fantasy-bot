@@ -435,6 +435,20 @@
    "status": "ACTIVE",
    "value": 17.6
   },
+  "2995706": {
+   "fantasy_team": null,
+   "id": "2995706",
+   "mpg": null,
+   "name": "Mario Hezonja",
+   "nba_team": "CLE",
+   "positions": [
+    "SF"
+   ],
+   "return_date": null,
+   "slot": "",
+   "status": "ACTIVE",
+   "value": 0.0
+  },
   "3012": {
    "fantasy_team": null,
    "id": "3012",
@@ -4068,20 +4082,6 @@
    ],
    "return_date": null,
    "slot": "BE",
-   "status": "ACTIVE",
-   "value": 0.0
-  },
-  "4602025": {
-   "fantasy_team": null,
-   "id": "4602025",
-   "mpg": null,
-   "name": "Sion James",
-   "nba_team": "CHA",
-   "positions": [
-    "SF"
-   ],
-   "return_date": null,
-   "slot": "",
    "status": "ACTIVE",
    "value": 0.0
   },

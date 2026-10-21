@@ -3,7 +3,7 @@
   "6585:20261020"
  ],
  "hot_status": "ok: 250 FAs, 29 games",
- "last_activity_ms": 1792519769924,
+ "last_activity_ms": 1792573370683,
  "last_digest": 1792570823.0918858,
  "last_hot_check": 1792573231.8435822,
  "last_run": "2026-10-19T22:05:14+00:00",
@@ -581,7 +581,7 @@
    "value": 32.0
   },
   "3064482": {
-   "fantasy_team": null,
+   "fantasy_team": "Lakers x Bortolan 23",
    "id": "3064482",
    "mpg": 24.3,
    "name": "Bobby Portis",
@@ -591,7 +591,7 @@
     "C"
    ],
    "return_date": null,
-   "slot": "",
+   "slot": "C",
    "status": "ACTIVE",
    "value": 26.0
   },
@@ -3687,7 +3687,7 @@
     "C"
    ],
    "return_date": null,
-   "slot": "C",
+   "slot": "BE",
    "status": "ACTIVE",
    "value": 37.2
   },
@@ -4068,6 +4068,20 @@
    ],
    "return_date": null,
    "slot": "BE",
+   "status": "ACTIVE",
+   "value": 0.0
+  },
+  "4602025": {
+   "fantasy_team": null,
+   "id": "4602025",
+   "mpg": null,
+   "name": "Sion James",
+   "nba_team": "CHA",
+   "positions": [
+    "SF"
+   ],
+   "return_date": null,
+   "slot": "",
    "status": "ACTIVE",
    "value": 0.0
   },

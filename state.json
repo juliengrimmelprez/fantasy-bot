@@ -4,7 +4,7 @@
  ],
  "hot_status": "ok: 250 FAs, 45 games",
  "last_activity_ms": 1792595092934,
- "last_digest": 1792622419.4706247,
+ "last_digest": 1792626137.8965979,
  "last_error_alert": 1792607423.2240388,
  "last_hot_check": 1792626020.0211027,
  "last_run": "2026-10-19T22:05:14+00:00",
@@ -756,7 +756,7 @@
   "3133628": {
    "fantasy_team": "Caxias French Fries",
    "id": "3133628",
-   "mpg": 6.0,
+   "mpg": 7.0,
    "name": "Myles Turner",
    "nba_team": "MIL",
    "positions": [
@@ -765,7 +765,7 @@
    "return_date": null,
    "slot": "C",
    "status": "ACTIVE",
-   "value": 9.4
+   "value": 8.6
   },
   "3133635": {
    "fantasy_team": null,
@@ -971,7 +971,7 @@
   "3146557": {
    "fantasy_team": null,
    "id": "3146557",
-   "mpg": 3.0,
+   "mpg": 4.0,
    "name": "Jock Landale",
    "nba_team": "ATL",
    "positions": [
@@ -2062,7 +2062,7 @@
   "4277905": {
    "fantasy_team": "BL0CK BY ZION",
    "id": "4277905",
-   "mpg": 8.0,
+   "mpg": 10.0,
    "name": "Trae Young",
    "nba_team": "WAS",
    "positions": [
@@ -2071,7 +2071,7 @@
    "return_date": null,
    "slot": "PG",
    "status": "ACTIVE",
-   "value": 44.4
+   "value": 11.8
   },
   "4277919": {
    "fantasy_team": null,
@@ -2158,7 +2158,7 @@
    "return_date": null,
    "slot": "SG",
    "status": "ACTIVE",
-   "value": 18.3
+   "value": 17.5
   },
   "4278049": {
    "fantasy_team": "Fernando  Diniz",
@@ -2336,7 +2336,7 @@
   "4278572": {
    "fantasy_team": null,
    "id": "4278572",
-   "mpg": 1.0,
+   "mpg": 2.0,
    "name": "Jamal Cain",
    "nba_team": "ORL",
    "positions": [
@@ -2731,7 +2731,7 @@
   "4397020": {
    "fantasy_team": null,
    "id": "4397020",
-   "mpg": 5.0,
+   "mpg": 7.0,
    "name": "Luguentz Dort",
    "nba_team": "ATL",
    "positions": [
@@ -3154,7 +3154,7 @@
   "4432165": {
    "fantasy_team": "King Coopa",
    "id": "4432165",
-   "mpg": 6.0,
+   "mpg": 7.0,
    "name": "Jalen Suggs",
    "nba_team": "ORL",
    "positions": [
@@ -3164,7 +3164,7 @@
    "return_date": null,
    "slot": "UT",
    "status": "ACTIVE",
-   "value": 13.3
+   "value": 16.3
   },
   "4432166": {
    "fantasy_team": "CCCP  Баскетбол",
@@ -3502,7 +3502,7 @@
   "4432907": {
    "fantasy_team": null,
    "id": "4432907",
-   "mpg": 5.0,
+   "mpg": 6.0,
    "name": "Justin Champagnie",
    "nba_team": "WAS",
    "positions": [
@@ -3512,7 +3512,7 @@
    "return_date": null,
    "slot": "",
    "status": "ACTIVE",
-   "value": 3.0
+   "value": 4.0
   },
   "4433076": {
    "fantasy_team": null,
@@ -3810,7 +3810,7 @@
   "4566434": {
    "fantasy_team": "King Coopa",
    "id": "4566434",
-   "mpg": 5.0,
+   "mpg": 6.0,
    "name": "Franz Wagner",
    "nba_team": "ORL",
    "positions": [
@@ -3820,7 +3820,7 @@
    "return_date": null,
    "slot": "PF",
    "status": "ACTIVE",
-   "value": 16.4
+   "value": 18.7
   },
   "4576060": {
    "fantasy_team": null,
@@ -3882,7 +3882,7 @@
   "4591725": {
    "fantasy_team": "CCCP  Баскетбол",
    "id": "4591725",
-   "mpg": 6.0,
+   "mpg": 7.0,
    "name": "Ryan Rollins",
    "nba_team": "MIL",
    "positions": [
@@ -3892,7 +3892,7 @@
    "return_date": null,
    "slot": "SG",
    "status": "ACTIVE",
-   "value": 13.2
+   "value": 12.5
   },
   "4592479": {
    "fantasy_team": "Lucky",
@@ -4508,7 +4508,7 @@
   "4702382": {
    "fantasy_team": null,
    "id": "4702382",
-   "mpg": 5.0,
+   "mpg": 7.0,
    "name": "Tristan da Silva",
    "nba_team": "ORL",
    "positions": [
@@ -5292,7 +5292,7 @@
   "5082206": {
    "fantasy_team": null,
    "id": "5082206",
-   "mpg": 2.0,
+   "mpg": 4.0,
    "name": "Brayden Burries",
    "nba_team": "MIL",
    "positions": [
@@ -5301,7 +5301,7 @@
    "return_date": null,
    "slot": "",
    "status": "ACTIVE",
-   "value": 6.3
+   "value": 7.1
   },
   "5093267": {
    "fantasy_team": "King Coopa",
@@ -5765,7 +5765,7 @@
   "5149077": {
    "fantasy_team": null,
    "id": "5149077",
-   "mpg": 3.0,
+   "mpg": 4.0,
    "name": "Kingston Flemings",
    "nba_team": "ATL",
    "positions": [
@@ -5775,7 +5775,7 @@
    "return_date": null,
    "slot": "",
    "status": "ACTIVE",
-   "value": 6.3
+   "value": 22.2
   },
   "5149115": {
    "fantasy_team": null,
@@ -5850,7 +5850,7 @@
   "5160992": {
    "fantasy_team": "King Coopa",
    "id": "5160992",
-   "mpg": 8.0,
+   "mpg": 10.0,
    "name": "Alex Sarr",
    "nba_team": "WAS",
    "positions": [
@@ -6036,7 +6036,7 @@
   "5238230": {
    "fantasy_team": null,
    "id": "5238230",
-   "mpg": 5.0,
+   "mpg": 6.0,
    "name": "Tre Johnson",
    "nba_team": "WAS",
    "positions": [
@@ -6045,7 +6045,7 @@
    "return_date": null,
    "slot": "",
    "status": "ACTIVE",
-   "value": 6.9
+   "value": 6.1
   },
   "5239561": {
    "fantasy_team": null,

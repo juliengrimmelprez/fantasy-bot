@@ -1151,7 +1151,7 @@
     "SF"
    ],
    "return_date": null,
-   "slot": "BE",
+   "slot": "UT",
    "status": "NORMAL",
    "value": 0.0
   },
@@ -2812,7 +2812,7 @@
     "SG"
    ],
    "return_date": null,
-   "slot": "UT",
+   "slot": "BE",
    "status": "ACTIVE",
    "value": 33.0
   },

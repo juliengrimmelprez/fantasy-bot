@@ -756,7 +756,7 @@
   "3133628": {
    "fantasy_team": "Caxias French Fries",
    "id": "3133628",
-   "mpg": 3.0,
+   "mpg": 5.0,
    "name": "Myles Turner",
    "nba_team": "MIL",
    "positions": [
@@ -765,7 +765,7 @@
    "return_date": null,
    "slot": "C",
    "status": "ACTIVE",
-   "value": 28.4
+   "value": 9.4
   },
   "3133635": {
    "fantasy_team": null,
@@ -798,7 +798,7 @@
   "3134907": {
    "fantasy_team": null,
    "id": "3134907",
-   "mpg": 3.0,
+   "mpg": 5.0,
    "name": "Kyle Kuzma",
    "nba_team": "MIL",
    "positions": [
@@ -808,7 +808,7 @@
    "return_date": null,
    "slot": "",
    "status": "ACTIVE",
-   "value": 9.6
+   "value": 11.8
   },
   "3134908": {
    "fantasy_team": "Tiki Taka Laranja",
@@ -2062,7 +2062,7 @@
   "4277905": {
    "fantasy_team": "BL0CK BY ZION",
    "id": "4277905",
-   "mpg": 3.0,
+   "mpg": 5.0,
    "name": "Trae Young",
    "nba_team": "WAS",
    "positions": [
@@ -2071,7 +2071,7 @@
    "return_date": null,
    "slot": "PG",
    "status": "ACTIVE",
-   "value": 12.6
+   "value": 44.4
   },
   "4277919": {
    "fantasy_team": null,
@@ -2613,7 +2613,7 @@
   "4395725": {
    "fantasy_team": "Contagem Hunters",
    "id": "4395725",
-   "mpg": 3.0,
+   "mpg": 5.0,
    "name": "Tyler Herro",
    "nba_team": "MIL",
    "positions": [
@@ -2623,7 +2623,7 @@
    "return_date": null,
    "slot": "PG",
    "status": "ACTIVE",
-   "value": 12.0
+   "value": 15.0
   },
   "4396818": {
    "fantasy_team": null,
@@ -3164,7 +3164,7 @@
    "return_date": null,
    "slot": "UT",
    "status": "ACTIVE",
-   "value": 29.1
+   "value": 8.0
   },
   "4432166": {
    "fantasy_team": "CCCP  Баскетбол",
@@ -3487,7 +3487,7 @@
   "4432848": {
    "fantasy_team": "Contagem Hunters",
    "id": "4432848",
-   "mpg": 3.0,
+   "mpg": 5.0,
    "name": "Jaime Jaquez Jr.",
    "nba_team": "MIL",
    "positions": [
@@ -3497,7 +3497,7 @@
    "return_date": null,
    "slot": "SF",
    "status": "ACTIVE",
-   "value": 13.1
+   "value": 15.3
   },
   "4432907": {
    "fantasy_team": null,
@@ -3810,7 +3810,7 @@
   "4566434": {
    "fantasy_team": "King Coopa",
    "id": "4566434",
-   "mpg": 3.0,
+   "mpg": 4.0,
    "name": "Franz Wagner",
    "nba_team": "ORL",
    "positions": [
@@ -3882,7 +3882,7 @@
   "4591725": {
    "fantasy_team": "CCCP  Баскетбол",
    "id": "4591725",
-   "mpg": 3.0,
+   "mpg": 5.0,
    "name": "Ryan Rollins",
    "nba_team": "MIL",
    "positions": [
@@ -3892,7 +3892,7 @@
    "return_date": null,
    "slot": "SG",
    "status": "ACTIVE",
-   "value": 12.5
+   "value": 13.2
   },
   "4592479": {
    "fantasy_team": "Lucky",
@@ -5377,7 +5377,7 @@
   "5104155": {
    "fantasy_team": null,
    "id": "5104155",
-   "mpg": 3.0,
+   "mpg": 5.0,
    "name": "Bilal Coulibaly",
    "nba_team": "WAS",
    "positions": [
@@ -5387,7 +5387,7 @@
    "return_date": null,
    "slot": "",
    "status": "ACTIVE",
-   "value": 12.5
+   "value": 14.0
   },
   "5104157": {
    "fantasy_team": "CCCP  Баскетбол",
@@ -5850,7 +5850,7 @@
   "5160992": {
    "fantasy_team": "King Coopa",
    "id": "5160992",
-   "mpg": 3.0,
+   "mpg": 5.0,
    "name": "Alex Sarr",
    "nba_team": "WAS",
    "positions": [
@@ -5860,7 +5860,7 @@
    "return_date": null,
    "slot": "C",
    "status": "ACTIVE",
-   "value": 36.6
+   "value": 10.7
   },
   "5164559": {
    "fantasy_team": null,
@@ -5879,7 +5879,7 @@
   "5174563": {
    "fantasy_team": "Caxias French Fries",
    "id": "5174563",
-   "mpg": 3.0,
+   "mpg": 5.0,
    "name": "Kyshawn George",
    "nba_team": "WAS",
    "positions": [
@@ -5889,7 +5889,7 @@
    "return_date": null,
    "slot": "SG",
    "status": "ACTIVE",
-   "value": 8.3
+   "value": 30.1
   },
   "5174983": {
    "fantasy_team": "Lakers x Bortolan 23",
@@ -6352,7 +6352,7 @@
   "6583": {
    "fantasy_team": "Bull Market",
    "id": "6583",
-   "mpg": 3.0,
+   "mpg": 5.0,
    "name": "Anthony Davis",
    "nba_team": "WAS",
    "positions": [
@@ -6362,7 +6362,7 @@
    "return_date": null,
    "slot": "PF",
    "status": "ACTIVE",
-   "value": 49.6
+   "value": 18.4
   },
   "6585": {
    "fantasy_team": null,

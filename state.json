@@ -5,7 +5,7 @@
  "hot_status": "ok: 250 FAs, 28 games",
  "last_activity_ms": 1792595092934,
  "last_digest": 1792600338.7389514,
- "last_hot_check": 1792602981.0041506,
+ "last_hot_check": 1792603937.5725727,
  "last_run": "2026-10-19T22:05:14+00:00",
  "matchup_periods": {
   "1": [
@@ -1559,21 +1559,6 @@
    "slot": "UT",
    "status": "ACTIVE",
    "value": 35.5
-  },
-  "4017844": {
-   "fantasy_team": null,
-   "id": "4017844",
-   "mpg": null,
-   "name": "Guerschon Yabusele",
-   "nba_team": "FA",
-   "positions": [
-    "PF",
-    "C"
-   ],
-   "return_date": null,
-   "slot": "",
-   "status": "ACTIVE",
-   "value": 0.0
   },
   "4065648": {
    "fantasy_team": "Caxias French Fries",
@@ -4474,6 +4459,21 @@
    "slot": "",
    "status": "OUT",
    "value": 31.0
+  },
+  "4701233": {
+   "fantasy_team": null,
+   "id": "4701233",
+   "mpg": null,
+   "name": "Craig Porter Jr.",
+   "nba_team": "CLE",
+   "positions": [
+    "PG",
+    "SG"
+   ],
+   "return_date": null,
+   "slot": "",
+   "status": "ACTIVE",
+   "value": 0.0
   },
   "4702177": {
    "fantasy_team": null,

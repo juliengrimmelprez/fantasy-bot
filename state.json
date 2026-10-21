@@ -3,7 +3,7 @@
   "6585:20261020"
  ],
  "hot_status": "ok: 250 FAs, 28 games",
- "last_activity_ms": 1792580236728,
+ "last_activity_ms": 1792595092934,
  "last_digest": 1792593028.8398125,
  "last_hot_check": 1792594336.956462,
  "last_run": "2026-10-19T22:05:14+00:00",
@@ -1560,6 +1560,21 @@
    "status": "ACTIVE",
    "value": 35.5
   },
+  "4017844": {
+   "fantasy_team": null,
+   "id": "4017844",
+   "mpg": null,
+   "name": "Guerschon Yabusele",
+   "nba_team": "FA",
+   "positions": [
+    "PF",
+    "C"
+   ],
+   "return_date": null,
+   "slot": "",
+   "status": "ACTIVE",
+   "value": 0.0
+  },
   "4065648": {
    "fantasy_team": "Caxias French Fries",
    "id": "4065648",
@@ -2347,7 +2362,7 @@
    "value": 15.6
   },
   "4278580": {
-   "fantasy_team": null,
+   "fantasy_team": "Coringas do Gansola",
    "id": "4278580",
    "mpg": null,
    "name": "Sandro Mamukelashvili",
@@ -2357,7 +2372,7 @@
     "C"
    ],
    "return_date": null,
-   "slot": "",
+   "slot": "UT",
    "status": "ACTIVE",
    "value": 0.0
   },

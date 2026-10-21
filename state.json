@@ -2,10 +2,10 @@
  "digest_seen": [
   "6585:20261020"
  ],
- "hot_status": "ok: 250 FAs, 23 games",
+ "hot_status": "ok: 250 FAs, 26 games",
  "last_activity_ms": 1792519769924,
  "last_digest": 1792548743.2037432,
- "last_hot_check": 1792549221.2218125,
+ "last_hot_check": 1792550177.2392006,
  "last_run": "2026-10-19T22:05:14+00:00",
  "matchup_periods": {
   "1": [
@@ -5344,7 +5344,7 @@
    "return_date": null,
    "slot": "C",
    "status": "ACTIVE",
-   "value": 18.9
+   "value": 18.1
   },
   "5105550": {
    "fantasy_team": null,

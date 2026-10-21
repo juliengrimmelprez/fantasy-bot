@@ -2169,7 +2169,7 @@
     "PG"
    ],
    "return_date": null,
-   "slot": "PG",
+   "slot": "UT",
    "status": "ACTIVE",
    "value": 25.5
   },
@@ -2256,7 +2256,7 @@
     "PF"
    ],
    "return_date": null,
-   "slot": "SF",
+   "slot": "PF",
    "status": "ACTIVE",
    "value": 38.9
   },
@@ -2634,7 +2634,7 @@
     "PG"
    ],
    "return_date": null,
-   "slot": "UT",
+   "slot": "PG",
    "status": "ACTIVE",
    "value": 40.4
   },
@@ -3334,7 +3334,7 @@
     "C"
    ],
    "return_date": null,
-   "slot": "PF",
+   "slot": "UT",
    "status": "ACTIVE",
    "value": 27.6
   },
@@ -3715,7 +3715,7 @@
     "SF"
    ],
    "return_date": null,
-   "slot": "UT",
+   "slot": "SF",
    "status": "ACTIVE",
    "value": 37.4
   },

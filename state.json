@@ -15,7 +15,7 @@
   "5112087:20261022"
  ],
  "hot_status": "ok: 250 FAs, 136 games",
- "last_activity_ms": 1792659524285,
+ "last_activity_ms": 1792659850033,
  "last_digest": 1792659632.8685918,
  "last_error_alert": 1792607423.2240388,
  "last_hot_check": 1792659632.8678238,
@@ -2829,7 +2829,7 @@
    "value": 17.7
   },
   "4397140": {
-   "fantasy_team": "Lakers x Bortolan 23",
+   "fantasy_team": null,
    "id": "4397140",
    "mpg": 26.8,
    "name": "Kevin Porter Jr.",
@@ -2839,7 +2839,7 @@
     "SG"
    ],
    "return_date": null,
-   "slot": "BE",
+   "slot": "",
    "status": "ACTIVE",
    "value": 33.0
   },
@@ -6132,7 +6132,7 @@
    "value": 0.0
   },
   "5254165": {
-   "fantasy_team": null,
+   "fantasy_team": "Lakers x Bortolan 23",
    "id": "5254165",
    "mpg": 29.0,
    "name": "Keaton Wagler",
@@ -6142,7 +6142,7 @@
     "SG"
    ],
    "return_date": null,
-   "slot": "",
+   "slot": "BE",
    "status": "ACTIVE",
    "value": 35.3
   },
@@ -6452,6 +6452,7 @@
   "diag:2",
   "planday:2",
   "trade:4896372:DAL",
-  "drop:4997528:1792659524285"
+  "drop:4997528:1792659524285",
+  "drop:4397140:1792659850033"
  ]
 }

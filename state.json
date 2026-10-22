@@ -14,11 +14,11 @@
   "6585:20261020",
   "3133602:20261022"
  ],
- "hot_status": "ok: 250 FAs, 136 games",
- "last_activity_ms": 1792673870369,
+ "hot_status": "ok: 250 FAs, 135 games",
+ "last_activity_ms": 1792673975016,
  "last_digest": 1792670779.9209616,
  "last_error_alert": 1792607423.2240388,
- "last_hot_check": 1792673059.684666,
+ "last_hot_check": 1792674030.909947,
  "last_run": "2026-10-19T22:05:14+00:00",
  "matchup_periods": {
   "1": [
@@ -880,7 +880,7 @@
    "value": 30.6
   },
   "3135046": {
-   "fantasy_team": null,
+   "fantasy_team": "Lucky",
    "id": "3135046",
    "mpg": 17.5,
    "name": "Tyus Jones",
@@ -889,7 +889,7 @@
     "PG"
    ],
    "return_date": null,
-   "slot": "",
+   "slot": "UT",
    "status": "ACTIVE",
    "value": 14.0
   },
@@ -2399,7 +2399,7 @@
     "PG"
    ],
    "return_date": null,
-   "slot": "UT",
+   "slot": "BE",
    "status": "ACTIVE",
    "value": 10.1
   },
@@ -4404,7 +4404,7 @@
    "value": 30.2
   },
   "4684793": {
-   "fantasy_team": "Lucky",
+   "fantasy_team": null,
    "id": "4684793",
    "mpg": 9.0,
    "name": "Kyle Filipowski",
@@ -4414,7 +4414,7 @@
     "C"
    ],
    "return_date": null,
-   "slot": "BE",
+   "slot": "",
    "status": "ACTIVE",
    "value": 11.5
   },
@@ -6458,6 +6458,7 @@
   "drop:6475:1792673231550",
   "drop:4601025:1792673466196",
   "drop:4277811:1792673844590",
-  "drop:3102530:1792673828278"
+  "drop:3102530:1792673828278",
+  "drop:4684793:1792673939851"
  ]
 }

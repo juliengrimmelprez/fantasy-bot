@@ -15,7 +15,7 @@
   "3133602:20261022"
  ],
  "hot_status": "ok: 250 FAs, 136 games",
- "last_activity_ms": 1792673231550,
+ "last_activity_ms": 1792673466196,
  "last_digest": 1792670779.9209616,
  "last_error_alert": 1792607423.2240388,
  "last_hot_check": 1792673059.684666,
@@ -865,7 +865,7 @@
    "value": 9.7
   },
   "3135045": {
-   "fantasy_team": null,
+   "fantasy_team": "Lebron GOAT",
    "id": "3135045",
    "mpg": 29.0,
    "name": "Grayson Allen",
@@ -875,7 +875,7 @@
     "SG"
    ],
    "return_date": null,
-   "slot": "",
+   "slot": "BE",
    "status": "ACTIVE",
    "value": 30.6
   },
@@ -4113,7 +4113,7 @@
    "value": 18.3
   },
   "4601025": {
-   "fantasy_team": "Lebron GOAT",
+   "fantasy_team": null,
    "id": "4601025",
    "mpg": 24.0,
    "name": "Pelle Larsson",
@@ -4123,7 +4123,7 @@
     "SF"
    ],
    "return_date": null,
-   "slot": "BE",
+   "slot": "",
    "status": "ACTIVE",
    "value": 19.0
   },
@@ -6455,6 +6455,7 @@
   "drop:4997528:1792659524285",
   "drop:4397140:1792659850033",
   "drop:3155526:1792673007582",
-  "drop:6475:1792673231550"
+  "drop:6475:1792673231550",
+  "drop:4601025:1792673466196"
  ]
 }

@@ -14,11 +14,11 @@
   "6585:20261020",
   "3133602:20261022"
  ],
- "hot_status": "ok: 250 FAs, 135 games",
- "last_activity_ms": 1792659850033,
+ "hot_status": "ok: 250 FAs, 136 games",
+ "last_activity_ms": 1792673007582,
  "last_digest": 1792670779.9209616,
  "last_error_alert": 1792607423.2240388,
- "last_hot_check": 1792672097.547852,
+ "last_hot_check": 1792673059.684666,
  "last_run": "2026-10-19T22:05:14+00:00",
  "matchup_periods": {
   "1": [
@@ -1052,7 +1052,7 @@
    "value": 7.3
   },
   "3155526": {
-   "fantasy_team": "Tropa do Nikola",
+   "fantasy_team": null,
    "id": "3155526",
    "mpg": 27.0,
    "name": "Dillon Brooks",
@@ -1062,7 +1062,7 @@
     "SF"
    ],
    "return_date": null,
-   "slot": "BE",
+   "slot": "",
    "status": "ACTIVE",
    "value": 12.0
   },
@@ -2298,7 +2298,7 @@
     "PF"
    ],
    "return_date": null,
-   "slot": "SF",
+   "slot": "BE",
    "status": "ACTIVE",
    "value": 41.2
   },
@@ -4258,7 +4258,7 @@
    "value": 0.0
   },
   "4683747": {
-   "fantasy_team": null,
+   "fantasy_team": "Tropa do Nikola",
    "id": "4683747",
    "mpg": 26.7,
    "name": "Jaylon Tyson",
@@ -4268,7 +4268,7 @@
     "SF"
    ],
    "return_date": null,
-   "slot": "",
+   "slot": "SF",
    "status": "ACTIVE",
    "value": 25.6
   },
@@ -6453,6 +6453,7 @@
   "planday:2",
   "trade:4896372:DAL",
   "drop:4997528:1792659524285",
-  "drop:4397140:1792659850033"
+  "drop:4397140:1792659850033",
+  "drop:3155526:1792673007582"
  ]
 }

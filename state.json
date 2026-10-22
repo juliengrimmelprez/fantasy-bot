@@ -15,7 +15,7 @@
   "3133602:20261022"
  ],
  "hot_status": "ok: 250 FAs, 137 games",
- "last_activity_ms": 1792631575923,
+ "last_activity_ms": 1792659290511,
  "last_digest": 1792655898.465483,
  "last_error_alert": 1792607423.2240388,
  "last_hot_check": 1792658660.2506216,
@@ -1196,20 +1196,6 @@
    "status": "ACTIVE",
    "value": 0.0
   },
-  "3893023": {
-   "fantasy_team": "Lakers x Bortolan 23",
-   "id": "3893023",
-   "mpg": null,
-   "name": "Paul Zipser",
-   "nba_team": "CHI",
-   "positions": [
-    "SF"
-   ],
-   "return_date": null,
-   "slot": "BE",
-   "status": "NORMAL",
-   "value": 0.0
-  },
   "3899664": {
    "fantasy_team": null,
    "id": "3899664",
@@ -1586,6 +1572,21 @@
    "slot": "UT",
    "status": "ACTIVE",
    "value": 36.6
+  },
+  "4017844": {
+   "fantasy_team": null,
+   "id": "4017844",
+   "mpg": null,
+   "name": "Guerschon Yabusele",
+   "nba_team": "FA",
+   "positions": [
+    "PF",
+    "C"
+   ],
+   "return_date": null,
+   "slot": "",
+   "status": "ACTIVE",
+   "value": 0.0
   },
   "4065648": {
    "fantasy_team": "Caxias French Fries",
@@ -5388,7 +5389,7 @@
    "value": 0.0
   },
   "5104155": {
-   "fantasy_team": null,
+   "fantasy_team": "Lakers x Bortolan 23",
    "id": "5104155",
    "mpg": 29.0,
    "name": "Bilal Coulibaly",
@@ -5398,7 +5399,7 @@
     "SF"
    ],
    "return_date": null,
-   "slot": "",
+   "slot": "BE",
    "status": "ACTIVE",
    "value": 36.5
   },

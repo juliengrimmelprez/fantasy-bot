@@ -14,11 +14,11 @@
   "4684272:20261021",
   "3133602:20261022"
  ],
- "hot_status": "ok: 250 FAs, 135 games",
+ "hot_status": "ok: 250 FAs, 137 games",
  "last_activity_ms": 1792675306555,
  "last_digest": 1792711697.9040496,
  "last_error_alert": 1792607423.2240388,
- "last_hot_check": 1792711458.4010684,
+ "last_hot_check": 1792712420.4702382,
  "last_run": "2026-10-19T22:05:14+00:00",
  "matchup_periods": {
   "1": [
@@ -217,7 +217,7 @@
   "2581018": {
    "fantasy_team": "Lucky",
    "id": "2581018",
-   "mpg": 15.5,
+   "mpg": 16.0,
    "name": "Kentavious Caldwell-Pope",
    "nba_team": "PHL",
    "positions": [
@@ -451,7 +451,7 @@
   "2995706": {
    "fantasy_team": null,
    "id": "2995706",
-   "mpg": 3.0,
+   "mpg": 4.0,
    "name": "Mario Hezonja",
    "nba_team": "CLE",
    "positions": [
@@ -460,7 +460,7 @@
    "return_date": null,
    "slot": "",
    "status": "ACTIVE",
-   "value": 2.0
+   "value": 9.0
   },
   "3012": {
    "fantasy_team": null,
@@ -1285,7 +1285,7 @@
   "3908809": {
    "fantasy_team": "Bull Market",
    "id": "3908809",
-   "mpg": 7.0,
+   "mpg": 8.0,
    "name": "Donovan Mitchell",
    "nba_team": "CLE",
    "positions": [
@@ -1372,7 +1372,7 @@
   "3917376": {
    "fantasy_team": "BL0CK BY ZION",
    "id": "3917376",
-   "mpg": 22.0,
+   "mpg": 22.5,
    "name": "Jaylen Brown",
    "nba_team": "PHL",
    "positions": [
@@ -1382,7 +1382,7 @@
    "return_date": null,
    "slot": "SF",
    "status": "ACTIVE",
-   "value": 25.0
+   "value": 26.2
   },
   "3934672": {
    "fantasy_team": "Coringas do Gansola",
@@ -1810,7 +1810,7 @@
   "4066328": {
    "fantasy_team": "Polga Silva",
    "id": "4066328",
-   "mpg": 7.0,
+   "mpg": 8.0,
    "name": "Jarrett Allen",
    "nba_team": "CLE",
    "positions": [
@@ -1819,7 +1819,7 @@
    "return_date": null,
    "slot": "C",
    "status": "ACTIVE",
-   "value": 16.7
+   "value": 16.0
   },
   "4066336": {
    "fantasy_team": "Fernando  Diniz",
@@ -1972,7 +1972,7 @@
   "4066757": {
    "fantasy_team": null,
    "id": "4066757",
-   "mpg": 6.0,
+   "mpg": 7.0,
    "name": "Sam Merrill",
    "nba_team": "CLE",
    "positions": [
@@ -2478,7 +2478,7 @@
   "4351851": {
    "fantasy_team": "Bull Market",
    "id": "4351851",
-   "mpg": 15.0,
+   "mpg": 15.5,
    "name": "Anfernee Simons",
    "nba_team": "PHL",
    "positions": [
@@ -2488,7 +2488,7 @@
    "return_date": null,
    "slot": "SG",
    "status": "ACTIVE",
-   "value": 11.8
+   "value": 12.2
   },
   "4351852": {
    "fantasy_team": "Fernando  Diniz",
@@ -3006,7 +3006,7 @@
   "4431678": {
    "fantasy_team": "Tiki Taka Laranja",
    "id": "4431678",
-   "mpg": 24.5,
+   "mpg": 25.0,
    "name": "Tyrese Maxey",
    "nba_team": "PHL",
    "positions": [
@@ -4274,7 +4274,7 @@
   "4683747": {
    "fantasy_team": "Tropa do Nikola",
    "id": "4683747",
-   "mpg": 6.0,
+   "mpg": 7.0,
    "name": "Jaylon Tyson",
    "nba_team": "CLE",
    "positions": [
@@ -5491,7 +5491,7 @@
   "5105637": {
    "fantasy_team": null,
    "id": "5105637",
-   "mpg": 6.5,
+   "mpg": 7.0,
    "name": "Adem Bona",
    "nba_team": "PHL",
    "positions": [
@@ -5500,7 +5500,7 @@
    "return_date": null,
    "slot": "",
    "status": "ACTIVE",
-   "value": 8.3
+   "value": 9.1
   },
   "5105809": {
    "fantasy_team": null,

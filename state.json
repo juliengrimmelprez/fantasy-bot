@@ -11,11 +11,11 @@
   "5112087:20261022",
   "4278594:20261022"
  ],
- "hot_status": "ok: 249 FAs, 132 games",
+ "hot_status": "ok: 249 FAs, 133 games",
  "last_activity_ms": 1792631575923,
  "last_digest": 1792641022.688167,
  "last_error_alert": 1792607423.2240388,
- "last_hot_check": 1792643297.3058324,
+ "last_hot_check": 1792644262.958106,
  "last_run": "2026-10-19T22:05:14+00:00",
  "matchup_periods": {
   "1": [
@@ -592,7 +592,7 @@
   "3064440": {
    "fantasy_team": "BL0CK BY ZION",
    "id": "3064440",
-   "mpg": 32.0,
+   "mpg": 33.0,
    "name": "Zach LaVine",
    "nba_team": "SAC",
    "positions": [
@@ -602,7 +602,7 @@
    "return_date": null,
    "slot": "SF",
    "status": "ACTIVE",
-   "value": 27.5
+   "value": 26.8
   },
   "3064482": {
    "fantasy_team": "Lakers x Bortolan 23",
@@ -1066,7 +1066,7 @@
   "3155942": {
    "fantasy_team": "Polga Silva",
    "id": "3155942",
-   "mpg": 31.0,
+   "mpg": 32.0,
    "name": "Domantas Sabonis",
    "nba_team": "SAC",
    "positions": [
@@ -1646,7 +1646,7 @@
   "4065732": {
    "fantasy_team": null,
    "id": "4065732",
-   "mpg": 19.0,
+   "mpg": 20.0,
    "name": "De'Andre Hunter",
    "nba_team": "SAC",
    "positions": [
@@ -1912,7 +1912,7 @@
   "4066648": {
    "fantasy_team": "Lakers x Bortolan 23",
    "id": "4066648",
-   "mpg": 26.0,
+   "mpg": 27.0,
    "name": "Rui Hachimura",
    "nba_team": "LAC",
    "positions": [
@@ -2666,7 +2666,7 @@
   "4396907": {
    "fantasy_team": "Tropa do Nikola",
    "id": "4396907",
-   "mpg": 30.0,
+   "mpg": 31.0,
    "name": "Darius Garland",
    "nba_team": "LAC",
    "positions": [
@@ -2675,7 +2675,7 @@
    "return_date": null,
    "slot": "PG",
    "status": "ACTIVE",
-   "value": 34.1
+   "value": 37.1
   },
   "4396909": {
    "fantasy_team": null,
@@ -4106,7 +4106,7 @@
    ],
    "return_date": null,
    "slot": "UT",
-   "status": "ACTIVE",
+   "status": "DAY_TO_DAY",
    "value": 18.3
   },
   "4601025": {
@@ -4505,7 +4505,7 @@
   "4702352": {
    "fantasy_team": null,
    "id": "4702352",
-   "mpg": 16.0,
+   "mpg": 17.0,
    "name": "Kobe Sanders",
    "nba_team": "LAC",
    "positions": [
@@ -5261,7 +5261,7 @@
   "5075626": {
    "fantasy_team": null,
    "id": "5075626",
-   "mpg": 5.0,
+   "mpg": 6.0,
    "name": "Baba Miller",
    "nba_team": "LAC",
    "positions": [
@@ -5270,7 +5270,7 @@
    "return_date": null,
    "slot": "",
    "status": "ACTIVE",
-   "value": 0.0
+   "value": 2.0
   },
   "5081727": {
    "fantasy_team": null,
@@ -5546,7 +5546,7 @@
   "5106258": {
    "fantasy_team": null,
    "id": "5106258",
-   "mpg": 13.0,
+   "mpg": 14.0,
    "name": "Gradey Dick",
    "nba_team": "LAC",
    "positions": [
@@ -5690,7 +5690,7 @@
   "5142620": {
    "fantasy_team": "BL0CK BY ZION",
    "id": "5142620",
-   "mpg": 34.0,
+   "mpg": 35.0,
    "name": "Darius Acuff Jr.",
    "nba_team": "SAC",
    "positions": [
@@ -5699,7 +5699,7 @@
    "return_date": null,
    "slot": "UT",
    "status": "ACTIVE",
-   "value": 15.1
+   "value": 13.6
   },
   "5142621": {
    "fantasy_team": null,
@@ -6014,7 +6014,7 @@
    "return_date": null,
    "slot": "",
    "status": "ACTIVE",
-   "value": 5.2
+   "value": 6.0
   },
   "5231919": {
    "fantasy_team": null,
@@ -6117,7 +6117,7 @@
   "5254165": {
    "fantasy_team": null,
    "id": "5254165",
-   "mpg": 23.0,
+   "mpg": 24.0,
    "name": "Keaton Wagler",
    "nba_team": "LAC",
    "positions": [
@@ -6127,7 +6127,7 @@
    "return_date": null,
    "slot": "",
    "status": "ACTIVE",
-   "value": 25.6
+   "value": 32.3
   },
   "5258459": {
    "fantasy_team": null,

@@ -1,14 +1,19 @@
 {
  "digest_seen": [
-  "6585:20261020",
-  "4684272:20261021",
   "3032979:20261021",
+  "6585:20261020",
   "3135045:20261021",
-  "5104155:20261021"
+  "4684272:20261021",
+  "5104155:20261021",
+  "4278355:20261022",
+  "4397077:20261022",
+  "4432107:20261022",
+  "5112087:20261022",
+  "4278594:20261022"
  ],
  "hot_status": "ok: 249 FAs, 127 games",
  "last_activity_ms": 1792631575923,
- "last_digest": 1792637301.4284163,
+ "last_digest": 1792641022.688167,
  "last_error_alert": 1792607423.2240388,
  "last_hot_check": 1792640420.4469845,
  "last_run": "2026-10-19T22:05:14+00:00",
@@ -874,7 +879,7 @@
   "3136193": {
    "fantasy_team": "Caxias French Fries",
    "id": "3136193",
-   "mpg": 25.0,
+   "mpg": 26.0,
    "name": "Devin Booker",
    "nba_team": "PHO",
    "positions": [
@@ -1032,7 +1037,7 @@
   "3155526": {
    "fantasy_team": "Tropa do Nikola",
    "id": "3155526",
-   "mpg": 22.0,
+   "mpg": 23.0,
    "name": "Dillon Brooks",
    "nba_team": "PHO",
    "positions": [
@@ -1042,7 +1047,7 @@
    "return_date": null,
    "slot": "UT",
    "status": "ACTIVE",
-   "value": 14.2
+   "value": 13.5
   },
   "3155535": {
    "fantasy_team": null,
@@ -1539,7 +1544,7 @@
   "3995": {
    "fantasy_team": "Polga Silva",
    "id": "3995",
-   "mpg": 16.0,
+   "mpg": 17.0,
    "name": "Jrue Holiday",
    "nba_team": "POR",
    "positions": [
@@ -1700,7 +1705,7 @@
   "4066211": {
    "fantasy_team": null,
    "id": "4066211",
-   "mpg": 11.0,
+   "mpg": 12.0,
    "name": "Robert Williams III",
    "nba_team": "POR",
    "positions": [
@@ -1709,7 +1714,7 @@
    "return_date": null,
    "slot": "",
    "status": "ACTIVE",
-   "value": 17.2
+   "value": 18.0
   },
   "4066218": {
    "fantasy_team": null,
@@ -2384,7 +2389,7 @@
   "4278585": {
    "fantasy_team": "Lucky",
    "id": "4278585",
-   "mpg": 12.0,
+   "mpg": 13.0,
    "name": "Collin Gillespie",
    "nba_team": "PHO",
    "positions": [
@@ -2393,7 +2398,7 @@
    "return_date": null,
    "slot": "UT",
    "status": "ACTIVE",
-   "value": 10.1
+   "value": 8.6
   },
   "4278594": {
    "fantasy_team": null,
@@ -2413,7 +2418,7 @@
   "4279888": {
    "fantasy_team": "BL0CK BY ZION",
    "id": "4279888",
-   "mpg": 22.0,
+   "mpg": 23.0,
    "name": "Ja Morant",
    "nba_team": "POR",
    "positions": [
@@ -3070,7 +3075,7 @@
   "4431736": {
    "fantasy_team": "King Coopa",
    "id": "4431736",
-   "mpg": 21.0,
+   "mpg": 23.0,
    "name": "Toumani Camara",
    "nba_team": "POR",
    "positions": [
@@ -3080,7 +3085,7 @@
    "return_date": null,
    "slot": "UT",
    "status": "ACTIVE",
-   "value": 29.9
+   "value": 29.2
   },
   "4431752": {
    "fantasy_team": null,
@@ -3814,7 +3819,7 @@
   "4437244": {
    "fantasy_team": "Tiki Taka Laranja",
    "id": "4437244",
-   "mpg": 24.0,
+   "mpg": 25.0,
    "name": "Jalen Green",
    "nba_team": "PHO",
    "positions": [
@@ -3824,7 +3829,7 @@
    "return_date": null,
    "slot": "SG",
    "status": "ACTIVE",
-   "value": 17.9
+   "value": 20.1
   },
   "4566434": {
    "fantasy_team": "King Coopa",
@@ -4149,7 +4154,7 @@
   "4683021": {
    "fantasy_team": "Contagem Hunters",
    "id": "4683021",
-   "mpg": 22.0,
+   "mpg": 20.0,
    "name": "Deni Avdija",
    "nba_team": "POR",
    "positions": [
@@ -4179,7 +4184,7 @@
   "4683678": {
    "fantasy_team": null,
    "id": "4683678",
-   "mpg": 10.0,
+   "mpg": 11.0,
    "name": "Scoot Henderson",
    "nba_team": "POR",
    "positions": [
@@ -4189,7 +4194,7 @@
    "return_date": null,
    "slot": "",
    "status": "ACTIVE",
-   "value": 11.6
+   "value": 13.1
   },
   "4683688": {
    "fantasy_team": "Polga Silva",
@@ -5269,7 +5274,7 @@
   "5081727": {
    "fantasy_team": null,
    "id": "5081727",
-   "mpg": 10.0,
+   "mpg": 13.0,
    "name": "Sidy Cissoko",
    "nba_team": "POR",
    "positions": [
@@ -5411,7 +5416,7 @@
   "5105565": {
    "fantasy_team": "Polga Silva",
    "id": "5105565",
-   "mpg": 20.0,
+   "mpg": 21.0,
    "name": "Donovan Clingan",
    "nba_team": "POR",
    "positions": [

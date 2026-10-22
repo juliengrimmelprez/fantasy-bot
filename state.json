@@ -160,7 +160,7 @@
    ],
    "return_date": null,
    "slot": "",
-   "status": "OUT",
+   "status": "DAY_TO_DAY",
    "value": 24.4
   },
   "2578185": {
@@ -587,7 +587,7 @@
   "3064440": {
    "fantasy_team": "BL0CK BY ZION",
    "id": "3064440",
-   "mpg": 18.0,
+   "mpg": 19.0,
    "name": "Zach LaVine",
    "nba_team": "SAC",
    "positions": [
@@ -597,7 +597,7 @@
    "return_date": null,
    "slot": "SF",
    "status": "ACTIVE",
-   "value": 23.0
+   "value": 25.3
   },
   "3064482": {
    "fantasy_team": "Lakers x Bortolan 23",
@@ -1135,7 +1135,7 @@
   "3448": {
    "fantasy_team": "Lucky",
    "id": "3448",
-   "mpg": 14.0,
+   "mpg": 15.0,
    "name": "Brook Lopez",
    "nba_team": "LAC",
    "positions": [
@@ -1144,7 +1144,7 @@
    "return_date": null,
    "slot": "UT",
    "status": "ACTIVE",
-   "value": 11.8
+   "value": 14.8
   },
   "3449": {
    "fantasy_team": null,
@@ -1447,7 +1447,7 @@
    "return_date": null,
    "slot": "",
    "status": "ACTIVE",
-   "value": 21.0
+   "value": 22.5
   },
   "3936299": {
    "fantasy_team": "Lucky",
@@ -1466,7 +1466,7 @@
   "3945274": {
    "fantasy_team": "Lakers x Bortolan 23",
    "id": "3945274",
-   "mpg": 21.0,
+   "mpg": 22.0,
    "name": "Luka Doncic",
    "nba_team": "LAL",
    "positions": [
@@ -1475,7 +1475,7 @@
    "return_date": null,
    "slot": "PG",
    "status": "ACTIVE",
-   "value": 45.2
+   "value": 46.7
   },
   "3948153": {
    "fantasy_team": null,
@@ -1504,7 +1504,7 @@
    "return_date": null,
    "slot": "UT",
    "status": "ACTIVE",
-   "value": 37.8
+   "value": 37.0
   },
   "3978": {
    "fantasy_team": "Tiki Taka Laranja",
@@ -1857,7 +1857,7 @@
    "return_date": null,
    "slot": "SF",
    "status": "ACTIVE",
-   "value": 12.2
+   "value": 15.2
   },
   "4066421": {
    "fantasy_team": null,
@@ -2661,7 +2661,7 @@
   "4396907": {
    "fantasy_team": "Tropa do Nikola",
    "id": "4396907",
-   "mpg": 17.0,
+   "mpg": 18.0,
    "name": "Darius Garland",
    "nba_team": "LAC",
    "positions": [
@@ -2670,7 +2670,7 @@
    "return_date": null,
    "slot": "PG",
    "status": "ACTIVE",
-   "value": 27.3
+   "value": 25.8
   },
   "4396909": {
    "fantasy_team": null,
@@ -2684,7 +2684,7 @@
    ],
    "return_date": null,
    "slot": "",
-   "status": "OUT",
+   "status": "DAY_TO_DAY",
    "value": 24.6
   },
   "4396971": {
@@ -3595,7 +3595,7 @@
   "4433137": {
    "fantasy_team": null,
    "id": "4433137",
-   "mpg": 17.0,
+   "mpg": 18.0,
    "name": "Ziaire Williams",
    "nba_team": "LAL",
    "positions": [
@@ -3605,7 +3605,7 @@
    "return_date": null,
    "slot": "",
    "status": "ACTIVE",
-   "value": 14.7
+   "value": 15.4
   },
   "4433144": {
    "fantasy_team": null,
@@ -4049,7 +4049,7 @@
   "4594327": {
    "fantasy_team": "Tiki Taka Laranja",
    "id": "4594327",
-   "mpg": 18.0,
+   "mpg": 19.0,
    "name": "Keegan Murray",
    "nba_team": "SAC",
    "positions": [
@@ -4274,7 +4274,7 @@
    ],
    "return_date": null,
    "slot": "",
-   "status": "OUT",
+   "status": "DAY_TO_DAY",
    "value": 10.0
   },
   "4683766": {
@@ -4499,7 +4499,7 @@
   "4702352": {
    "fantasy_team": null,
    "id": "4702352",
-   "mpg": 8.0,
+   "mpg": 9.0,
    "name": "Kobe Sanders",
    "nba_team": "LAC",
    "positions": [
@@ -4697,7 +4697,7 @@
    ],
    "return_date": null,
    "slot": "",
-   "status": "OUT",
+   "status": "DAY_TO_DAY",
    "value": 0.0
   },
   "4868423": {
@@ -5684,7 +5684,7 @@
   "5142620": {
    "fantasy_team": "BL0CK BY ZION",
    "id": "5142620",
-   "mpg": 20.0,
+   "mpg": 21.0,
    "name": "Darius Acuff Jr.",
    "nba_team": "SAC",
    "positions": [
@@ -5693,7 +5693,7 @@
    "return_date": null,
    "slot": "UT",
    "status": "ACTIVE",
-   "value": 12.1
+   "value": 11.3
   },
   "5142621": {
    "fantasy_team": null,
@@ -6111,7 +6111,7 @@
   "5254165": {
    "fantasy_team": null,
    "id": "5254165",
-   "mpg": 9.0,
+   "mpg": 10.0,
    "name": "Keaton Wagler",
    "nba_team": "LAC",
    "positions": [
@@ -6121,7 +6121,7 @@
    "return_date": null,
    "slot": "",
    "status": "ACTIVE",
-   "value": 18.1
+   "value": 18.8
   },
   "5258459": {
    "fantasy_team": null,

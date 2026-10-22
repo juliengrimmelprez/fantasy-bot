@@ -15,7 +15,7 @@
   "3133602:20261022"
  ],
  "hot_status": "ok: 250 FAs, 136 games",
- "last_activity_ms": 1792673007582,
+ "last_activity_ms": 1792673231550,
  "last_digest": 1792670779.9209616,
  "last_error_alert": 1792607423.2240388,
  "last_hot_check": 1792673059.684666,
@@ -2462,7 +2462,7 @@
    "value": 11.7
   },
   "4351851": {
-   "fantasy_team": null,
+   "fantasy_team": "Bull Market",
    "id": "4351851",
    "mpg": 25.0,
    "name": "Anfernee Simons",
@@ -2472,7 +2472,7 @@
     "SG"
    ],
    "return_date": null,
-   "slot": "",
+   "slot": "SG",
    "status": "ACTIVE",
    "value": 19.3
   },
@@ -4037,7 +4037,7 @@
     "SF"
    ],
    "return_date": null,
-   "slot": "SG",
+   "slot": "UT",
    "status": "ACTIVE",
    "value": 68.8
   },
@@ -6291,7 +6291,7 @@
    "value": 47.4
   },
   "6475": {
-   "fantasy_team": "Bull Market",
+   "fantasy_team": null,
    "id": "6475",
    "mpg": 16.0,
    "name": "Klay Thompson",
@@ -6301,7 +6301,7 @@
     "SF"
    ],
    "return_date": null,
-   "slot": "BE",
+   "slot": "",
    "status": "ACTIVE",
    "value": 12.4
   },
@@ -6403,7 +6403,7 @@
     "C"
    ],
    "return_date": null,
-   "slot": "UT",
+   "slot": "BE",
    "status": "ACTIVE",
    "value": 22.1
   },
@@ -6454,6 +6454,7 @@
   "trade:4896372:DAL",
   "drop:4997528:1792659524285",
   "drop:4397140:1792659850033",
-  "drop:3155526:1792673007582"
+  "drop:3155526:1792673007582",
+  "drop:6475:1792673231550"
  ]
 }

@@ -76,7 +76,7 @@
    9
   ]
  },
- "matchup_periods_day": "2026-10-21",
+ "matchup_periods_day": "2026-10-22",
  "plan_status": "ok: day 2, matchup 1 [1]..[6], adds left 10, opp Fernando  Diniz",
  "players": {
   "1966": {
@@ -793,7 +793,7 @@
   "3134903": {
    "fantasy_team": null,
    "id": "3134903",
-   "mpg": 13.0,
+   "mpg": 15.0,
    "name": "Gary Payton II",
    "nba_team": "GSW",
    "positions": [
@@ -802,7 +802,7 @@
    "return_date": null,
    "slot": "",
    "status": "ACTIVE",
-   "value": 2.0
+   "value": 4.0
   },
   "3134907": {
    "fantasy_team": null,
@@ -1052,7 +1052,7 @@
   "3155535": {
    "fantasy_team": null,
    "id": "3155535",
-   "mpg": 4.0,
+   "mpg": 6.0,
    "name": "Kevon Looney",
    "nba_team": "LAL",
    "positions": [
@@ -1061,7 +1061,7 @@
    "return_date": null,
    "slot": "",
    "status": "ACTIVE",
-   "value": 15.7
+   "value": 6.9
   },
   "3155942": {
    "fantasy_team": "Polga Silva",
@@ -1125,7 +1125,7 @@
   "3213": {
    "fantasy_team": null,
    "id": "3213",
-   "mpg": 13.0,
+   "mpg": 14.0,
    "name": "Al Horford",
    "nba_team": "GSW",
    "positions": [
@@ -1471,7 +1471,7 @@
   "3945274": {
    "fantasy_team": "Lakers x Bortolan 23",
    "id": "3945274",
-   "mpg": 25.0,
+   "mpg": 27.0,
    "name": "Luka Doncic",
    "nba_team": "LAL",
    "positions": [
@@ -1480,7 +1480,7 @@
    "return_date": null,
    "slot": "PG",
    "status": "ACTIVE",
-   "value": 54.9
+   "value": 54.2
   },
   "3948153": {
    "fantasy_team": null,
@@ -1544,7 +1544,7 @@
   "3995": {
    "fantasy_team": "Polga Silva",
    "id": "3995",
-   "mpg": 20.0,
+   "mpg": 21.0,
    "name": "Jrue Holiday",
    "nba_team": "POR",
    "positions": [
@@ -1897,7 +1897,7 @@
   "4066457": {
    "fantasy_team": "King Coopa",
    "id": "4066457",
-   "mpg": 25.0,
+   "mpg": 26.0,
    "name": "Austin Reaves",
    "nba_team": "LAL",
    "positions": [
@@ -1907,7 +1907,7 @@
    "return_date": null,
    "slot": "UT",
    "status": "ACTIVE",
-   "value": 37.8
+   "value": 40.1
   },
   "4066648": {
    "fantasy_team": "Lakers x Bortolan 23",
@@ -1922,7 +1922,7 @@
    "return_date": null,
    "slot": "SF",
    "status": "ACTIVE",
-   "value": 10.5
+   "value": 9.0
   },
   "4066650": {
    "fantasy_team": null,
@@ -2374,7 +2374,7 @@
   "4278580": {
    "fantasy_team": "Coringas do Gansola",
    "id": "4278580",
-   "mpg": 13.0,
+   "mpg": 15.0,
    "name": "Sandro Mamukelashvili",
    "nba_team": "LAL",
    "positions": [
@@ -2384,7 +2384,7 @@
    "return_date": null,
    "slot": "UT",
    "status": "ACTIVE",
-   "value": 18.0
+   "value": 19.0
   },
   "4278585": {
    "fantasy_team": "Lucky",
@@ -2740,7 +2740,7 @@
   "4397014": {
    "fantasy_team": "BL0CK BY ZION",
    "id": "4397014",
-   "mpg": 18.0,
+   "mpg": 19.0,
    "name": "Quentin Grimes",
    "nba_team": "LAL",
    "positions": [
@@ -2770,7 +2770,7 @@
   "4397040": {
    "fantasy_team": null,
    "id": "4397040",
-   "mpg": 10.0,
+   "mpg": 12.0,
    "name": "Brandon Williams",
    "nba_team": "GSW",
    "positions": [
@@ -2780,7 +2780,7 @@
    "return_date": null,
    "slot": "",
    "status": "ACTIVE",
-   "value": 8.0
+   "value": 10.0
   },
   "4397077": {
    "fantasy_team": null,
@@ -5046,7 +5046,7 @@
   "4997536": {
    "fantasy_team": "Bull Market",
    "id": "4997536",
-   "mpg": 17.0,
+   "mpg": 19.0,
    "name": "Gui Santos",
    "nba_team": "GSW",
    "positions": [
@@ -5698,7 +5698,7 @@
    "return_date": null,
    "slot": "UT",
    "status": "ACTIVE",
-   "value": 11.3
+   "value": 14.3
   },
   "5142621": {
    "fantasy_team": null,
@@ -5933,7 +5933,7 @@
   "5175737": {
    "fantasy_team": "Fernando  Diniz",
    "id": "5175737",
-   "mpg": 21.0,
+   "mpg": 22.0,
    "name": "Yaxel Lendeborg",
    "nba_team": "GSW",
    "positions": [

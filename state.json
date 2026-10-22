@@ -18,7 +18,7 @@
  "last_activity_ms": 1792673975016,
  "last_digest": 1792674497.4060905,
  "last_error_alert": 1792607423.2240388,
- "last_hot_check": 1792674030.909947,
+ "last_hot_check": 1792674976.3906157,
  "last_run": "2026-10-19T22:05:14+00:00",
  "matchup_periods": {
   "1": [
@@ -1091,7 +1091,7 @@
     "C"
    ],
    "return_date": null,
-   "slot": "UT",
+   "slot": "PF",
    "status": "ACTIVE",
    "value": 49.9
   },
@@ -1555,7 +1555,7 @@
     "SG"
    ],
    "return_date": null,
-   "slot": "PG",
+   "slot": "UT",
    "status": "ACTIVE",
    "value": 22.0
   },
@@ -1803,7 +1803,7 @@
     "C"
    ],
    "return_date": null,
-   "slot": "BE",
+   "slot": "C",
    "status": "DAY_TO_DAY",
    "value": 36.9
   },
@@ -2239,7 +2239,7 @@
     "PG"
    ],
    "return_date": null,
-   "slot": "BE",
+   "slot": "PG",
    "status": "ACTIVE",
    "value": 64.5
   },
@@ -2283,7 +2283,7 @@
     "PF"
    ],
    "return_date": null,
-   "slot": "SF",
+   "slot": "BE",
    "status": "ACTIVE",
    "value": 16.5
   },
@@ -2618,7 +2618,7 @@
     "PF"
    ],
    "return_date": null,
-   "slot": "BE",
+   "slot": "SF",
    "status": "ACTIVE",
    "value": 21.7
   },
@@ -2706,7 +2706,7 @@
     "C"
    ],
    "return_date": null,
-   "slot": "C",
+   "slot": "UT",
    "status": "ACTIVE",
    "value": 41.1
   },
@@ -3015,7 +3015,7 @@
     "C"
    ],
    "return_date": null,
-   "slot": "UT",
+   "slot": "BE",
    "status": "ACTIVE",
    "value": 30.0
   },
@@ -3420,7 +3420,7 @@
     "C"
    ],
    "return_date": null,
-   "slot": "UT",
+   "slot": "BE",
    "status": "DAY_TO_DAY",
    "value": 25.3
   },
@@ -5614,7 +5614,7 @@
     "C"
    ],
    "return_date": null,
-   "slot": "PF",
+   "slot": "UT",
    "status": "ACTIVE",
    "value": 24.7
   },

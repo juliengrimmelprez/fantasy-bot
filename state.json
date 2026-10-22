@@ -1334,7 +1334,7 @@
    ],
    "return_date": null,
    "slot": "",
-   "status": "OUT",
+   "status": "DAY_TO_DAY",
    "value": 19.1
   },
   "3913176": {
@@ -2007,7 +2007,7 @@
    ],
    "return_date": null,
    "slot": "SG",
-   "status": "OUT",
+   "status": "DAY_TO_DAY",
    "value": 28.8
   },
   "4277813": {
@@ -2953,13 +2953,13 @@
    ],
    "return_date": null,
    "slot": "",
-   "status": "OUT",
+   "status": "DAY_TO_DAY",
    "value": 14.5
   },
   "4398390": {
    "fantasy_team": null,
    "id": "4398390",
-   "mpg": 11.3,
+   "mpg": 1.0,
    "name": "Jalen Pickett",
    "nba_team": "LAC",
    "positions": [
@@ -2969,7 +2969,7 @@
    "return_date": null,
    "slot": "",
    "status": "ACTIVE",
-   "value": 8.6
+   "value": 8.9
   },
   "4431671": {
    "fantasy_team": "BL0CK BY ZION",
@@ -3004,7 +3004,7 @@
   "4431679": {
    "fantasy_team": "Polga Silva",
    "id": "4431679",
-   "mpg": 27.0,
+   "mpg": 28.0,
    "name": "Precious Achiuwa",
    "nba_team": "SAC",
    "positions": [
@@ -3014,7 +3014,7 @@
    "return_date": null,
    "slot": "UT",
    "status": "ACTIVE",
-   "value": 27.8
+   "value": 30.0
   },
   "4431680": {
    "fantasy_team": "Lebron GOAT",
@@ -4505,7 +4505,7 @@
   "4702352": {
    "fantasy_team": null,
    "id": "4702352",
-   "mpg": 17.0,
+   "mpg": 18.0,
    "name": "Kobe Sanders",
    "nba_team": "LAC",
    "positions": [
@@ -4514,7 +4514,7 @@
    "return_date": null,
    "slot": "",
    "status": "ACTIVE",
-   "value": 16.0
+   "value": 15.0
   },
   "4702382": {
    "fantasy_team": null,
@@ -4534,7 +4534,7 @@
   "4702384": {
    "fantasy_team": null,
    "id": "4702384",
-   "mpg": 15.0,
+   "mpg": 16.0,
    "name": "Nique Clifford",
    "nba_team": "SAC",
    "positions": [
@@ -4572,7 +4572,7 @@
    ],
    "return_date": null,
    "slot": "UT",
-   "status": "OUT",
+   "status": "DAY_TO_DAY",
    "value": 30.8
   },
   "4711272": {
@@ -5004,7 +5004,7 @@
   "4917149": {
    "fantasy_team": null,
    "id": "4917149",
-   "mpg": 4.0,
+   "mpg": 5.0,
    "name": "Alex Karaban",
    "nba_team": "SAC",
    "positions": [
@@ -5261,7 +5261,7 @@
   "5075626": {
    "fantasy_team": null,
    "id": "5075626",
-   "mpg": 8.0,
+   "mpg": 9.0,
    "name": "Baba Miller",
    "nba_team": "LAC",
    "positions": [
@@ -5670,7 +5670,7 @@
    ],
    "return_date": null,
    "slot": "",
-   "status": "OUT",
+   "status": "DAY_TO_DAY",
    "value": 0.0
   },
   "5124612": {

@@ -735,6 +735,20 @@
    "status": "ACTIVE",
    "value": 67.2
   },
+  "3133602": {
+   "fantasy_team": null,
+   "id": "3133602",
+   "mpg": 19.0,
+   "name": "Svi Mykhailiuk",
+   "nba_team": "UTA",
+   "positions": [
+    "SG"
+   ],
+   "return_date": null,
+   "slot": "",
+   "status": "ACTIVE",
+   "value": 32.0
+  },
   "3133603": {
    "fantasy_team": "Coringas do Gansola",
    "id": "3133603",
@@ -1571,21 +1585,6 @@
    "slot": "UT",
    "status": "ACTIVE",
    "value": 36.6
-  },
-  "4017844": {
-   "fantasy_team": null,
-   "id": "4017844",
-   "mpg": null,
-   "name": "Guerschon Yabusele",
-   "nba_team": "FA",
-   "positions": [
-    "PF",
-    "C"
-   ],
-   "return_date": null,
-   "slot": "",
-   "status": "ACTIVE",
-   "value": 0.0
   },
   "4065648": {
    "fantasy_team": "Caxias French Fries",

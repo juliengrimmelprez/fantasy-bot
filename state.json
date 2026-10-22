@@ -2,11 +2,11 @@
  "digest_seen": [
   "6585:20261020"
  ],
- "hot_status": "ok: 249 FAs, 92 games",
+ "hot_status": "ok: 249 FAs, 93 games",
  "last_activity_ms": 1792631575923,
  "last_digest": 1792633577.761202,
  "last_error_alert": 1792607423.2240388,
- "last_hot_check": 1792633695.6651127,
+ "last_hot_check": 1792634656.6020377,
  "last_run": "2026-10-19T22:05:14+00:00",
  "matchup_periods": {
   "1": [
@@ -235,7 +235,7 @@
   "2595516": {
    "fantasy_team": "Contagem Hunters",
    "id": "2595516",
-   "mpg": 19.0,
+   "mpg": 20.0,
    "name": "Norman Powell",
    "nba_team": "CHI",
    "positions": [
@@ -245,7 +245,7 @@
    "return_date": null,
    "slot": "UT",
    "status": "ACTIVE",
-   "value": 22.5
+   "value": 23.2
   },
   "2596112": {
    "fantasy_team": null,
@@ -380,7 +380,7 @@
   "2991230": {
    "fantasy_team": "Coringas do Gansola",
    "id": "2991230",
-   "mpg": 15.0,
+   "mpg": 16.0,
    "name": "Fred VanVleet",
    "nba_team": "HOU",
    "positions": [
@@ -390,7 +390,7 @@
    "return_date": null,
    "slot": "SG",
    "status": "ACTIVE",
-   "value": 22.6
+   "value": 21.9
   },
   "2991235": {
    "fantasy_team": null,
@@ -496,7 +496,7 @@
   "3032979": {
    "fantasy_team": null,
    "id": "3032979",
-   "mpg": 30.0,
+   "mpg": 31.0,
    "name": "Dennis Schroder",
    "nba_team": "CHA",
    "positions": [
@@ -505,7 +505,7 @@
    "return_date": null,
    "slot": "",
    "status": "ACTIVE",
-   "value": 29.8
+   "value": 26.8
   },
   "3037789": {
    "fantasy_team": null,
@@ -539,7 +539,7 @@
   "3059319": {
    "fantasy_team": "Tiki Taka Laranja",
    "id": "3059319",
-   "mpg": 25.0,
+   "mpg": 26.0,
    "name": "Andrew Wiggins",
    "nba_team": "MIA",
    "positions": [
@@ -613,7 +613,7 @@
   "3064514": {
    "fantasy_team": "Lebron GOAT",
    "id": "3064514",
-   "mpg": 33.0,
+   "mpg": 34.0,
    "name": "Julius Randle",
    "nba_team": "BKN",
    "positions": [
@@ -622,7 +622,7 @@
    "return_date": null,
    "slot": "PF",
    "status": "ACTIVE",
-   "value": 48.3
+   "value": 46.8
   },
   "3064560": {
    "fantasy_team": null,
@@ -841,7 +841,7 @@
   "3135045": {
    "fantasy_team": null,
    "id": "3135045",
-   "mpg": 24.0,
+   "mpg": 25.0,
    "name": "Grayson Allen",
    "nba_team": "CHA",
    "positions": [
@@ -851,7 +851,7 @@
    "return_date": null,
    "slot": "",
    "status": "ACTIVE",
-   "value": 26.9
+   "value": 26.1
   },
   "3135046": {
    "fantasy_team": null,
@@ -1550,7 +1550,7 @@
   "4017837": {
    "fantasy_team": "Caxias French Fries",
    "id": "4017837",
-   "mpg": 23.0,
+   "mpg": 24.0,
    "name": "Ivica Zubac",
    "nba_team": "IND",
    "positions": [
@@ -1724,7 +1724,7 @@
   "4066261": {
    "fantasy_team": "BL0CK BY ZION",
    "id": "4066261",
-   "mpg": 28.0,
+   "mpg": 29.0,
    "name": "Bam Adebayo",
    "nba_team": "MIA",
    "positions": [
@@ -1999,7 +1999,7 @@
    "return_date": null,
    "slot": "",
    "status": "ACTIVE",
-   "value": 10.8
+   "value": 9.3
   },
   "4277843": {
    "fantasy_team": null,
@@ -2118,7 +2118,7 @@
   "4277956": {
    "fantasy_team": "CCCP  Баскетбол",
    "id": "4277956",
-   "mpg": 13.0,
+   "mpg": 14.0,
    "name": "Jordan Poole",
    "nba_team": "NOP",
    "positions": [
@@ -2128,7 +2128,7 @@
    "return_date": null,
    "slot": "PG",
    "status": "ACTIVE",
-   "value": 7.0
+   "value": 8.5
   },
   "4277961": {
    "fantasy_team": "Bull Market",
@@ -2177,7 +2177,7 @@
   "4278053": {
    "fantasy_team": "Tropa do Nikola",
    "id": "4278053",
-   "mpg": 31.0,
+   "mpg": 32.0,
    "name": "Davion Mitchell",
    "nba_team": "MIA",
    "positions": [
@@ -2186,7 +2186,7 @@
    "return_date": null,
    "slot": "UT",
    "status": "ACTIVE",
-   "value": 21.4
+   "value": 22.9
   },
   "4278067": {
    "fantasy_team": "BL0CK BY ZION",
@@ -2258,12 +2258,12 @@
    "return_date": null,
    "slot": "SF",
    "status": "ACTIVE",
-   "value": 12.7
+   "value": 13.5
   },
   "4278104": {
    "fantasy_team": "Tropa do Nikola",
    "id": "4278104",
-   "mpg": 29.0,
+   "mpg": 31.0,
    "name": "Michael Porter Jr.",
    "nba_team": "BKN",
    "positions": [
@@ -2273,7 +2273,7 @@
    "return_date": null,
    "slot": "PF",
    "status": "ACTIVE",
-   "value": 41.2
+   "value": 39.7
   },
   "4278129": {
    "fantasy_team": "Contagem Hunters",
@@ -2671,7 +2671,7 @@
   "4396971": {
    "fantasy_team": "Polga Silva",
    "id": "4396971",
-   "mpg": 28.0,
+   "mpg": 29.0,
    "name": "Naz Reid",
    "nba_team": "CHA",
    "positions": [
@@ -2681,7 +2681,7 @@
    "return_date": null,
    "slot": "C",
    "status": "ACTIVE",
-   "value": 40.4
+   "value": 43.4
   },
   "4396993": {
    "fantasy_team": "Lebron GOAT",
@@ -2701,7 +2701,7 @@
   "4397002": {
    "fantasy_team": "Tiki Taka Laranja",
    "id": "4397002",
-   "mpg": 27.0,
+   "mpg": 28.0,
    "name": "Ayo Dosunmu",
    "nba_team": "MIN",
    "positions": [
@@ -2711,7 +2711,7 @@
    "return_date": null,
    "slot": "PG",
    "status": "ACTIVE",
-   "value": 24.8
+   "value": 26.3
   },
   "4397014": {
    "fantasy_team": "BL0CK BY ZION",
@@ -2950,7 +2950,7 @@
   "4431671": {
    "fantasy_team": "BL0CK BY ZION",
    "id": "4431671",
-   "mpg": 26.0,
+   "mpg": 27.0,
    "name": "Jaden McDaniels",
    "nba_team": "MIN",
    "positions": [
@@ -2960,7 +2960,7 @@
    "return_date": null,
    "slot": "UT",
    "status": "ACTIVE",
-   "value": 34.4
+   "value": 38.9
   },
   "4431678": {
    "fantasy_team": "Tiki Taka Laranja",
@@ -3009,7 +3009,7 @@
   "4431684": {
    "fantasy_team": null,
    "id": "4431684",
-   "mpg": 1.0,
+   "mpg": 3.0,
    "name": "Trayce Jackson-Davis",
    "nba_team": "TOR",
    "positions": [
@@ -3018,7 +3018,7 @@
    "return_date": null,
    "slot": "",
    "status": "ACTIVE",
-   "value": 6.8
+   "value": 9.1
   },
   "4431687": {
    "fantasy_team": null,
@@ -3256,7 +3256,7 @@
   "4432241": {
    "fantasy_team": null,
    "id": "4432241",
-   "mpg": 13.0,
+   "mpg": 14.0,
    "name": "Jamal Shead",
    "nba_team": "TOR",
    "positions": [
@@ -3327,7 +3327,7 @@
   "4432582": {
    "fantasy_team": null,
    "id": "4432582",
-   "mpg": 18.0,
+   "mpg": 19.0,
    "name": "Max Christie",
    "nba_team": "DAL",
    "positions": [
@@ -3341,7 +3341,7 @@
   "4432639": {
    "fantasy_team": "Tropa do Nikola",
    "id": "4432639",
-   "mpg": 19.0,
+   "mpg": 20.0,
    "name": "Jabari Smith Jr.",
    "nba_team": "HOU",
    "positions": [
@@ -3351,7 +3351,7 @@
    "return_date": null,
    "slot": "UT",
    "status": "ACTIVE",
-   "value": 33.2
+   "value": 31.7
   },
   "4432808": {
    "fantasy_team": null,
@@ -3414,7 +3414,7 @@
   "4432816": {
    "fantasy_team": "Lucky",
    "id": "4432816",
-   "mpg": 26.0,
+   "mpg": 27.0,
    "name": "LaMelo Ball",
    "nba_team": "MIN",
    "positions": [
@@ -3692,7 +3692,7 @@
   "4433249": {
    "fantasy_team": "Caxias French Fries",
    "id": "4433249",
-   "mpg": 29.0,
+   "mpg": 30.0,
    "name": "Moussa Diabate",
    "nba_team": "CHA",
    "positions": [
@@ -3702,7 +3702,7 @@
    "return_date": null,
    "slot": "PF",
    "status": "ACTIVE",
-   "value": 24.8
+   "value": 30.8
   },
   "4433255": {
    "fantasy_team": "Lakers x Bortolan 23",
@@ -3722,7 +3722,7 @@
   "4433287": {
    "fantasy_team": "Tropa do Nikola",
    "id": "4433287",
-   "mpg": 31.0,
+   "mpg": 32.0,
    "name": "Brandon Miller",
    "nba_team": "CHA",
    "positions": [
@@ -4015,7 +4015,7 @@
   "4594268": {
    "fantasy_team": "Bull Market",
    "id": "4594268",
-   "mpg": 32.0,
+   "mpg": 33.0,
    "name": "Anthony Edwards",
    "nba_team": "MIN",
    "positions": [
@@ -4025,7 +4025,7 @@
    "return_date": null,
    "slot": "SG",
    "status": "ACTIVE",
-   "value": 62.1
+   "value": 65.8
   },
   "4594326": {
    "fantasy_team": null,
@@ -4101,7 +4101,7 @@
   "4601025": {
    "fantasy_team": "Lebron GOAT",
    "id": "4601025",
-   "mpg": 22.0,
+   "mpg": 23.0,
    "name": "Pelle Larsson",
    "nba_team": "MIA",
    "positions": [
@@ -4334,7 +4334,7 @@
   "4684272": {
    "fantasy_team": null,
    "id": "4684272",
-   "mpg": 20.0,
+   "mpg": 21.0,
    "name": "Ja'Kobe Walter",
    "nba_team": "TOR",
    "positions": [
@@ -4343,7 +4343,7 @@
    "return_date": null,
    "slot": "",
    "status": "ACTIVE",
-   "value": 26.1
+   "value": 25.4
   },
   "4684275": {
    "fantasy_team": null,
@@ -4362,7 +4362,7 @@
   "4684740": {
    "fantasy_team": "King Coopa",
    "id": "4684740",
-   "mpg": 19.0,
+   "mpg": 20.0,
    "name": "Amen Thompson",
    "nba_team": "HOU",
    "positions": [
@@ -4479,7 +4479,7 @@
   "4702177": {
    "fantasy_team": null,
    "id": "4702177",
-   "mpg": 29.0,
+   "mpg": 30.0,
    "name": "Keon Ellis",
    "nba_team": "BKN",
    "positions": [
@@ -4582,7 +4582,7 @@
   "4711294": {
    "fantasy_team": "Fernando  Diniz",
    "id": "4711294",
-   "mpg": 17.0,
+   "mpg": 18.0,
    "name": "Matas Buzelis",
    "nba_team": "CHI",
    "positions": [
@@ -4592,7 +4592,7 @@
    "return_date": null,
    "slot": "UT",
    "status": "ACTIVE",
-   "value": 12.6
+   "value": 15.6
   },
   "4711297": {
    "fantasy_team": null,
@@ -4640,7 +4640,7 @@
   "4712896": {
    "fantasy_team": null,
    "id": "4712896",
-   "mpg": 20.0,
+   "mpg": 22.0,
    "name": "Noah Clowney",
    "nba_team": "BKN",
    "positions": [
@@ -4649,7 +4649,7 @@
    "return_date": null,
    "slot": "",
    "status": "ACTIVE",
-   "value": 20.4
+   "value": 18.9
   },
   "4845367": {
    "fantasy_team": "King Coopa",
@@ -4772,7 +4772,7 @@
   "4871144": {
    "fantasy_team": "Tiki Taka Laranja",
    "id": "4871144",
-   "mpg": 18.0,
+   "mpg": 19.0,
    "name": "Alperen Sengun",
    "nba_team": "HOU",
    "positions": [
@@ -4781,7 +4781,7 @@
    "return_date": null,
    "slot": "UT",
    "status": "ACTIVE",
-   "value": 32.5
+   "value": 33.3
   },
   "4871145": {
    "fantasy_team": "Lebron GOAT",
@@ -5107,7 +5107,7 @@
   "5041939": {
    "fantasy_team": "King Coopa",
    "id": "5041939",
-   "mpg": 19.0,
+   "mpg": 20.0,
    "name": "Cooper Flagg",
    "nba_team": "DAL",
    "positions": [
@@ -5117,7 +5117,7 @@
    "return_date": null,
    "slot": "SF",
    "status": "ACTIVE",
-   "value": 21.8
+   "value": 24.8
   },
   "5041951": {
    "fantasy_team": "Lakers x Bortolan 23",
@@ -5306,7 +5306,7 @@
   "5095151": {
    "fantasy_team": "BL0CK BY ZION",
    "id": "5095151",
-   "mpg": 25.0,
+   "mpg": 26.0,
    "name": "Caleb Wilson",
    "nba_team": "CHI",
    "positions": [
@@ -5315,7 +5315,7 @@
    "return_date": null,
    "slot": "UT",
    "status": "ACTIVE",
-   "value": 17.7
+   "value": 20.0
   },
   "5099752": {
    "fantasy_team": null,
@@ -5766,7 +5766,7 @@
   "5149115": {
    "fantasy_team": null,
    "id": "5149115",
-   "mpg": 11.0,
+   "mpg": 13.0,
    "name": "Allen Graves",
    "nba_team": "TOR",
    "positions": [
@@ -5775,7 +5775,7 @@
    "return_date": null,
    "slot": "",
    "status": "ACTIVE",
-   "value": 10.0
+   "value": 13.0
   },
   "5157066": {
    "fantasy_team": null,
@@ -5894,7 +5894,7 @@
   "5175643": {
    "fantasy_team": "Fernando  Diniz",
    "id": "5175643",
-   "mpg": 22.0,
+   "mpg": 23.0,
    "name": "Egor Demin",
    "nba_team": "BKN",
    "positions": [
@@ -6078,7 +6078,7 @@
   "5242496": {
    "fantasy_team": null,
    "id": "5242496",
-   "mpg": 9.0,
+   "mpg": 10.0,
    "name": "Noa Essengue",
    "nba_team": "CHI",
    "positions": [
@@ -6087,7 +6087,7 @@
    "return_date": null,
    "slot": "",
    "status": "ACTIVE",
-   "value": 8.3
+   "value": 2.8
   },
   "5242502": {
    "fantasy_team": null,
@@ -6236,7 +6236,7 @@
   "6442": {
    "fantasy_team": "Coringas do Gansola",
    "id": "6442",
-   "mpg": 15.0,
+   "mpg": 16.0,
    "name": "Kyrie Irving",
    "nba_team": "DAL",
    "positions": [
@@ -6265,7 +6265,7 @@
   "6475": {
    "fantasy_team": "Bull Market",
    "id": "6475",
-   "mpg": 14.0,
+   "mpg": 15.0,
    "name": "Klay Thompson",
    "nba_team": "MIA",
    "positions": [
@@ -6275,7 +6275,7 @@
    "return_date": null,
    "slot": "SF",
    "status": "ACTIVE",
-   "value": 7.9
+   "value": 8.6
   },
   "6477": {
    "fantasy_team": null,

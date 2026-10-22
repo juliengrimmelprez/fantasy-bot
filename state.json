@@ -15,7 +15,7 @@
   "5104155:20261021"
  ],
  "hot_status": "ok: 250 FAs, 135 games",
- "last_activity_ms": 1792673975016,
+ "last_activity_ms": 1792675092903,
  "last_digest": 1792674497.4060905,
  "last_error_alert": 1792607423.2240388,
  "last_hot_check": 1792674976.3906157,
@@ -2785,20 +2785,6 @@
    "status": "ACTIVE",
    "value": 27.0
   },
-  "4397077": {
-   "fantasy_team": null,
-   "id": "4397077",
-   "mpg": 26.0,
-   "name": "Jaxson Hayes",
-   "nba_team": "UTA",
-   "positions": [
-    "C"
-   ],
-   "return_date": null,
-   "slot": "",
-   "status": "ACTIVE",
-   "value": 37.1
-  },
   "4397102": {
    "fantasy_team": null,
    "id": "4397102",
@@ -4170,6 +4156,20 @@
    "status": "ACTIVE",
    "value": 38.6
   },
+  "4683024": {
+   "fantasy_team": null,
+   "id": "4683024",
+   "mpg": null,
+   "name": "Killian Hayes",
+   "nba_team": "FA",
+   "positions": [
+    "PG"
+   ],
+   "return_date": null,
+   "slot": "",
+   "status": "ACTIVE",
+   "value": 0.0
+  },
   "4683634": {
    "fantasy_team": "Fernando  Diniz",
    "id": "4683634",
@@ -4210,7 +4210,7 @@
     "C"
    ],
    "return_date": null,
-   "slot": "UT",
+   "slot": "IR",
    "status": "OUT",
    "value": 27.4
   },

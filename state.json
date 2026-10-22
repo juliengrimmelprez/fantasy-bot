@@ -310,7 +310,7 @@
    "return_date": null,
    "slot": "",
    "status": "ACTIVE",
-   "value": 16.0
+   "value": 15.0
   },
   "2990984": {
    "fantasy_team": null,
@@ -374,7 +374,7 @@
   "2991139": {
    "fantasy_team": null,
    "id": "2991139",
-   "mpg": 23.0,
+   "mpg": 24.0,
    "name": "Kris Dunn",
    "nba_team": "LAC",
    "positions": [
@@ -1646,7 +1646,7 @@
   "4065732": {
    "fantasy_team": null,
    "id": "4065732",
-   "mpg": 14.0,
+   "mpg": 15.0,
    "name": "De'Andre Hunter",
    "nba_team": "SAC",
    "positions": [
@@ -3610,7 +3610,7 @@
    "return_date": null,
    "slot": "",
    "status": "ACTIVE",
-   "value": 22.2
+   "value": 21.4
   },
   "4433144": {
    "fantasy_team": null,
@@ -3634,20 +3634,6 @@
    "nba_team": "SAC",
    "positions": [
     "C"
-   ],
-   "return_date": null,
-   "slot": "",
-   "status": "OUT",
-   "value": 0.0
-  },
-  "4433188": {
-   "fantasy_team": null,
-   "id": "4433188",
-   "mpg": null,
-   "name": "Devin Carter",
-   "nba_team": "BOS",
-   "positions": [
-    "PG"
    ],
    "return_date": null,
    "slot": "",
@@ -3961,7 +3947,22 @@
    "return_date": null,
    "slot": "",
    "status": "ACTIVE",
-   "value": 17.0
+   "value": 15.0
+  },
+  "4592829": {
+   "fantasy_team": null,
+   "id": "4592829",
+   "mpg": 16.0,
+   "name": "Quenton Jackson",
+   "nba_team": "IND",
+   "positions": [
+    "PG",
+    "SG"
+   ],
+   "return_date": null,
+   "slot": "",
+   "status": "ACTIVE",
+   "value": 25.0
   },
   "4593016": {
    "fantasy_team": null,
@@ -4914,7 +4915,7 @@
   "4897262": {
    "fantasy_team": null,
    "id": "4897262",
-   "mpg": 15.0,
+   "mpg": 16.0,
    "name": "Will Richard",
    "nba_team": "GSW",
    "positions": [
@@ -4924,7 +4925,7 @@
    "return_date": null,
    "slot": "",
    "status": "ACTIVE",
-   "value": 10.0
+   "value": 11.0
   },
   "4897943": {
    "fantasy_team": null,
@@ -5155,7 +5156,7 @@
    "return_date": null,
    "slot": "",
    "status": "ACTIVE",
-   "value": 3.0
+   "value": 5.0
   },
   "5041955": {
    "fantasy_team": "Coringas do Gansola",

@@ -15,7 +15,7 @@
   "5104155:20261021"
  ],
  "hot_status": "ok: 250 FAs, 135 games",
- "last_activity_ms": 1792675092903,
+ "last_activity_ms": 1792675306555,
  "last_digest": 1792674497.4060905,
  "last_error_alert": 1792607423.2240388,
  "last_hot_check": 1792674976.3906157,
@@ -2404,7 +2404,7 @@
    "value": 10.1
   },
   "4278594": {
-   "fantasy_team": null,
+   "fantasy_team": "Lebron GOAT",
    "id": "4278594",
    "mpg": 29.0,
    "name": "Naji Marshall",
@@ -2414,7 +2414,7 @@
     "PF"
    ],
    "return_date": null,
-   "slot": "",
+   "slot": "UT",
    "status": "ACTIVE",
    "value": 30.3
   },
@@ -4099,7 +4099,7 @@
    "value": 26.3
   },
   "4601023": {
-   "fantasy_team": "Lebron GOAT",
+   "fantasy_team": null,
    "id": "4601023",
    "mpg": 15.0,
    "name": "Oso Ighodaro",
@@ -4108,7 +4108,7 @@
     "PF"
    ],
    "return_date": null,
-   "slot": "UT",
+   "slot": "",
    "status": "DAY_TO_DAY",
    "value": 18.3
   },
@@ -6473,6 +6473,7 @@
   "drop:4601025:1792673466196",
   "drop:4277811:1792673844590",
   "drop:3102530:1792673828278",
-  "drop:4684793:1792673939851"
+  "drop:4684793:1792673939851",
+  "drop:4601023:1792675306555"
  ]
 }

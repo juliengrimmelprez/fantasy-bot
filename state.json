@@ -1196,20 +1196,6 @@
    "status": "ACTIVE",
    "value": 0.0
   },
-  "3893023": {
-   "fantasy_team": null,
-   "id": "3893023",
-   "mpg": null,
-   "name": "Paul Zipser",
-   "nba_team": "CHI",
-   "positions": [
-    "SF"
-   ],
-   "return_date": null,
-   "slot": "",
-   "status": "ACTIVE",
-   "value": 0.0
-  },
   "3899664": {
    "fantasy_team": null,
    "id": "3899664",
@@ -1595,6 +1581,20 @@
    "nba_team": "FA",
    "positions": [
     "PF",
+    "C"
+   ],
+   "return_date": null,
+   "slot": "",
+   "status": "ACTIVE",
+   "value": 0.0
+  },
+  "4017850": {
+   "fantasy_team": null,
+   "id": "4017850",
+   "mpg": null,
+   "name": "Wang Zhelin",
+   "nba_team": "MEM",
+   "positions": [
     "C"
    ],
    "return_date": null,

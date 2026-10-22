@@ -1,22 +1,22 @@
 {
  "digest_seen": [
-  "4397077:20261022",
-  "4684272:20261021",
-  "4278355:20261022",
   "5254165:20261022",
-  "3133602:20261022",
+  "4432107:20261022",
+  "4278594:20261022",
   "3032979:20261021",
+  "4397077:20261022",
   "5112087:20261022",
   "3135045:20261021",
   "5104155:20261021",
-  "4432107:20261022",
+  "4278355:20261022",
   "6585:20261020",
-  "4278594:20261022",
-  "2991139:20261022"
+  "2991139:20261022",
+  "4684272:20261021",
+  "3133602:20261022"
  ],
  "hot_status": "ok: 250 FAs, 135 games",
  "last_activity_ms": 1792675306555,
- "last_digest": 1792707983.79091,
+ "last_digest": 1792711697.9040496,
  "last_error_alert": 1792607423.2240388,
  "last_hot_check": 1792711458.4010684,
  "last_run": "2026-10-19T22:05:14+00:00",
@@ -85,7 +85,7 @@
   "1966": {
    "fantasy_team": "Lucky",
    "id": "1966",
-   "mpg": 20.0,
+   "mpg": 20.5,
    "name": "LeBron James",
    "nba_team": "PHL",
    "positions": [
@@ -217,7 +217,7 @@
   "2581018": {
    "fantasy_team": "Lucky",
    "id": "2581018",
-   "mpg": 26.0,
+   "mpg": 14.0,
    "name": "Kentavious Caldwell-Pope",
    "nba_team": "PHL",
    "positions": [
@@ -227,7 +227,7 @@
    "return_date": null,
    "slot": "SG",
    "status": "ACTIVE",
-   "value": 19.4
+   "value": 11.9
   },
   "2583632": {
    "fantasy_team": null,
@@ -537,7 +537,7 @@
   "3059318": {
    "fantasy_team": "Caxias French Fries",
    "id": "3059318",
-   "mpg": 19.5,
+   "mpg": 20.0,
    "name": "Joel Embiid",
    "nba_team": "PHL",
    "positions": [
@@ -546,7 +546,7 @@
    "return_date": null,
    "slot": "C",
    "status": "ACTIVE",
-   "value": 27.8
+   "value": 27.5
   },
   "3059319": {
    "fantasy_team": "Tiki Taka Laranja",
@@ -1295,7 +1295,7 @@
    "return_date": null,
    "slot": "PG",
    "status": "ACTIVE",
-   "value": 17.6
+   "value": 20.6
   },
   "3908845": {
    "fantasy_team": "CCCP  Баскетбол",
@@ -1532,7 +1532,7 @@
   "3992": {
    "fantasy_team": "Tiki Taka Laranja",
    "id": "3992",
-   "mpg": 6.0,
+   "mpg": 7.0,
    "name": "James Harden",
    "nba_team": "CLE",
    "positions": [
@@ -1542,7 +1542,7 @@
    "return_date": null,
    "slot": "SG",
    "status": "ACTIVE",
-   "value": 15.0
+   "value": 14.3
   },
   "3995": {
    "fantasy_team": "Polga Silva",
@@ -1972,7 +1972,7 @@
   "4066757": {
    "fantasy_team": null,
    "id": "4066757",
-   "mpg": 1.0,
+   "mpg": 2.0,
    "name": "Sam Merrill",
    "nba_team": "CLE",
    "positions": [
@@ -1981,7 +1981,7 @@
    "return_date": null,
    "slot": "",
    "status": "ACTIVE",
-   "value": 20.0
+   "value": 8.7
   },
   "4222252": {
    "fantasy_team": "Fernando  Diniz",
@@ -2478,7 +2478,7 @@
   "4351851": {
    "fantasy_team": "Bull Market",
    "id": "4351851",
-   "mpg": 25.0,
+   "mpg": 13.5,
    "name": "Anfernee Simons",
    "nba_team": "PHL",
    "positions": [
@@ -2488,7 +2488,7 @@
    "return_date": null,
    "slot": "SG",
    "status": "ACTIVE",
-   "value": 19.3
+   "value": 12.2
   },
   "4351852": {
    "fantasy_team": "Fernando  Diniz",
@@ -3180,7 +3180,7 @@
   "4432158": {
    "fantasy_team": "Tropa do Nikola",
    "id": "4432158",
-   "mpg": 6.0,
+   "mpg": 7.0,
    "name": "Evan Mobley",
    "nba_team": "CLE",
    "positions": [
@@ -3190,7 +3190,7 @@
    "return_date": null,
    "slot": "PF",
    "status": "ACTIVE",
-   "value": 13.8
+   "value": 16.8
   },
   "4432165": {
    "fantasy_team": "King Coopa",
@@ -3866,7 +3866,7 @@
   "4576087": {
    "fantasy_team": "Caxias French Fries",
    "id": "4576087",
-   "mpg": 6.0,
+   "mpg": 7.0,
    "name": "Peyton Watson",
    "nba_team": "CLE",
    "positions": [
@@ -4274,7 +4274,7 @@
   "4683747": {
    "fantasy_team": "Tropa do Nikola",
    "id": "4683747",
-   "mpg": 1.0,
+   "mpg": 2.0,
    "name": "Jaylon Tyson",
    "nba_team": "CLE",
    "positions": [
@@ -4284,7 +4284,7 @@
    "return_date": null,
    "slot": "SF",
    "status": "ACTIVE",
-   "value": 10.9
+   "value": 11.6
   },
   "4683750": {
    "fantasy_team": null,
@@ -5707,7 +5707,7 @@
   "5124612": {
    "fantasy_team": "Caxias French Fries",
    "id": "5124612",
-   "mpg": 20.5,
+   "mpg": 21.0,
    "name": "VJ Edgecombe",
    "nba_team": "PHL",
    "positions": [
@@ -5716,7 +5716,7 @@
    "return_date": null,
    "slot": "SG",
    "status": "ACTIVE",
-   "value": 16.7
+   "value": 16.3
   },
   "5142620": {
    "fantasy_team": "BL0CK BY ZION",

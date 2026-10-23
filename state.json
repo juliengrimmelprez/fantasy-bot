@@ -763,7 +763,7 @@
    "return_date": null,
    "slot": "",
    "status": "ACTIVE",
-   "value": 6.9
+   "value": 8.8
   },
   "3133628": {
    "fantasy_team": "Caxias French Fries",
@@ -3793,7 +3793,7 @@
   "4433629": {
    "fantasy_team": null,
    "id": "4433629",
-   "mpg": null,
+   "mpg": 2.0,
    "name": "Ryan Nembhard",
    "nba_team": "DEN",
    "positions": [
@@ -3803,7 +3803,7 @@
    "return_date": null,
    "slot": "",
    "status": "ACTIVE",
-   "value": 2.0
+   "value": 10.0
   },
   "4437244": {
    "fantasy_team": "Tiki Taka Laranja",
@@ -4333,7 +4333,7 @@
   "4683778": {
    "fantasy_team": "Tiki Taka Laranja",
    "id": "4683778",
-   "mpg": 19.5,
+   "mpg": 20.0,
    "name": "Jared McCain",
    "nba_team": "OKC",
    "positions": [
@@ -4435,7 +4435,7 @@
   "4698719": {
    "fantasy_team": null,
    "id": "4698719",
-   "mpg": 17.0,
+   "mpg": 18.0,
    "name": "Trevon Brazile",
    "nba_team": "DEN",
    "positions": [
@@ -6092,7 +6092,7 @@
   "5241364": {
    "fantasy_team": null,
    "id": "5241364",
-   "mpg": 1.0,
+   "mpg": 1.5,
    "name": "Bennett Stirtz",
    "nba_team": "OKC",
    "positions": [

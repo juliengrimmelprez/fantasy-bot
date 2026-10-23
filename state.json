@@ -18,7 +18,7 @@
  "last_activity_ms": 1792719405244,
  "last_digest": 1792722856.8717012,
  "last_error_alert": 1792607423.2240388,
- "last_hot_check": 1792723937.5980136,
+ "last_hot_check": 1792724898.3897686,
  "last_run": "2026-10-19T22:05:14+00:00",
  "matchup_periods": {
   "1": [
@@ -1460,7 +1460,7 @@
   "3936299": {
    "fantasy_team": "Lucky",
    "id": "3936299",
-   "mpg": 16.0,
+   "mpg": 17.0,
    "name": "Jamal Murray",
    "nba_team": "DEN",
    "positions": [
@@ -1469,7 +1469,7 @@
    "return_date": null,
    "slot": "PG",
    "status": "ACTIVE",
-   "value": 13.2
+   "value": 12.5
   },
   "3945274": {
    "fantasy_team": "Lakers x Bortolan 23",
@@ -2241,7 +2241,7 @@
    "return_date": null,
    "slot": "PG",
    "status": "ACTIVE",
-   "value": 39.7
+   "value": 41.2
   },
   "4278076": {
    "fantasy_team": null,
@@ -3720,7 +3720,7 @@
   "4433255": {
    "fantasy_team": "Lakers x Bortolan 23",
    "id": "4433255",
-   "mpg": 21.5,
+   "mpg": 22.0,
    "name": "Chet Holmgren",
    "nba_team": "OKC",
    "positions": [
@@ -3730,7 +3730,7 @@
    "return_date": null,
    "slot": "C",
    "status": "ACTIVE",
-   "value": 34.6
+   "value": 35.0
   },
   "4433287": {
    "fantasy_team": "Tropa do Nikola",
@@ -4000,7 +4000,7 @@
   "4593803": {
    "fantasy_team": "Tiki Taka Laranja",
    "id": "4593803",
-   "mpg": 23.5,
+   "mpg": 24.0,
    "name": "Jalen Williams",
    "nba_team": "OKC",
    "positions": [

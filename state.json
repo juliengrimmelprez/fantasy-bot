@@ -18,7 +18,7 @@
  "last_activity_ms": 1792675306555,
  "last_digest": 1792715431.535292,
  "last_error_alert": 1792607423.2240388,
- "last_hot_check": 1792715297.707386,
+ "last_hot_check": 1792716257.2019382,
  "last_run": "2026-10-19T22:05:14+00:00",
  "matchup_periods": {
   "1": [
@@ -546,7 +546,7 @@
    "return_date": null,
    "slot": "C",
    "status": "ACTIVE",
-   "value": 31.2
+   "value": 32.0
   },
   "3059319": {
    "fantasy_team": "Tiki Taka Laranja",
@@ -1285,7 +1285,7 @@
   "3908809": {
    "fantasy_team": "Bull Market",
    "id": "3908809",
-   "mpg": 18.0,
+   "mpg": 19.0,
    "name": "Donovan Mitchell",
    "nba_team": "CLE",
    "positions": [
@@ -1295,7 +1295,7 @@
    "return_date": null,
    "slot": "PG",
    "status": "ACTIVE",
-   "value": 43.1
+   "value": 44.6
   },
   "3908845": {
    "fantasy_team": "CCCP  Баскетбол",
@@ -1372,7 +1372,7 @@
   "3917376": {
    "fantasy_team": "BL0CK BY ZION",
    "id": "3917376",
-   "mpg": 26.0,
+   "mpg": 26.5,
    "name": "Jaylen Brown",
    "nba_team": "PHL",
    "positions": [
@@ -1382,7 +1382,7 @@
    "return_date": null,
    "slot": "SF",
    "status": "ACTIVE",
-   "value": 28.0
+   "value": 28.4
   },
   "3934672": {
    "fantasy_team": "Coringas do Gansola",
@@ -3180,7 +3180,7 @@
   "4432158": {
    "fantasy_team": "Tropa do Nikola",
    "id": "4432158",
-   "mpg": 18.0,
+   "mpg": 19.0,
    "name": "Evan Mobley",
    "nba_team": "CLE",
    "positions": [
@@ -3866,7 +3866,7 @@
   "4576087": {
    "fantasy_team": "Caxias French Fries",
    "id": "4576087",
-   "mpg": 17.0,
+   "mpg": 18.0,
    "name": "Peyton Watson",
    "nba_team": "CLE",
    "positions": [

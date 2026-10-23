@@ -1602,6 +1602,20 @@
    "status": "ACTIVE",
    "value": 0.0
   },
+  "4017850": {
+   "fantasy_team": null,
+   "id": "4017850",
+   "mpg": null,
+   "name": "Wang Zhelin",
+   "nba_team": "MEM",
+   "positions": [
+    "C"
+   ],
+   "return_date": null,
+   "slot": "",
+   "status": "ACTIVE",
+   "value": 0.0
+  },
   "4065648": {
    "fantasy_team": "Caxias French Fries",
    "id": "4065648",
@@ -4183,20 +4197,6 @@
    "slot": "PF",
    "status": "ACTIVE",
    "value": 38.6
-  },
-  "4683024": {
-   "fantasy_team": null,
-   "id": "4683024",
-   "mpg": null,
-   "name": "Killian Hayes",
-   "nba_team": "FA",
-   "positions": [
-    "PG"
-   ],
-   "return_date": null,
-   "slot": "",
-   "status": "ACTIVE",
-   "value": 0.0
   },
   "4683634": {
    "fantasy_team": "Fernando  Diniz",

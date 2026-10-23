@@ -14,11 +14,11 @@
   "4432107:20261022",
   "5104155:20261021"
  ],
- "hot_status": "ok: 250 FAs, 147 games",
- "last_activity_ms": 1792761760036,
+ "hot_status": "ok: 250 FAs, 148 games",
+ "last_activity_ms": 1792763208897,
  "last_digest": 1792759821.6725783,
  "last_error_alert": 1792729823.4619784,
- "last_hot_check": 1792762338.8482075,
+ "last_hot_check": 1792763299.3153434,
  "last_run": "2026-10-19T22:05:14+00:00",
  "matchup_periods": {
   "1": [
@@ -4036,7 +4036,7 @@
     "PF"
    ],
    "return_date": null,
-   "slot": "UT",
+   "slot": "BE",
    "status": "ACTIVE",
    "value": 30.9
   },
@@ -4345,7 +4345,7 @@
    "value": 3.0
   },
   "4683778": {
-   "fantasy_team": "Tiki Taka Laranja",
+   "fantasy_team": null,
    "id": "4683778",
    "mpg": 20.0,
    "name": "Jared McCain",
@@ -4355,7 +4355,7 @@
     "SG"
    ],
    "return_date": null,
-   "slot": "BE",
+   "slot": "",
    "status": "ACTIVE",
    "value": 18.2
   },
@@ -4695,7 +4695,7 @@
    "value": 31.0
   },
   "4845374": {
-   "fantasy_team": null,
+   "fantasy_team": "Tiki Taka Laranja",
    "id": "4845374",
    "mpg": 19.0,
    "name": "Bub Carrington",
@@ -4705,7 +4705,7 @@
     "SG"
    ],
    "return_date": null,
-   "slot": "",
+   "slot": "UT",
    "status": "ACTIVE",
    "value": 25.3
   },
@@ -6481,6 +6481,7 @@
   "drop:4432823:1792752403940",
   "drop:4576087:1792755294763",
   "drop:4351851:1792755623984",
-  "drop:4900671:1792761760036"
+  "drop:4900671:1792761760036",
+  "drop:4683778:1792763208897"
  ]
 }

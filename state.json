@@ -15,7 +15,7 @@
   "4278355:20261022"
  ],
  "hot_status": "ok: 250 FAs, 145 games",
- "last_activity_ms": 1792752482399,
+ "last_activity_ms": 1792755294763,
  "last_digest": 1792752376.4253454,
  "last_error_alert": 1792729823.4619784,
  "last_hot_check": 1792754656.7039206,
@@ -375,7 +375,7 @@
    "value": 22.5
   },
   "2991139": {
-   "fantasy_team": null,
+   "fantasy_team": "Caxias French Fries",
    "id": "2991139",
    "mpg": 27.0,
    "name": "Kris Dunn",
@@ -385,7 +385,7 @@
     "SG"
    ],
    "return_date": null,
-   "slot": "",
+   "slot": "PG",
    "status": "ACTIVE",
    "value": 36.5
   },
@@ -544,7 +544,7 @@
     "C"
    ],
    "return_date": null,
-   "slot": "UT",
+   "slot": "BE",
    "status": "ACTIVE",
    "value": 38.3
   },
@@ -904,7 +904,7 @@
     "SG"
    ],
    "return_date": null,
-   "slot": "PG",
+   "slot": "UT",
    "status": "ACTIVE",
    "value": 37.8
   },
@@ -3864,7 +3864,7 @@
    "value": 22.2
   },
   "4576087": {
-   "fantasy_team": "Caxias French Fries",
+   "fantasy_team": null,
    "id": "4576087",
    "mpg": 30.0,
    "name": "Peyton Watson",
@@ -3874,7 +3874,7 @@
     "PF"
    ],
    "return_date": null,
-   "slot": "BE",
+   "slot": "",
    "status": "ACTIVE",
    "value": 16.3
   },
@@ -6478,6 +6478,7 @@
   "diag:3",
   "planday:3",
   "drop:2581018:1792752460765",
-  "drop:4432823:1792752403940"
+  "drop:4432823:1792752403940",
+  "drop:4576087:1792755294763"
  ]
 }

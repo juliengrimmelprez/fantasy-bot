@@ -15,7 +15,7 @@
   "4278355:20261022"
  ],
  "hot_status": "ok: 250 FAs, 145 games",
- "last_activity_ms": 1792755294763,
+ "last_activity_ms": 1792755623984,
  "last_digest": 1792752376.4253454,
  "last_error_alert": 1792729823.4619784,
  "last_hot_check": 1792755621.3813517,
@@ -128,7 +128,7 @@
    "value": 30.6
   },
   "2528210": {
-   "fantasy_team": null,
+   "fantasy_team": "Bull Market",
    "id": "2528210",
    "mpg": 18.0,
    "name": "Tim Hardaway Jr.",
@@ -138,7 +138,7 @@
     "SF"
    ],
    "return_date": null,
-   "slot": "",
+   "slot": "UT",
    "status": "ACTIVE",
    "value": 12.0
   },
@@ -2476,7 +2476,7 @@
    "value": 11.7
   },
   "4351851": {
-   "fantasy_team": "Bull Market",
+   "fantasy_team": null,
    "id": "4351851",
    "mpg": 21.0,
    "name": "Anfernee Simons",
@@ -2486,7 +2486,7 @@
     "SG"
    ],
    "return_date": null,
-   "slot": "BE",
+   "slot": "",
    "status": "ACTIVE",
    "value": 11.8
   },
@@ -4603,7 +4603,7 @@
     "SG"
    ],
    "return_date": null,
-   "slot": "PG",
+   "slot": "BE",
    "status": "DAY_TO_DAY",
    "value": 16.5
   },
@@ -6431,7 +6431,7 @@
     "PG"
    ],
    "return_date": null,
-   "slot": "UT",
+   "slot": "PG",
    "status": "ACTIVE",
    "value": 47.2
   },
@@ -6479,6 +6479,7 @@
   "planday:3",
   "drop:2581018:1792752460765",
   "drop:4432823:1792752403940",
-  "drop:4576087:1792755294763"
+  "drop:4576087:1792755294763",
+  "drop:4351851:1792755623984"
  ]
 }

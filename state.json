@@ -14,11 +14,11 @@
   "2991139:20261022",
   "3032979:20261021"
  ],
- "hot_status": "ok: 250 FAs, 155 games",
+ "hot_status": "ok: 250 FAs, 157 games",
  "last_activity_ms": 1792763208897,
  "last_digest": 1792785626.7752347,
  "last_error_alert": 1792787295.9267383,
- "last_hot_check": 1792787424.206494,
+ "last_hot_check": 1792788379.0325627,
  "last_run": "2026-10-19T22:05:14+00:00",
  "matchup_periods": {
   "1": [
@@ -257,7 +257,7 @@
    "return_date": null,
    "slot": "SG",
    "status": "ACTIVE",
-   "value": 19.5
+   "value": 19.9
   },
   "2596112": {
    "fantasy_team": null,
@@ -824,7 +824,7 @@
   "3134907": {
    "fantasy_team": null,
    "id": "3134907",
-   "mpg": 17.5,
+   "mpg": 18.0,
    "name": "Kyle Kuzma",
    "nba_team": "MIL",
    "positions": [
@@ -2889,7 +2889,7 @@
   "4397189": {
    "fantasy_team": "Lucky",
    "id": "4397189",
-   "mpg": 13.5,
+   "mpg": 14.0,
    "name": "Jalen Smith",
    "nba_team": "CHI",
    "positions": [
@@ -2899,7 +2899,7 @@
    "return_date": null,
    "slot": "PF",
    "status": "ACTIVE",
-   "value": 19.5
+   "value": 21.3
   },
   "4397227": {
    "fantasy_team": null,
@@ -2947,7 +2947,7 @@
   "4397475": {
    "fantasy_team": null,
    "id": "4397475",
-   "mpg": 10.0,
+   "mpg": 10.5,
    "name": "AJ Green",
    "nba_team": "MIL",
    "positions": [
@@ -2956,7 +2956,7 @@
    "return_date": null,
    "slot": "",
    "status": "ACTIVE",
-   "value": 14.8
+   "value": 14.4
   },
   "4397688": {
    "fantasy_team": "Lebron GOAT",
@@ -3909,7 +3909,7 @@
   "4591725": {
    "fantasy_team": "CCCP  Баскетбол",
    "id": "4591725",
-   "mpg": 16.0,
+   "mpg": 16.5,
    "name": "Ryan Rollins",
    "nba_team": "MIL",
    "positions": [
@@ -4610,7 +4610,7 @@
   "4711294": {
    "fantasy_team": "Fernando  Diniz",
    "id": "4711294",
-   "mpg": 15.5,
+   "mpg": 16.0,
    "name": "Matas Buzelis",
    "nba_team": "CHI",
    "positions": [
@@ -4620,7 +4620,7 @@
    "return_date": null,
    "slot": "PF",
    "status": "ACTIVE",
-   "value": 16.0
+   "value": 16.4
   },
   "4711297": {
    "fantasy_team": null,
@@ -4814,7 +4814,7 @@
   "4871145": {
    "fantasy_team": "Lebron GOAT",
    "id": "4871145",
-   "mpg": 16.0,
+   "mpg": 16.5,
    "name": "Josh Giddey",
    "nba_team": "CHI",
    "positions": [
@@ -4824,7 +4824,7 @@
    "return_date": null,
    "slot": "PG",
    "status": "ACTIVE",
-   "value": 14.5
+   "value": 15.7
   },
   "4873090": {
    "fantasy_team": null,
@@ -5477,7 +5477,7 @@
   "5105623": {
    "fantasy_team": "Lebron GOAT",
    "id": "5105623",
-   "mpg": 9.5,
+   "mpg": 10.0,
    "name": "Kel'el Ware",
    "nba_team": "MIL",
    "positions": [

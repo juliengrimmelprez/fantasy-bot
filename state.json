@@ -18,7 +18,7 @@
  "last_activity_ms": 1792719405244,
  "last_digest": 1792726460.1665294,
  "last_error_alert": 1792607423.2240388,
- "last_hot_check": 1792726819.4826045,
+ "last_hot_check": 1792727776.7808614,
  "last_run": "2026-10-19T22:05:14+00:00",
  "matchup_periods": {
   "1": [
@@ -421,7 +421,7 @@
   "2991350": {
    "fantasy_team": "CCCP  Баскетбол",
    "id": "2991350",
-   "mpg": 19.5,
+   "mpg": 20.5,
    "name": "Alex Caruso",
    "nba_team": "OKC",
    "positions": [
@@ -431,7 +431,7 @@
    "return_date": null,
    "slot": "PG",
    "status": "ACTIVE",
-   "value": 23.6
+   "value": 24.0
   },
   "2993874": {
    "fantasy_team": null,
@@ -567,7 +567,7 @@
   "3064290": {
    "fantasy_team": "CCCP  Баскетбол",
    "id": "3064290",
-   "mpg": 24.0,
+   "mpg": 26.0,
    "name": "Aaron Gordon",
    "nba_team": "DEN",
    "positions": [
@@ -1469,7 +1469,7 @@
    "return_date": null,
    "slot": "PG",
    "status": "ACTIVE",
-   "value": 14.7
+   "value": 13.2
   },
   "3945274": {
    "fantasy_team": "Lakers x Bortolan 23",
@@ -1517,7 +1517,7 @@
   "3978": {
    "fantasy_team": "Tiki Taka Laranja",
    "id": "3978",
-   "mpg": 21.0,
+   "mpg": 22.0,
    "name": "DeMar DeRozan",
    "nba_team": "DEN",
    "positions": [
@@ -1527,7 +1527,7 @@
    "return_date": null,
    "slot": "PF",
    "status": "ACTIVE",
-   "value": 12.7
+   "value": 12.0
   },
   "3992": {
    "fantasy_team": "Tiki Taka Laranja",
@@ -4343,7 +4343,7 @@
    "return_date": null,
    "slot": "UT",
    "status": "ACTIVE",
-   "value": 17.4
+   "value": 18.2
   },
   "4684272": {
    "fantasy_team": null,
@@ -5908,7 +5908,7 @@
   "5174983": {
    "fantasy_team": "Lakers x Bortolan 23",
    "id": "5174983",
-   "mpg": 11.0,
+   "mpg": 11.5,
    "name": "Aday Mara",
    "nba_team": "OKC",
    "positions": [
@@ -5917,7 +5917,7 @@
    "return_date": null,
    "slot": "UT",
    "status": "ACTIVE",
-   "value": 9.5
+   "value": 11.5
   },
   "5175643": {
    "fantasy_team": "Fernando  Diniz",

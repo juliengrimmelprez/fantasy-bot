@@ -14,11 +14,11 @@
   "4278355:20261022",
   "4278594:20261022"
  ],
- "hot_status": "ok: 250 FAs, 140 games",
+ "hot_status": "ok: 249 FAs, 139 games",
  "last_activity_ms": 1792719405244,
  "last_digest": 1792719136.0984755,
  "last_error_alert": 1792607423.2240388,
- "last_hot_check": 1792719136.0980294,
+ "last_hot_check": 1792720096.879358,
  "last_run": "2026-10-19T22:05:14+00:00",
  "matchup_periods": {
   "1": [
@@ -85,7 +85,7 @@
   "1966": {
    "fantasy_team": "Lucky",
    "id": "1966",
-   "mpg": 32.5,
+   "mpg": 33.0,
    "name": "LeBron James",
    "nba_team": "PHL",
    "positions": [
@@ -95,7 +95,7 @@
    "return_date": null,
    "slot": "SF",
    "status": "ACTIVE",
-   "value": 37.6
+   "value": 37.2
   },
   "2326307": {
    "fantasy_team": null,
@@ -523,7 +523,7 @@
   "3059318": {
    "fantasy_team": "Caxias French Fries",
    "id": "3059318",
-   "mpg": 32.5,
+   "mpg": 33.0,
    "name": "Joel Embiid",
    "nba_team": "PHL",
    "positions": [
@@ -1285,7 +1285,7 @@
   "3908809": {
    "fantasy_team": "Bull Market",
    "id": "3908809",
-   "mpg": 33.0,
+   "mpg": 34.0,
    "name": "Donovan Mitchell",
    "nba_team": "CLE",
    "positions": [
@@ -1532,7 +1532,7 @@
   "3992": {
    "fantasy_team": "Tiki Taka Laranja",
    "id": "3992",
-   "mpg": 31.0,
+   "mpg": 32.0,
    "name": "James Harden",
    "nba_team": "CLE",
    "positions": [
@@ -1542,7 +1542,7 @@
    "return_date": null,
    "slot": "SG",
    "status": "ACTIVE",
-   "value": 22.5
+   "value": 24.0
   },
   "3995": {
    "fantasy_team": "Polga Silva",
@@ -1796,7 +1796,7 @@
   "4066328": {
    "fantasy_team": "Polga Silva",
    "id": "4066328",
-   "mpg": 27.0,
+   "mpg": 28.0,
    "name": "Jarrett Allen",
    "nba_team": "CLE",
    "positions": [
@@ -2992,7 +2992,7 @@
   "4431678": {
    "fantasy_team": "Tiki Taka Laranja",
    "id": "4431678",
-   "mpg": 39.5,
+   "mpg": 40.0,
    "name": "Tyrese Maxey",
    "nba_team": "PHL",
    "positions": [
@@ -3166,7 +3166,7 @@
   "4432158": {
    "fantasy_team": "Tropa do Nikola",
    "id": "4432158",
-   "mpg": 32.0,
+   "mpg": 33.0,
    "name": "Evan Mobley",
    "nba_team": "CLE",
    "positions": [
@@ -3852,7 +3852,7 @@
   "4576087": {
    "fantasy_team": "Caxias French Fries",
    "id": "4576087",
-   "mpg": 28.0,
+   "mpg": 29.0,
    "name": "Peyton Watson",
    "nba_team": "CLE",
    "positions": [
@@ -5693,7 +5693,7 @@
   "5124612": {
    "fantasy_team": "Caxias French Fries",
    "id": "5124612",
-   "mpg": 33.0,
+   "mpg": 33.5,
    "name": "VJ Edgecombe",
    "nba_team": "PHL",
    "positions": [

@@ -18,7 +18,7 @@
  "last_activity_ms": 1792719405244,
  "last_digest": 1792722856.8717012,
  "last_error_alert": 1792607423.2240388,
- "last_hot_check": 1792722977.4112756,
+ "last_hot_check": 1792723937.5980136,
  "last_run": "2026-10-19T22:05:14+00:00",
  "matchup_periods": {
   "1": [
@@ -567,7 +567,7 @@
   "3064290": {
    "fantasy_team": "CCCP  Баскетбол",
    "id": "3064290",
-   "mpg": 13.0,
+   "mpg": 15.0,
    "name": "Aaron Gordon",
    "nba_team": "DEN",
    "positions": [
@@ -1517,7 +1517,7 @@
   "3978": {
    "fantasy_team": "Tiki Taka Laranja",
    "id": "3978",
-   "mpg": 14.0,
+   "mpg": 15.0,
    "name": "DeMar DeRozan",
    "nba_team": "DEN",
    "positions": [
@@ -1972,7 +1972,7 @@
   "4222252": {
    "fantasy_team": "Fernando  Diniz",
    "id": "4222252",
-   "mpg": 13.0,
+   "mpg": 13.5,
    "name": "Isaiah Hartenstein",
    "nba_team": "OKC",
    "positions": [
@@ -1981,7 +1981,7 @@
    "return_date": null,
    "slot": "C",
    "status": "ACTIVE",
-   "value": 16.6
+   "value": 17.8
   },
   "4251": {
    "fantasy_team": "Bull Market",
@@ -2232,7 +2232,7 @@
   "4278073": {
    "fantasy_team": "Polga Silva",
    "id": "4278073",
-   "mpg": 25.5,
+   "mpg": 26.5,
    "name": "Shai Gilgeous-Alexander",
    "nba_team": "OKC",
    "positions": [
@@ -2241,7 +2241,7 @@
    "return_date": null,
    "slot": "PG",
    "status": "ACTIVE",
-   "value": 39.3
+   "value": 39.7
   },
   "4278076": {
    "fantasy_team": null,
@@ -3117,7 +3117,7 @@
    "return_date": null,
    "slot": "SG",
    "status": "ACTIVE",
-   "value": 12.5
+   "value": 11.0
   },
   "4431785": {
    "fantasy_team": "Lakers x Bortolan 23",
@@ -3720,7 +3720,7 @@
   "4433255": {
    "fantasy_team": "Lakers x Bortolan 23",
    "id": "4433255",
-   "mpg": 21.0,
+   "mpg": 21.5,
    "name": "Chet Holmgren",
    "nba_team": "OKC",
    "positions": [

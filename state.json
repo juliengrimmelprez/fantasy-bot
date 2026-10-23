@@ -15,7 +15,7 @@
   "5112087:20261022"
  ],
  "hot_status": "ok: 250 FAs, 144 games",
- "last_activity_ms": 1792719405244,
+ "last_activity_ms": 1792747073923,
  "last_digest": 1792744935.738199,
  "last_error_alert": 1792729823.4619784,
  "last_hot_check": 1792746975.6186051,
@@ -2202,7 +2202,7 @@
    "value": 44.5
   },
   "4278049": {
-   "fantasy_team": null,
+   "fantasy_team": "Lakers x Bortolan 23",
    "id": "4278049",
    "mpg": 22.0,
    "name": "Daniel Gafford",
@@ -2211,7 +2211,7 @@
     "C"
    ],
    "return_date": null,
-   "slot": "",
+   "slot": "BE",
    "status": "ACTIVE",
    "value": 17.8
   },
@@ -5148,7 +5148,7 @@
    "value": 49.6
   },
   "5041951": {
-   "fantasy_team": "Lakers x Bortolan 23",
+   "fantasy_team": null,
    "id": "5041951",
    "mpg": null,
    "name": "Meleek Thomas",
@@ -5157,7 +5157,7 @@
     "SG"
    ],
    "return_date": null,
-   "slot": "BE",
+   "slot": "",
    "status": "ACTIVE",
    "value": 0.0
   },

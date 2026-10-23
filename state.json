@@ -15,7 +15,7 @@
   "4278355:20261022"
  ],
  "hot_status": "ok: 250 FAs, 143 games",
- "last_activity_ms": 1792747073923,
+ "last_activity_ms": 1792752482399,
  "last_digest": 1792752376.4253454,
  "last_error_alert": 1792729823.4619784,
  "last_hot_check": 1792751779.2345755,
@@ -93,7 +93,7 @@
     "PF"
    ],
    "return_date": null,
-   "slot": "UT",
+   "slot": "BE",
    "status": "ACTIVE",
    "value": 39.5
   },
@@ -215,7 +215,7 @@
    "value": 0.0
   },
   "2581018": {
-   "fantasy_team": "Lucky",
+   "fantasy_team": null,
    "id": "2581018",
    "mpg": 25.5,
    "name": "Kentavious Caldwell-Pope",
@@ -225,7 +225,7 @@
     "SF"
    ],
    "return_date": null,
-   "slot": "BE",
+   "slot": "",
    "status": "ACTIVE",
    "value": 17.1
   },
@@ -880,7 +880,7 @@
    "value": 30.6
   },
   "3135046": {
-   "fantasy_team": "Lucky",
+   "fantasy_team": null,
    "id": "3135046",
    "mpg": 10.0,
    "name": "Tyus Jones",
@@ -889,7 +889,7 @@
     "PG"
    ],
    "return_date": null,
-   "slot": "BE",
+   "slot": "",
    "status": "ACTIVE",
    "value": 7.2
   },
@@ -1096,7 +1096,7 @@
    "value": 49.9
   },
   "3157465": {
-   "fantasy_team": null,
+   "fantasy_team": "Lucky",
    "id": "3157465",
    "mpg": 28.0,
    "name": "Duncan Robinson",
@@ -1106,7 +1106,7 @@
     "SF"
    ],
    "return_date": null,
-   "slot": "",
+   "slot": "SF",
    "status": "ACTIVE",
    "value": 26.4
   },
@@ -1481,7 +1481,7 @@
     "PG"
    ],
    "return_date": null,
-   "slot": "UT",
+   "slot": "BE",
    "status": "ACTIVE",
    "value": 14.7
   },
@@ -2331,7 +2331,7 @@
    "value": 25.8
   },
   "4278355": {
-   "fantasy_team": null,
+   "fantasy_team": "Lucky",
    "id": "4278355",
    "mpg": 25.0,
    "name": "Obi Toppin",
@@ -2340,7 +2340,7 @@
     "PF"
    ],
    "return_date": null,
-   "slot": "",
+   "slot": "BE",
    "status": "ACTIVE",
    "value": 34.0
   },
@@ -2404,7 +2404,7 @@
    "value": 19.0
   },
   "4278585": {
-   "fantasy_team": "Lucky",
+   "fantasy_team": null,
    "id": "4278585",
    "mpg": 21.0,
    "name": "Collin Gillespie",
@@ -2413,7 +2413,7 @@
     "PG"
    ],
    "return_date": null,
-   "slot": "UT",
+   "slot": "",
    "status": "ACTIVE",
    "value": 10.1
   },
@@ -2873,7 +2873,7 @@
    "value": 25.1
   },
   "4397189": {
-   "fantasy_team": null,
+   "fantasy_team": "Lucky",
    "id": "4397189",
    "mpg": 19.0,
    "name": "Jalen Smith",
@@ -2883,7 +2883,7 @@
     "C"
    ],
    "return_date": null,
-   "slot": "",
+   "slot": "PF",
    "status": "ACTIVE",
    "value": 26.6
   },
@@ -3497,7 +3497,7 @@
    "value": 7.6
   },
   "4432823": {
-   "fantasy_team": "Lucky",
+   "fantasy_team": null,
    "id": "4432823",
    "mpg": 16.0,
    "name": "Jaylin Williams",
@@ -3507,7 +3507,7 @@
     "C"
    ],
    "return_date": null,
-   "slot": "BE",
+   "slot": "",
    "status": "ACTIVE",
    "value": 12.9
   },
@@ -3918,7 +3918,7 @@
     "PF"
    ],
    "return_date": null,
-   "slot": "SF",
+   "slot": "UT",
    "status": "ACTIVE",
    "value": 30.6
   },
@@ -4214,7 +4214,7 @@
    "value": 21.3
   },
   "4683678": {
-   "fantasy_team": null,
+   "fantasy_team": "Lucky",
    "id": "4683678",
    "mpg": 19.0,
    "name": "Scoot Henderson",
@@ -4224,7 +4224,7 @@
     "SG"
    ],
    "return_date": null,
-   "slot": "",
+   "slot": "UT",
    "status": "ACTIVE",
    "value": 18.3
   },
@@ -4763,7 +4763,7 @@
     "C"
    ],
    "return_date": null,
-   "slot": "PF",
+   "slot": "UT",
    "status": "ACTIVE",
    "value": 28.6
   },
@@ -6476,6 +6476,8 @@
   "drop:4684793:1792673939851",
   "drop:4601023:1792675306555",
   "diag:3",
-  "planday:3"
+  "planday:3",
+  "drop:2581018:1792752460765",
+  "drop:4432823:1792752403940"
  ]
 }

@@ -318,7 +318,7 @@
   "2990984": {
    "fantasy_team": null,
    "id": "2990984",
-   "mpg": 8.5,
+   "mpg": 9.0,
    "name": "Buddy Hield",
    "nba_team": "CHI",
    "positions": [
@@ -545,7 +545,7 @@
    ],
    "return_date": null,
    "slot": "BE",
-   "status": "DAY_TO_DAY",
+   "status": "ACTIVE",
    "value": 38.3
   },
   "3059319": {
@@ -782,7 +782,7 @@
   "3133628": {
    "fantasy_team": "Caxias French Fries",
    "id": "3133628",
-   "mpg": 21.0,
+   "mpg": 22.0,
    "name": "Myles Turner",
    "nba_team": "MIL",
    "positions": [
@@ -791,7 +791,7 @@
    "return_date": null,
    "slot": "C",
    "status": "ACTIVE",
-   "value": 21.4
+   "value": 21.0
   },
   "3133635": {
    "fantasy_team": null,
@@ -834,7 +834,7 @@
    "return_date": null,
    "slot": "",
    "status": "ACTIVE",
-   "value": 18.2
+   "value": 17.8
   },
   "3134908": {
    "fantasy_team": "Tiki Taka Laranja",
@@ -2536,7 +2536,7 @@
   "4395626": {
    "fantasy_team": "Bull Market",
    "id": "4395626",
-   "mpg": 10.0,
+   "mpg": 11.0,
    "name": "Tre Jones",
    "nba_team": "CHI",
    "positions": [
@@ -2545,7 +2545,7 @@
    "return_date": null,
    "slot": "UT",
    "status": "ACTIVE",
-   "value": 16.2
+   "value": 17.3
   },
   "4395628": {
    "fantasy_team": "BL0CK BY ZION",
@@ -2668,7 +2668,7 @@
   "4395725": {
    "fantasy_team": "Contagem Hunters",
    "id": "4395725",
-   "mpg": 20.5,
+   "mpg": 21.5,
    "name": "Tyler Herro",
    "nba_team": "MIL",
    "positions": [
@@ -2678,7 +2678,7 @@
    "return_date": null,
    "slot": "PG",
    "status": "ACTIVE",
-   "value": 33.0
+   "value": 32.6
   },
   "4396818": {
    "fantasy_team": null,
@@ -2947,7 +2947,7 @@
   "4397475": {
    "fantasy_team": null,
    "id": "4397475",
-   "mpg": 11.0,
+   "mpg": 12.0,
    "name": "AJ Green",
    "nba_team": "MIL",
    "positions": [
@@ -3498,7 +3498,7 @@
   "4432822": {
    "fantasy_team": null,
    "id": "4432822",
-   "mpg": 13.5,
+   "mpg": 14.5,
    "name": "Isaac Okoro",
    "nba_team": "CHI",
    "positions": [
@@ -5036,7 +5036,7 @@
   "4997526": {
    "fantasy_team": null,
    "id": "4997526",
-   "mpg": 12.5,
+   "mpg": 13.5,
    "name": "Ousmane Dieng",
    "nba_team": "MIL",
    "positions": [
@@ -5193,7 +5193,7 @@
   "5044385": {
    "fantasy_team": null,
    "id": "5044385",
-   "mpg": 16.5,
+   "mpg": 17.0,
    "name": "Leonard Miller",
    "nba_team": "CHI",
    "positions": [
@@ -5202,7 +5202,7 @@
    "return_date": null,
    "slot": "",
    "status": "ACTIVE",
-   "value": 7.2
+   "value": 8.7
   },
   "5060701": {
    "fantasy_team": null,
@@ -5486,7 +5486,7 @@
    "return_date": null,
    "slot": "BE",
    "status": "ACTIVE",
-   "value": 15.6
+   "value": 15.9
   },
   "5105637": {
    "fantasy_team": null,
@@ -6022,7 +6022,7 @@
   "5214640": {
    "fantasy_team": null,
    "id": "5214640",
-   "mpg": 17.0,
+   "mpg": 18.0,
    "name": "Kasparas Jakucionis",
    "nba_team": "MIL",
    "positions": [
@@ -6031,7 +6031,7 @@
    "return_date": null,
    "slot": "",
    "status": "ACTIVE",
-   "value": 18.2
+   "value": 17.8
   },
   "5217746": {
    "fantasy_team": null,
@@ -6120,7 +6120,7 @@
   "5242496": {
    "fantasy_team": null,
    "id": "5242496",
-   "mpg": 7.0,
+   "mpg": 8.0,
    "name": "Noa Essengue",
    "nba_team": "CHI",
    "positions": [
@@ -6129,7 +6129,7 @@
    "return_date": null,
    "slot": "",
    "status": "ACTIVE",
-   "value": 8.3
+   "value": 2.5
   },
   "5242502": {
    "fantasy_team": null,

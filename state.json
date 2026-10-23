@@ -15,7 +15,7 @@
   "5104155:20261021"
  ],
  "hot_status": "ok: 250 FAs, 146 games",
- "last_activity_ms": 1792755623984,
+ "last_activity_ms": 1792761760036,
  "last_digest": 1792759821.6725783,
  "last_error_alert": 1792729823.4619784,
  "last_hot_check": 1792761380.976191,
@@ -2872,7 +2872,7 @@
    "value": 33.0
   },
   "4397183": {
-   "fantasy_team": null,
+   "fantasy_team": "Tropa do Nikola",
    "id": "4397183",
    "mpg": 32.0,
    "name": "Aaron Wiggins",
@@ -2882,7 +2882,7 @@
     "SF"
    ],
    "return_date": null,
-   "slot": "",
+   "slot": "UT",
    "status": "ACTIVE",
    "value": 25.1
   },
@@ -3202,7 +3202,7 @@
     "C"
    ],
    "return_date": null,
-   "slot": "UT",
+   "slot": "BE",
    "status": "ACTIVE",
    "value": 33.3
   },
@@ -4974,7 +4974,7 @@
    "value": 0.0
   },
   "4900671": {
-   "fantasy_team": "Tropa do Nikola",
+   "fantasy_team": null,
    "id": "4900671",
    "mpg": 23.0,
    "name": "Ajay Mitchell",
@@ -4984,7 +4984,7 @@
     "SG"
    ],
    "return_date": null,
-   "slot": "BE",
+   "slot": "",
    "status": "ACTIVE",
    "value": 22.8
   },
@@ -6480,6 +6480,7 @@
   "drop:2581018:1792752460765",
   "drop:4432823:1792752403940",
   "drop:4576087:1792755294763",
-  "drop:4351851:1792755623984"
+  "drop:4351851:1792755623984",
+  "drop:4900671:1792761760036"
  ]
 }

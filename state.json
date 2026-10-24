@@ -25,7 +25,7 @@
   "5112087:20261022"
  ],
  "hot_status": "ok: 250 FAs, 259 games",
- "last_activity_ms": 1792849756285,
+ "last_activity_ms": 1792849923913,
  "last_digest": 1792848557.7687728,
  "last_error_alert": 1792787295.9267383,
  "last_hot_check": 1792849822.6913886,
@@ -928,7 +928,7 @@
     "C"
    ],
    "return_date": null,
-   "slot": "UT",
+   "slot": "BE",
    "status": "ACTIVE",
    "value": 39.5
   },
@@ -3188,7 +3188,7 @@
    "value": 16.0
   },
   "4432107": {
-   "fantasy_team": null,
+   "fantasy_team": "Contagem Hunters",
    "id": "4432107",
    "mpg": 25.5,
    "name": "Marcus Sasser",
@@ -3197,7 +3197,7 @@
     "PG"
    ],
    "return_date": null,
-   "slot": "",
+   "slot": "UT",
    "status": "ACTIVE",
    "value": 20.7
   },
@@ -6372,7 +6372,7 @@
    "value": 0.0
   },
   "6478": {
-   "fantasy_team": "Contagem Hunters",
+   "fantasy_team": null,
    "id": "6478",
    "mpg": 4.5,
    "name": "Nikola Vucevic",
@@ -6381,7 +6381,7 @@
     "C"
    ],
    "return_date": null,
-   "slot": "BE",
+   "slot": "",
    "status": "ACTIVE",
    "value": 9.0
   },

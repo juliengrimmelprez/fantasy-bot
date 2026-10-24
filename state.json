@@ -4627,7 +4627,7 @@
     "SG"
    ],
    "return_date": null,
-   "slot": "BE",
+   "slot": "UT",
    "status": "DAY_TO_DAY",
    "value": 16.5
   },
@@ -5095,7 +5095,7 @@
     "SF"
    ],
    "return_date": null,
-   "slot": "UT",
+   "slot": "SF",
    "status": "ACTIVE",
    "value": 20.7
   },
@@ -6529,6 +6529,8 @@
   "drop:3133603:1792843191642",
   "drop:4066262:1792843129790",
   "drop:2991070:1792846142629",
-  "drop:3936099:1792849715579"
+  "drop:3936099:1792849715579",
+  "diag:5",
+  "planday:5"
  ]
 }

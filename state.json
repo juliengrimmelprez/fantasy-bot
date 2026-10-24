@@ -1597,13 +1597,14 @@
    "status": "ACTIVE",
    "value": 31.0
   },
-  "4017850": {
+  "4017844": {
    "fantasy_team": null,
-   "id": "4017850",
+   "id": "4017844",
    "mpg": null,
-   "name": "Wang Zhelin",
-   "nba_team": "MEM",
+   "name": "Guerschon Yabusele",
+   "nba_team": "FA",
    "positions": [
+    "PF",
     "C"
    ],
    "return_date": null,
@@ -4207,6 +4208,20 @@
    "status": "ACTIVE",
    "value": 39.3
   },
+  "4683024": {
+   "fantasy_team": null,
+   "id": "4683024",
+   "mpg": null,
+   "name": "Killian Hayes",
+   "nba_team": "FA",
+   "positions": [
+    "PG"
+   ],
+   "return_date": null,
+   "slot": "",
+   "status": "ACTIVE",
+   "value": 0.0
+  },
   "4683634": {
    "fantasy_team": null,
    "id": "4683634",
@@ -6153,20 +6168,6 @@
    "slot": "",
    "status": "ACTIVE",
    "value": 9.6
-  },
-  "5242502": {
-   "fantasy_team": null,
-   "id": "5242502",
-   "mpg": null,
-   "name": "Ben Saraf",
-   "nba_team": "BKN",
-   "positions": [
-    "SG"
-   ],
-   "return_date": null,
-   "slot": "",
-   "status": "ACTIVE",
-   "value": 0.0
   },
   "5254165": {
    "fantasy_team": "Lakers x Bortolan 23",

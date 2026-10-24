@@ -25,7 +25,7 @@
   "4684272:20261021"
  ],
  "hot_status": "ok: 250 FAs, 261 games",
- "last_activity_ms": 1792843191642,
+ "last_activity_ms": 1792846142629,
  "last_digest": 1792844900.6169775,
  "last_error_alert": 1792787295.9267383,
  "last_hot_check": 1792845977.6273293,
@@ -371,7 +371,7 @@
    "value": 19.4
   },
   "2991070": {
-   "fantasy_team": "Caxias French Fries",
+   "fantasy_team": null,
    "id": "2991070",
    "mpg": 25.0,
    "name": "Jerami Grant",
@@ -380,7 +380,7 @@
     "PF"
    ],
    "return_date": null,
-   "slot": "BE",
+   "slot": "",
    "status": "ACTIVE",
    "value": 20.6
   },
@@ -1005,7 +1005,7 @@
    "value": 14.8
   },
   "3146557": {
-   "fantasy_team": null,
+   "fantasy_team": "Caxias French Fries",
    "id": "3146557",
    "mpg": 18.5,
    "name": "Jock Landale",
@@ -1014,7 +1014,7 @@
     "C"
    ],
    "return_date": null,
-   "slot": "",
+   "slot": "UT",
    "status": "ACTIVE",
    "value": 26.5
   },
@@ -1593,7 +1593,7 @@
     "C"
    ],
    "return_date": null,
-   "slot": "UT",
+   "slot": "BE",
    "status": "ACTIVE",
    "value": 31.0
   },
@@ -6513,6 +6513,7 @@
   "hot:4278562:20261024",
   "drop:4683678:1792836065527",
   "drop:3133603:1792843191642",
-  "drop:4066262:1792843129790"
+  "drop:4066262:1792843129790",
+  "drop:2991070:1792846142629"
  ]
 }

@@ -25,7 +25,7 @@
   "5112087:20261022"
  ],
  "hot_status": "ok: 250 FAs, 261 games",
- "last_activity_ms": 1792836129097,
+ "last_activity_ms": 1792843191642,
  "last_digest": 1792841178.3503306,
  "last_error_alert": 1792787295.9267383,
  "last_hot_check": 1792843094.875925,
@@ -410,7 +410,7 @@
     "SG"
    ],
    "return_date": null,
-   "slot": "UT",
+   "slot": "SG",
    "status": "ACTIVE",
    "value": 39.5
   },
@@ -761,7 +761,7 @@
    "value": 20.0
   },
   "3133603": {
-   "fantasy_team": "Coringas do Gansola",
+   "fantasy_team": null,
    "id": "3133603",
    "mpg": 24.0,
    "name": "Kelly Oubre Jr.",
@@ -771,7 +771,7 @@
     "SF"
    ],
    "return_date": null,
-   "slot": "BE",
+   "slot": "",
    "status": "ACTIVE",
    "value": 14.4
   },
@@ -1418,7 +1418,7 @@
     "PG"
    ],
    "return_date": null,
-   "slot": "PG",
+   "slot": "UT",
    "status": "ACTIVE",
    "value": 29.3
   },
@@ -1767,7 +1767,7 @@
     "SG"
    ],
    "return_date": null,
-   "slot": "SG",
+   "slot": "UT",
    "status": "ACTIVE",
    "value": 39.2
   },
@@ -1787,7 +1787,7 @@
    "value": 30.2
   },
   "4066262": {
-   "fantasy_team": "Coringas do Gansola",
+   "fantasy_team": null,
    "id": "4066262",
    "mpg": 12.0,
    "name": "Malik Monk",
@@ -1797,7 +1797,7 @@
     "SG"
    ],
    "return_date": null,
-   "slot": "BE",
+   "slot": "",
    "status": "ACTIVE",
    "value": 27.7
   },
@@ -3384,7 +3384,7 @@
     "PF"
    ],
    "return_date": null,
-   "slot": "SF",
+   "slot": "UT",
    "status": "DAY_TO_DAY",
    "value": 43.5
   },
@@ -3735,7 +3735,7 @@
     "PF"
    ],
    "return_date": null,
-   "slot": "UT",
+   "slot": "BE",
    "status": "ACTIVE",
    "value": 32.1
   },
@@ -4514,7 +4514,7 @@
    "value": 4.0
   },
   "4702177": {
-   "fantasy_team": null,
+   "fantasy_team": "Coringas do Gansola",
    "id": "4702177",
    "mpg": 34.0,
    "name": "Keon Ellis",
@@ -4524,7 +4524,7 @@
     "SF"
    ],
    "return_date": null,
-   "slot": "",
+   "slot": "SF",
    "status": "ACTIVE",
    "value": 24.8
   },
@@ -5195,7 +5195,7 @@
     "SG"
    ],
    "return_date": null,
-   "slot": "UT",
+   "slot": "BE",
    "status": "ACTIVE",
    "value": 20.8
   },
@@ -6043,7 +6043,7 @@
    "value": 6.3
   },
   "5214640": {
-   "fantasy_team": null,
+   "fantasy_team": "Coringas do Gansola",
    "id": "5214640",
    "mpg": 24.5,
    "name": "Kasparas Jakucionis",
@@ -6052,7 +6052,7 @@
     "PG"
    ],
    "return_date": null,
-   "slot": "",
+   "slot": "PG",
    "status": "ACTIVE",
    "value": 25.3
   },
@@ -6510,6 +6510,8 @@
   "inj:5041939:DAY_TO_DAY",
   "inj:5041939:OUT",
   "hot:4278562:20261024",
-  "drop:4683678:1792836065527"
+  "drop:4683678:1792836065527",
+  "drop:3133603:1792843191642",
+  "drop:4066262:1792843129790"
  ]
 }

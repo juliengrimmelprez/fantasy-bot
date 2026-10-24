@@ -339,7 +339,7 @@
   "2990992": {
    "fantasy_team": null,
    "id": "2990992",
-   "mpg": 18.5,
+   "mpg": 19.0,
    "name": "Marcus Smart",
    "nba_team": "HOU",
    "positions": [
@@ -383,7 +383,7 @@
   "2991139": {
    "fantasy_team": "Caxias French Fries",
    "id": "2991139",
-   "mpg": 23.0,
+   "mpg": 23.5,
    "name": "Kris Dunn",
    "nba_team": "LAC",
    "positions": [
@@ -398,7 +398,7 @@
   "2991230": {
    "fantasy_team": "Coringas do Gansola",
    "id": "2991230",
-   "mpg": 26.0,
+   "mpg": 26.5,
    "name": "Fred VanVleet",
    "nba_team": "HOU",
    "positions": [
@@ -1271,12 +1271,12 @@
    "return_date": null,
    "slot": "SG",
    "status": "ACTIVE",
-   "value": 42.8
+   "value": 43.5
   },
   "3907498": {
    "fantasy_team": null,
    "id": "3907498",
-   "mpg": 18.5,
+   "mpg": 19.0,
    "name": "Matisse Thybulle",
    "nba_team": "LAL",
    "positions": [
@@ -1285,7 +1285,7 @@
    "return_date": null,
    "slot": "",
    "status": "ACTIVE",
-   "value": 14.9
+   "value": 16.8
   },
   "3907823": {
    "fantasy_team": null,
@@ -1465,7 +1465,7 @@
   "3936099": {
    "fantasy_team": null,
    "id": "3936099",
-   "mpg": 22.5,
+   "mpg": 23.0,
    "name": "Derrick Jones Jr.",
    "nba_team": "LAC",
    "positions": [
@@ -1494,7 +1494,7 @@
   "3945274": {
    "fantasy_team": "Lakers x Bortolan 23",
    "id": "3945274",
-   "mpg": 25.0,
+   "mpg": 26.0,
    "name": "Luka Doncic",
    "nba_team": "LAL",
    "positions": [
@@ -1770,7 +1770,7 @@
   "4066259": {
    "fantasy_team": "Coringas do Gansola",
    "id": "4066259",
-   "mpg": 27.5,
+   "mpg": 25.5,
    "name": "De'Aaron Fox",
    "nba_team": "SAS",
    "positions": [
@@ -1934,7 +1934,7 @@
   "4066457": {
    "fantasy_team": "King Coopa",
    "id": "4066457",
-   "mpg": 25.5,
+   "mpg": 26.5,
    "name": "Austin Reaves",
    "nba_team": "LAL",
    "positions": [
@@ -1944,12 +1944,12 @@
    "return_date": null,
    "slot": "PG",
    "status": "ACTIVE",
-   "value": 36.7
+   "value": 37.5
   },
   "4066648": {
    "fantasy_team": "Lakers x Bortolan 23",
    "id": "4066648",
-   "mpg": 25.0,
+   "mpg": 25.5,
    "name": "Rui Hachimura",
    "nba_team": "LAC",
    "positions": [
@@ -2194,7 +2194,7 @@
   "4277961": {
    "fantasy_team": "Bull Market",
    "id": "4277961",
-   "mpg": 26.0,
+   "mpg": 26.5,
    "name": "Jaren Jackson Jr.",
    "nba_team": "UTA",
    "positions": [
@@ -2703,7 +2703,7 @@
   "4396907": {
    "fantasy_team": "Tropa do Nikola",
    "id": "4396907",
-   "mpg": 26.0,
+   "mpg": 26.5,
    "name": "Darius Garland",
    "nba_team": "LAC",
    "positions": [
@@ -2712,7 +2712,7 @@
    "return_date": null,
    "slot": "PG",
    "status": "ACTIVE",
-   "value": 30.7
+   "value": 32.2
   },
   "4396909": {
    "fantasy_team": null,
@@ -2977,7 +2977,7 @@
    "return_date": null,
    "slot": "UT",
    "status": "ACTIVE",
-   "value": 23.8
+   "value": 23.1
   },
   "4397886": {
    "fantasy_team": null,
@@ -3258,7 +3258,7 @@
   "4432170": {
    "fantasy_team": null,
    "id": "4432170",
-   "mpg": 16.5,
+   "mpg": 17.0,
    "name": "Isaiah Jackson",
    "nba_team": "LAC",
    "positions": [
@@ -3268,7 +3268,7 @@
    "return_date": null,
    "slot": "",
    "status": "ACTIVE",
-   "value": 22.0
+   "value": 22.8
   },
   "4432171": {
    "fantasy_team": null,
@@ -3637,7 +3637,7 @@
   "4433136": {
    "fantasy_team": "Tropa do Nikola",
    "id": "4433136",
-   "mpg": 24.0,
+   "mpg": 24.5,
    "name": "Walker Kessler",
    "nba_team": "LAL",
    "positions": [
@@ -3651,7 +3651,7 @@
   "4433137": {
    "fantasy_team": null,
    "id": "4433137",
-   "mpg": 19.5,
+   "mpg": 20.5,
    "name": "Ziaire Williams",
    "nba_team": "LAL",
    "positions": [
@@ -3661,7 +3661,7 @@
    "return_date": null,
    "slot": "",
    "status": "ACTIVE",
-   "value": 20.7
+   "value": 22.2
   },
   "4433144": {
    "fantasy_team": null,
@@ -3929,7 +3929,7 @@
   "4592479": {
    "fantasy_team": "Lucky",
    "id": "4592479",
-   "mpg": 22.0,
+   "mpg": 24.5,
    "name": "Julian Champagnie",
    "nba_team": "SAS",
    "positions": [
@@ -5425,7 +5425,7 @@
   "5104157": {
    "fantasy_team": "CCCP  Баскетбол",
    "id": "5104157",
-   "mpg": 29.0,
+   "mpg": 29.5,
    "name": "Victor Wembanyama",
    "nba_team": "SAS",
    "positions": [

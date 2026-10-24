@@ -25,7 +25,7 @@
   "6585:20261020"
  ],
  "hot_status": "ok: 250 FAs, 261 games",
- "last_activity_ms": 1792816160048,
+ "last_activity_ms": 1792836129097,
  "last_digest": 1792833735.6952095,
  "last_error_alert": 1792787295.9267383,
  "last_hot_check": 1792835425.6043913,
@@ -832,7 +832,7 @@
    "value": 8.0
   },
   "3134907": {
-   "fantasy_team": null,
+   "fantasy_team": "Lucky",
    "id": "3134907",
    "mpg": 28.5,
    "name": "Kyle Kuzma",
@@ -842,7 +842,7 @@
     "PF"
    ],
    "return_date": null,
-   "slot": "",
+   "slot": "UT",
    "status": "ACTIVE",
    "value": 24.9
   },
@@ -1174,7 +1174,7 @@
     "C"
    ],
    "return_date": null,
-   "slot": "UT",
+   "slot": "BE",
    "status": "ACTIVE",
    "value": 36.2
   },
@@ -4223,7 +4223,7 @@
    "value": 14.1
   },
   "4683678": {
-   "fantasy_team": "Lucky",
+   "fantasy_team": null,
    "id": "4683678",
    "mpg": 20.0,
    "name": "Scoot Henderson",
@@ -4233,7 +4233,7 @@
     "SG"
    ],
    "return_date": null,
-   "slot": "BE",
+   "slot": "",
    "status": "ACTIVE",
    "value": 13.8
   },
@@ -6509,6 +6509,7 @@
   "diag:4",
   "inj:5041939:DAY_TO_DAY",
   "inj:5041939:OUT",
-  "hot:4278562:20261024"
+  "hot:4278562:20261024",
+  "drop:4683678:1792836065527"
  ]
 }

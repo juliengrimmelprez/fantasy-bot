@@ -742,7 +742,7 @@
     "C"
    ],
    "return_date": null,
-   "slot": "UT",
+   "slot": "C",
    "status": "ACTIVE",
    "value": 34.8
   },
@@ -2206,7 +2206,7 @@
     "SG"
    ],
    "return_date": null,
-   "slot": "UT",
+   "slot": "SG",
    "status": "ACTIVE",
    "value": 38.1
   },
@@ -3413,7 +3413,7 @@
     "C"
    ],
    "return_date": null,
-   "slot": "C",
+   "slot": "UT",
    "status": "ACTIVE",
    "value": 34.3
   },
@@ -3780,7 +3780,7 @@
     "SF"
    ],
    "return_date": null,
-   "slot": "SG",
+   "slot": "UT",
    "status": "ACTIVE",
    "value": 18.0
   },

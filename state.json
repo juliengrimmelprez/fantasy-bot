@@ -25,7 +25,7 @@
   "5112087:20261022"
  ],
  "hot_status": "ok: 250 FAs, 261 games",
- "last_activity_ms": 1792846142629,
+ "last_activity_ms": 1792849688617,
  "last_digest": 1792848557.7687728,
  "last_error_alert": 1792787295.9267383,
  "last_hot_check": 1792848857.2960584,
@@ -1467,7 +1467,7 @@
    "value": 13.7
   },
   "3936099": {
-   "fantasy_team": null,
+   "fantasy_team": "Bull Market",
    "id": "3936099",
    "mpg": 30.5,
    "name": "Derrick Jones Jr.",
@@ -1477,7 +1477,7 @@
     "PF"
    ],
    "return_date": null,
-   "slot": "",
+   "slot": "UT",
    "status": "ACTIVE",
    "value": 27.4
   },
@@ -2980,7 +2980,7 @@
    ],
    "return_date": null,
    "slot": "",
-   "status": "OUT",
+   "status": "DAY_TO_DAY",
    "value": 14.5
   },
   "4398390": {
@@ -3972,7 +3972,7 @@
    ],
    "return_date": null,
    "slot": "BE",
-   "status": "OUT",
+   "status": "DAY_TO_DAY",
    "value": 23.2
   },
   "4592714": {
@@ -4598,7 +4598,7 @@
    ],
    "return_date": null,
    "slot": "",
-   "status": "OUT",
+   "status": "DAY_TO_DAY",
    "value": 0.0
   },
   "4709138": {
@@ -4628,7 +4628,7 @@
    ],
    "return_date": null,
    "slot": "IR",
-   "status": "OUT",
+   "status": "DAY_TO_DAY",
    "value": 16.5
   },
   "4711294": {
@@ -5024,7 +5024,7 @@
    ],
    "return_date": null,
    "slot": "SG",
-   "status": "OUT",
+   "status": "DAY_TO_DAY",
    "value": 24.7
   },
   "4914336": {
@@ -5725,7 +5725,7 @@
    ],
    "return_date": null,
    "slot": "",
-   "status": "OUT",
+   "status": "DAY_TO_DAY",
    "value": 0.0
   },
   "5124612": {
@@ -6169,6 +6169,20 @@
    "status": "ACTIVE",
    "value": 9.6
   },
+  "5242502": {
+   "fantasy_team": null,
+   "id": "5242502",
+   "mpg": null,
+   "name": "Ben Saraf",
+   "nba_team": "BKN",
+   "positions": [
+    "SG"
+   ],
+   "return_date": null,
+   "slot": "",
+   "status": "ACTIVE",
+   "value": 0.0
+  },
   "5254165": {
    "fantasy_team": "Lakers x Bortolan 23",
    "id": "5254165",
@@ -6296,7 +6310,7 @@
    ],
    "return_date": null,
    "slot": "SF",
-   "status": "OUT",
+   "status": "DAY_TO_DAY",
    "value": 30.1
   },
   "6442": {

@@ -104,7 +104,7 @@
    ],
    "return_date": null,
    "slot": "SF",
-   "status": "DAY_TO_DAY",
+   "status": "OUT",
    "value": 39.5
   },
   "2326307": {
@@ -6532,6 +6532,7 @@
   "drop:3936099:1792849715579",
   "diag:5",
   "planday:5",
-  "inj:4432573:OUT"
+  "inj:4432573:OUT",
+  "inj:1966:OUT"
  ]
 }

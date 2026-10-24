@@ -3810,7 +3810,7 @@
    ],
    "return_date": null,
    "slot": "C",
-   "status": "DAY_TO_DAY",
+   "status": "OUT",
    "value": 34.2
   },
   "4433627": {
@@ -6536,6 +6536,7 @@
   "inj:1966:OUT",
   "inj:2991230:OUT",
   "inj:6440:OUT",
-  "inj:5061589:OUT"
+  "inj:5061589:OUT",
+  "inj:4433621:OUT"
  ]
 }

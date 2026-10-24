@@ -518,7 +518,7 @@
   "3032979": {
    "fantasy_team": "Tropa do Nikola",
    "id": "3032979",
-   "mpg": 24.0,
+   "mpg": 24.3,
    "name": "Dennis Schroder",
    "nba_team": "CHA",
    "positions": [
@@ -561,7 +561,7 @@
   "3059319": {
    "fantasy_team": "Tiki Taka Laranja",
    "id": "3059319",
-   "mpg": 22.0,
+   "mpg": 22.3,
    "name": "Andrew Wiggins",
    "nba_team": "MIA",
    "positions": [
@@ -2228,7 +2228,7 @@
   "4278053": {
    "fantasy_team": "Tropa do Nikola",
    "id": "4278053",
-   "mpg": 27.3,
+   "mpg": 27.7,
    "name": "Davion Mitchell",
    "nba_team": "MIA",
    "positions": [
@@ -4153,7 +4153,7 @@
   "4601025": {
    "fantasy_team": null,
    "id": "4601025",
-   "mpg": 23.0,
+   "mpg": 23.3,
    "name": "Pelle Larsson",
    "nba_team": "MIA",
    "positions": [
@@ -4177,7 +4177,7 @@
    "return_date": null,
    "slot": "",
    "status": "ACTIVE",
-   "value": 8.7
+   "value": 8.0
   },
   "4610139": {
    "fantasy_team": null,
@@ -4628,7 +4628,7 @@
    ],
    "return_date": null,
    "slot": "UT",
-   "status": "DAY_TO_DAY",
+   "status": "ACTIVE",
    "value": 16.5
   },
   "4711294": {
@@ -6345,7 +6345,7 @@
   "6475": {
    "fantasy_team": null,
    "id": "6475",
-   "mpg": 18.3,
+   "mpg": 18.7,
    "name": "Klay Thompson",
    "nba_team": "MIA",
    "positions": [

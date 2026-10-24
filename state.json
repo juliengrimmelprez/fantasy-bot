@@ -24,11 +24,11 @@
   "4433137:20261024",
   "3936099:20261024"
  ],
- "hot_status": "ok: 250 FAs, 259 games",
+ "hot_status": "ok: 250 FAs, 260 games",
  "last_activity_ms": 1792849923913,
  "last_digest": 1792870696.703768,
  "last_error_alert": 1792787295.9267383,
- "last_hot_check": 1792872857.0853906,
+ "last_hot_check": 1792873827.682167,
  "last_run": "2026-10-19T22:05:14+00:00",
  "matchup_periods": {
   "1": [
@@ -5113,6 +5113,20 @@
    "status": "OUT",
    "value": 16.9
   },
+  "4997538": {
+   "fantasy_team": null,
+   "id": "4997538",
+   "mpg": 9.0,
+   "name": "Karlo Matkovic",
+   "nba_team": "NOP",
+   "positions": [
+    "PF"
+   ],
+   "return_date": null,
+   "slot": "",
+   "status": "ACTIVE",
+   "value": 23.0
+  },
   "5023693": {
    "fantasy_team": null,
    "id": "5023693",
@@ -6168,20 +6182,6 @@
    "slot": "",
    "status": "DAY_TO_DAY",
    "value": 9.6
-  },
-  "5242502": {
-   "fantasy_team": null,
-   "id": "5242502",
-   "mpg": null,
-   "name": "Ben Saraf",
-   "nba_team": "BKN",
-   "positions": [
-    "SG"
-   ],
-   "return_date": null,
-   "slot": "",
-   "status": "ACTIVE",
-   "value": 0.0
   },
   "5254165": {
    "fantasy_team": "Lakers x Bortolan 23",

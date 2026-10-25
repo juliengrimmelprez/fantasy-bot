@@ -33,11 +33,11 @@
   "4278585:20261025",
   "4432107:20261022"
  ],
- "hot_status": "ok: 250 FAs, 343 games",
+ "hot_status": "ok: 250 FAs, 345 games",
  "last_activity_ms": 1792945979445,
  "last_digest": 1792966824.666615,
  "last_error_alert": 1792787295.9267383,
- "last_hot_check": 1792968856.9937077,
+ "last_hot_check": 1792969823.054456,
  "last_run": "2026-10-19T22:05:14+00:00",
  "matchup_periods": {
   "1": [
@@ -644,7 +644,7 @@
   "3064514": {
    "fantasy_team": "Lebron GOAT",
    "id": "3064514",
-   "mpg": 29.3,
+   "mpg": 29.7,
    "name": "Julius Randle",
    "nba_team": "BKN",
    "positions": [
@@ -1059,7 +1059,7 @@
   "3150844": {
    "fantasy_team": null,
    "id": "3150844",
-   "mpg": 13.3,
+   "mpg": 13.7,
    "name": "Moritz Wagner",
    "nba_team": "BKN",
    "positions": [
@@ -1068,7 +1068,7 @@
    "return_date": null,
    "slot": "",
    "status": "ACTIVE",
-   "value": 12.8
+   "value": 12.3
   },
   "3155526": {
    "fantasy_team": null,
@@ -1696,7 +1696,7 @@
   "4065731": {
    "fantasy_team": null,
    "id": "4065731",
-   "mpg": 7.5,
+   "mpg": 8.0,
    "name": "Jay Huff",
    "nba_team": "IND",
    "positions": [
@@ -1705,7 +1705,7 @@
    "return_date": null,
    "slot": "",
    "status": "ACTIVE",
-   "value": 7.5
+   "value": 9.0
   },
   "4065732": {
    "fantasy_team": null,
@@ -1842,7 +1842,7 @@
   "4066320": {
    "fantasy_team": "Fernando  Diniz",
    "id": "4066320",
-   "mpg": 30.0,
+   "mpg": 20.0,
    "name": "Desmond Bane",
    "nba_team": "ORL",
    "positions": [
@@ -1852,7 +1852,7 @@
    "return_date": null,
    "slot": "SG",
    "status": "ACTIVE",
-   "value": 20.1
+   "value": 16.8
   },
   "4066328": {
    "fantasy_team": "Polga Silva",
@@ -1871,7 +1871,7 @@
   "4066336": {
    "fantasy_team": "Fernando  Diniz",
    "id": "4066336",
-   "mpg": 33.3,
+   "mpg": 33.7,
    "name": "Lauri Markkanen",
    "nba_team": "UTA",
    "positions": [
@@ -1881,7 +1881,7 @@
    "return_date": null,
    "slot": "PF",
    "status": "ACTIVE",
-   "value": 33.7
+   "value": 33.4
   },
   "4066354": {
    "fantasy_team": "Coringas do Gansola",
@@ -1961,7 +1961,7 @@
   "4066457": {
    "fantasy_team": "King Coopa",
    "id": "4066457",
-   "mpg": 33.0,
+   "mpg": 33.3,
    "name": "Austin Reaves",
    "nba_team": "LAL",
    "positions": [
@@ -1971,7 +1971,7 @@
    "return_date": null,
    "slot": "PG",
    "status": "ACTIVE",
-   "value": 45.6
+   "value": 44.6
   },
   "4066648": {
    "fantasy_team": "Lakers x Bortolan 23",
@@ -2107,7 +2107,7 @@
   "4277847": {
    "fantasy_team": "Lebron GOAT",
    "id": "4277847",
-   "mpg": 30.0,
+   "mpg": 20.0,
    "name": "Wendell Carter Jr.",
    "nba_team": "ORL",
    "positions": [
@@ -2116,7 +2116,7 @@
    "return_date": null,
    "slot": "UT",
    "status": "ACTIVE",
-   "value": 37.6
+   "value": 26.8
   },
   "4277848": {
    "fantasy_team": "CCCP  Баскетбол",
@@ -2351,7 +2351,7 @@
   "4278104": {
    "fantasy_team": "Tropa do Nikola",
    "id": "4278104",
-   "mpg": 27.0,
+   "mpg": 27.3,
    "name": "Michael Porter Jr.",
    "nba_team": "BKN",
    "positions": [
@@ -2361,7 +2361,7 @@
    "return_date": null,
    "slot": "SF",
    "status": "ACTIVE",
-   "value": 35.5
+   "value": 35.2
   },
   "4278129": {
    "fantasy_team": null,
@@ -2380,7 +2380,7 @@
   "4278355": {
    "fantasy_team": "Lucky",
    "id": "4278355",
-   "mpg": 20.3,
+   "mpg": 20.7,
    "name": "Obi Toppin",
    "nba_team": "IND",
    "positions": [
@@ -2389,7 +2389,7 @@
    "return_date": null,
    "slot": "PF",
    "status": "ACTIVE",
-   "value": 22.2
+   "value": 23.7
   },
   "4278402": {
    "fantasy_team": null,
@@ -2656,7 +2656,7 @@
   "4395712": {
    "fantasy_team": "Lakers x Bortolan 23",
    "id": "4395712",
-   "mpg": 27.0,
+   "mpg": 27.3,
    "name": "Andrew Nembhard",
    "nba_team": "IND",
    "positions": [
@@ -2666,7 +2666,7 @@
    "return_date": null,
    "slot": "UT",
    "status": "ACTIVE",
-   "value": 25.8
+   "value": 26.3
   },
   "4395723": {
    "fantasy_team": "Polga Silva",
@@ -2804,7 +2804,7 @@
   "4397014": {
    "fantasy_team": "BL0CK BY ZION",
    "id": "4397014",
-   "mpg": 25.3,
+   "mpg": 25.7,
    "name": "Quentin Grimes",
    "nba_team": "LAL",
    "positions": [
@@ -2849,7 +2849,7 @@
   "4397077": {
    "fantasy_team": "Polga Silva",
    "id": "4397077",
-   "mpg": 22.3,
+   "mpg": 22.7,
    "name": "Jaxson Hayes",
    "nba_team": "UTA",
    "positions": [
@@ -2858,7 +2858,7 @@
    "return_date": null,
    "slot": "C",
    "status": "ACTIVE",
-   "value": 27.4
+   "value": 29.1
   },
   "4397102": {
    "fantasy_team": null,
@@ -3511,7 +3511,7 @@
    "return_date": null,
    "slot": "",
    "status": "ACTIVE",
-   "value": 11.4
+   "value": 4.3
   },
   "4432816": {
    "fantasy_team": "Lucky",
@@ -3664,7 +3664,7 @@
   "4433136": {
    "fantasy_team": "Tropa do Nikola",
    "id": "4433136",
-   "mpg": 29.0,
+   "mpg": 29.3,
    "name": "Walker Kessler",
    "nba_team": "LAL",
    "positions": [
@@ -4554,7 +4554,7 @@
   "4702177": {
    "fantasy_team": "Coringas do Gansola",
    "id": "4702177",
-   "mpg": 23.3,
+   "mpg": 23.7,
    "name": "Keon Ellis",
    "nba_team": "BKN",
    "positions": [
@@ -5225,7 +5225,7 @@
   "5041955": {
    "fantasy_team": "Coringas do Gansola",
    "id": "5041955",
-   "mpg": 27.3,
+   "mpg": 27.7,
    "name": "Darryn Peterson",
    "nba_team": "UTA",
    "positions": [
@@ -5235,7 +5235,7 @@
    "return_date": null,
    "slot": "SG",
    "status": "ACTIVE",
-   "value": 20.5
+   "value": 21.0
   },
   "5044385": {
    "fantasy_team": null,
@@ -5590,7 +5590,7 @@
    "return_date": null,
    "slot": "",
    "status": "ACTIVE",
-   "value": 14.2
+   "value": 14.4
   },
   "5105854": {
    "fantasy_team": null,
@@ -5609,7 +5609,7 @@
   "5106060": {
    "fantasy_team": null,
    "id": "5106060",
-   "mpg": 13.0,
+   "mpg": 13.3,
    "name": "Jarace Walker",
    "nba_team": "IND",
    "positions": [
@@ -5619,7 +5619,7 @@
    "return_date": null,
    "slot": "",
    "status": "ACTIVE",
-   "value": 4.4
+   "value": 16.5
   },
   "5106258": {
    "fantasy_team": null,
@@ -5983,7 +5983,7 @@
   "5175643": {
    "fantasy_team": "Fernando  Diniz",
    "id": "5175643",
-   "mpg": 23.7,
+   "mpg": 24.0,
    "name": "Egor Demin",
    "nba_team": "BKN",
    "positions": [

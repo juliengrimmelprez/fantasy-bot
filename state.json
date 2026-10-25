@@ -1173,6 +1173,20 @@
    "status": "DAY_TO_DAY",
    "value": 14.9
   },
+  "3442": {
+   "fantasy_team": null,
+   "id": "3442",
+   "mpg": 20.0,
+   "name": "DeAndre Jordan",
+   "nba_team": "NOP",
+   "positions": [
+    "C"
+   ],
+   "return_date": null,
+   "slot": "",
+   "status": "ACTIVE",
+   "value": 28.0
+  },
   "3448": {
    "fantasy_team": "Lucky",
    "id": "3448",
@@ -5692,20 +5706,6 @@
    "slot": "",
    "status": "ACTIVE",
    "value": 11.3
-  },
-  "5107968": {
-   "fantasy_team": null,
-   "id": "5107968",
-   "mpg": 2.0,
-   "name": "Ja'Kobi Gillespie",
-   "nba_team": "SAS",
-   "positions": [
-    "PG"
-   ],
-   "return_date": null,
-   "slot": "",
-   "status": "ACTIVE",
-   "value": 3.0
   },
   "5108024": {
    "fantasy_team": null,

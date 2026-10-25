@@ -1010,7 +1010,7 @@
    ],
    "return_date": null,
    "slot": "",
-   "status": "OUT",
+   "status": "DAY_TO_DAY",
    "value": 14.8
   },
   "3146557": {
@@ -1170,7 +1170,7 @@
    ],
    "return_date": null,
    "slot": "",
-   "status": "OUT",
+   "status": "DAY_TO_DAY",
    "value": 14.9
   },
   "3448": {
@@ -1544,7 +1544,7 @@
    ],
    "return_date": null,
    "slot": "UT",
-   "status": "OUT",
+   "status": "DAY_TO_DAY",
    "value": 34.8
   },
   "3978": {
@@ -3105,7 +3105,7 @@
    ],
    "return_date": null,
    "slot": "",
-   "status": "OUT",
+   "status": "DAY_TO_DAY",
    "value": 14.4
   },
   "4431714": {
@@ -4622,7 +4622,7 @@
    ],
    "return_date": null,
    "slot": "UT",
-   "status": "OUT",
+   "status": "DAY_TO_DAY",
    "value": 32.5
   },
   "4711272": {
@@ -6189,7 +6189,7 @@
    ],
    "return_date": null,
    "slot": "",
-   "status": "OUT",
+   "status": "DAY_TO_DAY",
    "value": 9.6
   },
   "5242502": {
@@ -6347,7 +6347,7 @@
    ],
    "return_date": null,
    "slot": "UT",
-   "status": "OUT",
+   "status": "DAY_TO_DAY",
    "value": 34.3
   },
   "6450": {
@@ -6479,7 +6479,7 @@
    ],
    "return_date": null,
    "slot": "IR",
-   "status": "OUT",
+   "status": "DAY_TO_DAY",
    "value": 21.0
   },
   "6606": {

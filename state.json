@@ -34,7 +34,7 @@
   "5107199:20261024"
  ],
  "hot_status": "ok: 250 FAs, 327 games",
- "last_activity_ms": 1792899953066,
+ "last_activity_ms": 1792918450476,
  "last_digest": 1792915229.7714288,
  "last_error_alert": 1792787295.9267383,
  "last_hot_check": 1792917976.897183,
@@ -3588,7 +3588,7 @@
    "value": 31.3
   },
   "4432907": {
-   "fantasy_team": null,
+   "fantasy_team": "Coringas do Gansola",
    "id": "4432907",
    "mpg": 23.3,
    "name": "Justin Champagnie",
@@ -3598,7 +3598,7 @@
     "PF"
    ],
    "return_date": null,
-   "slot": "",
+   "slot": "UT",
    "status": "ACTIVE",
    "value": 28.7
   },
@@ -6095,7 +6095,7 @@
    "value": 6.3
   },
   "5214640": {
-   "fantasy_team": "Coringas do Gansola",
+   "fantasy_team": null,
    "id": "5214640",
    "mpg": 24.7,
    "name": "Kasparas Jakucionis",
@@ -6104,7 +6104,7 @@
     "PG"
    ],
    "return_date": null,
-   "slot": "UT",
+   "slot": "",
    "status": "ACTIVE",
    "value": 23.8
   },
@@ -6563,6 +6563,7 @@
   "inj:4433621:OUT",
   "inj:3975:OUT",
   "inj:6442:OUT",
-  "inj:4600663:OUT"
+  "inj:4600663:OUT",
+  "drop:5214640:1792918450476"
  ]
 }

@@ -434,7 +434,7 @@
    ],
    "return_date": null,
    "slot": "",
-   "status": "DAY_TO_DAY",
+   "status": "OUT",
    "value": 13.1
   },
   "2991350": {
@@ -1303,7 +1303,7 @@
   "3907498": {
    "fantasy_team": "Contagem Hunters",
    "id": "3907498",
-   "mpg": 17.3,
+   "mpg": 17.7,
    "name": "Matisse Thybulle",
    "nba_team": "LAL",
    "positions": [
@@ -1521,7 +1521,7 @@
   "3945274": {
    "fantasy_team": "Lakers x Bortolan 23",
    "id": "3945274",
-   "mpg": 24.0,
+   "mpg": 24.3,
    "name": "Luka Doncic",
    "nba_team": "LAL",
    "positions": [
@@ -1530,7 +1530,7 @@
    "return_date": null,
    "slot": "PG",
    "status": "ACTIVE",
-   "value": 35.2
+   "value": 34.7
   },
   "3948153": {
    "fantasy_team": null,
@@ -1871,7 +1871,7 @@
   "4066336": {
    "fantasy_team": "Fernando  Diniz",
    "id": "4066336",
-   "mpg": 25.0,
+   "mpg": 25.3,
    "name": "Lauri Markkanen",
    "nba_team": "UTA",
    "positions": [
@@ -1961,7 +1961,7 @@
   "4066457": {
    "fantasy_team": "King Coopa",
    "id": "4066457",
-   "mpg": 25.0,
+   "mpg": 25.3,
    "name": "Austin Reaves",
    "nba_team": "LAL",
    "positions": [
@@ -2221,7 +2221,7 @@
   "4277961": {
    "fantasy_team": "Bull Market",
    "id": "4277961",
-   "mpg": 22.0,
+   "mpg": 22.3,
    "name": "Jaren Jackson Jr.",
    "nba_team": "UTA",
    "positions": [
@@ -2231,7 +2231,7 @@
    "return_date": null,
    "slot": "PF",
    "status": "ACTIVE",
-   "value": 29.5
+   "value": 30.0
   },
   "4278039": {
    "fantasy_team": "Tropa do Nikola",
@@ -2438,7 +2438,7 @@
   "4278580": {
    "fantasy_team": "Coringas do Gansola",
    "id": "4278580",
-   "mpg": 23.0,
+   "mpg": 15.3,
    "name": "Sandro Mamukelashvili",
    "nba_team": "LAL",
    "positions": [
@@ -2448,7 +2448,7 @@
    "return_date": null,
    "slot": "C",
    "status": "ACTIVE",
-   "value": 19.0
+   "value": 12.7
   },
   "4278585": {
    "fantasy_team": null,
@@ -2804,7 +2804,7 @@
   "4397014": {
    "fantasy_team": "BL0CK BY ZION",
    "id": "4397014",
-   "mpg": 29.0,
+   "mpg": 19.3,
    "name": "Quentin Grimes",
    "nba_team": "LAL",
    "positions": [
@@ -2814,7 +2814,7 @@
    "return_date": null,
    "slot": "SF",
    "status": "ACTIVE",
-   "value": 29.9
+   "value": 22.3
   },
   "4397020": {
    "fantasy_team": null,
@@ -2849,7 +2849,7 @@
   "4397077": {
    "fantasy_team": "Polga Silva",
    "id": "4397077",
-   "mpg": 26.0,
+   "mpg": 17.3,
    "name": "Jaxson Hayes",
    "nba_team": "UTA",
    "positions": [
@@ -2858,7 +2858,7 @@
    "return_date": null,
    "slot": "C",
    "status": "ACTIVE",
-   "value": 34.1
+   "value": 24.1
   },
   "4397102": {
    "fantasy_team": null,
@@ -3664,7 +3664,7 @@
   "4433136": {
    "fantasy_team": "Tropa do Nikola",
    "id": "4433136",
-   "mpg": 23.3,
+   "mpg": 23.7,
    "name": "Walker Kessler",
    "nba_team": "LAL",
    "positions": [
@@ -3673,12 +3673,12 @@
    "return_date": null,
    "slot": "C",
    "status": "ACTIVE",
-   "value": 41.9
+   "value": 42.4
   },
   "4433137": {
    "fantasy_team": "Tropa do Nikola",
    "id": "4433137",
-   "mpg": 20.0,
+   "mpg": 20.3,
    "name": "Ziaire Williams",
    "nba_team": "LAL",
    "positions": [
@@ -3688,7 +3688,7 @@
    "return_date": null,
    "slot": "SG",
    "status": "ACTIVE",
-   "value": 18.4
+   "value": 19.7
   },
   "4433144": {
    "fantasy_team": null,
@@ -3853,7 +3853,7 @@
   "4433627": {
    "fantasy_team": "Lebron GOAT",
    "id": "4433627",
-   "mpg": 22.0,
+   "mpg": 22.3,
    "name": "Keyonte George",
    "nba_team": "UTA",
    "positions": [
@@ -3863,7 +3863,7 @@
    "return_date": null,
    "slot": "SG",
    "status": "ACTIVE",
-   "value": 28.9
+   "value": 29.9
   },
   "4433629": {
    "fantasy_team": null,
@@ -4891,7 +4891,7 @@
   "4873138": {
    "fantasy_team": "Bull Market",
    "id": "4873138",
-   "mpg": 17.0,
+   "mpg": 17.3,
    "name": "Ace Bailey",
    "nba_team": "UTA",
    "positions": [
@@ -4901,7 +4901,7 @@
    "return_date": null,
    "slot": "SF",
    "status": "ACTIVE",
-   "value": 22.4
+   "value": 23.9
   },
   "4873153": {
    "fantasy_team": null,
@@ -5225,7 +5225,7 @@
   "5041955": {
    "fantasy_team": "Coringas do Gansola",
    "id": "5041955",
-   "mpg": 22.0,
+   "mpg": 22.3,
    "name": "Darryn Peterson",
    "nba_team": "UTA",
    "positions": [
@@ -5235,7 +5235,7 @@
    "return_date": null,
    "slot": "SG",
    "status": "ACTIVE",
-   "value": 15.8
+   "value": 17.5
   },
   "5044385": {
    "fantasy_team": null,

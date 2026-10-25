@@ -34,7 +34,7 @@
   "5081727:20261024"
  ],
  "hot_status": "ok: 250 FAs, 329 games",
- "last_activity_ms": 1792940292820,
+ "last_activity_ms": 1792940400057,
  "last_digest": 1792937296.5133069,
  "last_error_alert": 1792787295.9267383,
  "last_hot_check": 1792940055.6740415,
@@ -2553,7 +2553,7 @@
    "value": 35.5
   },
   "4395626": {
-   "fantasy_team": "Bull Market",
+   "fantasy_team": null,
    "id": "4395626",
    "mpg": 18.3,
    "name": "Tre Jones",
@@ -2562,7 +2562,7 @@
     "PG"
    ],
    "return_date": null,
-   "slot": "BE",
+   "slot": "",
    "status": "ACTIVE",
    "value": 24.7
   },
@@ -5007,7 +5007,7 @@
    "value": 0.0
   },
   "4900671": {
-   "fantasy_team": null,
+   "fantasy_team": "Bull Market",
    "id": "4900671",
    "mpg": 23.0,
    "name": "Ajay Mitchell",
@@ -5017,7 +5017,7 @@
     "SG"
    ],
    "return_date": null,
-   "slot": "",
+   "slot": "UT",
    "status": "ACTIVE",
    "value": 22.8
   },
@@ -6492,7 +6492,7 @@
     "PG"
    ],
    "return_date": null,
-   "slot": "UT",
+   "slot": "BE",
    "status": "ACTIVE",
    "value": 39.7
   },
@@ -6566,6 +6566,7 @@
   "inj:4600663:OUT",
   "drop:5214640:1792918450476",
   "diag:6",
-  "planday:6"
+  "planday:6",
+  "drop:4395626:1792940400057"
  ]
 }

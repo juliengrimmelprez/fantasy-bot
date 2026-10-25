@@ -26,11 +26,11 @@
   "3936099:20261024",
   "2581018:20261024"
  ],
- "hot_status": "ok: 249 FAs, 322 games",
- "last_activity_ms": 1792898650801,
+ "hot_status": "ok: 245 FAs, 314 games",
+ "last_activity_ms": 1792898671344,
  "last_digest": 1792896627.7449641,
  "last_error_alert": 1792787295.9267383,
- "last_hot_check": 1792897822.575763,
+ "last_hot_check": 1792898778.8487284,
  "last_run": "2026-10-19T22:05:14+00:00",
  "matchup_periods": {
   "1": [
@@ -578,7 +578,7 @@
   "3064290": {
    "fantasy_team": "CCCP  Баскетбол",
    "id": "3064290",
-   "mpg": 29.0,
+   "mpg": 29.5,
    "name": "Aaron Gordon",
    "nba_team": "DEN",
    "positions": [
@@ -722,7 +722,7 @@
   "3112335": {
    "fantasy_team": "Tropa do Nikola",
    "id": "3112335",
-   "mpg": 35.5,
+   "mpg": 36.0,
    "name": "Nikola Jokic",
    "nba_team": "DEN",
    "positions": [
@@ -731,7 +731,7 @@
    "return_date": null,
    "slot": "C",
    "status": "ACTIVE",
-   "value": 45.3
+   "value": 46.4
   },
   "3133602": {
    "fantasy_team": null,
@@ -1051,7 +1051,7 @@
   "3155526": {
    "fantasy_team": null,
    "id": "3155526",
-   "mpg": 21.5,
+   "mpg": 22.0,
    "name": "Dillon Brooks",
    "nba_team": "PHO",
    "positions": [
@@ -1252,7 +1252,7 @@
   "3907497": {
    "fantasy_team": "Lakers x Bortolan 23",
    "id": "3907497",
-   "mpg": 30.0,
+   "mpg": 30.3,
    "name": "Dejounte Murray",
    "nba_team": "NOP",
    "positions": [
@@ -1456,7 +1456,7 @@
   "3936299": {
    "fantasy_team": "Lucky",
    "id": "3936299",
-   "mpg": 36.0,
+   "mpg": 36.5,
    "name": "Jamal Murray",
    "nba_team": "DEN",
    "positions": [
@@ -1465,7 +1465,7 @@
    "return_date": null,
    "slot": "PG",
    "status": "ACTIVE",
-   "value": 35.4
+   "value": 36.1
   },
   "3945274": {
    "fantasy_team": "Lakers x Bortolan 23",
@@ -1993,21 +1993,6 @@
    "slot": "BE",
    "status": "ACTIVE",
    "value": 48.6
-  },
-  "4277811": {
-   "fantasy_team": null,
-   "id": "4277811",
-   "mpg": 16.0,
-   "name": "Collin Sexton",
-   "nba_team": "LAL",
-   "positions": [
-    "PG",
-    "SG"
-   ],
-   "return_date": null,
-   "slot": "",
-   "status": "ACTIVE",
-   "value": 21.4
   },
   "4277813": {
    "fantasy_team": null,
@@ -2914,7 +2899,7 @@
   "4397688": {
    "fantasy_team": "Lebron GOAT",
    "id": "4397688",
-   "mpg": 30.7,
+   "mpg": 31.0,
    "name": "Trey Murphy III",
    "nba_team": "NOP",
    "positions": [
@@ -2938,7 +2923,7 @@
    "return_date": null,
    "slot": "",
    "status": "ACTIVE",
-   "value": 13.4
+   "value": 10.4
   },
   "4398390": {
    "fantasy_team": null,
@@ -4415,7 +4400,7 @@
   "4698719": {
    "fantasy_team": null,
    "id": "4698719",
-   "mpg": 19.0,
+   "mpg": 19.5,
    "name": "Trevon Brazile",
    "nba_team": "DEN",
    "positions": [
@@ -6109,6 +6094,20 @@
    "slot": "",
    "status": "OUT",
    "value": 9.6
+  },
+  "5242502": {
+   "fantasy_team": null,
+   "id": "5242502",
+   "mpg": null,
+   "name": "Ben Saraf",
+   "nba_team": "BKN",
+   "positions": [
+    "SG"
+   ],
+   "return_date": null,
+   "slot": "",
+   "status": "ACTIVE",
+   "value": 0.0
   },
   "5254165": {
    "fantasy_team": "Lakers x Bortolan 23",

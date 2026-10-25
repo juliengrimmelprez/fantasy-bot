@@ -4231,20 +4231,6 @@
    "status": "ACTIVE",
    "value": 39.7
   },
-  "4683024": {
-   "fantasy_team": null,
-   "id": "4683024",
-   "mpg": null,
-   "name": "Killian Hayes",
-   "nba_team": "FA",
-   "positions": [
-    "PG"
-   ],
-   "return_date": null,
-   "slot": "",
-   "status": "ACTIVE",
-   "value": 0.0
-  },
   "4683634": {
    "fantasy_team": null,
    "id": "4683634",
@@ -5706,6 +5692,20 @@
    "slot": "",
    "status": "ACTIVE",
    "value": 11.3
+  },
+  "5107968": {
+   "fantasy_team": null,
+   "id": "5107968",
+   "mpg": 2.0,
+   "name": "Ja'Kobi Gillespie",
+   "nba_team": "SAS",
+   "positions": [
+    "PG"
+   ],
+   "return_date": null,
+   "slot": "",
+   "status": "ACTIVE",
+   "value": 3.0
   },
   "5108024": {
    "fantasy_team": null,

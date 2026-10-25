@@ -33,11 +33,11 @@
   "4601025:20261024",
   "3133602:20261022"
  ],
- "hot_status": "ok: 250 FAs, 332 games",
+ "hot_status": "ok: 250 FAs, 334 games",
  "last_activity_ms": 1792945979445,
  "last_digest": 1792963221.4665012,
  "last_error_alert": 1792787295.9267383,
- "last_hot_check": 1792964060.965144,
+ "last_hot_check": 1792965022.9581716,
  "last_run": "2026-10-19T22:05:14+00:00",
  "matchup_periods": {
   "1": [
@@ -758,7 +758,7 @@
   "3133602": {
    "fantasy_team": null,
    "id": "3133602",
-   "mpg": 14.7,
+   "mpg": 15.0,
    "name": "Svi Mykhailiuk",
    "nba_team": "UTA",
    "positions": [
@@ -1871,7 +1871,7 @@
   "4066336": {
    "fantasy_team": "Fernando  Diniz",
    "id": "4066336",
-   "mpg": 26.7,
+   "mpg": 27.0,
    "name": "Lauri Markkanen",
    "nba_team": "UTA",
    "positions": [
@@ -1881,7 +1881,7 @@
    "return_date": null,
    "slot": "PF",
    "status": "ACTIVE",
-   "value": 29.2
+   "value": 28.9
   },
   "4066354": {
    "fantasy_team": "Coringas do Gansola",
@@ -1961,7 +1961,7 @@
   "4066457": {
    "fantasy_team": "King Coopa",
    "id": "4066457",
-   "mpg": 26.3,
+   "mpg": 26.7,
    "name": "Austin Reaves",
    "nba_team": "LAL",
    "positions": [
@@ -1971,7 +1971,7 @@
    "return_date": null,
    "slot": "PG",
    "status": "ACTIVE",
-   "value": 36.3
+   "value": 37.6
   },
   "4066648": {
    "fantasy_team": "Lakers x Bortolan 23",
@@ -2062,7 +2062,7 @@
   "4277811": {
    "fantasy_team": "Bull Market",
    "id": "4277811",
-   "mpg": 10.5,
+   "mpg": 11.0,
    "name": "Collin Sexton",
    "nba_team": "LAL",
    "positions": [
@@ -2804,7 +2804,7 @@
   "4397014": {
    "fantasy_team": "BL0CK BY ZION",
    "id": "4397014",
-   "mpg": 21.7,
+   "mpg": 22.0,
    "name": "Quentin Grimes",
    "nba_team": "LAL",
    "positions": [
@@ -2849,7 +2849,7 @@
   "4397077": {
    "fantasy_team": "Polga Silva",
    "id": "4397077",
-   "mpg": 18.7,
+   "mpg": 19.0,
    "name": "Jaxson Hayes",
    "nba_team": "UTA",
    "positions": [
@@ -2858,7 +2858,7 @@
    "return_date": null,
    "slot": "C",
    "status": "ACTIVE",
-   "value": 24.6
+   "value": 25.4
   },
   "4397102": {
    "fantasy_team": null,
@@ -3664,7 +3664,7 @@
   "4433136": {
    "fantasy_team": "Tropa do Nikola",
    "id": "4433136",
-   "mpg": 24.3,
+   "mpg": 24.7,
    "name": "Walker Kessler",
    "nba_team": "LAL",
    "positions": [
@@ -4000,7 +4000,7 @@
   "4592691": {
    "fantasy_team": "CCCP  Баскетбол",
    "id": "4592691",
-   "mpg": 9.5,
+   "mpg": 10.0,
    "name": "Jake LaRavia",
    "nba_team": "LAL",
    "positions": [
@@ -4350,7 +4350,7 @@
   "4683766": {
    "fantasy_team": "Bull Market",
    "id": "4683766",
-   "mpg": 13.0,
+   "mpg": 13.3,
    "name": "Isaiah Collier",
    "nba_team": "UTA",
    "positions": [
@@ -4359,7 +4359,7 @@
    "return_date": null,
    "slot": "UT",
    "status": "ACTIVE",
-   "value": 16.1
+   "value": 16.6
   },
   "4683771": {
    "fantasy_team": null,
@@ -5580,7 +5580,7 @@
   "5105839": {
    "fantasy_team": null,
    "id": "5105839",
-   "mpg": 11.7,
+   "mpg": 12.0,
    "name": "Brice Sensabaugh",
    "nba_team": "UTA",
    "positions": [
@@ -5590,7 +5590,7 @@
    "return_date": null,
    "slot": "",
    "status": "ACTIVE",
-   "value": 12.4
+   "value": 12.7
   },
   "5105854": {
    "fantasy_team": null,

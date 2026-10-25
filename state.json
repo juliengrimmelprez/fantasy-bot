@@ -27,7 +27,7 @@
   "2581018:20261024"
  ],
  "hot_status": "ok: 249 FAs, 322 games",
- "last_activity_ms": 1792897267099,
+ "last_activity_ms": 1792898115774,
  "last_digest": 1792896627.7449641,
  "last_error_alert": 1792787295.9267383,
  "last_hot_check": 1792897822.575763,
@@ -737,7 +737,7 @@
   "3112335": {
    "fantasy_team": "Tropa do Nikola",
    "id": "3112335",
-   "mpg": 33.5,
+   "mpg": 34.0,
    "name": "Nikola Jokic",
    "nba_team": "DEN",
    "positions": [
@@ -746,7 +746,7 @@
    "return_date": null,
    "slot": "C",
    "status": "ACTIVE",
-   "value": 41.9
+   "value": 43.8
   },
   "3133602": {
    "fantasy_team": null,
@@ -908,7 +908,7 @@
   "3136193": {
    "fantasy_team": "Caxias French Fries",
    "id": "3136193",
-   "mpg": 23.0,
+   "mpg": 23.5,
    "name": "Devin Booker",
    "nba_team": "PHO",
    "positions": [
@@ -1471,7 +1471,7 @@
   "3936299": {
    "fantasy_team": "Lucky",
    "id": "3936299",
-   "mpg": 34.0,
+   "mpg": 34.5,
    "name": "Jamal Murray",
    "nba_team": "DEN",
    "positions": [
@@ -1866,7 +1866,7 @@
   "4066383": {
    "fantasy_team": "Caxias French Fries",
    "id": "4066383",
-   "mpg": 23.5,
+   "mpg": 24.0,
    "name": "Miles Bridges",
    "nba_team": "PHO",
    "positions": [
@@ -1876,7 +1876,7 @@
    "return_date": null,
    "slot": "UT",
    "status": "ACTIVE",
-   "value": 22.4
+   "value": 22.0
   },
   "4066421": {
    "fantasy_team": null,
@@ -2403,7 +2403,7 @@
   "4278585": {
    "fantasy_team": null,
    "id": "4278585",
-   "mpg": 17.5,
+   "mpg": 18.0,
    "name": "Collin Gillespie",
    "nba_team": "PHO",
    "positions": [
@@ -2412,7 +2412,7 @@
    "return_date": null,
    "slot": "",
    "status": "ACTIVE",
-   "value": 12.0
+   "value": 12.4
   },
   "4278594": {
    "fantasy_team": "Lebron GOAT",
@@ -2533,7 +2533,7 @@
   "4395628": {
    "fantasy_team": "BL0CK BY ZION",
    "id": "4395628",
-   "mpg": 28.7,
+   "mpg": 29.0,
    "name": "Zion Williamson",
    "nba_team": "NOP",
    "positions": [
@@ -2543,7 +2543,7 @@
    "return_date": null,
    "slot": "PF",
    "status": "ACTIVE",
-   "value": 39.2
+   "value": 38.0
   },
   "4395630": {
    "fantasy_team": "Contagem Hunters",
@@ -2944,7 +2944,7 @@
   "4397688": {
    "fantasy_team": "Lebron GOAT",
    "id": "4397688",
-   "mpg": 29.3,
+   "mpg": 29.7,
    "name": "Trey Murphy III",
    "nba_team": "NOP",
    "positions": [
@@ -2959,7 +2959,7 @@
   "4397886": {
    "fantasy_team": null,
    "id": "4397886",
-   "mpg": 8.0,
+   "mpg": 9.0,
    "name": "Charles Bassey",
    "nba_team": "GSW",
    "positions": [
@@ -2968,7 +2968,7 @@
    "return_date": null,
    "slot": "",
    "status": "ACTIVE",
-   "value": 10.4
+   "value": 13.4
   },
   "4398390": {
    "fantasy_team": null,
@@ -3128,7 +3128,7 @@
    "return_date": null,
    "slot": "UT",
    "status": "ACTIVE",
-   "value": 20.4
+   "value": 21.9
   },
   "4431785": {
    "fantasy_team": "Lakers x Bortolan 23",
@@ -4529,21 +4529,6 @@
    "status": "ACTIVE",
    "value": 17.0
   },
-  "4702382": {
-   "fantasy_team": null,
-   "id": "4702382",
-   "mpg": 28.5,
-   "name": "Tristan da Silva",
-   "nba_team": "ORL",
-   "positions": [
-    "SF",
-    "PF"
-   ],
-   "return_date": null,
-   "slot": "",
-   "status": "ACTIVE",
-   "value": 18.9
-  },
   "4702384": {
    "fantasy_team": null,
    "id": "4702384",
@@ -4928,7 +4913,7 @@
   "4897262": {
    "fantasy_team": null,
    "id": "4897262",
-   "mpg": 11.7,
+   "mpg": 12.0,
    "name": "Will Richard",
    "nba_team": "GSW",
    "positions": [
@@ -4938,7 +4923,7 @@
    "return_date": null,
    "slot": "",
    "status": "ACTIVE",
-   "value": 8.3
+   "value": 9.7
   },
   "4897943": {
    "fantasy_team": null,
@@ -5774,7 +5759,7 @@
   "5144091": {
    "fantasy_team": "King Coopa",
    "id": "5144091",
-   "mpg": 21.3,
+   "mpg": 21.7,
    "name": "Jeremiah Fears",
    "nba_team": "NOP",
    "positions": [
@@ -5784,7 +5769,7 @@
    "return_date": null,
    "slot": "UT",
    "status": "ACTIVE",
-   "value": 12.8
+   "value": 13.6
   },
   "5144126": {
    "fantasy_team": null,
@@ -5975,7 +5960,7 @@
   "5175737": {
    "fantasy_team": "Fernando  Diniz",
    "id": "5175737",
-   "mpg": 27.7,
+   "mpg": 28.0,
    "name": "Yaxel Lendeborg",
    "nba_team": "GSW",
    "positions": [

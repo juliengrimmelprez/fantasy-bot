@@ -1170,7 +1170,7 @@
    ],
    "return_date": null,
    "slot": "",
-   "status": "DAY_TO_DAY",
+   "status": "ACTIVE",
    "value": 14.9
   },
   "3442": {
@@ -1521,7 +1521,7 @@
   "3945274": {
    "fantasy_team": "Lakers x Bortolan 23",
    "id": "3945274",
-   "mpg": 22.7,
+   "mpg": 23.0,
    "name": "Luka Doncic",
    "nba_team": "LAL",
    "positions": [
@@ -1881,7 +1881,7 @@
    "return_date": null,
    "slot": "PF",
    "status": "ACTIVE",
-   "value": 24.4
+   "value": 25.2
   },
   "4066354": {
    "fantasy_team": "Coringas do Gansola",
@@ -1961,7 +1961,7 @@
   "4066457": {
    "fantasy_team": "King Coopa",
    "id": "4066457",
-   "mpg": 23.7,
+   "mpg": 24.0,
    "name": "Austin Reaves",
    "nba_team": "LAL",
    "positions": [
@@ -3003,7 +3003,7 @@
    ],
    "return_date": null,
    "slot": "",
-   "status": "ACTIVE",
+   "status": "DAY_TO_DAY",
    "value": 23.1
   },
   "4398207": {
@@ -3664,7 +3664,7 @@
   "4433136": {
    "fantasy_team": "Tropa do Nikola",
    "id": "4433136",
-   "mpg": 22.0,
+   "mpg": 22.3,
    "name": "Walker Kessler",
    "nba_team": "LAL",
    "positions": [
@@ -3853,7 +3853,7 @@
   "4433627": {
    "fantasy_team": "Lebron GOAT",
    "id": "4433627",
-   "mpg": 20.7,
+   "mpg": 21.0,
    "name": "Keyonte George",
    "nba_team": "UTA",
    "positions": [
@@ -3863,7 +3863,7 @@
    "return_date": null,
    "slot": "SG",
    "status": "ACTIVE",
-   "value": 27.4
+   "value": 27.9
   },
   "4433629": {
    "fantasy_team": null,
@@ -4891,7 +4891,7 @@
   "4873138": {
    "fantasy_team": "Bull Market",
    "id": "4873138",
-   "mpg": 15.7,
+   "mpg": 16.0,
    "name": "Ace Bailey",
    "nba_team": "UTA",
    "positions": [
@@ -5225,7 +5225,7 @@
   "5041955": {
    "fantasy_team": "Coringas do Gansola",
    "id": "5041955",
-   "mpg": 20.7,
+   "mpg": 21.0,
    "name": "Darryn Peterson",
    "nba_team": "UTA",
    "positions": [
@@ -6479,7 +6479,7 @@
    ],
    "return_date": null,
    "slot": "IR",
-   "status": "DAY_TO_DAY",
+   "status": "ACTIVE",
    "value": 21.0
   },
   "6606": {

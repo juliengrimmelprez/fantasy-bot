@@ -34,7 +34,7 @@
   "5254165:20261022"
  ],
  "hot_status": "ok: 250 FAs, 331 games",
- "last_activity_ms": 1792943929866,
+ "last_activity_ms": 1792945979445,
  "last_digest": 1792944621.0509605,
  "last_error_alert": 1792787295.9267383,
  "last_hot_check": 1792945824.4610286,
@@ -1154,7 +1154,7 @@
     "PF"
    ],
    "return_date": null,
-   "slot": "PF",
+   "slot": "UT",
    "status": "ACTIVE",
    "value": 39.2
   },
@@ -1310,7 +1310,7 @@
     "SF"
    ],
    "return_date": null,
-   "slot": "UT",
+   "slot": "SF",
    "status": "ACTIVE",
    "value": 22.8
   },
@@ -2364,7 +2364,7 @@
    "value": 46.9
   },
   "4278129": {
-   "fantasy_team": "Contagem Hunters",
+   "fantasy_team": null,
    "id": "4278129",
    "mpg": 15.0,
    "name": "Deandre Ayton",
@@ -2373,7 +2373,7 @@
     "C"
    ],
    "return_date": null,
-   "slot": "BE",
+   "slot": "",
    "status": "ACTIVE",
    "value": 19.8
   },
@@ -2709,7 +2709,7 @@
     "SG"
    ],
    "return_date": null,
-   "slot": "SG",
+   "slot": "UT",
    "status": "ACTIVE",
    "value": 37.5
   },
@@ -3573,7 +3573,7 @@
    "value": 12.9
   },
   "4432847": {
-   "fantasy_team": null,
+   "fantasy_team": "Contagem Hunters",
    "id": "4432847",
    "mpg": 21.0,
    "name": "Terrence Shannon Jr.",
@@ -3582,7 +3582,7 @@
     "SG"
    ],
    "return_date": null,
-   "slot": "",
+   "slot": "SG",
    "status": "ACTIVE",
    "value": 15.0
   },
@@ -3597,7 +3597,7 @@
     "SF"
    ],
    "return_date": null,
-   "slot": "UT",
+   "slot": "BE",
    "status": "ACTIVE",
    "value": 31.3
   },
@@ -4591,7 +4591,7 @@
     "PF"
    ],
    "return_date": null,
-   "slot": "SF",
+   "slot": "PF",
    "status": "ACTIVE",
    "value": 18.9
   },

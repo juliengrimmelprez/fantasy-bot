@@ -30,7 +30,7 @@
  "last_activity_ms": 1792898671344,
  "last_digest": 1792896627.7449641,
  "last_error_alert": 1792787295.9267383,
- "last_hot_check": 1792898778.8487284,
+ "last_hot_check": 1792899741.7471843,
  "last_run": "2026-10-19T22:05:14+00:00",
  "matchup_periods": {
   "1": [
@@ -722,7 +722,7 @@
   "3112335": {
    "fantasy_team": "Tropa do Nikola",
    "id": "3112335",
-   "mpg": 37.5,
+   "mpg": 38.0,
    "name": "Nikola Jokic",
    "nba_team": "DEN",
    "positions": [
@@ -731,7 +731,7 @@
    "return_date": null,
    "slot": "C",
    "status": "ACTIVE",
-   "value": 50.2
+   "value": 51.7
   },
   "3133602": {
    "fantasy_team": null,
@@ -2782,7 +2782,7 @@
   "4397136": {
    "fantasy_team": "CCCP  Баскетбол",
    "id": "4397136",
-   "mpg": 22.0,
+   "mpg": 23.0,
    "name": "Saddiq Bey",
    "nba_team": "NOP",
    "positions": [
@@ -2792,7 +2792,7 @@
    "return_date": null,
    "slot": "SF",
    "status": "ACTIVE",
-   "value": 23.5
+   "value": 24.2
   },
   "4397140": {
    "fantasy_team": null,
@@ -2899,7 +2899,7 @@
   "4397688": {
    "fantasy_team": "Lebron GOAT",
    "id": "4397688",
-   "mpg": 31.7,
+   "mpg": 32.3,
    "name": "Trey Murphy III",
    "nba_team": "NOP",
    "positions": [
@@ -2909,7 +2909,7 @@
    "return_date": null,
    "slot": "SF",
    "status": "ACTIVE",
-   "value": 28.7
+   "value": 28.9
   },
   "4397886": {
    "fantasy_team": null,
@@ -4400,7 +4400,7 @@
   "4698719": {
    "fantasy_team": null,
    "id": "4698719",
-   "mpg": 21.0,
+   "mpg": 21.5,
    "name": "Trevon Brazile",
    "nba_team": "DEN",
    "positions": [

@@ -34,7 +34,7 @@
   "2581018:20261024"
  ],
  "hot_status": "ok: 250 FAs, 330 games",
- "last_activity_ms": 1792940400057,
+ "last_activity_ms": 1792943929866,
  "last_digest": 1792940898.8551426,
  "last_error_alert": 1792787295.9267383,
  "last_hot_check": 1792943898.767409,
@@ -799,7 +799,7 @@
    "value": 8.8
   },
   "3133628": {
-   "fantasy_team": "Caxias French Fries",
+   "fantasy_team": null,
    "id": "3133628",
    "mpg": 27.3,
    "name": "Myles Turner",
@@ -808,7 +808,7 @@
     "C"
    ],
    "return_date": null,
-   "slot": "BE",
+   "slot": "",
    "status": "ACTIVE",
    "value": 20.8
   },
@@ -1910,7 +1910,7 @@
     "PF"
    ],
    "return_date": null,
-   "slot": "UT",
+   "slot": "BE",
    "status": "ACTIVE",
    "value": 26.9
   },
@@ -3182,7 +3182,7 @@
    "value": 23.0
   },
   "4431823": {
-   "fantasy_team": null,
+   "fantasy_team": "Caxias French Fries",
    "id": "4431823",
    "mpg": 22.0,
    "name": "Miles McBride",
@@ -3192,7 +3192,7 @@
     "SG"
    ],
    "return_date": null,
-   "slot": "",
+   "slot": "UT",
    "status": "ACTIVE",
    "value": 21.1
   },

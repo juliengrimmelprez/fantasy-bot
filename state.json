@@ -34,7 +34,7 @@
   "3936099:20261024"
  ],
  "hot_status": "ok: 250 FAs, 327 games",
- "last_activity_ms": 1792918450476,
+ "last_activity_ms": 1792935620512,
  "last_digest": 1792933582.8459024,
  "last_error_alert": 1792787295.9267383,
  "last_hot_check": 1792935256.9530272,
@@ -99,7 +99,7 @@
   ]
  },
  "matchup_periods_day": "2026-10-25",
- "plan_status": "ok: day 6, matchup 1 [1]..[6], adds left 8, opp Fernando  Diniz",
+ "plan_status": "ok: day 6, matchup 1 [1]..[6], adds left 7, opp Fernando  Diniz",
  "players": {
   "1966": {
    "fantasy_team": "Lucky",
@@ -4170,7 +4170,7 @@
    ],
    "return_date": null,
    "slot": "",
-   "status": "OUT",
+   "status": "DAY_TO_DAY",
    "value": 18.3
   },
   "4601025": {
@@ -4480,7 +4480,7 @@
    "value": 0.0
   },
   "4698719": {
-   "fantasy_team": null,
+   "fantasy_team": "King Coopa",
    "id": "4698719",
    "mpg": 23.0,
    "name": "Trevon Brazile",
@@ -4490,7 +4490,7 @@
     "PF"
    ],
    "return_date": null,
-   "slot": "",
+   "slot": "BE",
    "status": "ACTIVE",
    "value": 23.0
   },
@@ -5417,7 +5417,7 @@
    ],
    "return_date": null,
    "slot": "UT",
-   "status": "DAY_TO_DAY",
+   "status": "OUT",
    "value": 18.0
   },
   "5101845": {
@@ -5809,7 +5809,7 @@
    "value": 32.9
   },
   "5144091": {
-   "fantasy_team": "King Coopa",
+   "fantasy_team": null,
    "id": "5144091",
    "mpg": 22.7,
    "name": "Jeremiah Fears",
@@ -5819,7 +5819,7 @@
     "SG"
    ],
    "return_date": null,
-   "slot": "BE",
+   "slot": "",
    "status": "ACTIVE",
    "value": 13.3
   },

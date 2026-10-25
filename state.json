@@ -27,7 +27,7 @@
   "2581018:20261024"
  ],
  "hot_status": "ok: 249 FAs, 322 games",
- "last_activity_ms": 1792898460360,
+ "last_activity_ms": 1792898650801,
  "last_digest": 1792896627.7449641,
  "last_error_alert": 1792787295.9267383,
  "last_hot_check": 1792897822.575763,
@@ -225,21 +225,6 @@
    "slot": "",
    "status": "ACTIVE",
    "value": 0.0
-  },
-  "2581018": {
-   "fantasy_team": null,
-   "id": "2581018",
-   "mpg": 26.3,
-   "name": "Kentavious Caldwell-Pope",
-   "nba_team": "PHL",
-   "positions": [
-    "SG",
-    "SF"
-   ],
-   "return_date": null,
-   "slot": "",
-   "status": "ACTIVE",
-   "value": 20.9
   },
   "2583632": {
    "fantasy_team": null,
@@ -593,7 +578,7 @@
   "3064290": {
    "fantasy_team": "CCCP  Баскетбол",
    "id": "3064290",
-   "mpg": 28.5,
+   "mpg": 29.0,
    "name": "Aaron Gordon",
    "nba_team": "DEN",
    "positions": [
@@ -602,7 +587,7 @@
    "return_date": null,
    "slot": "PF",
    "status": "ACTIVE",
-   "value": 29.4
+   "value": 29.0
   },
   "3064440": {
    "fantasy_team": "BL0CK BY ZION",
@@ -737,7 +722,7 @@
   "3112335": {
    "fantasy_team": "Tropa do Nikola",
    "id": "3112335",
-   "mpg": 35.0,
+   "mpg": 35.5,
    "name": "Nikola Jokic",
    "nba_team": "DEN",
    "positions": [
@@ -2518,7 +2503,7 @@
   "4395628": {
    "fantasy_team": "BL0CK BY ZION",
    "id": "4395628",
-   "mpg": 29.7,
+   "mpg": 30.0,
    "name": "Zion Williamson",
    "nba_team": "NOP",
    "positions": [
@@ -2528,7 +2513,7 @@
    "return_date": null,
    "slot": "PF",
    "status": "ACTIVE",
-   "value": 38.0
+   "value": 38.5
   },
   "4395630": {
    "fantasy_team": "Contagem Hunters",
@@ -3103,7 +3088,7 @@
   "4431767": {
    "fantasy_team": "CCCP  Баскетбол",
    "id": "4431767",
-   "mpg": 32.5,
+   "mpg": 33.0,
    "name": "Christian Braun",
    "nba_team": "DEN",
    "positions": [
@@ -4164,6 +4149,20 @@
    "slot": "BE",
    "status": "ACTIVE",
    "value": 39.3
+  },
+  "4683024": {
+   "fantasy_team": null,
+   "id": "4683024",
+   "mpg": null,
+   "name": "Killian Hayes",
+   "nba_team": "FA",
+   "positions": [
+    "PG"
+   ],
+   "return_date": null,
+   "slot": "",
+   "status": "ACTIVE",
+   "value": 0.0
   },
   "4683634": {
    "fantasy_team": null,
@@ -5730,7 +5729,7 @@
   "5144091": {
    "fantasy_team": "King Coopa",
    "id": "5144091",
-   "mpg": 22.3,
+   "mpg": 22.7,
    "name": "Jeremiah Fears",
    "nba_team": "NOP",
    "positions": [

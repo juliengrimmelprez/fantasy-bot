@@ -33,11 +33,11 @@
   "4278585:20261025",
   "4432107:20261022"
  ],
- "hot_status": "ok: 250 FAs, 342 games",
+ "hot_status": "ok: 250 FAs, 343 games",
  "last_activity_ms": 1792945979445,
  "last_digest": 1792966824.666615,
  "last_error_alert": 1792787295.9267383,
- "last_hot_check": 1792967897.0294738,
+ "last_hot_check": 1792968856.9937077,
  "last_run": "2026-10-19T22:05:14+00:00",
  "matchup_periods": {
   "1": [
@@ -2849,7 +2849,7 @@
   "4397077": {
    "fantasy_team": "Polga Silva",
    "id": "4397077",
-   "mpg": 21.0,
+   "mpg": 21.3,
    "name": "Jaxson Hayes",
    "nba_team": "UTA",
    "positions": [
@@ -4000,7 +4000,7 @@
   "4592691": {
    "fantasy_team": "CCCP  Баскетбол",
    "id": "4592691",
-   "mpg": 14.0,
+   "mpg": 14.5,
    "name": "Jake LaRavia",
    "nba_team": "LAL",
    "positions": [
@@ -5580,7 +5580,7 @@
   "5105839": {
    "fantasy_team": null,
    "id": "5105839",
-   "mpg": 13.3,
+   "mpg": 13.7,
    "name": "Brice Sensabaugh",
    "nba_team": "UTA",
    "positions": [
@@ -5762,7 +5762,7 @@
    ],
    "return_date": null,
    "slot": "UT",
-   "status": "DAY_TO_DAY",
+   "status": "OUT",
    "value": 33.2
   },
   "5142620": {
@@ -6568,6 +6568,7 @@
   "diag:6",
   "planday:6",
   "drop:4395626:1792940400057",
-  "inj:3059318:OUT"
+  "inj:3059318:OUT",
+  "inj:5124612:OUT"
  ]
 }

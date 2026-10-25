@@ -113,7 +113,7 @@
    ],
    "return_date": null,
    "slot": "SF",
-   "status": "DAY_TO_DAY",
+   "status": "ACTIVE",
    "value": 39.5
   },
   "2326307": {
@@ -564,7 +564,7 @@
    ],
    "return_date": null,
    "slot": "UT",
-   "status": "DAY_TO_DAY",
+   "status": "OUT",
    "value": 41.6
   },
   "3059319": {
@@ -6567,6 +6567,7 @@
   "drop:5214640:1792918450476",
   "diag:6",
   "planday:6",
-  "drop:4395626:1792940400057"
+  "drop:4395626:1792940400057",
+  "inj:3059318:OUT"
  ]
 }

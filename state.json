@@ -33,11 +33,11 @@
   "5104155:20261021",
   "3936099:20261024"
  ],
- "hot_status": "ok: 250 FAs, 327 games",
- "last_activity_ms": 1792935620512,
+ "hot_status": "ok: 250 FAs, 329 games",
+ "last_activity_ms": 1792936100152,
  "last_digest": 1792933582.8459024,
  "last_error_alert": 1792787295.9267383,
- "last_hot_check": 1792935256.9530272,
+ "last_hot_check": 1792936221.823032,
  "last_run": "2026-10-19T22:05:14+00:00",
  "matchup_periods": {
   "1": [
@@ -808,7 +808,7 @@
     "C"
    ],
    "return_date": null,
-   "slot": "UT",
+   "slot": "BE",
    "status": "ACTIVE",
    "value": 20.8
   },
@@ -1014,7 +1014,7 @@
    "value": 14.8
   },
   "3146557": {
-   "fantasy_team": "Caxias French Fries",
+   "fantasy_team": null,
    "id": "3146557",
    "mpg": 18.7,
    "name": "Jock Landale",
@@ -1023,7 +1023,7 @@
     "C"
    ],
    "return_date": null,
-   "slot": "BE",
+   "slot": "",
    "status": "ACTIVE",
    "value": 16.7
   },
@@ -4393,7 +4393,7 @@
    "value": 18.2
   },
   "4684272": {
-   "fantasy_team": null,
+   "fantasy_team": "Caxias French Fries",
    "id": "4684272",
    "mpg": 23.5,
    "name": "Ja'Kobe Walter",
@@ -4402,7 +4402,7 @@
     "SG"
    ],
    "return_date": null,
-   "slot": "",
+   "slot": "UT",
    "status": "ACTIVE",
    "value": 25.0
   },

@@ -34,7 +34,7 @@
   "5081727:20261024"
  ],
  "hot_status": "ok: 250 FAs, 329 games",
- "last_activity_ms": 1792936100152,
+ "last_activity_ms": 1792940292820,
  "last_digest": 1792937296.5133069,
  "last_error_alert": 1792787295.9267383,
  "last_hot_check": 1792940055.6740415,
@@ -1287,7 +1287,7 @@
    "value": 45.0
   },
   "3907498": {
-   "fantasy_team": null,
+   "fantasy_team": "Contagem Hunters",
    "id": "3907498",
    "mpg": 23.5,
    "name": "Matisse Thybulle",
@@ -1296,7 +1296,7 @@
     "SF"
    ],
    "return_date": null,
-   "slot": "",
+   "slot": "UT",
    "status": "ACTIVE",
    "value": 22.8
   },
@@ -5407,7 +5407,7 @@
    "value": 11.0
   },
   "5101761": {
-   "fantasy_team": "Contagem Hunters",
+   "fantasy_team": null,
    "id": "5101761",
    "mpg": 20.0,
    "name": "Mikel Brown Jr.",
@@ -5416,7 +5416,7 @@
     "PG"
    ],
    "return_date": null,
-   "slot": "UT",
+   "slot": "",
    "status": "OUT",
    "value": 18.0
   },

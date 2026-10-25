@@ -27,7 +27,7 @@
   "2581018:20261024"
  ],
  "hot_status": "ok: 249 FAs, 322 games",
- "last_activity_ms": 1792896144246,
+ "last_activity_ms": 1792897267099,
  "last_digest": 1792896627.7449641,
  "last_error_alert": 1792787295.9267383,
  "last_hot_check": 1792896857.6957474,
@@ -325,7 +325,7 @@
    "return_date": null,
    "slot": "",
    "status": "ACTIVE",
-   "value": 8.7
+   "value": 9.7
   },
   "2990984": {
    "fantasy_team": null,
@@ -822,7 +822,7 @@
   "3134903": {
    "fantasy_team": null,
    "id": "3134903",
-   "mpg": 10.7,
+   "mpg": 11.0,
    "name": "Gary Payton II",
    "nba_team": "GSW",
    "positions": [
@@ -908,7 +908,7 @@
   "3136193": {
    "fantasy_team": "Caxias French Fries",
    "id": "3136193",
-   "mpg": 20.5,
+   "mpg": 21.0,
    "name": "Devin Booker",
    "nba_team": "PHO",
    "positions": [
@@ -918,7 +918,7 @@
    "return_date": null,
    "slot": "PG",
    "status": "ACTIVE",
-   "value": 31.4
+   "value": 32.2
   },
   "3136195": {
    "fantasy_team": "Contagem Hunters",
@@ -1076,7 +1076,7 @@
    "return_date": null,
    "slot": "",
    "status": "ACTIVE",
-   "value": 11.6
+   "value": 10.5
   },
   "3155535": {
    "fantasy_team": null,
@@ -1866,7 +1866,7 @@
   "4066383": {
    "fantasy_team": "Caxias French Fries",
    "id": "4066383",
-   "mpg": 21.0,
+   "mpg": 21.5,
    "name": "Miles Bridges",
    "nba_team": "PHO",
    "positions": [
@@ -1896,7 +1896,7 @@
   "4066436": {
    "fantasy_team": null,
    "id": "4066436",
-   "mpg": 16.0,
+   "mpg": 16.3,
    "name": "De'Anthony Melton",
    "nba_team": "GSW",
    "positions": [
@@ -2071,7 +2071,7 @@
   "4277848": {
    "fantasy_team": "CCCP  Баскетбол",
    "id": "4277848",
-   "mpg": 8.5,
+   "mpg": 9.0,
    "name": "Marvin Bagley III",
    "nba_team": "DEN",
    "positions": [
@@ -2196,7 +2196,7 @@
    "return_date": null,
    "slot": "SG",
    "status": "ACTIVE",
-   "value": 39.3
+   "value": 39.0
   },
   "4278049": {
    "fantasy_team": "Lakers x Bortolan 23",
@@ -2403,7 +2403,7 @@
   "4278585": {
    "fantasy_team": null,
    "id": "4278585",
-   "mpg": 15.0,
+   "mpg": 15.5,
    "name": "Collin Gillespie",
    "nba_team": "PHO",
    "positions": [
@@ -3033,7 +3033,7 @@
   "4431680": {
    "fantasy_team": "Lebron GOAT",
    "id": "4431680",
-   "mpg": 25.3,
+   "mpg": 25.7,
    "name": "Onyeka Okongwu",
    "nba_team": "ATL",
    "positions": [
@@ -3042,7 +3042,7 @@
    "return_date": null,
    "slot": "UT",
    "status": "ACTIVE",
-   "value": 22.4
+   "value": 23.2
   },
   "4431684": {
    "fantasy_team": null,
@@ -3625,21 +3625,6 @@
    "status": "ACTIVE",
    "value": 56.2
   },
-  "4433137": {
-   "fantasy_team": null,
-   "id": "4433137",
-   "mpg": 27.5,
-   "name": "Ziaire Williams",
-   "nba_team": "LAL",
-   "positions": [
-    "SG",
-    "SF"
-   ],
-   "return_date": null,
-   "slot": "",
-   "status": "ACTIVE",
-   "value": 26.3
-  },
   "4433144": {
    "fantasy_team": null,
    "id": "4433144",
@@ -3833,7 +3818,7 @@
   "4437244": {
    "fantasy_team": "Tiki Taka Laranja",
    "id": "4437244",
-   "mpg": 17.5,
+   "mpg": 18.0,
    "name": "Jalen Green",
    "nba_team": "PHO",
    "positions": [
@@ -4484,7 +4469,7 @@
    "return_date": null,
    "slot": "PF",
    "status": "ACTIVE",
-   "value": 52.2
+   "value": 52.0
   },
   "4701232": {
    "fantasy_team": null,
@@ -4616,7 +4601,7 @@
    "return_date": null,
    "slot": "UT",
    "status": "ACTIVE",
-   "value": 30.0
+   "value": 29.6
   },
   "4711294": {
    "fantasy_team": "Fernando  Diniz",
@@ -4751,7 +4736,7 @@
   "4869342": {
    "fantasy_team": "King Coopa",
    "id": "4869342",
-   "mpg": 28.7,
+   "mpg": 29.0,
    "name": "Dyson Daniels",
    "nba_team": "ATL",
    "positions": [
@@ -4761,7 +4746,7 @@
    "return_date": null,
    "slot": "PG",
    "status": "ACTIVE",
-   "value": 43.9
+   "value": 44.9
   },
   "4869780": {
    "fantasy_team": "Lucky",
@@ -5990,7 +5975,7 @@
   "5175737": {
    "fantasy_team": "Fernando  Diniz",
    "id": "5175737",
-   "mpg": 26.3,
+   "mpg": 26.7,
    "name": "Yaxel Lendeborg",
    "nba_team": "GSW",
    "positions": [
@@ -6169,6 +6154,20 @@
    "slot": "",
    "status": "OUT",
    "value": 9.6
+  },
+  "5242502": {
+   "fantasy_team": null,
+   "id": "5242502",
+   "mpg": null,
+   "name": "Ben Saraf",
+   "nba_team": "BKN",
+   "positions": [
+    "SG"
+   ],
+   "return_date": null,
+   "slot": "",
+   "status": "ACTIVE",
+   "value": 0.0
   },
   "5254165": {
    "fantasy_team": "Lakers x Bortolan 23",

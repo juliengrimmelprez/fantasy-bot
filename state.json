@@ -39,7 +39,7 @@
  "last_activity_ms": 1792976646786,
  "last_digest": 1792977977.9497154,
  "last_error_alert": 1792787295.9267383,
- "last_hot_check": 1792979422.9368024,
+ "last_hot_check": 1792980376.9836848,
  "last_run": "2026-10-19T22:05:14+00:00",
  "matchup_periods": {
   "1": [
@@ -106,7 +106,7 @@
   "1966": {
    "fantasy_team": "Lucky",
    "id": "1966",
-   "mpg": 32.3,
+   "mpg": 32.7,
    "name": "LeBron James",
    "nba_team": "PHL",
    "positions": [
@@ -116,7 +116,7 @@
    "return_date": null,
    "slot": "SF",
    "status": "ACTIVE",
-   "value": 35.4
+   "value": 36.5
   },
   "2326307": {
    "fantasy_team": null,
@@ -238,7 +238,7 @@
   "2581018": {
    "fantasy_team": "Bull Market",
    "id": "2581018",
-   "mpg": 26.8,
+   "mpg": 27.0,
    "name": "Kentavious Caldwell-Pope",
    "nba_team": "PHL",
    "positions": [
@@ -248,7 +248,7 @@
    "return_date": null,
    "slot": "UT",
    "status": "DAY_TO_DAY",
-   "value": 19.7
+   "value": 19.9
   },
   "2583632": {
    "fantasy_team": null,
@@ -616,7 +616,7 @@
   "3064440": {
    "fantasy_team": "BL0CK BY ZION",
    "id": "3064440",
-   "mpg": 30.3,
+   "mpg": 30.7,
    "name": "Zach LaVine",
    "nba_team": "SAC",
    "positions": [
@@ -626,7 +626,7 @@
    "return_date": null,
    "slot": "UT",
    "status": "ACTIVE",
-   "value": 28.8
+   "value": 29.3
   },
   "3064482": {
    "fantasy_team": "Lakers x Bortolan 23",
@@ -1119,7 +1119,7 @@
   "3157465": {
    "fantasy_team": "Lucky",
    "id": "3157465",
-   "mpg": 28.3,
+   "mpg": 29.0,
    "name": "Duncan Robinson",
    "nba_team": "DET",
    "positions": [
@@ -1129,7 +1129,7 @@
    "return_date": null,
    "slot": "SG",
    "status": "ACTIVE",
-   "value": 28.9
+   "value": 28.4
   },
   "3195": {
    "fantasy_team": null,
@@ -1349,7 +1349,7 @@
   "3908845": {
    "fantasy_team": "CCCP  Баскетбол",
    "id": "3908845",
-   "mpg": 28.3,
+   "mpg": 28.7,
    "name": "John Collins",
    "nba_team": "DET",
    "positions": [
@@ -1359,12 +1359,12 @@
    "return_date": null,
    "slot": "PF",
    "status": "ACTIVE",
-   "value": 29.4
+   "value": 30.2
   },
   "3912848": {
    "fantasy_team": null,
    "id": "3912848",
-   "mpg": 31.0,
+   "mpg": 31.5,
    "name": "Dean Wade",
    "nba_team": "PHL",
    "positions": [
@@ -1421,7 +1421,7 @@
   "3917376": {
    "fantasy_team": "BL0CK BY ZION",
    "id": "3917376",
-   "mpg": 36.2,
+   "mpg": 36.5,
    "name": "Jaylen Brown",
    "nba_team": "PHL",
    "positions": [
@@ -1712,7 +1712,7 @@
   "4065732": {
    "fantasy_team": null,
    "id": "4065732",
-   "mpg": 19.7,
+   "mpg": 20.0,
    "name": "De'Andre Hunter",
    "nba_team": "SAC",
    "positions": [
@@ -1903,7 +1903,7 @@
   "4066372": {
    "fantasy_team": null,
    "id": "4066372",
-   "mpg": 20.0,
+   "mpg": 20.7,
    "name": "Kevin Huerter",
    "nba_team": "DET",
    "positions": [
@@ -3055,7 +3055,7 @@
   "4431678": {
    "fantasy_team": "Tiki Taka Laranja",
    "id": "4431678",
-   "mpg": 37.2,
+   "mpg": 37.5,
    "name": "Tyrese Maxey",
    "nba_team": "PHL",
    "positions": [
@@ -3065,12 +3065,12 @@
    "return_date": null,
    "slot": "UT",
    "status": "ACTIVE",
-   "value": 48.4
+   "value": 49.2
   },
   "4431679": {
    "fantasy_team": "Polga Silva",
    "id": "4431679",
-   "mpg": 24.3,
+   "mpg": 24.7,
    "name": "Precious Achiuwa",
    "nba_team": "SAC",
    "positions": [
@@ -3273,7 +3273,7 @@
   "4432166": {
    "fantasy_team": "CCCP  Баскетбол",
    "id": "4432166",
-   "mpg": 31.7,
+   "mpg": 32.0,
    "name": "Cade Cunningham",
    "nba_team": "DET",
    "positions": [
@@ -3282,7 +3282,7 @@
    "return_date": null,
    "slot": "PG",
    "status": "ACTIVE",
-   "value": 44.1
+   "value": 45.1
   },
   "4432170": {
    "fantasy_team": "Bull Market",
@@ -5669,7 +5669,7 @@
   "5107199": {
    "fantasy_team": null,
    "id": "5107199",
-   "mpg": 24.3,
+   "mpg": 24.7,
    "name": "Daniss Jenkins",
    "nba_team": "DET",
    "positions": [
@@ -5678,7 +5678,7 @@
    "return_date": null,
    "slot": "",
    "status": "ACTIVE",
-   "value": 24.3
+   "value": 24.7
   },
   "5107897": {
    "fantasy_team": null,
@@ -5769,7 +5769,7 @@
   "5142620": {
    "fantasy_team": "BL0CK BY ZION",
    "id": "5142620",
-   "mpg": 29.3,
+   "mpg": 29.7,
    "name": "Darius Acuff Jr.",
    "nba_team": "SAC",
    "positions": [

@@ -40,7 +40,7 @@
   "3133602:20261022"
  ],
  "hot_status": "ok: 250 FAs, 389 games",
- "last_activity_ms": 1793016135026,
+ "last_activity_ms": 1793021102805,
  "last_digest": 1793018775.437305,
  "last_error_alert": 1792787295.9267383,
  "last_hot_check": 1793020697.3860214,
@@ -250,7 +250,7 @@
     "SF"
    ],
    "return_date": null,
-   "slot": "UT",
+   "slot": "BE",
    "status": "ACTIVE",
    "value": 19.9
   },
@@ -1332,7 +1332,7 @@
     "SG"
    ],
    "return_date": null,
-   "slot": "UT",
+   "slot": "PG",
    "status": "ACTIVE",
    "value": 44.6
   },
@@ -2032,12 +2032,12 @@
     "PF"
    ],
    "return_date": null,
-   "slot": "BE",
+   "slot": "SF",
    "status": "ACTIVE",
    "value": 48.6
   },
   "4277811": {
-   "fantasy_team": "Bull Market",
+   "fantasy_team": null,
    "id": "4277811",
    "mpg": 18.0,
    "name": "Collin Sexton",
@@ -2047,7 +2047,7 @@
     "SG"
    ],
    "return_date": null,
-   "slot": "PG",
+   "slot": "",
    "status": "ACTIVE",
    "value": 19.2
   },
@@ -2206,7 +2206,7 @@
     "C"
    ],
    "return_date": null,
-   "slot": "PF",
+   "slot": "C",
    "status": "ACTIVE",
    "value": 32.0
   },
@@ -3284,7 +3284,7 @@
     "C"
    ],
    "return_date": null,
-   "slot": "C",
+   "slot": "BE",
    "status": "ACTIVE",
    "value": 25.2
   },
@@ -3703,20 +3703,6 @@
    "nba_team": "SAC",
    "positions": [
     "C"
-   ],
-   "return_date": null,
-   "slot": "",
-   "status": "OUT",
-   "value": 0.0
-  },
-  "4433188": {
-   "fantasy_team": null,
-   "id": "4433188",
-   "mpg": null,
-   "name": "Devin Carter",
-   "nba_team": "BOS",
-   "positions": [
-    "PG"
    ],
    "return_date": null,
    "slot": "",
@@ -4669,7 +4655,7 @@
     "SG"
    ],
    "return_date": null,
-   "slot": "BE",
+   "slot": "UT",
    "status": "ACTIVE",
    "value": 29.6
   },
@@ -4918,7 +4904,7 @@
     "PF"
    ],
    "return_date": null,
-   "slot": "SF",
+   "slot": "UT",
    "status": "ACTIVE",
    "value": 28.7
   },
@@ -6468,7 +6454,7 @@
     "C"
    ],
    "return_date": null,
-   "slot": "UT",
+   "slot": "PF",
    "status": "ACTIVE",
    "value": 37.1
   },
@@ -6497,7 +6483,7 @@
     "C"
    ],
    "return_date": null,
-   "slot": "IR",
+   "slot": "UT",
    "status": "ACTIVE",
    "value": 21.0
   },

@@ -40,10 +40,10 @@
   "4278562:20261024"
  ],
  "hot_status": "ok: 250 FAs, 393 games",
- "last_activity_ms": 1793051631326,
+ "last_activity_ms": 1793054245687,
  "last_digest": 1793052028.7486687,
  "last_error_alert": 1792787295.9267383,
- "last_hot_check": 1793053339.9808319,
+ "last_hot_check": 1793054297.5432653,
  "last_run": "2026-10-19T22:05:14+00:00",
  "matchup_periods": {
   "1": [
@@ -6400,7 +6400,7 @@
    "value": 0.0
   },
   "6478": {
-   "fantasy_team": null,
+   "fantasy_team": "Lakers x Bortolan 23",
    "id": "6478",
    "mpg": 8.0,
    "name": "Nikola Vucevic",
@@ -6409,7 +6409,7 @@
     "C"
    ],
    "return_date": null,
-   "slot": "",
+   "slot": "BE",
    "status": "ACTIVE",
    "value": 13.3
   },
@@ -6459,7 +6459,7 @@
    "value": 37.1
   },
   "6585": {
-   "fantasy_team": "Lakers x Bortolan 23",
+   "fantasy_team": null,
    "id": "6585",
    "mpg": 12.7,
    "name": "Andre Drummond",
@@ -6468,7 +6468,7 @@
     "C"
    ],
    "return_date": null,
-   "slot": "BE",
+   "slot": "",
    "status": "ACTIVE",
    "value": 19.4
   },

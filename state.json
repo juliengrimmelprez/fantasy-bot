@@ -617,7 +617,7 @@
   "3064440": {
    "fantasy_team": "BL0CK BY ZION",
    "id": "3064440",
-   "mpg": 31.7,
+   "mpg": 32.0,
    "name": "Zach LaVine",
    "nba_team": "SAC",
    "positions": [
@@ -627,7 +627,7 @@
    "return_date": null,
    "slot": "UT",
    "status": "ACTIVE",
-   "value": 31.5
+   "value": 31.3
   },
   "3064482": {
    "fantasy_team": "Lakers x Bortolan 23",
@@ -973,20 +973,6 @@
    "status": "ACTIVE",
    "value": 17.3
   },
-  "3137259": {
-   "fantasy_team": null,
-   "id": "3137259",
-   "mpg": null,
-   "name": "Gabe Vincent",
-   "nba_team": "FA",
-   "positions": [
-    "PG"
-   ],
-   "return_date": null,
-   "slot": "",
-   "status": "ACTIVE",
-   "value": 0.0
-  },
   "3138160": {
    "fantasy_team": null,
    "id": "3138160",
@@ -1105,7 +1091,7 @@
   "3155942": {
    "fantasy_team": "Polga Silva",
    "id": "3155942",
-   "mpg": 31.0,
+   "mpg": 31.3,
    "name": "Domantas Sabonis",
    "nba_team": "SAC",
    "positions": [
@@ -1623,21 +1609,6 @@
    "status": "DAY_TO_DAY",
    "value": 25.1
   },
-  "4017844": {
-   "fantasy_team": null,
-   "id": "4017844",
-   "mpg": null,
-   "name": "Guerschon Yabusele",
-   "nba_team": "FA",
-   "positions": [
-    "PF",
-    "C"
-   ],
-   "return_date": null,
-   "slot": "",
-   "status": "ACTIVE",
-   "value": 0.0
-  },
   "4017850": {
    "fantasy_team": null,
    "id": "4017850",
@@ -1723,12 +1694,12 @@
    "return_date": null,
    "slot": "",
    "status": "ACTIVE",
-   "value": 12.0
+   "value": 12.2
   },
   "4065733": {
    "fantasy_team": "BL0CK BY ZION",
    "id": "4065733",
-   "mpg": 27.0,
+   "mpg": 27.3,
    "name": "Ty Jerome",
    "nba_team": "MEM",
    "positions": [
@@ -2952,6 +2923,20 @@
    "status": "OUT",
    "value": 0.0
   },
+  "4397251": {
+   "fantasy_team": null,
+   "id": "4397251",
+   "mpg": null,
+   "name": "Ron Harper Jr.",
+   "nba_team": "BOS",
+   "positions": [
+    "SG"
+   ],
+   "return_date": null,
+   "slot": "",
+   "status": "ACTIVE",
+   "value": 0.0
+  },
   "4397424": {
    "fantasy_team": "King Coopa",
    "id": "4397424",
@@ -3071,7 +3056,7 @@
   "4431679": {
    "fantasy_team": "Polga Silva",
    "id": "4431679",
-   "mpg": 25.7,
+   "mpg": 26.0,
    "name": "Precious Achiuwa",
    "nba_team": "SAC",
    "positions": [
@@ -3081,7 +3066,7 @@
    "return_date": null,
    "slot": "UT",
    "status": "ACTIVE",
-   "value": 24.5
+   "value": 25.5
   },
   "4431680": {
    "fantasy_team": "Lebron GOAT",
@@ -3490,7 +3475,7 @@
   "4432810": {
    "fantasy_team": "Polga Silva",
    "id": "4432810",
-   "mpg": 14.0,
+   "mpg": 14.5,
    "name": "Isaiah Stewart",
    "nba_team": "MEM",
    "positions": [
@@ -3500,7 +3485,7 @@
    "return_date": null,
    "slot": "UT",
    "status": "ACTIVE",
-   "value": 17.6
+   "value": 20.2
   },
   "4432811": {
    "fantasy_team": null,
@@ -3715,6 +3700,20 @@
    "nba_team": "SAC",
    "positions": [
     "C"
+   ],
+   "return_date": null,
+   "slot": "",
+   "status": "OUT",
+   "value": 0.0
+  },
+  "4433188": {
+   "fantasy_team": null,
+   "id": "4433188",
+   "mpg": null,
+   "name": "Devin Carter",
+   "nba_team": "BOS",
+   "positions": [
+    "PG"
    ],
    "return_date": null,
    "slot": "",
@@ -5026,7 +5025,7 @@
   "4903027": {
    "fantasy_team": "Polga Silva",
    "id": "4903027",
-   "mpg": 22.0,
+   "mpg": 22.5,
    "name": "Cedric Coward",
    "nba_team": "MEM",
    "positions": [
@@ -5156,7 +5155,7 @@
   "5041935": {
    "fantasy_team": "BL0CK BY ZION",
    "id": "5041935",
-   "mpg": 29.3,
+   "mpg": 29.7,
    "name": "Cameron Boozer",
    "nba_team": "MEM",
    "positions": [
@@ -5165,7 +5164,7 @@
    "return_date": null,
    "slot": "UT",
    "status": "ACTIVE",
-   "value": 29.6
+   "value": 30.1
   },
   "5041939": {
    "fantasy_team": "King Coopa",
@@ -5726,7 +5725,7 @@
   "5112087": {
    "fantasy_team": "Fernando  Diniz",
    "id": "5112087",
-   "mpg": 23.0,
+   "mpg": 23.3,
    "name": "Jaylen Wells",
    "nba_team": "MEM",
    "positions": [
@@ -5770,7 +5769,7 @@
   "5142620": {
    "fantasy_team": "BL0CK BY ZION",
    "id": "5142620",
-   "mpg": 30.7,
+   "mpg": 31.0,
    "name": "Darius Acuff Jr.",
    "nba_team": "SAC",
    "positions": [
@@ -5779,7 +5778,7 @@
    "return_date": null,
    "slot": "UT",
    "status": "ACTIVE",
-   "value": 25.4
+   "value": 26.1
   },
   "5142621": {
    "fantasy_team": null,

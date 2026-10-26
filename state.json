@@ -104,7 +104,7 @@
   ]
  },
  "matchup_periods_day": "2026-10-26",
- "plan_status": "ok: day 6, matchup 1 [1]..[6], adds left 7, opp Fernando  Diniz",
+ "plan_status": "ok: day 7, matchup 2 [7]..[13], adds left 10, opp Contagem Hunters",
  "players": {
   "1966": {
    "fantasy_team": "Lucky",
@@ -539,7 +539,7 @@
     "PG"
    ],
    "return_date": null,
-   "slot": "BE",
+   "slot": "UT",
    "status": "ACTIVE",
    "value": 23.0
   },
@@ -627,7 +627,7 @@
     "SF"
    ],
    "return_date": null,
-   "slot": "UT",
+   "slot": "BE",
    "status": "ACTIVE",
    "value": 38.8
   },
@@ -756,7 +756,7 @@
     "C"
    ],
    "return_date": null,
-   "slot": "UT",
+   "slot": "C",
    "status": "ACTIVE",
    "value": 56.5
   },
@@ -2133,7 +2133,7 @@
     "PG"
    ],
    "return_date": null,
-   "slot": "BE",
+   "slot": "UT",
    "status": "ACTIVE",
    "value": 43.3
   },
@@ -2220,7 +2220,7 @@
     "SG"
    ],
    "return_date": null,
-   "slot": "UT",
+   "slot": "SG",
    "status": "ACTIVE",
    "value": 38.8
   },
@@ -2248,7 +2248,7 @@
     "PG"
    ],
    "return_date": null,
-   "slot": "BE",
+   "slot": "PG",
    "status": "ACTIVE",
    "value": 34.4
   },
@@ -2335,7 +2335,7 @@
     "PF"
    ],
    "return_date": null,
-   "slot": "SF",
+   "slot": "UT",
    "status": "ACTIVE",
    "value": 37.0
   },
@@ -2451,7 +2451,7 @@
     "PF"
    ],
    "return_date": null,
-   "slot": "BE",
+   "slot": "IR",
    "status": "OUT",
    "value": 28.6
   },
@@ -2713,7 +2713,7 @@
     "PG"
    ],
    "return_date": null,
-   "slot": "PG",
+   "slot": "BE",
    "status": "ACTIVE",
    "value": 33.8
   },
@@ -3239,7 +3239,7 @@
     "C"
    ],
    "return_date": null,
-   "slot": "UT",
+   "slot": "PF",
    "status": "ACTIVE",
    "value": 43.5
   },
@@ -3441,7 +3441,7 @@
     "C"
    ],
    "return_date": null,
-   "slot": "BE",
+   "slot": "UT",
    "status": "ACTIVE",
    "value": 33.4
   },
@@ -3661,7 +3661,7 @@
     "C"
    ],
    "return_date": null,
-   "slot": "C",
+   "slot": "BE",
    "status": "ACTIVE",
    "value": 43.4
   },
@@ -3676,7 +3676,7 @@
     "SF"
    ],
    "return_date": null,
-   "slot": "SG",
+   "slot": "BE",
    "status": "ACTIVE",
    "value": 23.9
   },
@@ -3822,7 +3822,7 @@
     "SF"
    ],
    "return_date": null,
-   "slot": "UT",
+   "slot": "SF",
    "status": "ACTIVE",
    "value": 24.4
   },
@@ -4173,7 +4173,7 @@
     "C"
    ],
    "return_date": null,
-   "slot": "IR",
+   "slot": "UT",
    "status": "OUT",
    "value": 31.2
   },
@@ -4190,6 +4190,21 @@
    "slot": "",
    "status": "DAY_TO_DAY",
    "value": 18.3
+  },
+  "4601025": {
+   "fantasy_team": "Lebron GOAT",
+   "id": "4601025",
+   "mpg": 29.7,
+   "name": "Pelle Larsson",
+   "nba_team": "MIA",
+   "positions": [
+    "SG",
+    "SF"
+   ],
+   "return_date": null,
+   "slot": "BE",
+   "status": "ACTIVE",
+   "value": 20.0
   },
   "4602025": {
    "fantasy_team": null,
@@ -4449,7 +4464,7 @@
     "PF"
    ],
    "return_date": null,
-   "slot": "PF",
+   "slot": "IR",
    "status": "OUT",
    "value": 25.7
   },
@@ -5778,7 +5793,7 @@
     "PG"
    ],
    "return_date": null,
-   "slot": "UT",
+   "slot": "BE",
    "status": "ACTIVE",
    "value": 27.1
   },
@@ -6051,7 +6066,7 @@
     "SF"
    ],
    "return_date": null,
-   "slot": "BE",
+   "slot": "UT",
    "status": "ACTIVE",
    "value": 27.1
   },

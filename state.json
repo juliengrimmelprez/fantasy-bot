@@ -40,7 +40,7 @@
  "last_activity_ms": 1792976646786,
  "last_digest": 1792981699.2650433,
  "last_error_alert": 1792787295.9267383,
- "last_hot_check": 1792983255.8206124,
+ "last_hot_check": 1792984222.241621,
  "last_run": "2026-10-19T22:05:14+00:00",
  "matchup_periods": {
   "1": [
@@ -385,7 +385,7 @@
   "2991070": {
    "fantasy_team": null,
    "id": "2991070",
-   "mpg": 23.0,
+   "mpg": 23.3,
    "name": "Jerami Grant",
    "nba_team": "MEM",
    "positions": [
@@ -394,7 +394,7 @@
    "return_date": null,
    "slot": "",
    "status": "ACTIVE",
-   "value": 22.0
+   "value": 21.7
   },
   "2991139": {
    "fantasy_team": "Caxias French Fries",
@@ -617,7 +617,7 @@
   "3064440": {
    "fantasy_team": "BL0CK BY ZION",
    "id": "3064440",
-   "mpg": 34.7,
+   "mpg": 35.0,
    "name": "Zach LaVine",
    "nba_team": "SAC",
    "positions": [
@@ -627,7 +627,7 @@
    "return_date": null,
    "slot": "UT",
    "status": "ACTIVE",
-   "value": 37.3
+   "value": 37.0
   },
   "3064482": {
    "fantasy_team": "Lakers x Bortolan 23",
@@ -1091,7 +1091,7 @@
   "3155942": {
    "fantasy_team": "Polga Silva",
    "id": "3155942",
-   "mpg": 32.7,
+   "mpg": 33.3,
    "name": "Domantas Sabonis",
    "nba_team": "SAC",
    "positions": [
@@ -1101,7 +1101,7 @@
    "return_date": null,
    "slot": "PF",
    "status": "ACTIVE",
-   "value": 47.2
+   "value": 47.9
   },
   "3157465": {
    "fantasy_team": "Lucky",
@@ -1699,7 +1699,7 @@
   "4065733": {
    "fantasy_team": "BL0CK BY ZION",
    "id": "4065733",
-   "mpg": 29.3,
+   "mpg": 29.7,
    "name": "Ty Jerome",
    "nba_team": "MEM",
    "positions": [
@@ -1709,7 +1709,7 @@
    "return_date": null,
    "slot": "PG",
    "status": "ACTIVE",
-   "value": 48.2
+   "value": 48.0
   },
   "4065778": {
    "fantasy_team": null,
@@ -4047,7 +4047,7 @@
   "4593016": {
    "fantasy_team": null,
    "id": "4593016",
-   "mpg": 18.0,
+   "mpg": 18.3,
    "name": "Quinten Post",
    "nba_team": "MEM",
    "positions": [
@@ -4057,7 +4057,7 @@
    "return_date": null,
    "slot": "",
    "status": "ACTIVE",
-   "value": 8.7
+   "value": 10.0
   },
   "4593125": {
    "fantasy_team": null,
@@ -5025,7 +5025,7 @@
   "4903027": {
    "fantasy_team": "Polga Silva",
    "id": "4903027",
-   "mpg": 25.5,
+   "mpg": 26.0,
    "name": "Cedric Coward",
    "nba_team": "MEM",
    "positions": [
@@ -5035,7 +5035,7 @@
    "return_date": null,
    "slot": "SG",
    "status": "ACTIVE",
-   "value": 25.4
+   "value": 25.8
   },
   "4914336": {
    "fantasy_team": null,
@@ -5683,7 +5683,7 @@
   "5107897": {
    "fantasy_team": null,
    "id": "5107897",
-   "mpg": 12.0,
+   "mpg": 12.5,
    "name": "Jonathan Mogbo",
    "nba_team": "SAC",
    "positions": [
@@ -5692,7 +5692,7 @@
    "return_date": null,
    "slot": "",
    "status": "ACTIVE",
-   "value": 7.3
+   "value": 8.4
   },
   "5107968": {
    "fantasy_team": null,
@@ -5725,7 +5725,7 @@
   "5112087": {
    "fantasy_team": "Fernando  Diniz",
    "id": "5112087",
-   "mpg": 26.0,
+   "mpg": 26.3,
    "name": "Jaylen Wells",
    "nba_team": "MEM",
    "positions": [
@@ -5769,7 +5769,7 @@
   "5142620": {
    "fantasy_team": "BL0CK BY ZION",
    "id": "5142620",
-   "mpg": 33.0,
+   "mpg": 33.3,
    "name": "Darius Acuff Jr.",
    "nba_team": "SAC",
    "positions": [
@@ -5778,7 +5778,7 @@
    "return_date": null,
    "slot": "UT",
    "status": "ACTIVE",
-   "value": 27.3
+   "value": 28.1
   },
   "5142621": {
    "fantasy_team": null,

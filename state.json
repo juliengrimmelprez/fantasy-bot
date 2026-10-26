@@ -247,7 +247,7 @@
    ],
    "return_date": null,
    "slot": "UT",
-   "status": "ACTIVE",
+   "status": "DAY_TO_DAY",
    "value": 19.4
   },
   "2583632": {
@@ -1119,7 +1119,7 @@
   "3157465": {
    "fantasy_team": "Lucky",
    "id": "3157465",
-   "mpg": 26.7,
+   "mpg": 27.0,
    "name": "Duncan Robinson",
    "nba_team": "DET",
    "positions": [
@@ -1364,7 +1364,7 @@
   "3912848": {
    "fantasy_team": null,
    "id": "3912848",
-   "mpg": 28.5,
+   "mpg": 29.0,
    "name": "Dean Wade",
    "nba_team": "PHL",
    "positions": [
@@ -2411,7 +2411,7 @@
   "4278562": {
    "fantasy_team": "King Coopa",
    "id": "4278562",
-   "mpg": 19.7,
+   "mpg": 20.0,
    "name": "Paul Reed",
    "nba_team": "DET",
    "positions": [
@@ -2421,7 +2421,7 @@
    "return_date": null,
    "slot": "C",
    "status": "ACTIVE",
-   "value": 22.9
+   "value": 22.6
   },
   "4278572": {
    "fantasy_team": null,
@@ -2527,7 +2527,7 @@
   "4351851": {
    "fantasy_team": null,
    "id": "4351851",
-   "mpg": 21.8,
+   "mpg": 22.0,
    "name": "Anfernee Simons",
    "nba_team": "PHL",
    "positions": [
@@ -3065,7 +3065,7 @@
    "return_date": null,
    "slot": "UT",
    "status": "ACTIVE",
-   "value": 44.3
+   "value": 45.2
   },
   "4431679": {
    "fantasy_team": "Polga Silva",
@@ -3273,7 +3273,7 @@
   "4432166": {
    "fantasy_team": "CCCP  Баскетбол",
    "id": "4432166",
-   "mpg": 30.3,
+   "mpg": 30.7,
    "name": "Cade Cunningham",
    "nba_team": "DET",
    "positions": [
@@ -3282,7 +3282,7 @@
    "return_date": null,
    "slot": "PG",
    "status": "ACTIVE",
-   "value": 43.4
+   "value": 43.1
   },
   "4432170": {
    "fantasy_team": "Bull Market",
@@ -4863,7 +4863,7 @@
   "4873090": {
    "fantasy_team": null,
    "id": "4873090",
-   "mpg": 8.0,
+   "mpg": 8.5,
    "name": "Labaron Philon Jr.",
    "nba_team": "PHL",
    "positions": [
@@ -5525,7 +5525,7 @@
   "5105637": {
    "fantasy_team": null,
    "id": "5105637",
-   "mpg": 14.0,
+   "mpg": 14.2,
    "name": "Adem Bona",
    "nba_team": "PHL",
    "positions": [
@@ -5669,7 +5669,7 @@
   "5107199": {
    "fantasy_team": null,
    "id": "5107199",
-   "mpg": 22.0,
+   "mpg": 22.3,
    "name": "Daniss Jenkins",
    "nba_team": "DET",
    "positions": [

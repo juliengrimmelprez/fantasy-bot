@@ -2121,7 +2121,7 @@
    ],
    "return_date": null,
    "slot": "",
-   "status": "OUT",
+   "status": "DAY_TO_DAY",
    "value": 16.1
   },
   "4277905": {
@@ -5436,7 +5436,7 @@
    ],
    "return_date": null,
    "slot": "",
-   "status": "OUT",
+   "status": "DAY_TO_DAY",
    "value": 18.0
   },
   "5101845": {
@@ -6367,7 +6367,7 @@
    ],
    "return_date": null,
    "slot": "SF",
-   "status": "OUT",
+   "status": "DAY_TO_DAY",
    "value": 39.6
   },
   "6475": {
@@ -6576,6 +6576,7 @@
   "inj:3059318:OUT",
   "inj:5124612:OUT",
   "inj:4432165:DAY_TO_DAY",
-  "week:2"
+  "week:2",
+  "diag:7"
  ]
 }

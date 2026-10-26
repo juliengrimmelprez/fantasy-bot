@@ -900,7 +900,7 @@
     "SG"
    ],
    "return_date": null,
-   "slot": "BE",
+   "slot": "SG",
    "status": "ACTIVE",
    "value": 27.6
   },
@@ -1146,7 +1146,7 @@
     "PF"
    ],
    "return_date": null,
-   "slot": "UT",
+   "slot": "PF",
    "status": "ACTIVE",
    "value": 39.2
   },
@@ -1302,7 +1302,7 @@
     "SF"
    ],
    "return_date": null,
-   "slot": "SF",
+   "slot": "BE",
    "status": "ACTIVE",
    "value": 25.1
   },
@@ -1920,6 +1920,21 @@
    "status": "ACTIVE",
    "value": 0.0
   },
+  "4066436": {
+   "fantasy_team": "Polga Silva",
+   "id": "4066436",
+   "mpg": 22.7,
+   "name": "De'Anthony Melton",
+   "nba_team": "GSW",
+   "positions": [
+    "PG",
+    "SG"
+   ],
+   "return_date": null,
+   "slot": "BE",
+   "status": "ACTIVE",
+   "value": 26.0
+  },
   "4066457": {
    "fantasy_team": "King Coopa",
    "id": "4066457",
@@ -2076,7 +2091,7 @@
     "C"
    ],
    "return_date": null,
-   "slot": "UT",
+   "slot": "BE",
    "status": "ACTIVE",
    "value": 34.5
   },
@@ -2524,7 +2539,7 @@
     "SF"
    ],
    "return_date": null,
-   "slot": "SF",
+   "slot": "BE",
    "status": "ACTIVE",
    "value": 33.9
   },
@@ -2631,7 +2646,7 @@
    "value": 30.5
   },
   "4395723": {
-   "fantasy_team": "Polga Silva",
+   "fantasy_team": null,
    "id": "4395723",
    "mpg": 21.7,
    "name": "Keldon Johnson",
@@ -2641,7 +2656,7 @@
     "PF"
    ],
    "return_date": null,
-   "slot": "SF",
+   "slot": "",
    "status": "ACTIVE",
    "value": 20.7
   },
@@ -2744,7 +2759,7 @@
     "SG"
    ],
    "return_date": null,
-   "slot": "PG",
+   "slot": "UT",
    "status": "ACTIVE",
    "value": 49.9
   },
@@ -3210,7 +3225,7 @@
     "PG"
    ],
    "return_date": null,
-   "slot": "BE",
+   "slot": "PG",
    "status": "ACTIVE",
    "value": 20.8
   },
@@ -3327,7 +3342,7 @@
     "C"
    ],
    "return_date": null,
-   "slot": "C",
+   "slot": "BE",
    "status": "ACTIVE",
    "value": 22.0
   },
@@ -3573,7 +3588,7 @@
     "SF"
    ],
    "return_date": null,
-   "slot": "BE",
+   "slot": "SF",
    "status": "ACTIVE",
    "value": 31.3
   },
@@ -3837,7 +3852,7 @@
     "SG"
    ],
    "return_date": null,
-   "slot": "SG",
+   "slot": "UT",
    "status": "ACTIVE",
    "value": 38.4
   },
@@ -4174,7 +4189,7 @@
     "SF"
    ],
    "return_date": null,
-   "slot": "BE",
+   "slot": "SF",
    "status": "ACTIVE",
    "value": 20.0
   },
@@ -4581,7 +4596,7 @@
     "PF"
    ],
    "return_date": null,
-   "slot": "PF",
+   "slot": "BE",
    "status": "ACTIVE",
    "value": 22.8
   },
@@ -4684,7 +4699,7 @@
     "SG"
    ],
    "return_date": null,
-   "slot": "PG",
+   "slot": "UT",
    "status": "ACTIVE",
    "value": 38.5
   },
@@ -4859,7 +4874,7 @@
     "SG"
    ],
    "return_date": null,
-   "slot": "UT",
+   "slot": "PG",
    "status": "ACTIVE",
    "value": 27.8
   },
@@ -5521,7 +5536,7 @@
     "C"
    ],
    "return_date": null,
-   "slot": "BE",
+   "slot": "C",
    "status": "ACTIVE",
    "value": 25.4
   },

@@ -3255,7 +3255,7 @@
     "SG"
    ],
    "return_date": null,
-   "slot": "UT",
+   "slot": "IR",
    "status": "OUT",
    "value": 26.0
   },
@@ -5195,7 +5195,7 @@
     "PF"
    ],
    "return_date": null,
-   "slot": "IR",
+   "slot": "UT",
    "status": "DAY_TO_DAY",
    "value": 47.3
   },

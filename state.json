@@ -3708,20 +3708,6 @@
    "status": "OUT",
    "value": 0.0
   },
-  "4433188": {
-   "fantasy_team": null,
-   "id": "4433188",
-   "mpg": null,
-   "name": "Devin Carter",
-   "nba_team": "BOS",
-   "positions": [
-    "PG"
-   ],
-   "return_date": null,
-   "slot": "",
-   "status": "OUT",
-   "value": 0.0
-  },
   "4433192": {
    "fantasy_team": null,
    "id": "4433192",
@@ -4496,6 +4482,20 @@
    "slot": "",
    "status": "ACTIVE",
    "value": 0.0
+  },
+  "4687718": {
+   "fantasy_team": null,
+   "id": "4687718",
+   "mpg": 15.0,
+   "name": "Josh Minott",
+   "nba_team": "BKN",
+   "positions": [
+    "SF"
+   ],
+   "return_date": null,
+   "slot": "",
+   "status": "ACTIVE",
+   "value": 19.0
   },
   "4698719": {
    "fantasy_team": "King Coopa",

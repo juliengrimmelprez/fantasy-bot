@@ -40,7 +40,7 @@
   "4278562:20261024"
  ],
  "hot_status": "ok: 250 FAs, 393 games",
- "last_activity_ms": 1793054245687,
+ "last_activity_ms": 1793054424935,
  "last_digest": 1793052028.7486687,
  "last_error_alert": 1792787295.9267383,
  "last_hot_check": 1793054297.5432653,
@@ -2642,7 +2642,7 @@
    ],
    "return_date": null,
    "slot": "UT",
-   "status": "DAY_TO_DAY",
+   "status": "OUT",
    "value": 30.5
   },
   "4395723": {
@@ -5196,7 +5196,7 @@
    ],
    "return_date": null,
    "slot": "UT",
-   "status": "DAY_TO_DAY",
+   "status": "ACTIVE",
    "value": 47.3
   },
   "5041951": {
@@ -5685,7 +5685,7 @@
    "value": 13.7
   },
   "5107199": {
-   "fantasy_team": null,
+   "fantasy_team": "Lakers x Bortolan 23",
    "id": "5107199",
    "mpg": 25.0,
    "name": "Daniss Jenkins",
@@ -5694,7 +5694,7 @@
     "PG"
    ],
    "return_date": null,
-   "slot": "",
+   "slot": "UT",
    "status": "ACTIVE",
    "value": 26.7
   },
@@ -5711,6 +5711,20 @@
    "slot": "",
    "status": "ACTIVE",
    "value": 8.4
+  },
+  "5107968": {
+   "fantasy_team": null,
+   "id": "5107968",
+   "mpg": 2.0,
+   "name": "Ja'Kobi Gillespie",
+   "nba_team": "SAS",
+   "positions": [
+    "PG"
+   ],
+   "return_date": null,
+   "slot": "",
+   "status": "ACTIVE",
+   "value": 3.0
   },
   "5108024": {
    "fantasy_team": null,
@@ -6578,6 +6592,8 @@
   "inj:4432165:DAY_TO_DAY",
   "week:2",
   "diag:7",
-  "inj:4432165:OUT"
+  "inj:4432165:OUT",
+  "inj:4395712:OUT",
+  "inj:5041939:ACTIVE"
  ]
 }

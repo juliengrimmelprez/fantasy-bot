@@ -34,7 +34,7 @@
   "4278585:20261025"
  ],
  "hot_status": "ok: 250 FAs, 378 games",
- "last_activity_ms": 1792945979445,
+ "last_activity_ms": 1792976646786,
  "last_digest": 1792974258.4126806,
  "last_error_alert": 1792787295.9267383,
  "last_hot_check": 1792976534.7506287,
@@ -953,7 +953,7 @@
    "return_date": null,
    "slot": "",
    "status": "ACTIVE",
-   "value": 11.0
+   "value": 10.5
   },
   "3136776": {
    "fantasy_team": null,
@@ -1405,7 +1405,7 @@
   "3914044": {
    "fantasy_team": null,
    "id": "3914044",
-   "mpg": 21.3,
+   "mpg": 21.7,
    "name": "Landry Shamet",
    "nba_team": "NYK",
    "positions": [
@@ -1414,7 +1414,7 @@
    "return_date": null,
    "slot": "",
    "status": "ACTIVE",
-   "value": 11.0
+   "value": 10.5
   },
   "3917376": {
    "fantasy_team": "BL0CK BY ZION",
@@ -3266,7 +3266,7 @@
    "return_date": null,
    "slot": "UT",
    "status": "ACTIVE",
-   "value": 24.3
+   "value": 25.3
   },
   "4432166": {
    "fantasy_team": "CCCP  Баскетбол",
@@ -3285,7 +3285,7 @@
   "4432170": {
    "fantasy_team": "Bull Market",
    "id": "4432170",
-   "mpg": 21.3,
+   "mpg": 21.7,
    "name": "Isaiah Jackson",
    "nba_team": "LAC",
    "positions": [
@@ -3295,7 +3295,7 @@
    "return_date": null,
    "slot": "C",
    "status": "ACTIVE",
-   "value": 25.9
+   "value": 25.4
   },
   "4432171": {
    "fantasy_team": null,
@@ -3751,7 +3751,7 @@
   "4433225": {
    "fantasy_team": null,
    "id": "4433225",
-   "mpg": 14.0,
+   "mpg": 15.0,
    "name": "Tyler Kolek",
    "nba_team": "NYK",
    "positions": [
@@ -3898,7 +3898,7 @@
   "4566434": {
    "fantasy_team": "King Coopa",
    "id": "4566434",
-   "mpg": 30.0,
+   "mpg": 30.3,
    "name": "Franz Wagner",
    "nba_team": "ORL",
    "positions": [
@@ -3908,7 +3908,7 @@
    "return_date": null,
    "slot": "SF",
    "status": "ACTIVE",
-   "value": 27.9
+   "value": 28.7
   },
   "4576060": {
    "fantasy_team": null,
@@ -4186,21 +4186,6 @@
    "slot": "",
    "status": "DAY_TO_DAY",
    "value": 18.3
-  },
-  "4601025": {
-   "fantasy_team": null,
-   "id": "4601025",
-   "mpg": 29.7,
-   "name": "Pelle Larsson",
-   "nba_team": "MIA",
-   "positions": [
-    "SG",
-    "SF"
-   ],
-   "return_date": null,
-   "slot": "",
-   "status": "ACTIVE",
-   "value": 20.0
   },
   "4602025": {
    "fantasy_team": null,
@@ -5033,7 +5018,7 @@
    "return_date": null,
    "slot": "UT",
    "status": "ACTIVE",
-   "value": 26.0
+   "value": 26.3
   },
   "4903027": {
    "fantasy_team": "Polga Silva",
@@ -5706,6 +5691,20 @@
    "slot": "",
    "status": "ACTIVE",
    "value": 11.3
+  },
+  "5107968": {
+   "fantasy_team": null,
+   "id": "5107968",
+   "mpg": 2.0,
+   "name": "Ja'Kobi Gillespie",
+   "nba_team": "SAS",
+   "positions": [
+    "PG"
+   ],
+   "return_date": null,
+   "slot": "",
+   "status": "ACTIVE",
+   "value": 3.0
   },
   "5108024": {
    "fantasy_team": null,
@@ -6406,7 +6405,7 @@
    "return_date": null,
    "slot": "",
    "status": "ACTIVE",
-   "value": 13.0
+   "value": 13.3
   },
   "6578": {
    "fantasy_team": null,

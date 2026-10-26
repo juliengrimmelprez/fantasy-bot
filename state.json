@@ -33,11 +33,11 @@
   "4431823:20261023",
   "3907498:20261024"
  ],
- "hot_status": "ok: 250 FAs, 373 games",
+ "hot_status": "ok: 250 FAs, 374 games",
  "last_activity_ms": 1792945979445,
  "last_digest": 1792970536.6061726,
  "last_error_alert": 1792787295.9267383,
- "last_hot_check": 1792972696.1838584,
+ "last_hot_check": 1792973657.3386092,
  "last_run": "2026-10-19T22:05:14+00:00",
  "matchup_periods": {
   "1": [
@@ -498,7 +498,7 @@
   "3032976": {
    "fantasy_team": "Lucky",
    "id": "3032976",
-   "mpg": 26.3,
+   "mpg": 26.7,
    "name": "Rudy Gobert",
    "nba_team": "MIN",
    "positions": [
@@ -507,7 +507,7 @@
    "return_date": null,
    "slot": "C",
    "status": "ACTIVE",
-   "value": 20.1
+   "value": 20.3
   },
   "3032977": {
    "fantasy_team": "Fernando  Diniz",
@@ -944,7 +944,7 @@
   "3136196": {
    "fantasy_team": null,
    "id": "3136196",
-   "mpg": 12.0,
+   "mpg": 12.3,
    "name": "Trey Lyles",
    "nba_team": "MIN",
    "positions": [
@@ -1347,7 +1347,7 @@
   "3908845": {
    "fantasy_team": "CCCP  Баскетбол",
    "id": "3908845",
-   "mpg": 20.3,
+   "mpg": 20.7,
    "name": "John Collins",
    "nba_team": "DET",
    "positions": [
@@ -1696,7 +1696,7 @@
   "4065731": {
    "fantasy_team": null,
    "id": "4065731",
-   "mpg": 12.0,
+   "mpg": 12.5,
    "name": "Jay Huff",
    "nba_team": "IND",
    "positions": [
@@ -2554,7 +2554,7 @@
   "4395625": {
    "fantasy_team": "Lebron GOAT",
    "id": "4395625",
-   "mpg": 25.7,
+   "mpg": 26.0,
    "name": "RJ Barrett",
    "nba_team": "TOR",
    "positions": [
@@ -2686,7 +2686,7 @@
   "4395724": {
    "fantasy_team": "Fernando  Diniz",
    "id": "4395724",
-   "mpg": 24.0,
+   "mpg": 24.3,
    "name": "Immanuel Quickley",
    "nba_team": "TOR",
    "positions": [
@@ -2696,7 +2696,7 @@
    "return_date": null,
    "slot": "UT",
    "status": "ACTIVE",
-   "value": 30.0
+   "value": 31.2
   },
   "4395725": {
    "fantasy_team": "Contagem Hunters",
@@ -2744,7 +2744,7 @@
   "4396909": {
    "fantasy_team": null,
    "id": "4396909",
-   "mpg": 19.0,
+   "mpg": 19.5,
    "name": "Aaron Nesmith",
    "nba_team": "IND",
    "positions": [
@@ -2774,7 +2774,7 @@
   "4396993": {
    "fantasy_team": "Lebron GOAT",
    "id": "4396993",
-   "mpg": 30.7,
+   "mpg": 31.0,
    "name": "Tyrese Haliburton",
    "nba_team": "IND",
    "positions": [
@@ -2784,7 +2784,7 @@
    "return_date": null,
    "slot": "PG",
    "status": "ACTIVE",
-   "value": 45.2
+   "value": 44.9
   },
   "4397002": {
    "fantasy_team": "Tiki Taka Laranja",
@@ -3575,7 +3575,7 @@
   "4432847": {
    "fantasy_team": "Contagem Hunters",
    "id": "4432847",
-   "mpg": 18.0,
+   "mpg": 18.3,
    "name": "Terrence Shannon Jr.",
    "nba_team": "MIN",
    "positions": [
@@ -3649,7 +3649,7 @@
   "4433134": {
    "fantasy_team": "Lebron GOAT",
    "id": "4433134",
-   "mpg": 26.7,
+   "mpg": 27.0,
    "name": "Scottie Barnes",
    "nba_team": "TOR",
    "positions": [
@@ -3659,7 +3659,7 @@
    "return_date": null,
    "slot": "UT",
    "status": "ACTIVE",
-   "value": 32.2
+   "value": 34.7
   },
   "4433136": {
    "fantasy_team": "Tropa do Nikola",
@@ -3775,7 +3775,7 @@
    "return_date": null,
    "slot": "UT",
    "status": "ACTIVE",
-   "value": 26.3
+   "value": 26.1
   },
   "4433249": {
    "fantasy_team": "Caxias French Fries",
@@ -4104,7 +4104,7 @@
   "4594268": {
    "fantasy_team": "Bull Market",
    "id": "4594268",
-   "mpg": 27.3,
+   "mpg": 27.7,
    "name": "Anthony Edwards",
    "nba_team": "MIN",
    "positions": [
@@ -4114,7 +4114,7 @@
    "return_date": null,
    "slot": "SG",
    "status": "ACTIVE",
-   "value": 42.6
+   "value": 41.8
   },
   "4594326": {
    "fantasy_team": null,
@@ -4409,7 +4409,7 @@
   "4684272": {
    "fantasy_team": "Caxias French Fries",
    "id": "4684272",
-   "mpg": 21.0,
+   "mpg": 21.3,
    "name": "Ja'Kobe Walter",
    "nba_team": "TOR",
    "positions": [
@@ -5381,7 +5381,7 @@
   "5093267": {
    "fantasy_team": "King Coopa",
    "id": "5093267",
-   "mpg": 16.7,
+   "mpg": 17.0,
    "name": "Collin Murray-Boyles",
    "nba_team": "TOR",
    "positions": [

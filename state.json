@@ -106,7 +106,7 @@
   "1966": {
    "fantasy_team": "Lucky",
    "id": "1966",
-   "mpg": 33.0,
+   "mpg": 33.3,
    "name": "LeBron James",
    "nba_team": "PHL",
    "positions": [
@@ -238,7 +238,7 @@
   "2581018": {
    "fantasy_team": "Bull Market",
    "id": "2581018",
-   "mpg": 27.2,
+   "mpg": 27.5,
    "name": "Kentavious Caldwell-Pope",
    "nba_team": "PHL",
    "positions": [
@@ -247,7 +247,7 @@
    ],
    "return_date": null,
    "slot": "UT",
-   "status": "DAY_TO_DAY",
+   "status": "ACTIVE",
    "value": 19.9
   },
   "2583632": {
@@ -283,7 +283,7 @@
   "2596112": {
    "fantasy_team": null,
    "id": "2596112",
-   "mpg": 17.3,
+   "mpg": 17.7,
    "name": "Javonte Green",
    "nba_team": "DET",
    "positions": [
@@ -292,7 +292,7 @@
    "return_date": null,
    "slot": "",
    "status": "ACTIVE",
-   "value": 15.7
+   "value": 16.0
   },
   "2779": {
    "fantasy_team": null,
@@ -1349,7 +1349,7 @@
   "3908845": {
    "fantasy_team": "CCCP  Баскетбол",
    "id": "3908845",
-   "mpg": 29.0,
+   "mpg": 29.3,
    "name": "John Collins",
    "nba_team": "DET",
    "positions": [
@@ -1364,7 +1364,7 @@
   "3912848": {
    "fantasy_team": null,
    "id": "3912848",
-   "mpg": 32.0,
+   "mpg": 32.5,
    "name": "Dean Wade",
    "nba_team": "PHL",
    "positions": [
@@ -1421,7 +1421,7 @@
   "3917376": {
    "fantasy_team": "BL0CK BY ZION",
    "id": "3917376",
-   "mpg": 36.8,
+   "mpg": 37.0,
    "name": "Jaylen Brown",
    "nba_team": "PHL",
    "positions": [
@@ -1903,7 +1903,7 @@
   "4066372": {
    "fantasy_team": null,
    "id": "4066372",
-   "mpg": 21.0,
+   "mpg": 21.3,
    "name": "Kevin Huerter",
    "nba_team": "DET",
    "positions": [
@@ -3055,7 +3055,7 @@
   "4431678": {
    "fantasy_team": "Tiki Taka Laranja",
    "id": "4431678",
-   "mpg": 37.8,
+   "mpg": 38.0,
    "name": "Tyrese Maxey",
    "nba_team": "PHL",
    "positions": [
@@ -3065,7 +3065,7 @@
    "return_date": null,
    "slot": "UT",
    "status": "ACTIVE",
-   "value": 49.2
+   "value": 48.8
   },
   "4431679": {
    "fantasy_team": "Polga Silva",
@@ -3273,7 +3273,7 @@
   "4432166": {
    "fantasy_team": "CCCP  Баскетбол",
    "id": "4432166",
-   "mpg": 32.3,
+   "mpg": 32.7,
    "name": "Cade Cunningham",
    "nba_team": "DET",
    "positions": [
@@ -3282,7 +3282,7 @@
    "return_date": null,
    "slot": "PG",
    "status": "ACTIVE",
-   "value": 45.6
+   "value": 46.1
   },
   "4432170": {
    "fantasy_team": "Bull Market",
@@ -4351,7 +4351,7 @@
   "4683771": {
    "fantasy_team": null,
    "id": "4683771",
-   "mpg": 15.7,
+   "mpg": 16.0,
    "name": "Ronald Holland II",
    "nba_team": "DET",
    "positions": [
@@ -4361,7 +4361,7 @@
    "return_date": null,
    "slot": "",
    "status": "ACTIVE",
-   "value": 16.5
+   "value": 17.5
   },
   "4683774": {
    "fantasy_team": null,

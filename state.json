@@ -40,10 +40,10 @@
   "5044385:20261023"
  ],
  "hot_status": "ok: 250 FAs, 391 games",
- "last_activity_ms": 1793021102805,
+ "last_activity_ms": 1793039806001,
  "last_digest": 1793037256.5017955,
  "last_error_alert": 1792787295.9267383,
- "last_hot_check": 1793038940.1044202,
+ "last_hot_check": 1793039899.4954169,
  "last_run": "2026-10-19T22:05:14+00:00",
  "matchup_periods": {
   "1": [
@@ -1463,7 +1463,7 @@
     "PF"
    ],
    "return_date": null,
-   "slot": "UT",
+   "slot": "BE",
    "status": "ACTIVE",
    "value": 28.3
   },
@@ -3187,7 +3187,7 @@
    "value": 19.6
   },
   "4431823": {
-   "fantasy_team": "Caxias French Fries",
+   "fantasy_team": null,
    "id": "4431823",
    "mpg": 19.0,
    "name": "Miles McBride",
@@ -3197,7 +3197,7 @@
     "SG"
    ],
    "return_date": null,
-   "slot": "BE",
+   "slot": "",
    "status": "ACTIVE",
    "value": 17.2
   },
@@ -6086,7 +6086,7 @@
    "value": 6.3
   },
   "5214640": {
-   "fantasy_team": null,
+   "fantasy_team": "Caxias French Fries",
    "id": "5214640",
    "mpg": 24.7,
    "name": "Kasparas Jakucionis",
@@ -6095,7 +6095,7 @@
     "PG"
    ],
    "return_date": null,
-   "slot": "",
+   "slot": "UT",
    "status": "ACTIVE",
    "value": 23.8
   },

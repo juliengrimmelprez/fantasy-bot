@@ -40,7 +40,7 @@
   "3135045:20261021"
  ],
  "hot_status": "ok: 250 FAs, 392 games",
- "last_activity_ms": 1793043170200,
+ "last_activity_ms": 1793051631326,
  "last_digest": 1793048297.1155896,
  "last_error_alert": 1792787295.9267383,
  "last_hot_check": 1793051440.0021405,
@@ -1729,7 +1729,7 @@
    "value": 22.4
   },
   "4065804": {
-   "fantasy_team": null,
+   "fantasy_team": "Coringas do Gansola",
    "id": "4065804",
    "mpg": 20.5,
    "name": "Sam Hauser",
@@ -1739,7 +1739,7 @@
     "PF"
    ],
    "return_date": null,
-   "slot": "",
+   "slot": "UT",
    "status": "ACTIVE",
    "value": 17.8
   },
@@ -1782,7 +1782,7 @@
     "SG"
    ],
    "return_date": null,
-   "slot": "UT",
+   "slot": "BE",
    "status": "ACTIVE",
    "value": 42.5
   },
@@ -2413,7 +2413,7 @@
    "value": 15.6
   },
   "4278580": {
-   "fantasy_team": "Coringas do Gansola",
+   "fantasy_team": null,
    "id": "4278580",
    "mpg": 22.3,
    "name": "Sandro Mamukelashvili",
@@ -2423,7 +2423,7 @@
     "C"
    ],
    "return_date": null,
-   "slot": "BE",
+   "slot": "",
    "status": "ACTIVE",
    "value": 17.7
   },

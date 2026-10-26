@@ -40,7 +40,7 @@
   "3134907:20261023"
  ],
  "hot_status": "ok: 250 FAs, 391 games",
- "last_activity_ms": 1792976646786,
+ "last_activity_ms": 1793016135026,
  "last_digest": 1793015057.8051324,
  "last_error_alert": 1792787295.9267383,
  "last_hot_check": 1793015897.2429368,
@@ -1919,21 +1919,6 @@
    "slot": "",
    "status": "ACTIVE",
    "value": 0.0
-  },
-  "4066436": {
-   "fantasy_team": null,
-   "id": "4066436",
-   "mpg": 22.7,
-   "name": "De'Anthony Melton",
-   "nba_team": "GSW",
-   "positions": [
-    "PG",
-    "SG"
-   ],
-   "return_date": null,
-   "slot": "",
-   "status": "ACTIVE",
-   "value": 26.0
   },
   "4066457": {
    "fantasy_team": "King Coopa",

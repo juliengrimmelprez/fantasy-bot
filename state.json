@@ -47,7 +47,7 @@
   "5112087:20261022"
  ],
  "hot_status": "ok: 250 FAs, 483 games",
- "last_activity_ms": 1793129473659,
+ "last_activity_ms": 1793141971151,
  "last_digest": 1793140578.5254974,
  "last_error_alert": 1792787295.9267383,
  "last_hot_check": 1793141657.539707,
@@ -1402,7 +1402,7 @@
    "value": 38.5
   },
   "3914044": {
-   "fantasy_team": null,
+   "fantasy_team": "Bull Market",
    "id": "3914044",
    "mpg": 22.7,
    "name": "Landry Shamet",
@@ -1411,7 +1411,7 @@
     "SG"
    ],
    "return_date": null,
-   "slot": "",
+   "slot": "UT",
    "status": "ACTIVE",
    "value": 10.5
   },
@@ -5574,6 +5574,20 @@
    "slot": "",
    "status": "ACTIVE",
    "value": 13.6
+  },
+  "5105806": {
+   "fantasy_team": null,
+   "id": "5105806",
+   "mpg": 4.0,
+   "name": "Jett Howard",
+   "nba_team": "DAL",
+   "positions": [
+    "SF"
+   ],
+   "return_date": null,
+   "slot": "",
+   "status": "ACTIVE",
+   "value": 6.1
   },
   "5105809": {
    "fantasy_team": null,

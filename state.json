@@ -46,11 +46,11 @@
   "4278585:20261025",
   "5081727:20261024"
  ],
- "hot_status": "ok: 250 FAs, 484 games",
+ "hot_status": "ok: 250 FAs, 487 games",
  "last_activity_ms": 1793141971151,
  "last_digest": 1793144181.802446,
  "last_error_alert": 1792787295.9267383,
- "last_hot_check": 1793144536.8227172,
+ "last_hot_check": 1793145497.5033927,
  "last_run": "2026-10-19T22:05:14+00:00",
  "matchup_periods": {
   "1": [
@@ -1058,7 +1058,7 @@
   "3150844": {
    "fantasy_team": null,
    "id": "3150844",
-   "mpg": 11.8,
+   "mpg": 12.0,
    "name": "Moritz Wagner",
    "nba_team": "BKN",
    "positions": [
@@ -1067,7 +1067,7 @@
    "return_date": null,
    "slot": "",
    "status": "ACTIVE",
-   "value": 9.5
+   "value": 9.9
   },
   "3155526": {
    "fantasy_team": "Fernando  Diniz",
@@ -1636,7 +1636,7 @@
   "4065648": {
    "fantasy_team": "Caxias French Fries",
    "id": "4065648",
-   "mpg": 27.5,
+   "mpg": 27.8,
    "name": "Jayson Tatum",
    "nba_team": "BOS",
    "positions": [
@@ -1646,7 +1646,7 @@
    "return_date": null,
    "slot": "SF",
    "status": "ACTIVE",
-   "value": 38.3
+   "value": 38.6
   },
   "4065654": {
    "fantasy_team": null,
@@ -1738,7 +1738,7 @@
   "4065804": {
    "fantasy_team": "Coringas do Gansola",
    "id": "4065804",
-   "mpg": 15.5,
+   "mpg": 15.8,
    "name": "Sam Hauser",
    "nba_team": "BOS",
    "positions": [
@@ -1870,7 +1870,7 @@
   "4066354": {
    "fantasy_team": "Coringas do Gansola",
    "id": "4066354",
-   "mpg": 20.5,
+   "mpg": 20.8,
    "name": "Payton Pritchard",
    "nba_team": "BOS",
    "positions": [
@@ -1880,7 +1880,7 @@
    "return_date": null,
    "slot": "PG",
    "status": "ACTIVE",
-   "value": 24.2
+   "value": 24.8
   },
   "4066372": {
    "fantasy_team": "Bull Market",
@@ -2335,7 +2335,7 @@
   "4278104": {
    "fantasy_team": "Tropa do Nikola",
    "id": "4278104",
-   "mpg": 23.8,
+   "mpg": 24.2,
    "name": "Michael Porter Jr.",
    "nba_team": "BKN",
    "positions": [
@@ -2950,7 +2950,7 @@
   "4397424": {
    "fantasy_team": "King Coopa",
    "id": "4397424",
-   "mpg": 16.0,
+   "mpg": 16.2,
    "name": "Neemias Queta",
    "nba_team": "BOS",
    "positions": [
@@ -2959,7 +2959,7 @@
    "return_date": null,
    "slot": "C",
    "status": "ACTIVE",
-   "value": 19.9
+   "value": 20.5
   },
   "4397475": {
    "fantasy_team": null,
@@ -4580,7 +4580,7 @@
   "4702177": {
    "fantasy_team": "Coringas do Gansola",
    "id": "4702177",
-   "mpg": 20.0,
+   "mpg": 20.2,
    "name": "Keon Ellis",
    "nba_team": "BKN",
    "positions": [
@@ -4590,7 +4590,7 @@
    "return_date": null,
    "slot": "SF",
    "status": "ACTIVE",
-   "value": 19.1
+   "value": 19.7
   },
   "4702352": {
    "fantasy_team": null,
@@ -6009,7 +6009,7 @@
   "5174655": {
    "fantasy_team": null,
    "id": "5174655",
-   "mpg": 13.8,
+   "mpg": 14.0,
    "name": "Chaney Johnson",
    "nba_team": "BKN",
    "positions": [
@@ -6052,7 +6052,7 @@
   "5175647": {
    "fantasy_team": null,
    "id": "5175647",
-   "mpg": 9.8,
+   "mpg": 10.2,
    "name": "Hugo Gonzalez",
    "nba_team": "BOS",
    "positions": [
@@ -6293,7 +6293,7 @@
   "5279130": {
    "fantasy_team": null,
    "id": "5279130",
-   "mpg": 13.2,
+   "mpg": 13.8,
    "name": "Nolan Traore",
    "nba_team": "BKN",
    "positions": [
@@ -6302,7 +6302,7 @@
    "return_date": null,
    "slot": "",
    "status": "ACTIVE",
-   "value": 14.4
+   "value": 15.0
   },
   "5279133": {
    "fantasy_team": null,

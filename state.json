@@ -5575,20 +5575,6 @@
    "status": "ACTIVE",
    "value": 13.6
   },
-  "5105806": {
-   "fantasy_team": null,
-   "id": "5105806",
-   "mpg": 4.0,
-   "name": "Jett Howard",
-   "nba_team": "DAL",
-   "positions": [
-    "SF"
-   ],
-   "return_date": null,
-   "slot": "",
-   "status": "ACTIVE",
-   "value": 6.1
-  },
   "5105809": {
    "fantasy_team": null,
    "id": "5105809",
@@ -5746,6 +5732,20 @@
    "slot": "",
    "status": "ACTIVE",
    "value": 8.4
+  },
+  "5107968": {
+   "fantasy_team": null,
+   "id": "5107968",
+   "mpg": 2.0,
+   "name": "Ja'Kobi Gillespie",
+   "nba_team": "SAS",
+   "positions": [
+    "PG"
+   ],
+   "return_date": null,
+   "slot": "",
+   "status": "ACTIVE",
+   "value": 3.0
   },
   "5108024": {
    "fantasy_team": null,

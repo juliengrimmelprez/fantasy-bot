@@ -47,7 +47,7 @@
   "4065731:20261025"
  ],
  "hot_status": "ok: 250 FAs, 481 games",
- "last_activity_ms": 1793107032563,
+ "last_activity_ms": 1793118353101,
  "last_digest": 1793114782.4337826,
  "last_error_alert": 1792787295.9267383,
  "last_hot_check": 1793117659.8922243,
@@ -1692,7 +1692,7 @@
    "value": 16.3
   },
   "4065732": {
-   "fantasy_team": null,
+   "fantasy_team": "Bull Market",
    "id": "4065732",
    "mpg": 24.7,
    "name": "De'Andre Hunter",
@@ -1702,7 +1702,7 @@
     "PF"
    ],
    "return_date": null,
-   "slot": "",
+   "slot": "UT",
    "status": "ACTIVE",
    "value": 13.5
   },
@@ -1883,7 +1883,7 @@
    "value": 28.6
   },
   "4066372": {
-   "fantasy_team": null,
+   "fantasy_team": "Bull Market",
    "id": "4066372",
    "mpg": 21.3,
    "name": "Kevin Huerter",
@@ -1893,7 +1893,7 @@
     "SF"
    ],
    "return_date": null,
-   "slot": "",
+   "slot": "UT",
    "status": "ACTIVE",
    "value": 15.7
   },
@@ -4360,7 +4360,7 @@
    "value": 6.2
   },
   "4683766": {
-   "fantasy_team": "Bull Market",
+   "fantasy_team": null,
    "id": "4683766",
    "mpg": 17.0,
    "name": "Isaiah Collier",
@@ -4369,7 +4369,7 @@
     "PG"
    ],
    "return_date": null,
-   "slot": "UT",
+   "slot": "",
    "status": "ACTIVE",
    "value": 18.9
   },
@@ -6494,7 +6494,7 @@
    "value": 19.4
   },
   "6589": {
-   "fantasy_team": "Bull Market",
+   "fantasy_team": null,
    "id": "6589",
    "mpg": 26.3,
    "name": "Draymond Green",
@@ -6504,7 +6504,7 @@
     "C"
    ],
    "return_date": null,
-   "slot": "UT",
+   "slot": "",
    "status": "ACTIVE",
    "value": 19.4
   },

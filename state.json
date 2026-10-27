@@ -4125,7 +4125,7 @@
    ],
    "return_date": null,
    "slot": "UT",
-   "status": "DAY_TO_DAY",
+   "status": "OUT",
    "value": 50.2
   },
   "4594326": {
@@ -6608,6 +6608,7 @@
   "planday:8",
   "inj:6450:OUT",
   "drop:4277961:1793129277492",
-  "inj:4871144:OUT"
+  "inj:4871144:OUT",
+  "inj:4594268:OUT"
  ]
 }

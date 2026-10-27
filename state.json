@@ -47,7 +47,7 @@
   "4432107:20261022"
  ],
  "hot_status": "ok: 250 FAs, 480 games",
- "last_activity_ms": 1793102549800,
+ "last_activity_ms": 1793104612783,
  "last_digest": 1793103738.8692286,
  "last_error_alert": 1792787295.9267383,
  "last_hot_check": 1793104225.062891,
@@ -112,7 +112,7 @@
   ]
  },
  "matchup_periods_day": "2026-10-27",
- "plan_status": "ok: day 8, matchup 2 [7]..[13], adds left 10, opp Contagem Hunters",
+ "plan_status": "ok: day 8, matchup 2 [7]..[13], adds left 9, opp Contagem Hunters",
  "players": {
   "1966": {
    "fantasy_team": "Lucky",
@@ -3937,7 +3937,7 @@
    "value": 21.1
   },
   "4576087": {
-   "fantasy_team": null,
+   "fantasy_team": "King Coopa",
    "id": "4576087",
    "mpg": 32.7,
    "name": "Peyton Watson",
@@ -3947,7 +3947,7 @@
     "PF"
    ],
    "return_date": null,
-   "slot": "",
+   "slot": "BE",
    "status": "ACTIVE",
    "value": 27.1
   },
@@ -4520,7 +4520,7 @@
    "value": 19.0
   },
   "4698719": {
-   "fantasy_team": "King Coopa",
+   "fantasy_team": null,
    "id": "4698719",
    "mpg": 21.0,
    "name": "Trevon Brazile",
@@ -4530,7 +4530,7 @@
     "PF"
    ],
    "return_date": null,
-   "slot": "BE",
+   "slot": "",
    "status": "ACTIVE",
    "value": 18.0
   },
@@ -5216,7 +5216,7 @@
     "PF"
    ],
    "return_date": null,
-   "slot": "BE",
+   "slot": "UT",
    "status": "ACTIVE",
    "value": 55.8
   },
@@ -5973,7 +5973,7 @@
     "C"
    ],
    "return_date": null,
-   "slot": "UT",
+   "slot": "BE",
    "status": "ACTIVE",
    "value": 28.1
   },

@@ -47,7 +47,7 @@
   "4065731:20261025"
  ],
  "hot_status": "ok: 250 FAs, 482 games",
- "last_activity_ms": 1793118353101,
+ "last_activity_ms": 1793129277492,
  "last_digest": 1793125939.5826023,
  "last_error_alert": 1792787295.9267383,
  "last_hot_check": 1793129179.5834775,
@@ -2203,7 +2203,7 @@
    "value": 20.7
   },
   "4277961": {
-   "fantasy_team": "Bull Market",
+   "fantasy_team": null,
    "id": "4277961",
    "mpg": 26.0,
    "name": "Jaren Jackson Jr.",
@@ -2213,7 +2213,7 @@
     "C"
    ],
    "return_date": null,
-   "slot": "C",
+   "slot": "",
    "status": "OUT",
    "value": 28.5
   },
@@ -3710,20 +3710,6 @@
    "nba_team": "SAC",
    "positions": [
     "C"
-   ],
-   "return_date": null,
-   "slot": "",
-   "status": "OUT",
-   "value": 0.0
-  },
-  "4433188": {
-   "fantasy_team": null,
-   "id": "4433188",
-   "mpg": null,
-   "name": "Devin Carter",
-   "nba_team": "BOS",
-   "positions": [
-    "PG"
    ],
    "return_date": null,
    "slot": "",
@@ -6606,6 +6592,7 @@
   "drop:4397189:1793106961694",
   "diag:8",
   "planday:8",
-  "inj:6450:OUT"
+  "inj:6450:OUT",
+  "drop:4277961:1793129277492"
  ]
 }

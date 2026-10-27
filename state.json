@@ -47,7 +47,7 @@
   "4432107:20261022"
  ],
  "hot_status": "ok: 250 FAs, 478 games",
- "last_activity_ms": 1793104612783,
+ "last_activity_ms": 1793106961694,
  "last_digest": 1793103738.8692286,
  "last_error_alert": 1792787295.9267383,
  "last_hot_check": 1793106139.0321531,
@@ -2904,7 +2904,7 @@
    "value": 27.9
   },
   "4397189": {
-   "fantasy_team": "Lucky",
+   "fantasy_team": null,
    "id": "4397189",
    "mpg": 21.8,
    "name": "Jalen Smith",
@@ -2914,7 +2914,7 @@
     "C"
    ],
    "return_date": null,
-   "slot": "BE",
+   "slot": "",
    "status": "ACTIVE",
    "value": 23.6
   },
@@ -5575,20 +5575,6 @@
    "status": "ACTIVE",
    "value": 13.6
   },
-  "5105806": {
-   "fantasy_team": null,
-   "id": "5105806",
-   "mpg": 4.0,
-   "name": "Jett Howard",
-   "nba_team": "DAL",
-   "positions": [
-    "SF"
-   ],
-   "return_date": null,
-   "slot": "",
-   "status": "ACTIVE",
-   "value": 6.1
-  },
   "5105809": {
    "fantasy_team": null,
    "id": "5105809",
@@ -6602,6 +6588,7 @@
   "inj:4432165:OUT",
   "inj:4395712:OUT",
   "inj:5041939:ACTIVE",
-  "hot:4433192:20261027"
+  "hot:4433192:20261027",
+  "drop:4397189:1793106961694"
  ]
 }

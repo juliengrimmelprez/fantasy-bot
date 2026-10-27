@@ -46,11 +46,11 @@
   "4684272:20261021",
   "4432107:20261022"
  ],
- "hot_status": "ok: 250 FAs, 478 games",
- "last_activity_ms": 1793106961694,
+ "hot_status": "ok: 250 FAs, 480 games",
+ "last_activity_ms": 1793107032563,
  "last_digest": 1793103738.8692286,
  "last_error_alert": 1792787295.9267383,
- "last_hot_check": 1793106139.0321531,
+ "last_hot_check": 1793107100.5517216,
  "last_run": "2026-10-19T22:05:14+00:00",
  "matchup_periods": {
   "1": [
@@ -518,7 +518,7 @@
     "C"
    ],
    "return_date": null,
-   "slot": "C",
+   "slot": "UT",
    "status": "ACTIVE",
    "value": 23.2
   },
@@ -1196,7 +1196,7 @@
     "C"
    ],
    "return_date": null,
-   "slot": "UT",
+   "slot": "BE",
    "status": "ACTIVE",
    "value": 32.8
   },
@@ -1751,7 +1751,7 @@
    "value": 18.8
   },
   "4066211": {
-   "fantasy_team": null,
+   "fantasy_team": "Lucky",
    "id": "4066211",
    "mpg": 16.5,
    "name": "Robert Williams III",
@@ -1760,7 +1760,7 @@
     "C"
    ],
    "return_date": null,
-   "slot": "",
+   "slot": "C",
    "status": "ACTIVE",
    "value": 22.1
   },
@@ -5574,6 +5574,20 @@
    "slot": "",
    "status": "ACTIVE",
    "value": 13.6
+  },
+  "5105806": {
+   "fantasy_team": null,
+   "id": "5105806",
+   "mpg": 4.0,
+   "name": "Jett Howard",
+   "nba_team": "DAL",
+   "positions": [
+    "SF"
+   ],
+   "return_date": null,
+   "slot": "",
+   "status": "ACTIVE",
+   "value": 6.1
   },
   "5105809": {
    "fantasy_team": null,

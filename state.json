@@ -47,7 +47,7 @@
   "5279133:20261026"
  ],
  "hot_status": "ok: 250 FAs, 479 games",
- "last_activity_ms": 1793068170034,
+ "last_activity_ms": 1793087389286,
  "last_digest": 1793085260.452197,
  "last_error_alert": 1792787295.9267383,
  "last_hot_check": 1793086938.4155335,
@@ -812,7 +812,7 @@
    "value": 9.9
   },
   "3133628": {
-   "fantasy_team": null,
+   "fantasy_team": "Polga Silva",
    "id": "3133628",
    "mpg": 27.5,
    "name": "Myles Turner",
@@ -821,7 +821,7 @@
     "C"
    ],
    "return_date": null,
-   "slot": "",
+   "slot": "BE",
    "status": "ACTIVE",
    "value": 23.8
   },
@@ -5691,7 +5691,7 @@
    "value": 3.3
   },
   "5107173": {
-   "fantasy_team": "Polga Silva",
+   "fantasy_team": null,
    "id": "5107173",
    "mpg": 15.0,
    "name": "Danny Wolf",
@@ -5701,7 +5701,7 @@
     "C"
    ],
    "return_date": null,
-   "slot": "BE",
+   "slot": "",
    "status": "ACTIVE",
    "value": 13.7
   },

@@ -47,7 +47,7 @@
   "4684272:20261021"
  ],
  "hot_status": "ok: 250 FAs, 478 games",
- "last_activity_ms": 1793087389286,
+ "last_activity_ms": 1793102549800,
  "last_digest": 1793100031.3338048,
  "last_error_alert": 1792787295.9267383,
  "last_hot_check": 1793102295.6587842,
@@ -2693,7 +2693,7 @@
     "SG"
    ],
    "return_date": null,
-   "slot": "PG",
+   "slot": "BE",
    "status": "ACTIVE",
    "value": 39.9
   },
@@ -3223,7 +3223,7 @@
    "value": 13.3
   },
   "4432107": {
-   "fantasy_team": "Contagem Hunters",
+   "fantasy_team": null,
    "id": "4432107",
    "mpg": 21.5,
    "name": "Marcus Sasser",
@@ -3232,7 +3232,7 @@
     "PG"
    ],
    "return_date": null,
-   "slot": "BE",
+   "slot": "",
    "status": "ACTIVE",
    "value": 16.0
   },
@@ -5433,7 +5433,7 @@
    "value": 11.0
   },
   "5101761": {
-   "fantasy_team": null,
+   "fantasy_team": "Contagem Hunters",
    "id": "5101761",
    "mpg": 20.0,
    "name": "Mikel Brown Jr.",
@@ -5442,7 +5442,7 @@
     "PG"
    ],
    "return_date": null,
-   "slot": "",
+   "slot": "PG",
    "status": "ACTIVE",
    "value": 18.0
   },

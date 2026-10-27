@@ -5575,20 +5575,6 @@
    "status": "ACTIVE",
    "value": 13.6
   },
-  "5105806": {
-   "fantasy_team": null,
-   "id": "5105806",
-   "mpg": 4.0,
-   "name": "Jett Howard",
-   "nba_team": "DAL",
-   "positions": [
-    "SF"
-   ],
-   "return_date": null,
-   "slot": "",
-   "status": "ACTIVE",
-   "value": 6.1
-  },
   "5105809": {
    "fantasy_team": null,
    "id": "5105809",
@@ -6019,6 +6005,20 @@
    "slot": "UT",
    "status": "ACTIVE",
    "value": 29.1
+  },
+  "5174655": {
+   "fantasy_team": null,
+   "id": "5174655",
+   "mpg": 17.7,
+   "name": "Chaney Johnson",
+   "nba_team": "BKN",
+   "positions": [
+    "SF"
+   ],
+   "return_date": null,
+   "slot": "",
+   "status": "ACTIVE",
+   "value": 9.0
   },
   "5174983": {
    "fantasy_team": "Lakers x Bortolan 23",

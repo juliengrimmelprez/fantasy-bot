@@ -6388,7 +6388,7 @@
    ],
    "return_date": null,
    "slot": "SF",
-   "status": "DAY_TO_DAY",
+   "status": "OUT",
    "value": 39.6
   },
   "6475": {
@@ -6605,6 +6605,7 @@
   "hot:4433192:20261027",
   "drop:4397189:1793106961694",
   "diag:8",
-  "planday:8"
+  "planday:8",
+  "inj:6450:OUT"
  ]
 }

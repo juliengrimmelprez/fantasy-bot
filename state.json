@@ -825,6 +825,20 @@
    "status": "ACTIVE",
    "value": 23.8
   },
+  "3133635": {
+   "fantasy_team": null,
+   "id": "3133635",
+   "mpg": 13.0,
+   "name": "Jevon Carter",
+   "nba_team": "ORL",
+   "positions": [
+    "PG"
+   ],
+   "return_date": null,
+   "slot": "",
+   "status": "ACTIVE",
+   "value": 10.1
+  },
   "3134903": {
    "fantasy_team": null,
    "id": "3134903",
@@ -3819,20 +3833,6 @@
    "slot": "UT",
    "status": "ACTIVE",
    "value": 33.5
-  },
-  "4433569": {
-   "fantasy_team": null,
-   "id": "4433569",
-   "mpg": 8.3,
-   "name": "Johni Broome",
-   "nba_team": "FA",
-   "positions": [
-    "PF"
-   ],
-   "return_date": null,
-   "slot": "",
-   "status": "ACTIVE",
-   "value": 7.0
   },
   "4433621": {
    "fantasy_team": "Coringas do Gansola",

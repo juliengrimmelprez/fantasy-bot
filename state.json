@@ -3718,6 +3718,20 @@
    "status": "OUT",
    "value": 0.0
   },
+  "4433188": {
+   "fantasy_team": null,
+   "id": "4433188",
+   "mpg": null,
+   "name": "Devin Carter",
+   "nba_team": "BOS",
+   "positions": [
+    "PG"
+   ],
+   "return_date": null,
+   "slot": "",
+   "status": "OUT",
+   "value": 0.0
+  },
   "4433192": {
    "fantasy_team": "Lebron GOAT",
    "id": "4433192",
@@ -3821,20 +3835,6 @@
    "slot": "SF",
    "status": "ACTIVE",
    "value": 33.5
-  },
-  "4433569": {
-   "fantasy_team": null,
-   "id": "4433569",
-   "mpg": 8.3,
-   "name": "Johni Broome",
-   "nba_team": "FA",
-   "positions": [
-    "PF"
-   ],
-   "return_date": null,
-   "slot": "",
-   "status": "ACTIVE",
-   "value": 7.0
   },
   "4433621": {
    "fantasy_team": "Coringas do Gansola",

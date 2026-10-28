@@ -1594,7 +1594,7 @@
   "3995": {
    "fantasy_team": "Polga Silva",
    "id": "3995",
-   "mpg": 15.7,
+   "mpg": 16.0,
    "name": "Jrue Holiday",
    "nba_team": "POR",
    "positions": [
@@ -1754,7 +1754,7 @@
   "4066211": {
    "fantasy_team": "Lucky",
    "id": "4066211",
-   "mpg": 11.7,
+   "mpg": 12.0,
    "name": "Robert Williams III",
    "nba_team": "POR",
    "positions": [
@@ -1763,7 +1763,7 @@
    "return_date": null,
    "slot": "C",
    "status": "ACTIVE",
-   "value": 18.5
+   "value": 19.7
   },
   "4066218": {
    "fantasy_team": null,
@@ -1946,7 +1946,7 @@
   "4066457": {
    "fantasy_team": "King Coopa",
    "id": "4066457",
-   "mpg": 28.0,
+   "mpg": 28.2,
    "name": "Austin Reaves",
    "nba_team": "LAL",
    "positions": [
@@ -1956,7 +1956,7 @@
    "return_date": null,
    "slot": "PG",
    "status": "ACTIVE",
-   "value": 40.3
+   "value": 40.5
   },
   "4066648": {
    "fantasy_team": "Lakers x Bortolan 23",
@@ -2423,7 +2423,7 @@
   "4278580": {
    "fantasy_team": null,
    "id": "4278580",
-   "mpg": 22.3,
+   "mpg": 17.0,
    "name": "Sandro Mamukelashvili",
    "nba_team": "LAL",
    "positions": [
@@ -2433,7 +2433,7 @@
    "return_date": null,
    "slot": "",
    "status": "ACTIVE",
-   "value": 17.7
+   "value": 12.8
   },
   "4278585": {
    "fantasy_team": null,
@@ -2476,7 +2476,7 @@
    "return_date": null,
    "slot": "UT",
    "status": "ACTIVE",
-   "value": 31.4
+   "value": 31.9
   },
   "4280151": {
    "fantasy_team": null,
@@ -2789,7 +2789,7 @@
   "4397014": {
    "fantasy_team": "BL0CK BY ZION",
    "id": "4397014",
-   "mpg": 19.8,
+   "mpg": 20.0,
    "name": "Quentin Grimes",
    "nba_team": "LAL",
    "positions": [
@@ -3717,6 +3717,20 @@
    "status": "OUT",
    "value": 0.0
   },
+  "4433188": {
+   "fantasy_team": null,
+   "id": "4433188",
+   "mpg": null,
+   "name": "Devin Carter",
+   "nba_team": "BOS",
+   "positions": [
+    "PG"
+   ],
+   "return_date": null,
+   "slot": "",
+   "status": "OUT",
+   "value": 0.0
+  },
   "4433218": {
    "fantasy_team": null,
    "id": "4433218",
@@ -4228,20 +4242,6 @@
    "slot": "PF",
    "status": "ACTIVE",
    "value": 28.8
-  },
-  "4683024": {
-   "fantasy_team": null,
-   "id": "4683024",
-   "mpg": null,
-   "name": "Killian Hayes",
-   "nba_team": "FA",
-   "positions": [
-    "PG"
-   ],
-   "return_date": null,
-   "slot": "",
-   "status": "ACTIVE",
-   "value": 0.0
   },
   "4683634": {
    "fantasy_team": null,
@@ -5365,7 +5365,7 @@
   "5081727": {
    "fantasy_team": "Tiki Taka Laranja",
    "id": "5081727",
-   "mpg": 25.5,
+   "mpg": 17.3,
    "name": "Sidy Cissoko",
    "nba_team": "POR",
    "positions": [
@@ -5374,7 +5374,7 @@
    "return_date": null,
    "slot": "UT",
    "status": "ACTIVE",
-   "value": 18.8
+   "value": 13.4
   },
   "5082206": {
    "fantasy_team": null,

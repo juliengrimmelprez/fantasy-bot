@@ -49,7 +49,7 @@
   "4277919:20261027"
  ],
  "hot_status": "ok: 250 FAs, 527 games",
- "last_activity_ms": 1793187461009,
+ "last_activity_ms": 1793202810252,
  "last_digest": 1793199631.4814796,
  "last_error_alert": 1792787295.9267383,
  "last_hot_check": 1793202137.65593,
@@ -2422,7 +2422,7 @@
    "value": 15.6
   },
   "4278580": {
-   "fantasy_team": null,
+   "fantasy_team": "Bull Market",
    "id": "4278580",
    "mpg": 22.8,
    "name": "Sandro Mamukelashvili",
@@ -2432,7 +2432,7 @@
     "C"
    ],
    "return_date": null,
-   "slot": "",
+   "slot": "UT",
    "status": "ACTIVE",
    "value": 21.5
   },
@@ -4290,7 +4290,7 @@
    "value": 27.4
   },
   "4683689": {
-   "fantasy_team": "Bull Market",
+   "fantasy_team": null,
    "id": "4683689",
    "mpg": 18.8,
    "name": "Jordan Walsh",
@@ -4299,7 +4299,7 @@
     "SF"
    ],
    "return_date": null,
-   "slot": "BE",
+   "slot": "",
    "status": "ACTIVE",
    "value": 17.4
   },
@@ -6534,7 +6534,7 @@
     "PG"
    ],
    "return_date": null,
-   "slot": "UT",
+   "slot": "BE",
    "status": "ACTIVE",
    "value": 36.7
   },

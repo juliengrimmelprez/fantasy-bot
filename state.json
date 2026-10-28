@@ -51,7 +51,7 @@
  "last_activity_ms": 1793156690858,
  "last_digest": 1793162545.6737223,
  "last_error_alert": 1792787295.9267383,
- "last_hot_check": 1793161826.9649956,
+ "last_hot_check": 1793162779.5847678,
  "last_run": "2026-10-19T22:05:14+00:00",
  "matchup_periods": {
   "1": [
@@ -1303,7 +1303,7 @@
   "3907498": {
    "fantasy_team": "Contagem Hunters",
    "id": "3907498",
-   "mpg": 20.5,
+   "mpg": 20.8,
    "name": "Matisse Thybulle",
    "nba_team": "LAL",
    "positions": [
@@ -1521,7 +1521,7 @@
   "3945274": {
    "fantasy_team": "Lakers x Bortolan 23",
    "id": "3945274",
-   "mpg": 31.0,
+   "mpg": 31.2,
    "name": "Luka Doncic",
    "nba_team": "LAL",
    "positions": [
@@ -1530,7 +1530,7 @@
    "return_date": null,
    "slot": "PG",
    "status": "ACTIVE",
-   "value": 54.0
+   "value": 54.9
   },
   "3948153": {
    "fantasy_team": null,
@@ -1946,7 +1946,7 @@
   "4066457": {
    "fantasy_team": "King Coopa",
    "id": "4066457",
-   "mpg": 31.8,
+   "mpg": 32.0,
    "name": "Austin Reaves",
    "nba_team": "LAL",
    "positions": [
@@ -2467,7 +2467,7 @@
   "4279888": {
    "fantasy_team": "BL0CK BY ZION",
    "id": "4279888",
-   "mpg": 21.7,
+   "mpg": 22.3,
    "name": "Ja Morant",
    "nba_team": "POR",
    "positions": [
@@ -2476,7 +2476,7 @@
    "return_date": null,
    "slot": "UT",
    "status": "ACTIVE",
-   "value": 34.4
+   "value": 35.1
   },
   "4280151": {
    "fantasy_team": null,
@@ -3138,7 +3138,7 @@
   "4431736": {
    "fantasy_team": "King Coopa",
    "id": "4431736",
-   "mpg": 21.0,
+   "mpg": 21.7,
    "name": "Toumani Camara",
    "nba_team": "POR",
    "positions": [
@@ -3148,7 +3148,7 @@
    "return_date": null,
    "slot": "UT",
    "status": "ACTIVE",
-   "value": 26.9
+   "value": 28.2
   },
   "4431752": {
    "fantasy_team": null,
@@ -3663,7 +3663,7 @@
   "4433136": {
    "fantasy_team": "Tropa do Nikola",
    "id": "4433136",
-   "mpg": 27.5,
+   "mpg": 28.0,
    "name": "Walker Kessler",
    "nba_team": "LAL",
    "positions": [
@@ -3672,12 +3672,12 @@
    "return_date": null,
    "slot": "C",
    "status": "ACTIVE",
-   "value": 37.2
+   "value": 37.8
   },
   "4433137": {
    "fantasy_team": "Tropa do Nikola",
    "id": "4433137",
-   "mpg": 25.0,
+   "mpg": 25.2,
    "name": "Ziaire Williams",
    "nba_team": "LAL",
    "positions": [
@@ -4231,7 +4231,7 @@
   "4683021": {
    "fantasy_team": "Contagem Hunters",
    "id": "4683021",
-   "mpg": 26.0,
+   "mpg": 26.7,
    "name": "Deni Avdija",
    "nba_team": "POR",
    "positions": [
@@ -4241,7 +4241,7 @@
    "return_date": null,
    "slot": "PF",
    "status": "ACTIVE",
-   "value": 34.6
+   "value": 35.6
   },
   "4683634": {
    "fantasy_team": null,
@@ -5507,7 +5507,7 @@
   "5105565": {
    "fantasy_team": "Polga Silva",
    "id": "5105565",
-   "mpg": 19.3,
+   "mpg": 19.7,
    "name": "Donovan Clingan",
    "nba_team": "POR",
    "positions": [
@@ -5516,7 +5516,7 @@
    "return_date": null,
    "slot": "UT",
    "status": "ACTIVE",
-   "value": 25.7
+   "value": 26.0
   },
   "5105592": {
    "fantasy_team": null,
@@ -6511,7 +6511,7 @@
   "6606": {
    "fantasy_team": "Bull Market",
    "id": "6606",
-   "mpg": 24.7,
+   "mpg": 25.0,
    "name": "Damian Lillard",
    "nba_team": "POR",
    "positions": [

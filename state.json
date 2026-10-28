@@ -47,11 +47,11 @@
   "5112087:20261022",
   "3133602:20261022"
  ],
- "hot_status": "ok: 249 FAs, 510 games",
+ "hot_status": "ok: 249 FAs, 511 games",
  "last_activity_ms": 1793156690858,
  "last_digest": 1793158939.063079,
  "last_error_alert": 1792787295.9267383,
- "last_hot_check": 1793159897.9780748,
+ "last_hot_check": 1793160857.0549417,
  "last_run": "2026-10-19T22:05:14+00:00",
  "matchup_periods": {
   "1": [
@@ -1521,7 +1521,7 @@
   "3945274": {
    "fantasy_team": "Lakers x Bortolan 23",
    "id": "3945274",
-   "mpg": 29.8,
+   "mpg": 30.0,
    "name": "Luka Doncic",
    "nba_team": "LAL",
    "positions": [
@@ -1530,7 +1530,7 @@
    "return_date": null,
    "slot": "PG",
    "status": "ACTIVE",
-   "value": 51.3
+   "value": 51.5
   },
   "3948153": {
    "fantasy_team": null,
@@ -3138,7 +3138,7 @@
   "4431736": {
    "fantasy_team": "King Coopa",
    "id": "4431736",
-   "mpg": 20.3,
+   "mpg": 20.7,
    "name": "Toumani Camara",
    "nba_team": "POR",
    "positions": [
@@ -6520,7 +6520,7 @@
    "return_date": null,
    "slot": "PG",
    "status": "ACTIVE",
-   "value": 31.4
+   "value": 31.2
   },
   "6609": {
    "fantasy_team": null,

@@ -46,11 +46,11 @@
   "5104155:20261021",
   "4432907:20261025"
  ],
- "hot_status": "ok: 250 FAs, 493 games",
+ "hot_status": "ok: 250 FAs, 496 games",
  "last_activity_ms": 1793141971151,
  "last_digest": 1793147897.0607216,
  "last_error_alert": 1792787295.9267383,
- "last_hot_check": 1793147426.3569849,
+ "last_hot_check": 1793148375.9254584,
  "last_run": "2026-10-19T22:05:14+00:00",
  "matchup_periods": {
   "1": [
@@ -627,7 +627,7 @@
   "3064440": {
    "fantasy_team": "BL0CK BY ZION",
    "id": "3064440",
-   "mpg": 30.8,
+   "mpg": 31.0,
    "name": "Zach LaVine",
    "nba_team": "SAC",
    "positions": [
@@ -637,7 +637,7 @@
    "return_date": null,
    "slot": "SG",
    "status": "ACTIVE",
-   "value": 32.0
+   "value": 31.6
   },
   "3064482": {
    "fantasy_team": "Lakers x Bortolan 23",
@@ -671,7 +671,7 @@
   "3064560": {
    "fantasy_team": null,
    "id": "3064560",
-   "mpg": 11.5,
+   "mpg": 11.8,
    "name": "Luke Kornet",
    "nba_team": "SAS",
    "positions": [
@@ -1101,7 +1101,7 @@
   "3155942": {
    "fantasy_team": "Polga Silva",
    "id": "3155942",
-   "mpg": 29.8,
+   "mpg": 30.0,
    "name": "Domantas Sabonis",
    "nba_team": "SAC",
    "positions": [
@@ -1111,7 +1111,7 @@
    "return_date": null,
    "slot": "PF",
    "status": "ACTIVE",
-   "value": 44.5
+   "value": 45.0
   },
   "3157465": {
    "fantasy_team": "Lucky",
@@ -1781,7 +1781,7 @@
   "4066259": {
    "fantasy_team": "Coringas do Gansola",
    "id": "4066259",
-   "mpg": 26.5,
+   "mpg": 26.8,
    "name": "De'Aaron Fox",
    "nba_team": "SAS",
    "positions": [
@@ -1811,7 +1811,7 @@
   "4066262": {
    "fantasy_team": null,
    "id": "4066262",
-   "mpg": 10.0,
+   "mpg": 10.3,
    "name": "Malik Monk",
    "nba_team": "SAC",
    "positions": [
@@ -3983,7 +3983,7 @@
   "4592479": {
    "fantasy_team": "Lucky",
    "id": "4592479",
-   "mpg": 22.5,
+   "mpg": 22.8,
    "name": "Julian Champagnie",
    "nba_team": "SAS",
    "positions": [
@@ -3993,7 +3993,7 @@
    "return_date": null,
    "slot": "SF",
    "status": "ACTIVE",
-   "value": 26.5
+   "value": 27.8
   },
   "4592492": {
    "fantasy_team": null,
@@ -4769,7 +4769,7 @@
   "4845367": {
    "fantasy_team": "King Coopa",
    "id": "4845367",
-   "mpg": 24.2,
+   "mpg": 24.5,
    "name": "Stephon Castle",
    "nba_team": "SAS",
    "positions": [
@@ -4779,7 +4779,7 @@
    "return_date": null,
    "slot": "SG",
    "status": "ACTIVE",
-   "value": 30.6
+   "value": 31.5
   },
   "4845374": {
    "fantasy_team": null,
@@ -5108,7 +5108,7 @@
   "4917149": {
    "fantasy_team": null,
    "id": "4917149",
-   "mpg": 3.5,
+   "mpg": 4.0,
    "name": "Alex Karaban",
    "nba_team": "SAC",
    "positions": [
@@ -5193,7 +5193,7 @@
   "5037871": {
    "fantasy_team": "Tiki Taka Laranja",
    "id": "5037871",
-   "mpg": 26.8,
+   "mpg": 27.0,
    "name": "Dylan Harper",
    "nba_team": "SAS",
    "positions": [
@@ -5308,7 +5308,7 @@
   "5061568": {
    "fantasy_team": null,
    "id": "5061568",
-   "mpg": 5.5,
+   "mpg": 5.8,
    "name": "Carter Bryant",
    "nba_team": "SAS",
    "positions": [

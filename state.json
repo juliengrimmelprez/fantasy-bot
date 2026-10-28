@@ -49,7 +49,7 @@
   "4432582:20261023"
  ],
  "hot_status": "ok: 250 FAs, 524 games",
- "last_activity_ms": 1793185211985,
+ "last_activity_ms": 1793187461009,
  "last_digest": 1793184738.912524,
  "last_error_alert": 1792787295.9267383,
  "last_hot_check": 1793186779.8513534,
@@ -1175,7 +1175,7 @@
    "value": 17.0
   },
   "3442": {
-   "fantasy_team": null,
+   "fantasy_team": "Coringas do Gansola",
    "id": "3442",
    "mpg": 20.0,
    "name": "DeAndre Jordan",
@@ -1184,7 +1184,7 @@
     "C"
    ],
    "return_date": null,
-   "slot": "",
+   "slot": "UT",
    "status": "ACTIVE",
    "value": 28.0
   },
@@ -3846,7 +3846,7 @@
     "C"
    ],
    "return_date": null,
-   "slot": "UT",
+   "slot": "BE",
    "status": "OUT",
    "value": 34.2
   },
@@ -4566,7 +4566,7 @@
    "value": 6.0
   },
   "4702177": {
-   "fantasy_team": "Coringas do Gansola",
+   "fantasy_team": null,
    "id": "4702177",
    "mpg": 26.0,
    "name": "Keon Ellis",
@@ -4576,7 +4576,7 @@
     "SF"
    ],
    "return_date": null,
-   "slot": "BE",
+   "slot": "",
    "status": "ACTIVE",
    "value": 22.1
   },
@@ -6626,6 +6626,7 @@
   "drop:4277961:1793129277492",
   "inj:4871144:OUT",
   "inj:4594268:OUT",
-  "drop:4432907:1793185211985"
+  "drop:4432907:1793185211985",
+  "drop:4702177:1793187461009"
  ]
 }

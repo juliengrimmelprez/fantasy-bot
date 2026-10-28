@@ -828,6 +828,20 @@
    "status": "ACTIVE",
    "value": 23.8
   },
+  "3133635": {
+   "fantasy_team": null,
+   "id": "3133635",
+   "mpg": 13.0,
+   "name": "Jevon Carter",
+   "nba_team": "ORL",
+   "positions": [
+    "PG"
+   ],
+   "return_date": null,
+   "slot": "",
+   "status": "ACTIVE",
+   "value": 10.1
+  },
   "3134903": {
    "fantasy_team": null,
    "id": "3134903",
@@ -5721,20 +5735,6 @@
    "slot": "",
    "status": "ACTIVE",
    "value": 8.1
-  },
-  "5107968": {
-   "fantasy_team": null,
-   "id": "5107968",
-   "mpg": 2.0,
-   "name": "Ja'Kobi Gillespie",
-   "nba_team": "SAS",
-   "positions": [
-    "PG"
-   ],
-   "return_date": null,
-   "slot": "",
-   "status": "ACTIVE",
-   "value": 3.0
   },
   "5108024": {
    "fantasy_team": null,

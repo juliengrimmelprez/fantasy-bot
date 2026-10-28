@@ -49,11 +49,11 @@
   "6585:20261020",
   "3134907:20261023"
  ],
- "hot_status": "ok: 250 FAs, 541 games",
+ "hot_status": "ok: 250 FAs, 553 games",
  "last_activity_ms": 1793207214124,
  "last_digest": 1793229025.3911839,
  "last_error_alert": 1792787295.9267383,
- "last_hot_check": 1793229979.8553417,
+ "last_hot_check": 1793230935.5152428,
  "last_run": "2026-10-19T22:05:14+00:00",
  "matchup_periods": {
   "1": [
@@ -267,7 +267,7 @@
   "2583632": {
    "fantasy_team": null,
    "id": "2583632",
-   "mpg": 11.4,
+   "mpg": 11.6,
    "name": "Royce O'Neale",
    "nba_team": "CHA",
    "positions": [
@@ -277,7 +277,7 @@
    "return_date": null,
    "slot": "",
    "status": "ACTIVE",
-   "value": 10.4
+   "value": 11.0
   },
   "2595516": {
    "fantasy_team": "Contagem Hunters",
@@ -297,7 +297,7 @@
   "2596112": {
    "fantasy_team": null,
    "id": "2596112",
-   "mpg": 15.0,
+   "mpg": 15.4,
    "name": "Javonte Green",
    "nba_team": "DET",
    "positions": [
@@ -306,7 +306,7 @@
    "return_date": null,
    "slot": "",
    "status": "ACTIVE",
-   "value": 11.4
+   "value": 11.6
   },
   "2779": {
    "fantasy_team": null,
@@ -888,7 +888,7 @@
   "3135045": {
    "fantasy_team": "Lebron GOAT",
    "id": "3135045",
-   "mpg": 23.2,
+   "mpg": 23.6,
    "name": "Grayson Allen",
    "nba_team": "CHA",
    "positions": [
@@ -898,7 +898,7 @@
    "return_date": null,
    "slot": "PG",
    "status": "ACTIVE",
-   "value": 22.5
+   "value": 23.3
   },
   "3135046": {
    "fantasy_team": null,
@@ -1417,7 +1417,7 @@
    "return_date": null,
    "slot": "UT",
    "status": "ACTIVE",
-   "value": 32.5
+   "value": 32.6
   },
   "3934672": {
    "fantasy_team": "Coringas do Gansola",
@@ -1874,7 +1874,7 @@
   "4066372": {
    "fantasy_team": "Bull Market",
    "id": "4066372",
-   "mpg": 16.4,
+   "mpg": 17.0,
    "name": "Kevin Huerter",
    "nba_team": "DET",
    "positions": [
@@ -1884,7 +1884,7 @@
    "return_date": null,
    "slot": "SF",
    "status": "ACTIVE",
-   "value": 15.5
+   "value": 15.3
   },
   "4066383": {
    "fantasy_team": "Caxias French Fries",
@@ -2382,7 +2382,7 @@
   "4278562": {
    "fantasy_team": "King Coopa",
    "id": "4278562",
-   "mpg": 19.6,
+   "mpg": 20.2,
    "name": "Paul Reed",
    "nba_team": "DET",
    "positions": [
@@ -2392,7 +2392,7 @@
    "return_date": null,
    "slot": "UT",
    "status": "ACTIVE",
-   "value": 25.2
+   "value": 25.5
   },
   "4278572": {
    "fantasy_team": null,
@@ -2732,7 +2732,7 @@
   "4396971": {
    "fantasy_team": "Polga Silva",
    "id": "4396971",
-   "mpg": 26.4,
+   "mpg": 26.8,
    "name": "Naz Reid",
    "nba_team": "CHA",
    "positions": [
@@ -2996,7 +2996,7 @@
   "4398207": {
    "fantasy_team": null,
    "id": "4398207",
-   "mpg": 6.8,
+   "mpg": 7.0,
    "name": "Jalen Slawson",
    "nba_team": "IND",
    "positions": [
@@ -3900,7 +3900,7 @@
   "4576060": {
    "fantasy_team": null,
    "id": "4576060",
-   "mpg": 14.2,
+   "mpg": 14.6,
    "name": "Ryan Kalkbrenner",
    "nba_team": "CHA",
    "positions": [
@@ -3909,7 +3909,7 @@
    "return_date": null,
    "slot": "",
    "status": "ACTIVE",
-   "value": 18.4
+   "value": 18.3
   },
   "4576087": {
    "fantasy_team": "King Coopa",
@@ -4439,7 +4439,7 @@
   "4684742": {
    "fantasy_team": "Tropa do Nikola",
    "id": "4684742",
-   "mpg": 20.8,
+   "mpg": 21.0,
    "name": "Ausar Thompson",
    "nba_team": "DET",
    "positions": [
@@ -4449,7 +4449,7 @@
    "return_date": null,
    "slot": "UT",
    "status": "ACTIVE",
-   "value": 21.9
+   "value": 22.5
   },
   "4684793": {
    "fantasy_team": null,
@@ -4769,7 +4769,7 @@
    "return_date": null,
    "slot": "",
    "status": "ACTIVE",
-   "value": 14.2
+   "value": 14.3
   },
   "4848625": {
    "fantasy_team": null,
@@ -5269,7 +5269,7 @@
   "5060701": {
    "fantasy_team": null,
    "id": "5060701",
-   "mpg": 9.0,
+   "mpg": 9.4,
    "name": "Christian Anderson",
    "nba_team": "CHA",
    "positions": [
@@ -5697,7 +5697,7 @@
   "5107199": {
    "fantasy_team": "Lakers x Bortolan 23",
    "id": "5107199",
-   "mpg": 20.0,
+   "mpg": 20.4,
    "name": "Daniss Jenkins",
    "nba_team": "DET",
    "positions": [
@@ -5706,7 +5706,7 @@
    "return_date": null,
    "slot": "UT",
    "status": "ACTIVE",
-   "value": 18.4
+   "value": 19.0
   },
   "5107897": {
    "fantasy_team": null,

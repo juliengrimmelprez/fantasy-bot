@@ -50,7 +50,7 @@
   "3032979:20261021"
  ],
  "hot_status": "ok: 250 FAs, 527 games",
- "last_activity_ms": 1793202810252,
+ "last_activity_ms": 1793207214124,
  "last_digest": 1793207054.9992661,
  "last_error_alert": 1792787295.9267383,
  "last_hot_check": 1793206936.9318979,
@@ -827,20 +827,6 @@
    "slot": "UT",
    "status": "ACTIVE",
    "value": 23.8
-  },
-  "3133635": {
-   "fantasy_team": null,
-   "id": "3133635",
-   "mpg": 13.0,
-   "name": "Jevon Carter",
-   "nba_team": "ORL",
-   "positions": [
-    "PG"
-   ],
-   "return_date": null,
-   "slot": "",
-   "status": "ACTIVE",
-   "value": 10.1
   },
   "3134903": {
    "fantasy_team": null,
@@ -5450,7 +5436,7 @@
    "value": 11.0
   },
   "5101761": {
-   "fantasy_team": "Contagem Hunters",
+   "fantasy_team": null,
    "id": "5101761",
    "mpg": 22.7,
    "name": "Mikel Brown Jr.",
@@ -5459,7 +5445,7 @@
     "PG"
    ],
    "return_date": null,
-   "slot": "BE",
+   "slot": "",
    "status": "ACTIVE",
    "value": 20.3
   },
@@ -5847,7 +5833,7 @@
     "SF"
    ],
    "return_date": null,
-   "slot": "IR",
+   "slot": "BE",
    "status": "ACTIVE",
    "value": 32.9
   },

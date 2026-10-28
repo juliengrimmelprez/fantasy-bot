@@ -47,11 +47,11 @@
   "5112087:20261022",
   "3133602:20261022"
  ],
- "hot_status": "ok: 249 FAs, 509 games",
+ "hot_status": "ok: 249 FAs, 510 games",
  "last_activity_ms": 1793156690858,
  "last_digest": 1793158939.063079,
  "last_error_alert": 1792787295.9267383,
- "last_hot_check": 1793158939.0622518,
+ "last_hot_check": 1793159897.9780748,
  "last_run": "2026-10-19T22:05:14+00:00",
  "matchup_periods": {
   "1": [
@@ -1088,7 +1088,7 @@
   "3155535": {
    "fantasy_team": null,
    "id": "3155535",
-   "mpg": 7.0,
+   "mpg": 7.5,
    "name": "Kevon Looney",
    "nba_team": "LAL",
    "positions": [
@@ -1594,7 +1594,7 @@
   "3995": {
    "fantasy_team": "Polga Silva",
    "id": "3995",
-   "mpg": 18.0,
+   "mpg": 18.3,
    "name": "Jrue Holiday",
    "nba_team": "POR",
    "positions": [
@@ -1946,7 +1946,7 @@
   "4066457": {
    "fantasy_team": "King Coopa",
    "id": "4066457",
-   "mpg": 29.5,
+   "mpg": 29.8,
    "name": "Austin Reaves",
    "nba_team": "LAL",
    "positions": [
@@ -2047,7 +2047,7 @@
   "4277811": {
    "fantasy_team": null,
    "id": "4277811",
-   "mpg": 14.7,
+   "mpg": 15.0,
    "name": "Collin Sexton",
    "nba_team": "LAL",
    "positions": [
@@ -2057,7 +2057,7 @@
    "return_date": null,
    "slot": "",
    "status": "ACTIVE",
-   "value": 16.4
+   "value": 16.9
   },
   "4277813": {
    "fantasy_team": null,
@@ -3677,7 +3677,7 @@
   "4433137": {
    "fantasy_team": "Tropa do Nikola",
    "id": "4433137",
-   "mpg": 23.0,
+   "mpg": 23.5,
    "name": "Ziaire Williams",
    "nba_team": "LAL",
    "positions": [
@@ -3687,7 +3687,7 @@
    "return_date": null,
    "slot": "SG",
    "status": "ACTIVE",
-   "value": 22.0
+   "value": 22.2
   },
   "4433144": {
    "fantasy_team": null,
@@ -3998,7 +3998,7 @@
   "4592691": {
    "fantasy_team": "CCCP  Баскетбол",
    "id": "4592691",
-   "mpg": 13.3,
+   "mpg": 14.0,
    "name": "Jake LaRavia",
    "nba_team": "LAL",
    "positions": [
@@ -4008,7 +4008,7 @@
    "return_date": null,
    "slot": "SF",
    "status": "ACTIVE",
-   "value": 17.4
+   "value": 18.4
   },
   "4592714": {
    "fantasy_team": null,
@@ -4231,7 +4231,7 @@
   "4683021": {
    "fantasy_team": "Contagem Hunters",
    "id": "4683021",
-   "mpg": 24.3,
+   "mpg": 24.7,
    "name": "Deni Avdija",
    "nba_team": "POR",
    "positions": [
@@ -4241,7 +4241,7 @@
    "return_date": null,
    "slot": "PF",
    "status": "ACTIVE",
-   "value": 33.1
+   "value": 35.1
   },
   "4683634": {
    "fantasy_team": null,
@@ -4261,7 +4261,7 @@
   "4683678": {
    "fantasy_team": null,
    "id": "4683678",
-   "mpg": 16.0,
+   "mpg": 16.7,
    "name": "Scoot Henderson",
    "nba_team": "POR",
    "positions": [
@@ -4271,7 +4271,7 @@
    "return_date": null,
    "slot": "",
    "status": "ACTIVE",
-   "value": 10.3
+   "value": 9.8
   },
   "4683688": {
    "fantasy_team": "Polga Silva",
@@ -5365,7 +5365,7 @@
   "5081727": {
    "fantasy_team": "Tiki Taka Laranja",
    "id": "5081727",
-   "mpg": 19.7,
+   "mpg": 20.0,
    "name": "Sidy Cissoko",
    "nba_team": "POR",
    "positions": [
@@ -5374,7 +5374,7 @@
    "return_date": null,
    "slot": "UT",
    "status": "ACTIVE",
-   "value": 15.4
+   "value": 15.6
   },
   "5082206": {
    "fantasy_team": null,
@@ -5507,7 +5507,7 @@
   "5105565": {
    "fantasy_team": "Polga Silva",
    "id": "5105565",
-   "mpg": 17.3,
+   "mpg": 17.7,
    "name": "Donovan Clingan",
    "nba_team": "POR",
    "positions": [
@@ -5516,7 +5516,7 @@
    "return_date": null,
    "slot": "UT",
    "status": "ACTIVE",
-   "value": 25.5
+   "value": 25.7
   },
   "5105592": {
    "fantasy_team": null,

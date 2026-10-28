@@ -48,7 +48,7 @@
   "3150844:20261027"
  ],
  "hot_status": "ok: 250 FAs, 510 games",
- "last_activity_ms": 1793141971151,
+ "last_activity_ms": 1793156690858,
  "last_digest": 1793155336.796088,
  "last_error_alert": 1792787295.9267383,
  "last_hot_check": 1793156057.7461286,
@@ -3716,21 +3716,6 @@
    "slot": "",
    "status": "OUT",
    "value": 0.0
-  },
-  "4433192": {
-   "fantasy_team": null,
-   "id": "4433192",
-   "mpg": 23.5,
-   "name": "Tari Eason",
-   "nba_team": "HOU",
-   "positions": [
-    "SF",
-    "PF"
-   ],
-   "return_date": null,
-   "slot": "",
-   "status": "ACTIVE",
-   "value": 24.4
   },
   "4433218": {
    "fantasy_team": null,

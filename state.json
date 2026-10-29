@@ -2695,20 +2695,6 @@
    "status": "ACTIVE",
    "value": 39.1
   },
-  "4396818": {
-   "fantasy_team": null,
-   "id": "4396818",
-   "mpg": null,
-   "name": "Jordan Miller",
-   "nba_team": "LAC",
-   "positions": [
-    "SF"
-   ],
-   "return_date": null,
-   "slot": "",
-   "status": "OUT",
-   "value": 0.0
-  },
   "4396907": {
    "fantasy_team": "Tropa do Nikola",
    "id": "4396907",
@@ -3708,6 +3694,20 @@
    "nba_team": "SAC",
    "positions": [
     "C"
+   ],
+   "return_date": null,
+   "slot": "",
+   "status": "OUT",
+   "value": 0.0
+  },
+  "4433188": {
+   "fantasy_team": null,
+   "id": "4433188",
+   "mpg": null,
+   "name": "Devin Carter",
+   "nba_team": "BOS",
+   "positions": [
+    "PG"
    ],
    "return_date": null,
    "slot": "",
@@ -5630,20 +5630,6 @@
    "status": "ACTIVE",
    "value": 1.0
   },
-  "5106058": {
-   "fantasy_team": null,
-   "id": "5106058",
-   "mpg": 16.2,
-   "name": "Emanuel Sharp",
-   "nba_team": "SAC",
-   "positions": [
-    "SG"
-   ],
-   "return_date": null,
-   "slot": "",
-   "status": "ACTIVE",
-   "value": 8.5
-  },
   "5106060": {
    "fantasy_team": null,
    "id": "5106060",
@@ -5744,6 +5730,20 @@
    "slot": "",
    "status": "ACTIVE",
    "value": 8.1
+  },
+  "5107968": {
+   "fantasy_team": null,
+   "id": "5107968",
+   "mpg": 2.0,
+   "name": "Ja'Kobi Gillespie",
+   "nba_team": "SAS",
+   "positions": [
+    "PG"
+   ],
+   "return_date": null,
+   "slot": "",
+   "status": "ACTIVE",
+   "value": 3.0
   },
   "5108024": {
    "fantasy_team": null,

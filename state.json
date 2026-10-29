@@ -3714,20 +3714,6 @@
    "status": "OUT",
    "value": 0.0
   },
-  "4433188": {
-   "fantasy_team": null,
-   "id": "4433188",
-   "mpg": null,
-   "name": "Devin Carter",
-   "nba_team": "BOS",
-   "positions": [
-    "PG"
-   ],
-   "return_date": null,
-   "slot": "",
-   "status": "OUT",
-   "value": 0.0
-  },
   "4433192": {
    "fantasy_team": "Lebron GOAT",
    "id": "4433192",
@@ -5159,6 +5145,20 @@
    "slot": "",
    "status": "OUT",
    "value": 16.9
+  },
+  "4997538": {
+   "fantasy_team": null,
+   "id": "4997538",
+   "mpg": 11.7,
+   "name": "Karlo Matkovic",
+   "nba_team": "NOP",
+   "positions": [
+    "PF"
+   ],
+   "return_date": null,
+   "slot": "",
+   "status": "ACTIVE",
+   "value": 11.0
   },
   "5023693": {
    "fantasy_team": null,

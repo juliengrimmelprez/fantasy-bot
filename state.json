@@ -59,7 +59,7 @@
   "3102529:20261029"
  ],
  "hot_status": "ok: 250 FAs, 633 games",
- "last_activity_ms": 1793287957281,
+ "last_activity_ms": 1793315641521,
  "last_digest": 1793313978.8501675,
  "last_error_alert": 1792787295.9267383,
  "last_hot_check": 1793315538.0246346,
@@ -2144,7 +2144,7 @@
    "value": 40.5
   },
   "4277919": {
-   "fantasy_team": "Coringas do Gansola",
+   "fantasy_team": null,
    "id": "4277919",
    "mpg": 22.5,
    "name": "Mo Bamba",
@@ -2153,7 +2153,7 @@
     "C"
    ],
    "return_date": null,
-   "slot": "BE",
+   "slot": "",
    "status": "ACTIVE",
    "value": 30.5
   },
@@ -3614,7 +3614,7 @@
    "value": 6.3
   },
   "4433083": {
-   "fantasy_team": null,
+   "fantasy_team": "Coringas do Gansola",
    "id": "4433083",
    "mpg": 16.8,
    "name": "Cam Spencer",
@@ -3624,7 +3624,7 @@
     "SG"
    ],
    "return_date": null,
-   "slot": "",
+   "slot": "UT",
    "status": "ACTIVE",
    "value": 18.2
   },
@@ -3755,7 +3755,7 @@
     "PF"
    ],
    "return_date": null,
-   "slot": "UT",
+   "slot": "BE",
    "status": "ACTIVE",
    "value": 31.3
   },
@@ -6632,6 +6632,7 @@
   "planday:10",
   "drop:3134907:1793286026048",
   "drop:5214640:1793287957281",
-  "inj:3907497:OUT"
+  "inj:3907497:OUT",
+  "drop:4277919:1793315641521"
  ]
 }

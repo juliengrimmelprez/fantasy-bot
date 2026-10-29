@@ -3700,20 +3700,6 @@
    "status": "OUT",
    "value": 0.0
   },
-  "4433188": {
-   "fantasy_team": null,
-   "id": "4433188",
-   "mpg": null,
-   "name": "Devin Carter",
-   "nba_team": "BOS",
-   "positions": [
-    "PG"
-   ],
-   "return_date": null,
-   "slot": "",
-   "status": "OUT",
-   "value": 0.0
-  },
   "4433192": {
    "fantasy_team": "Lebron GOAT",
    "id": "4433192",
@@ -5615,6 +5601,20 @@
    "slot": "",
    "status": "ACTIVE",
    "value": 1.0
+  },
+  "5106058": {
+   "fantasy_team": null,
+   "id": "5106058",
+   "mpg": 16.2,
+   "name": "Emanuel Sharp",
+   "nba_team": "SAC",
+   "positions": [
+    "SG"
+   ],
+   "return_date": null,
+   "slot": "",
+   "status": "ACTIVE",
+   "value": 8.0
   },
   "5106060": {
    "fantasy_team": null,

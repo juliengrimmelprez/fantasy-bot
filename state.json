@@ -59,7 +59,7 @@
   "5105637:20261025"
  ],
  "hot_status": "ok: 250 FAs, 630 games",
- "last_activity_ms": 1793238576122,
+ "last_activity_ms": 1793261112372,
  "last_digest": 1793258539.7197375,
  "last_error_alert": 1792787295.9267383,
  "last_hot_check": 1793260702.052929,
@@ -124,7 +124,7 @@
   ]
  },
  "matchup_periods_day": "2026-10-29",
- "plan_status": "ok: day 10, matchup 2 [7]..[13], adds left 9, opp Contagem Hunters",
+ "plan_status": "ok: day 10, matchup 2 [7]..[13], adds left 8, opp Contagem Hunters",
  "players": {
   "1966": {
    "fantasy_team": "Lucky",
@@ -867,7 +867,7 @@
    "value": 24.1
   },
   "3134908": {
-   "fantasy_team": "Tiki Taka Laranja",
+   "fantasy_team": null,
    "id": "3134908",
    "mpg": 19.5,
    "name": "Jakob Poeltl",
@@ -876,7 +876,7 @@
     "C"
    ],
    "return_date": null,
-   "slot": "BE",
+   "slot": "",
    "status": "ACTIVE",
    "value": 15.4
   },
@@ -2201,7 +2201,7 @@
    "value": 18.1
   },
   "4277961": {
-   "fantasy_team": null,
+   "fantasy_team": "King Coopa",
    "id": "4277961",
    "mpg": 26.0,
    "name": "Jaren Jackson Jr.",
@@ -2211,7 +2211,7 @@
     "C"
    ],
    "return_date": null,
-   "slot": "",
+   "slot": "BE",
    "status": "OUT",
    "value": 28.5
   },
@@ -2902,7 +2902,7 @@
    "value": 25.8
   },
   "4397189": {
-   "fantasy_team": null,
+   "fantasy_team": "Tiki Taka Laranja",
    "id": "4397189",
    "mpg": 23.4,
    "name": "Jalen Smith",
@@ -2912,7 +2912,7 @@
     "C"
    ],
    "return_date": null,
-   "slot": "",
+   "slot": "BE",
    "status": "ACTIVE",
    "value": 28.2
   },
@@ -2946,7 +2946,7 @@
    "value": 7.0
   },
   "4397424": {
-   "fantasy_team": "King Coopa",
+   "fantasy_team": null,
    "id": "4397424",
    "mpg": 19.5,
    "name": "Neemias Queta",
@@ -2955,7 +2955,7 @@
     "C"
    ],
    "return_date": null,
-   "slot": "BE",
+   "slot": "",
    "status": "ACTIVE",
    "value": 21.8
   },

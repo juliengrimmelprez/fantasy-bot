@@ -59,7 +59,7 @@
   "3102529:20261029"
  ],
  "hot_status": "ok: 250 FAs, 630 games",
- "last_activity_ms": 1793261112372,
+ "last_activity_ms": 1793276175167,
  "last_digest": 1793273300.8166027,
  "last_error_alert": 1792787295.9267383,
  "last_hot_check": 1793276057.309982,
@@ -1881,7 +1881,7 @@
    "value": 25.9
   },
   "4066372": {
-   "fantasy_team": "Bull Market",
+   "fantasy_team": null,
    "id": "4066372",
    "mpg": 19.8,
    "name": "Kevin Huerter",
@@ -1891,7 +1891,7 @@
     "SF"
    ],
    "return_date": null,
-   "slot": "UT",
+   "slot": "",
    "status": "ACTIVE",
    "value": 16.4
   },
@@ -2799,7 +2799,7 @@
    "value": 23.7
   },
   "4397020": {
-   "fantasy_team": null,
+   "fantasy_team": "Bull Market",
    "id": "4397020",
    "mpg": 23.0,
    "name": "Luguentz Dort",
@@ -2809,7 +2809,7 @@
     "SF"
    ],
    "return_date": null,
-   "slot": "",
+   "slot": "BE",
    "status": "ACTIVE",
    "value": 17.6
   },
@@ -3279,7 +3279,7 @@
    "value": 46.7
   },
   "4432170": {
-   "fantasy_team": "Bull Market",
+   "fantasy_team": null,
    "id": "4432170",
    "mpg": 21.5,
    "name": "Isaiah Jackson",
@@ -3289,7 +3289,7 @@
     "C"
    ],
    "return_date": null,
-   "slot": "C",
+   "slot": "",
    "status": "ACTIVE",
    "value": 22.0
   },
@@ -5876,7 +5876,7 @@
    "value": 0.0
   },
   "5149077": {
-   "fantasy_team": null,
+   "fantasy_team": "Bull Market",
    "id": "5149077",
    "mpg": 20.2,
    "name": "Kingston Flemings",
@@ -5886,7 +5886,7 @@
     "PG"
    ],
    "return_date": null,
-   "slot": "",
+   "slot": "UT",
    "status": "ACTIVE",
    "value": 18.9
   },
@@ -6626,6 +6626,7 @@
   "drop:4702177:1793187461009",
   "diag:9",
   "inj:4396993:OUT",
-  "inj:3945274:OUT"
+  "inj:3945274:OUT",
+  "drop:4432170:1793276175167"
  ]
 }

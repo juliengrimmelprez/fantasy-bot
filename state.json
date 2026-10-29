@@ -59,7 +59,7 @@
   "3133628:20261027"
  ],
  "hot_status": "ok: 250 FAs, 630 games",
- "last_activity_ms": 1793281295093,
+ "last_activity_ms": 1793286026048,
  "last_digest": 1793284337.7458773,
  "last_error_alert": 1792787295.9267383,
  "last_hot_check": 1793285776.8072076,
@@ -852,7 +852,7 @@
    "value": 7.4
   },
   "3134907": {
-   "fantasy_team": "Lucky",
+   "fantasy_team": null,
    "id": "3134907",
    "mpg": 27.8,
    "name": "Kyle Kuzma",
@@ -862,7 +862,7 @@
     "PF"
    ],
    "return_date": null,
-   "slot": "BE",
+   "slot": "",
    "status": "ACTIVE",
    "value": 24.1
   },
@@ -5205,7 +5205,7 @@
    "value": 53.3
   },
   "5041951": {
-   "fantasy_team": null,
+   "fantasy_team": "Lucky",
    "id": "5041951",
    "mpg": 19.5,
    "name": "Meleek Thomas",
@@ -5214,7 +5214,7 @@
     "SG"
    ],
    "return_date": null,
-   "slot": "",
+   "slot": "BE",
    "status": "ACTIVE",
    "value": 22.5
   },
@@ -6629,6 +6629,7 @@
   "inj:3945274:OUT",
   "drop:4432170:1793276175167",
   "diag:10",
-  "planday:10"
+  "planday:10",
+  "drop:3134907:1793286026048"
  ]
 }

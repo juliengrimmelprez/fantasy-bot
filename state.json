@@ -3714,6 +3714,20 @@
    "status": "OUT",
    "value": 0.0
   },
+  "4433188": {
+   "fantasy_team": null,
+   "id": "4433188",
+   "mpg": null,
+   "name": "Devin Carter",
+   "nba_team": "BOS",
+   "positions": [
+    "PG"
+   ],
+   "return_date": null,
+   "slot": "",
+   "status": "OUT",
+   "value": 0.0
+  },
   "4433192": {
    "fantasy_team": "Lebron GOAT",
    "id": "4433192",
@@ -5730,20 +5744,6 @@
    "slot": "",
    "status": "ACTIVE",
    "value": 8.1
-  },
-  "5107968": {
-   "fantasy_team": null,
-   "id": "5107968",
-   "mpg": 2.0,
-   "name": "Ja'Kobi Gillespie",
-   "nba_team": "SAS",
-   "positions": [
-    "PG"
-   ],
-   "return_date": null,
-   "slot": "",
-   "status": "ACTIVE",
-   "value": 3.0
   },
   "5108024": {
    "fantasy_team": null,

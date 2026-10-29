@@ -417,7 +417,7 @@
    "return_date": null,
    "slot": "UT",
    "status": "ACTIVE",
-   "value": 31.6
+   "value": 31.2
   },
   "2991230": {
    "fantasy_team": "Coringas do Gansola",
@@ -1173,7 +1173,7 @@
   "3448": {
    "fantasy_team": "Lucky",
    "id": "3448",
-   "mpg": 22.5,
+   "mpg": 22.8,
    "name": "Brook Lopez",
    "nba_team": "LAC",
    "positions": [
@@ -1286,7 +1286,7 @@
   "3907498": {
    "fantasy_team": "Contagem Hunters",
    "id": "3907498",
-   "mpg": 23.6,
+   "mpg": 23.8,
    "name": "Matisse Thybulle",
    "nba_team": "LAL",
    "positions": [
@@ -2030,7 +2030,7 @@
   "4277811": {
    "fantasy_team": null,
    "id": "4277811",
-   "mpg": 17.5,
+   "mpg": 17.8,
    "name": "Collin Sexton",
    "nba_team": "LAL",
    "positions": [
@@ -2406,7 +2406,7 @@
   "4278580": {
    "fantasy_team": "Bull Market",
    "id": "4278580",
-   "mpg": 23.4,
+   "mpg": 23.6,
    "name": "Sandro Mamukelashvili",
    "nba_team": "LAL",
    "positions": [
@@ -2782,7 +2782,7 @@
    "return_date": null,
    "slot": "SF",
    "status": "ACTIVE",
-   "value": 21.1
+   "value": 22.2
   },
   "4397020": {
    "fantasy_team": null,
@@ -3646,7 +3646,7 @@
   "4433136": {
    "fantasy_team": "Tropa do Nikola",
    "id": "4433136",
-   "mpg": 29.2,
+   "mpg": 29.4,
    "name": "Walker Kessler",
    "nba_team": "LAL",
    "positions": [
@@ -4865,7 +4865,7 @@
    ],
    "return_date": null,
    "slot": "BE",
-   "status": "OUT",
+   "status": "DAY_TO_DAY",
    "value": 49.0
   },
   "4871145": {
@@ -5129,7 +5129,7 @@
    ],
    "return_date": null,
    "slot": "",
-   "status": "OUT",
+   "status": "DAY_TO_DAY",
    "value": 19.7
   },
   "4997537": {
@@ -5349,7 +5349,7 @@
   "5075626": {
    "fantasy_team": null,
    "id": "5075626",
-   "mpg": 6.0,
+   "mpg": 6.3,
    "name": "Baba Miller",
    "nba_team": "LAC",
    "positions": [
@@ -5634,7 +5634,7 @@
   "5106258": {
    "fantasy_team": null,
    "id": "5106258",
-   "mpg": 16.2,
+   "mpg": 16.5,
    "name": "Gradey Dick",
    "nba_team": "LAC",
    "positions": [
@@ -6233,7 +6233,7 @@
   "5254165": {
    "fantasy_team": "Lakers x Bortolan 23",
    "id": "5254165",
-   "mpg": 24.2,
+   "mpg": 24.5,
    "name": "Keaton Wagler",
    "nba_team": "LAC",
    "positions": [

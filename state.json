@@ -59,7 +59,7 @@
   "3936099:20261024"
  ],
  "hot_status": "ok: 250 FAs, 631 games",
- "last_activity_ms": 1793276175167,
+ "last_activity_ms": 1793281295093,
  "last_digest": 1793280630.53924,
  "last_error_alert": 1792787295.9267383,
  "last_hot_check": 1793280857.914522,
@@ -124,7 +124,7 @@
   ]
  },
  "matchup_periods_day": "2026-10-29",
- "plan_status": "ok: day 10, matchup 2 [7]..[13], adds left 8, opp Contagem Hunters",
+ "plan_status": "ok: day 10, matchup 2 [7]..[13], adds left 7, opp Contagem Hunters",
  "players": {
   "1966": {
    "fantasy_team": "Lucky",
@@ -618,7 +618,7 @@
     "SF"
    ],
    "return_date": null,
-   "slot": "UT",
+   "slot": "BE",
    "status": "ACTIVE",
    "value": 30.8
   },
@@ -2211,7 +2211,7 @@
     "C"
    ],
    "return_date": null,
-   "slot": "BE",
+   "slot": "IR",
    "status": "OUT",
    "value": 28.5
   },
@@ -3236,7 +3236,7 @@
    "value": 42.5
   },
   "4432165": {
-   "fantasy_team": "King Coopa",
+   "fantasy_team": null,
    "id": "4432165",
    "mpg": 33.3,
    "name": "Jalen Suggs",
@@ -3246,7 +3246,7 @@
     "SG"
    ],
    "return_date": null,
-   "slot": "IR",
+   "slot": "",
    "status": "OUT",
    "value": 26.0
   },
@@ -4413,7 +4413,7 @@
     "SF"
    ],
    "return_date": null,
-   "slot": "SG",
+   "slot": "UT",
    "status": "ACTIVE",
    "value": 37.0
   },
@@ -5847,7 +5847,7 @@
    "value": 27.7
   },
   "5144091": {
-   "fantasy_team": null,
+   "fantasy_team": "King Coopa",
    "id": "5144091",
    "mpg": 23.0,
    "name": "Jeremiah Fears",
@@ -5857,7 +5857,7 @@
     "SG"
    ],
    "return_date": null,
-   "slot": "",
+   "slot": "SG",
    "status": "ACTIVE",
    "value": 14.7
   },

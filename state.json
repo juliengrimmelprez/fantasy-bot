@@ -60,7 +60,7 @@
   "4997538:20261030"
  ],
  "hot_status": "ok: 250 FAs, 652 games",
- "last_activity_ms": 1793382002385,
+ "last_activity_ms": 1793390202860,
  "last_digest": 1793387661.6984043,
  "last_error_alert": 1792787295.9267383,
  "last_hot_check": 1793389823.2204697,
@@ -834,7 +834,7 @@
     "C"
    ],
    "return_date": null,
-   "slot": "UT",
+   "slot": "BE",
    "status": "ACTIVE",
    "value": 22.7
   },
@@ -1108,7 +1108,7 @@
     "C"
    ],
    "return_date": null,
-   "slot": "C",
+   "slot": "UT",
    "status": "ACTIVE",
    "value": 47.7
   },
@@ -1600,7 +1600,7 @@
     "SG"
    ],
    "return_date": null,
-   "slot": "UT",
+   "slot": "BE",
    "status": "ACTIVE",
    "value": 28.4
   },
@@ -1937,7 +1937,7 @@
     "SG"
    ],
    "return_date": null,
-   "slot": "PG",
+   "slot": "SG",
    "status": "ACTIVE",
    "value": 22.4
   },
@@ -2550,7 +2550,7 @@
    "value": 37.2
   },
   "4395626": {
-   "fantasy_team": null,
+   "fantasy_team": "Polga Silva",
    "id": "4395626",
    "mpg": 17.6,
    "name": "Tre Jones",
@@ -2559,7 +2559,7 @@
     "PG"
    ],
    "return_date": null,
-   "slot": "",
+   "slot": "PG",
    "status": "ACTIVE",
    "value": 21.3
   },
@@ -2830,7 +2830,7 @@
    "value": 18.2
   },
   "4397077": {
-   "fantasy_team": "Polga Silva",
+   "fantasy_team": null,
    "id": "4397077",
    "mpg": 27.0,
    "name": "Jaxson Hayes",
@@ -2839,7 +2839,7 @@
     "C"
    ],
    "return_date": null,
-   "slot": "BE",
+   "slot": "",
    "status": "ACTIVE",
    "value": 28.3
   },
@@ -3482,7 +3482,7 @@
    "value": 0.0
   },
   "4432810": {
-   "fantasy_team": "Polga Silva",
+   "fantasy_team": null,
    "id": "4432810",
    "mpg": 17.2,
    "name": "Isaiah Stewart",
@@ -3492,7 +3492,7 @@
     "C"
    ],
    "return_date": null,
-   "slot": "BE",
+   "slot": "",
    "status": "ACTIVE",
    "value": 20.2
   },
@@ -5057,7 +5057,7 @@
     "SF"
    ],
    "return_date": null,
-   "slot": "SG",
+   "slot": "UT",
    "status": "ACTIVE",
    "value": 33.1
   },
@@ -6493,7 +6493,7 @@
    "value": 40.6
   },
   "6585": {
-   "fantasy_team": null,
+   "fantasy_team": "Polga Silva",
    "id": "6585",
    "mpg": 13.4,
    "name": "Andre Drummond",
@@ -6502,7 +6502,7 @@
     "C"
    ],
    "return_date": null,
-   "slot": "",
+   "slot": "C",
    "status": "ACTIVE",
    "value": 19.1
   },
@@ -6639,6 +6639,8 @@
   "hot:4277919:20261029",
   "drop:2991070:1793362582492",
   "diag:11",
-  "planday:11"
+  "planday:11",
+  "drop:4432810:1793390202860",
+  "drop:4397077:1793390180895"
  ]
 }

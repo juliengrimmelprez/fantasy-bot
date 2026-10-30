@@ -806,7 +806,7 @@
     "SF"
    ],
    "return_date": null,
-   "slot": "BE",
+   "slot": "UT",
    "status": "ACTIVE",
    "value": 18.6
   },
@@ -1338,7 +1338,7 @@
     "SG"
    ],
    "return_date": null,
-   "slot": "UT",
+   "slot": "BE",
    "status": "ACTIVE",
    "value": 43.1
   },
@@ -2458,7 +2458,7 @@
     "PF"
    ],
    "return_date": null,
-   "slot": "IR",
+   "slot": "BE",
    "status": "DAY_TO_DAY",
    "value": 28.6
   },
@@ -2751,7 +2751,7 @@
     "SG"
    ],
    "return_date": null,
-   "slot": "UT",
+   "slot": "IR",
    "status": "OUT",
    "value": 50.6
   },

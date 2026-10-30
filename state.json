@@ -62,7 +62,7 @@
  "last_activity_ms": 1793315680702,
  "last_digest": 1793325017.9778466,
  "last_error_alert": 1792787295.9267383,
- "last_hot_check": 1793325136.9351332,
+ "last_hot_check": 1793326097.2694926,
  "last_run": "2026-10-19T22:05:14+00:00",
  "matchup_periods": {
   "1": [
@@ -169,7 +169,7 @@
    "return_date": null,
    "slot": "PG",
    "status": "ACTIVE",
-   "value": 26.9
+   "value": 27.1
   },
   "2528210": {
    "fantasy_team": null,
@@ -495,7 +495,7 @@
   "2995706": {
    "fantasy_team": null,
    "id": "2995706",
-   "mpg": 17.0,
+   "mpg": 17.2,
    "name": "Mario Hezonja",
    "nba_team": "CLE",
    "positions": [
@@ -649,7 +649,7 @@
    "return_date": null,
    "slot": "SG",
    "status": "ACTIVE",
-   "value": 35.0
+   "value": 35.6
   },
   "3064482": {
    "fantasy_team": "Lakers x Bortolan 23",
@@ -1576,7 +1576,7 @@
   "3992": {
    "fantasy_team": "Tiki Taka Laranja",
    "id": "3992",
-   "mpg": 33.6,
+   "mpg": 33.8,
    "name": "James Harden",
    "nba_team": "CLE",
    "positions": [
@@ -1586,7 +1586,7 @@
    "return_date": null,
    "slot": "PG",
    "status": "ACTIVE",
-   "value": 32.7
+   "value": 32.3
   },
   "3995": {
    "fantasy_team": "Polga Silva",
@@ -1839,7 +1839,7 @@
   "4066328": {
    "fantasy_team": "Polga Silva",
    "id": "4066328",
-   "mpg": 27.0,
+   "mpg": 27.2,
    "name": "Jarrett Allen",
    "nba_team": "CLE",
    "positions": [
@@ -2885,7 +2885,7 @@
    "return_date": null,
    "slot": "SG",
    "status": "ACTIVE",
-   "value": 27.2
+   "value": 27.3
   },
   "4397189": {
    "fantasy_team": "Tiki Taka Laranja",
@@ -4226,7 +4226,7 @@
    "return_date": null,
    "slot": "",
    "status": "ACTIVE",
-   "value": 16.3
+   "value": 16.0
   },
   "4683678": {
    "fantasy_team": null,
@@ -4493,7 +4493,7 @@
   "4701230": {
    "fantasy_team": "Lakers x Bortolan 23",
    "id": "4701230",
-   "mpg": 32.2,
+   "mpg": 32.5,
    "name": "Jalen Johnson",
    "nba_team": "ATL",
    "positions": [
@@ -4502,7 +4502,7 @@
    "return_date": null,
    "slot": "PF",
    "status": "ACTIVE",
-   "value": 44.4
+   "value": 45.0
   },
   "4701232": {
    "fantasy_team": null,
@@ -4783,7 +4783,7 @@
   "4869342": {
    "fantasy_team": "King Coopa",
    "id": "4869342",
-   "mpg": 28.0,
+   "mpg": 28.2,
    "name": "Dyson Daniels",
    "nba_team": "ATL",
    "positions": [
@@ -4793,7 +4793,7 @@
    "return_date": null,
    "slot": "PG",
    "status": "ACTIVE",
-   "value": 34.8
+   "value": 35.0
   },
   "4869780": {
    "fantasy_team": "Lucky",
@@ -4808,7 +4808,7 @@
    "return_date": null,
    "slot": "PF",
    "status": "ACTIVE",
-   "value": 26.1
+   "value": 26.4
   },
   "4870562": {
    "fantasy_team": null,
@@ -5074,7 +5074,7 @@
    "return_date": null,
    "slot": "",
    "status": "ACTIVE",
-   "value": 4.0
+   "value": 2.7
   },
   "4997526": {
    "fantasy_team": null,
@@ -5149,7 +5149,7 @@
   "5023693": {
    "fantasy_team": null,
    "id": "5023693",
-   "mpg": 9.5,
+   "mpg": 10.0,
    "name": "Tyrese Proctor",
    "nba_team": "CLE",
    "positions": [

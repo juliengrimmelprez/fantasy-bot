@@ -60,7 +60,7 @@
   "5107199:20261025"
  ],
  "hot_status": "ok: 250 FAs, 649 games",
- "last_activity_ms": 1793362582492,
+ "last_activity_ms": 1793372421202,
  "last_digest": 1793369177.5462077,
  "last_error_alert": 1792787295.9267383,
  "last_hot_check": 1793372296.6586156,
@@ -796,7 +796,7 @@
    "value": 9.6
   },
   "3133603": {
-   "fantasy_team": null,
+   "fantasy_team": "Bull Market",
    "id": "3133603",
    "mpg": 24.2,
    "name": "Kelly Oubre Jr.",
@@ -806,7 +806,7 @@
     "SF"
    ],
    "return_date": null,
-   "slot": "",
+   "slot": "BE",
    "status": "ACTIVE",
    "value": 18.6
   },
@@ -2786,7 +2786,7 @@
    "value": 23.7
   },
   "4397020": {
-   "fantasy_team": "Bull Market",
+   "fantasy_team": null,
    "id": "4397020",
    "mpg": 22.8,
    "name": "Luguentz Dort",
@@ -2796,7 +2796,7 @@
     "SF"
    ],
    "return_date": null,
-   "slot": "BE",
+   "slot": "",
    "status": "ACTIVE",
    "value": 16.8
   },
@@ -5877,7 +5877,7 @@
    "value": 0.0
   },
   "5149077": {
-   "fantasy_team": "Bull Market",
+   "fantasy_team": null,
    "id": "5149077",
    "mpg": 19.5,
    "name": "Kingston Flemings",
@@ -5887,7 +5887,7 @@
     "PG"
    ],
    "return_date": null,
-   "slot": "UT",
+   "slot": "",
    "status": "ACTIVE",
    "value": 18.1
   },
@@ -6507,7 +6507,7 @@
    "value": 19.1
   },
   "6589": {
-   "fantasy_team": null,
+   "fantasy_team": "Bull Market",
    "id": "6589",
    "mpg": 27.8,
    "name": "Draymond Green",
@@ -6517,7 +6517,7 @@
     "C"
    ],
    "return_date": null,
-   "slot": "",
+   "slot": "UT",
    "status": "ACTIVE",
    "value": 20.8
   },

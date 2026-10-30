@@ -63,7 +63,7 @@
  "last_activity_ms": 1793390202860,
  "last_digest": 1793395096.9267824,
  "last_error_alert": 1792787295.9267383,
- "last_hot_check": 1793394624.4595985,
+ "last_hot_check": 1793395577.7670634,
  "last_run": "2026-10-19T22:05:14+00:00",
  "matchup_periods": {
   "1": [
@@ -1295,7 +1295,7 @@
    ],
    "return_date": null,
    "slot": "SG",
-   "status": "DAY_TO_DAY",
+   "status": "ACTIVE",
    "value": 40.9
   },
   "3907498": {
@@ -2198,7 +2198,7 @@
    ],
    "return_date": null,
    "slot": "BE",
-   "status": "DAY_TO_DAY",
+   "status": "OUT",
    "value": 18.1
   },
   "4277961": {

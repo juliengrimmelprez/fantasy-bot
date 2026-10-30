@@ -60,10 +60,10 @@
   "4433225:20261029"
  ],
  "hot_status": "ok: 250 FAs, 652 games",
- "last_activity_ms": 1793372421202,
+ "last_activity_ms": 1793382002385,
  "last_digest": 1793380337.0132198,
  "last_error_alert": 1792787295.9267383,
- "last_hot_check": 1793380940.9930327,
+ "last_hot_check": 1793382125.939123,
  "last_run": "2026-10-19T22:05:14+00:00",
  "matchup_periods": {
   "1": [
@@ -522,7 +522,7 @@
    "value": 0.0
   },
   "3032976": {
-   "fantasy_team": "Lucky",
+   "fantasy_team": "Tropa do Nikola",
    "id": "3032976",
    "mpg": 30.0,
    "name": "Rudy Gobert",
@@ -531,7 +531,7 @@
     "C"
    ],
    "return_date": null,
-   "slot": "C",
+   "slot": "UT",
    "status": "ACTIVE",
    "value": 21.2
   },
@@ -551,7 +551,7 @@
    "value": 49.9
   },
   "3032979": {
-   "fantasy_team": "Tropa do Nikola",
+   "fantasy_team": "Lucky",
    "id": "3032979",
    "mpg": 32.6,
    "name": "Dennis Schroder",
@@ -560,7 +560,7 @@
     "PG"
    ],
    "return_date": null,
-   "slot": "UT",
+   "slot": "PG",
    "status": "DAY_TO_DAY",
    "value": 22.2
   },
@@ -3222,7 +3222,7 @@
    "value": 16.0
   },
   "4432158": {
-   "fantasy_team": "Tropa do Nikola",
+   "fantasy_team": "Lucky",
    "id": "4432158",
    "mpg": 34.4,
    "name": "Evan Mobley",
@@ -3232,7 +3232,7 @@
     "C"
    ],
    "return_date": null,
-   "slot": "UT",
+   "slot": "C",
    "status": "ACTIVE",
    "value": 40.5
   },
@@ -3497,7 +3497,7 @@
    "value": 10.3
   },
   "4432816": {
-   "fantasy_team": "Lucky",
+   "fantasy_team": "Tropa do Nikola",
    "id": "4432816",
    "mpg": 25.6,
    "name": "LaMelo Ball",
@@ -3506,7 +3506,7 @@
     "PG"
    ],
    "return_date": null,
-   "slot": "PG",
+   "slot": "UT",
    "status": "ACTIVE",
    "value": 32.0
   },

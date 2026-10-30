@@ -60,7 +60,7 @@
   "4278594:20261022"
  ],
  "hot_status": "ok: 250 FAs, 649 games",
- "last_activity_ms": 1793355408942,
+ "last_activity_ms": 1793362449998,
  "last_digest": 1793361856.6385002,
  "last_error_alert": 1792787295.9267383,
  "last_hot_check": 1793361634.54659,
@@ -2434,7 +2434,7 @@
    "value": 23.6
   },
   "4278585": {
-   "fantasy_team": null,
+   "fantasy_team": "Tiki Taka Laranja",
    "id": "4278585",
    "mpg": 24.0,
    "name": "Collin Gillespie",
@@ -2443,7 +2443,7 @@
     "PG"
    ],
    "return_date": null,
-   "slot": "",
+   "slot": "UT",
    "status": "ACTIVE",
    "value": 22.1
   },
@@ -5362,7 +5362,7 @@
    "value": 9.3
   },
   "5081727": {
-   "fantasy_team": "Tiki Taka Laranja",
+   "fantasy_team": null,
    "id": "5081727",
    "mpg": 22.5,
    "name": "Sidy Cissoko",
@@ -5371,7 +5371,7 @@
     "SG"
    ],
    "return_date": null,
-   "slot": "UT",
+   "slot": "",
    "status": "ACTIVE",
    "value": 15.8
   },

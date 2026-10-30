@@ -58,11 +58,11 @@
   "5149115:20261025",
   "4432582:20261023"
  ],
- "hot_status": "ok: 250 FAs, 645 games",
+ "hot_status": "ok: 250 FAs, 646 games",
  "last_activity_ms": 1793315680702,
  "last_digest": 1793328623.8049817,
  "last_error_alert": 1792787295.9267383,
- "last_hot_check": 1793328026.5941637,
+ "last_hot_check": 1793328975.4657161,
  "last_run": "2026-10-19T22:05:14+00:00",
  "matchup_periods": {
   "1": [
@@ -407,7 +407,7 @@
   "2991070": {
    "fantasy_team": "Tiki Taka Laranja",
    "id": "2991070",
-   "mpg": 21.4,
+   "mpg": 21.8,
    "name": "Jerami Grant",
    "nba_team": "MEM",
    "positions": [
@@ -1591,7 +1591,7 @@
   "3995": {
    "fantasy_team": "Polga Silva",
    "id": "3995",
-   "mpg": 21.5,
+   "mpg": 22.0,
    "name": "Jrue Holiday",
    "nba_team": "POR",
    "positions": [
@@ -1601,7 +1601,7 @@
    "return_date": null,
    "slot": "PG",
    "status": "ACTIVE",
-   "value": 26.9
+   "value": 27.6
   },
   "4017837": {
    "fantasy_team": "Caxias French Fries",
@@ -2464,7 +2464,7 @@
   "4279888": {
    "fantasy_team": "BL0CK BY ZION",
    "id": "4279888",
-   "mpg": 22.2,
+   "mpg": 22.5,
    "name": "Ja Morant",
    "nba_team": "POR",
    "positions": [
@@ -2473,7 +2473,7 @@
    "return_date": null,
    "slot": "UT",
    "status": "ACTIVE",
-   "value": 32.8
+   "value": 32.6
   },
   "4280151": {
    "fantasy_team": null,
@@ -3121,7 +3121,7 @@
   "4431736": {
    "fantasy_team": "King Coopa",
    "id": "4431736",
-   "mpg": 20.5,
+   "mpg": 20.8,
    "name": "Toumani Camara",
    "nba_team": "POR",
    "positions": [
@@ -3616,7 +3616,7 @@
   "4433083": {
    "fantasy_team": "Coringas do Gansola",
    "id": "4433083",
-   "mpg": 14.4,
+   "mpg": 14.8,
    "name": "Cam Spencer",
    "nba_team": "MEM",
    "positions": [
@@ -3626,7 +3626,7 @@
    "return_date": null,
    "slot": "UT",
    "status": "ACTIVE",
-   "value": 16.4
+   "value": 16.8
   },
   "4433134": {
    "fantasy_team": "Lebron GOAT",
@@ -3910,7 +3910,7 @@
   "4578893": {
    "fantasy_team": null,
    "id": "4578893",
-   "mpg": 6.2,
+   "mpg": 6.8,
    "name": "Vit Krejci",
    "nba_team": "POR",
    "positions": [
@@ -3919,7 +3919,7 @@
    "return_date": null,
    "slot": "",
    "status": "ACTIVE",
-   "value": 8.3
+   "value": 8.2
   },
   "4591725": {
    "fantasy_team": "CCCP  Баскетбол",
@@ -4013,7 +4013,7 @@
   "4593016": {
    "fantasy_team": null,
    "id": "4593016",
-   "mpg": 14.4,
+   "mpg": 14.8,
    "name": "Quinten Post",
    "nba_team": "MEM",
    "positions": [
@@ -4023,7 +4023,7 @@
    "return_date": null,
    "slot": "",
    "status": "ACTIVE",
-   "value": 11.6
+   "value": 13.2
   },
   "4593125": {
    "fantasy_team": null,
@@ -5034,7 +5034,7 @@
   "4903027": {
    "fantasy_team": "Polga Silva",
    "id": "4903027",
-   "mpg": 24.8,
+   "mpg": 25.0,
    "name": "Cedric Coward",
    "nba_team": "MEM",
    "positions": [
@@ -5178,7 +5178,7 @@
   "5041935": {
    "fantasy_team": "BL0CK BY ZION",
    "id": "5041935",
-   "mpg": 28.4,
+   "mpg": 28.6,
    "name": "Cameron Boozer",
    "nba_team": "MEM",
    "positions": [
@@ -5187,7 +5187,7 @@
    "return_date": null,
    "slot": "UT",
    "status": "ACTIVE",
-   "value": 28.1
+   "value": 28.7
   },
   "5041939": {
    "fantasy_team": "King Coopa",
@@ -5363,7 +5363,7 @@
   "5081727": {
    "fantasy_team": "Tiki Taka Laranja",
    "id": "5081727",
-   "mpg": 20.0,
+   "mpg": 20.5,
    "name": "Sidy Cissoko",
    "nba_team": "POR",
    "positions": [
@@ -5762,7 +5762,7 @@
   "5112087": {
    "fantasy_team": "Fernando  Diniz",
    "id": "5112087",
-   "mpg": 24.6,
+   "mpg": 25.0,
    "name": "Jaylen Wells",
    "nba_team": "MEM",
    "positions": [
@@ -5772,7 +5772,7 @@
    "return_date": null,
    "slot": "SG",
    "status": "ACTIVE",
-   "value": 23.0
+   "value": 23.4
   },
   "5113969": {
    "fantasy_team": null,

@@ -2785,6 +2785,20 @@
    "status": "ACTIVE",
    "value": 23.7
   },
+  "4397018": {
+   "fantasy_team": null,
+   "id": "4397018",
+   "mpg": null,
+   "name": "Ochai Agbaji",
+   "nba_team": "FA",
+   "positions": [
+    "SF"
+   ],
+   "return_date": null,
+   "slot": "",
+   "status": "ACTIVE",
+   "value": 0.0
+  },
   "4397020": {
    "fantasy_team": null,
    "id": "4397020",
@@ -3695,20 +3709,6 @@
    "nba_team": "SAC",
    "positions": [
     "C"
-   ],
-   "return_date": null,
-   "slot": "",
-   "status": "OUT",
-   "value": 0.0
-  },
-  "4433188": {
-   "fantasy_team": null,
-   "id": "4433188",
-   "mpg": null,
-   "name": "Devin Carter",
-   "nba_team": "BOS",
-   "positions": [
-    "PG"
    ],
    "return_date": null,
    "slot": "",

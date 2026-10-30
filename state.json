@@ -59,11 +59,11 @@
   "4397189:20261029",
   "4278594:20261022"
  ],
- "hot_status": "ok: 250 FAs, 650 games",
+ "hot_status": "ok: 250 FAs, 649 games",
  "last_activity_ms": 1793362582492,
  "last_digest": 1793361856.6385002,
  "last_error_alert": 1792787295.9267383,
- "last_hot_check": 1793362581.3599877,
+ "last_hot_check": 1793363538.4014034,
  "last_run": "2026-10-19T22:05:14+00:00",
  "matchup_periods": {
   "1": [
@@ -3701,6 +3701,20 @@
    "status": "OUT",
    "value": 0.0
   },
+  "4433188": {
+   "fantasy_team": null,
+   "id": "4433188",
+   "mpg": null,
+   "name": "Devin Carter",
+   "nba_team": "BOS",
+   "positions": [
+    "PG"
+   ],
+   "return_date": null,
+   "slot": "",
+   "status": "OUT",
+   "value": 0.0
+  },
   "4433192": {
    "fantasy_team": "Lebron GOAT",
    "id": "4433192",
@@ -5731,20 +5745,6 @@
    "slot": "",
    "status": "ACTIVE",
    "value": 8.1
-  },
-  "5107968": {
-   "fantasy_team": null,
-   "id": "5107968",
-   "mpg": 2.0,
-   "name": "Ja'Kobi Gillespie",
-   "nba_team": "SAS",
-   "positions": [
-    "PG"
-   ],
-   "return_date": null,
-   "slot": "",
-   "status": "ACTIVE",
-   "value": 3.0
   },
   "5108024": {
    "fantasy_team": null,

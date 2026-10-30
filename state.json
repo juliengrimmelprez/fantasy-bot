@@ -59,11 +59,11 @@
   "4687718:20261025",
   "5105637:20261025"
  ],
- "hot_status": "ok: 250 FAs, 651 games",
+ "hot_status": "ok: 250 FAs, 652 games",
  "last_activity_ms": 1793390202860,
  "last_digest": 1793402538.0900517,
  "last_error_alert": 1792787295.9267383,
- "last_hot_check": 1793402296.791919,
+ "last_hot_check": 1793403255.8931506,
  "last_run": "2026-10-19T22:05:14+00:00",
  "matchup_periods": {
   "1": [
@@ -287,7 +287,7 @@
    "return_date": null,
    "slot": "",
    "status": "ACTIVE",
-   "value": 12.8
+   "value": 12.7
   },
   "2595516": {
    "fantasy_team": "Contagem Hunters",
@@ -898,7 +898,7 @@
   "3135045": {
    "fantasy_team": "Lebron GOAT",
    "id": "3135045",
-   "mpg": 24.2,
+   "mpg": 24.3,
    "name": "Grayson Allen",
    "nba_team": "CHA",
    "positions": [
@@ -908,7 +908,7 @@
    "return_date": null,
    "slot": "PG",
    "status": "ACTIVE",
-   "value": 22.6
+   "value": 22.5
   },
   "3135046": {
    "fantasy_team": null,
@@ -2133,7 +2133,7 @@
   "4277905": {
    "fantasy_team": "BL0CK BY ZION",
    "id": "4277905",
-   "mpg": 31.3,
+   "mpg": 31.5,
    "name": "Trae Young",
    "nba_team": "WAS",
    "positions": [
@@ -2142,7 +2142,7 @@
    "return_date": null,
    "slot": "UT",
    "status": "ACTIVE",
-   "value": 35.8
+   "value": 36.1
   },
   "4277919": {
    "fantasy_team": null,
@@ -5491,7 +5491,7 @@
   "5104155": {
    "fantasy_team": "Lakers x Bortolan 23",
    "id": "5104155",
-   "mpg": 23.0,
+   "mpg": 23.2,
    "name": "Bilal Coulibaly",
    "nba_team": "WAS",
    "positions": [
@@ -5501,7 +5501,7 @@
    "return_date": null,
    "slot": "SF",
    "status": "ACTIVE",
-   "value": 21.6
+   "value": 21.7
   },
   "5104157": {
    "fantasy_team": "CCCP  Баскетбол",
@@ -5964,7 +5964,7 @@
   "5160992": {
    "fantasy_team": "King Coopa",
    "id": "5160992",
-   "mpg": 21.8,
+   "mpg": 22.0,
    "name": "Alex Sarr",
    "nba_team": "WAS",
    "positions": [
@@ -6178,7 +6178,7 @@
   "5238230": {
    "fantasy_team": null,
    "id": "5238230",
-   "mpg": 18.8,
+   "mpg": 19.0,
    "name": "Tre Johnson",
    "nba_team": "WAS",
    "positions": [

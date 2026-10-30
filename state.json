@@ -59,11 +59,11 @@
   "2991139:20261022",
   "4997538:20261030"
  ],
- "hot_status": "ok: 250 FAs, 646 games",
+ "hot_status": "ok: 250 FAs, 647 games",
  "last_activity_ms": 1793315680702,
  "last_digest": 1793332342.6606944,
  "last_error_alert": 1792787295.9267383,
- "last_hot_check": 1793332830.4502928,
+ "last_hot_check": 1793333777.7522433,
  "last_run": "2026-10-19T22:05:14+00:00",
  "matchup_periods": {
   "1": [
@@ -2473,7 +2473,7 @@
    ],
    "return_date": null,
    "slot": "UT",
-   "status": "ACTIVE",
+   "status": "DAY_TO_DAY",
    "value": 34.1
   },
   "4280151": {
@@ -3470,7 +3470,7 @@
   "4432810": {
    "fantasy_team": "Polga Silva",
    "id": "4432810",
-   "mpg": 17.0,
+   "mpg": 17.2,
    "name": "Isaiah Stewart",
    "nba_team": "MEM",
    "positions": [
@@ -3617,7 +3617,7 @@
   "4433083": {
    "fantasy_team": "Coringas do Gansola",
    "id": "4433083",
-   "mpg": 17.4,
+   "mpg": 17.6,
    "name": "Cam Spencer",
    "nba_team": "MEM",
    "positions": [
@@ -3627,7 +3627,7 @@
    "return_date": null,
    "slot": "UT",
    "status": "ACTIVE",
-   "value": 20.4
+   "value": 21.2
   },
   "4433134": {
    "fantasy_team": "Lebron GOAT",
@@ -3911,7 +3911,7 @@
   "4578893": {
    "fantasy_team": null,
    "id": "4578893",
-   "mpg": 7.2,
+   "mpg": 7.5,
    "name": "Vit Krejci",
    "nba_team": "POR",
    "positions": [
@@ -3920,7 +3920,7 @@
    "return_date": null,
    "slot": "",
    "status": "ACTIVE",
-   "value": 8.0
+   "value": 8.3
   },
   "4591725": {
    "fantasy_team": "CCCP  Баскетбол",
@@ -5035,7 +5035,7 @@
   "4903027": {
    "fantasy_team": "Polga Silva",
    "id": "4903027",
-   "mpg": 29.2,
+   "mpg": 29.5,
    "name": "Cedric Coward",
    "nba_team": "MEM",
    "positions": [
@@ -5045,7 +5045,7 @@
    "return_date": null,
    "slot": "SG",
    "status": "ACTIVE",
-   "value": 32.9
+   "value": 33.3
   },
   "4914336": {
    "fantasy_team": null,
@@ -5179,7 +5179,7 @@
   "5041935": {
    "fantasy_team": "BL0CK BY ZION",
    "id": "5041935",
-   "mpg": 31.8,
+   "mpg": 32.0,
    "name": "Cameron Boozer",
    "nba_team": "MEM",
    "positions": [
@@ -5188,7 +5188,7 @@
    "return_date": null,
    "slot": "UT",
    "status": "ACTIVE",
-   "value": 34.1
+   "value": 34.8
   },
   "5041939": {
    "fantasy_team": "King Coopa",
@@ -5763,7 +5763,7 @@
   "5112087": {
    "fantasy_team": "Fernando  Diniz",
    "id": "5112087",
-   "mpg": 28.0,
+   "mpg": 28.2,
    "name": "Jaylen Wells",
    "nba_team": "MEM",
    "positions": [
@@ -5773,7 +5773,7 @@
    "return_date": null,
    "slot": "SG",
    "status": "ACTIVE",
-   "value": 25.1
+   "value": 24.9
   },
   "5113969": {
    "fantasy_team": null,
@@ -6150,7 +6150,7 @@
   "5217746": {
    "fantasy_team": null,
    "id": "5217746",
-   "mpg": 6.5,
+   "mpg": 7.0,
    "name": "Yang Hansen",
    "nba_team": "POR",
    "positions": [
@@ -6159,7 +6159,7 @@
    "return_date": null,
    "slot": "",
    "status": "ACTIVE",
-   "value": 4.1
+   "value": 6.3
   },
   "5231919": {
    "fantasy_team": null,

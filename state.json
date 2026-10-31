@@ -71,7 +71,7 @@
   "3037789:20261029"
  ],
  "hot_status": "ok: 250 FAs, 742 games",
- "last_activity_ms": 1793453029055,
+ "last_activity_ms": 1793453333102,
  "last_digest": 1793450657.4099522,
  "last_error_alert": 1792787295.9267383,
  "last_hot_check": 1793453178.4065254,
@@ -6160,7 +6160,7 @@
    "value": 2.3
   },
   "5214640": {
-   "fantasy_team": null,
+   "fantasy_team": "Tiki Taka Laranja",
    "id": "5214640",
    "mpg": 22.8,
    "name": "Kasparas Jakucionis",
@@ -6169,7 +6169,7 @@
     "PG"
    ],
    "return_date": null,
-   "slot": "",
+   "slot": "BE",
    "status": "ACTIVE",
    "value": 20.4
   },
@@ -6387,7 +6387,7 @@
    "value": 38.8
   },
   "6440": {
-   "fantasy_team": "Tiki Taka Laranja",
+   "fantasy_team": null,
    "id": "6440",
    "mpg": 30.5,
    "name": "Tobias Harris",
@@ -6397,7 +6397,7 @@
     "PF"
    ],
    "return_date": null,
-   "slot": "PF",
+   "slot": "",
    "status": "OUT",
    "value": 30.1
   },
@@ -6672,6 +6672,7 @@
   "hot:3150844:20261030",
   "drop:4397014:1793432091498",
   "drop:4592691:1793435464226",
-  "drop:3908845:1793435974225"
+  "drop:3908845:1793435974225",
+  "drop:6440:1793453333102"
  ]
 }

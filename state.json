@@ -71,7 +71,7 @@
   "4997538:20261030"
  ],
  "hot_status": "ok: 250 FAs, 750 games",
- "last_activity_ms": 1793432091498,
+ "last_activity_ms": 1793435358488,
  "last_digest": 1793432298.163398,
  "last_error_alert": 1792787295.9267383,
  "last_hot_check": 1793434938.8221238,
@@ -864,7 +864,7 @@
    "value": 8.0
   },
   "3134907": {
-   "fantasy_team": null,
+   "fantasy_team": "CCCP  Баскетбол",
    "id": "3134907",
    "mpg": 27.8,
    "name": "Kyle Kuzma",
@@ -874,7 +874,7 @@
     "PF"
    ],
    "return_date": null,
-   "slot": "",
+   "slot": "PF",
    "status": "ACTIVE",
    "value": 24.1
   },
@@ -1364,7 +1364,7 @@
     "C"
    ],
    "return_date": null,
-   "slot": "PF",
+   "slot": "BE",
    "status": "ACTIVE",
    "value": 23.3
   },
@@ -2113,7 +2113,7 @@
    "value": 30.5
   },
   "4277848": {
-   "fantasy_team": "CCCP  Баскетбол",
+   "fantasy_team": null,
    "id": "4277848",
    "mpg": 12.2,
    "name": "Marvin Bagley III",
@@ -2123,7 +2123,7 @@
     "C"
    ],
    "return_date": null,
-   "slot": "BE",
+   "slot": "",
    "status": "ACTIVE",
    "value": 13.7
   },

@@ -71,7 +71,7 @@
   "3037789:20261029"
  ],
  "hot_status": "ok: 250 FAs, 740 games",
- "last_activity_ms": 1793435974225,
+ "last_activity_ms": 1793453029055,
  "last_digest": 1793450657.4099522,
  "last_error_alert": 1792787295.9267383,
  "last_hot_check": 1793452221.6602206,
@@ -1412,7 +1412,7 @@
    "value": 38.5
   },
   "3914044": {
-   "fantasy_team": "Bull Market",
+   "fantasy_team": null,
    "id": "3914044",
    "mpg": 24.0,
    "name": "Landry Shamet",
@@ -1421,7 +1421,7 @@
     "SG"
    ],
    "return_date": null,
-   "slot": "BE",
+   "slot": "",
    "status": "ACTIVE",
    "value": 13.9
   },
@@ -5486,7 +5486,7 @@
    "value": 11.0
   },
   "5101761": {
-   "fantasy_team": null,
+   "fantasy_team": "Bull Market",
    "id": "5101761",
    "mpg": 22.8,
    "name": "Mikel Brown Jr.",
@@ -5495,7 +5495,7 @@
     "PG"
    ],
    "return_date": null,
-   "slot": "",
+   "slot": "UT",
    "status": "ACTIVE",
    "value": 18.8
   },

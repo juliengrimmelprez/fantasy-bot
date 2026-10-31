@@ -600,7 +600,7 @@
     "C"
    ],
    "return_date": null,
-   "slot": "C",
+   "slot": "UT",
    "status": "DAY_TO_DAY",
    "value": 38.2
   },
@@ -946,7 +946,7 @@
     "SG"
    ],
    "return_date": null,
-   "slot": "UT",
+   "slot": "PG",
    "status": "ACTIVE",
    "value": 38.7
   },
@@ -2165,7 +2165,7 @@
     "C"
    ],
    "return_date": null,
-   "slot": "BE",
+   "slot": "C",
    "status": "ACTIVE",
    "value": 30.5
   },

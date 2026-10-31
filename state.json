@@ -71,7 +71,7 @@
   "4997538:20261030"
  ],
  "hot_status": "ok: 250 FAs, 750 games",
- "last_activity_ms": 1793435358488,
+ "last_activity_ms": 1793435521559,
  "last_digest": 1793432298.163398,
  "last_error_alert": 1792787295.9267383,
  "last_hot_check": 1793434938.8221238,
@@ -485,7 +485,7 @@
     "SG"
    ],
    "return_date": null,
-   "slot": "UT",
+   "slot": "IR",
    "status": "OUT",
    "value": 28.1
   },
@@ -2517,7 +2517,7 @@
    "value": 11.9
   },
   "4351851": {
-   "fantasy_team": null,
+   "fantasy_team": "CCCP  Баскетбол",
    "id": "4351851",
    "mpg": 24.5,
    "name": "Anfernee Simons",
@@ -2527,7 +2527,7 @@
     "SG"
    ],
    "return_date": null,
-   "slot": "",
+   "slot": "UT",
    "status": "ACTIVE",
    "value": 19.6
   },
@@ -2663,7 +2663,7 @@
    "value": 32.8
   },
   "4395723": {
-   "fantasy_team": null,
+   "fantasy_team": "CCCP  Баскетбол",
    "id": "4395723",
    "mpg": 22.0,
    "name": "Keldon Johnson",
@@ -2673,7 +2673,7 @@
     "PF"
    ],
    "return_date": null,
-   "slot": "",
+   "slot": "UT",
    "status": "ACTIVE",
    "value": 20.4
   },
@@ -3740,6 +3740,20 @@
    "status": "OUT",
    "value": 0.0
   },
+  "4433188": {
+   "fantasy_team": null,
+   "id": "4433188",
+   "mpg": null,
+   "name": "Devin Carter",
+   "nba_team": "BOS",
+   "positions": [
+    "PG"
+   ],
+   "return_date": null,
+   "slot": "",
+   "status": "OUT",
+   "value": 0.0
+  },
   "4433192": {
    "fantasy_team": "Lebron GOAT",
    "id": "4433192",
@@ -4006,7 +4020,7 @@
    "value": 16.2
   },
   "4592691": {
-   "fantasy_team": "CCCP  Баскетбол",
+   "fantasy_team": null,
    "id": "4592691",
    "mpg": 23.0,
    "name": "Jake LaRavia",
@@ -4016,7 +4030,7 @@
     "PF"
    ],
    "return_date": null,
-   "slot": "UT",
+   "slot": "",
    "status": "ACTIVE",
    "value": 21.2
   },
@@ -6655,6 +6669,7 @@
   "drop:4397077:1793390180895",
   "inj:3917376:OUT",
   "hot:3150844:20261030",
-  "drop:4397014:1793432091498"
+  "drop:4397014:1793432091498",
+  "drop:4592691:1793435464226"
  ]
 }

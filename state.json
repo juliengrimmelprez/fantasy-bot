@@ -70,11 +70,11 @@
   "6475:20261031",
   "4592492:20261031"
  ],
- "hot_status": "ok: 250 FAs, 737 games",
+ "hot_status": "ok: 250 FAs, 741 games",
  "last_activity_ms": 1793459807757,
  "last_digest": 1793472859.7450848,
  "last_error_alert": 1792787295.9267383,
- "last_hot_check": 1793474295.855852,
+ "last_hot_check": 1793475258.60647,
  "last_run": "2026-10-19T22:05:14+00:00",
  "matchup_periods": {
   "1": [
@@ -795,7 +795,7 @@
   "3133602": {
    "fantasy_team": null,
    "id": "3133602",
-   "mpg": 13.8,
+   "mpg": 14.2,
    "name": "Svi Mykhailiuk",
    "nba_team": "UTA",
    "positions": [
@@ -804,7 +804,7 @@
    "return_date": null,
    "slot": "",
    "status": "ACTIVE",
-   "value": 8.0
+   "value": 8.8
   },
   "3133603": {
    "fantasy_team": "Bull Market",
@@ -1603,7 +1603,7 @@
   "3995": {
    "fantasy_team": "Polga Silva",
    "id": "3995",
-   "mpg": 20.8,
+   "mpg": 21.0,
    "name": "Jrue Holiday",
    "nba_team": "POR",
    "positions": [
@@ -1763,7 +1763,7 @@
   "4066211": {
    "fantasy_team": "Lucky",
    "id": "4066211",
-   "mpg": 14.0,
+   "mpg": 14.2,
    "name": "Robert Williams III",
    "nba_team": "POR",
    "positions": [
@@ -1772,7 +1772,7 @@
    "return_date": null,
    "slot": "C",
    "status": "ACTIVE",
-   "value": 23.6
+   "value": 23.4
   },
   "4066218": {
    "fantasy_team": null,
@@ -2167,7 +2167,7 @@
    "return_date": null,
    "slot": "C",
    "status": "ACTIVE",
-   "value": 20.7
+   "value": 21.7
   },
   "4277922": {
    "fantasy_team": null,
@@ -3965,7 +3965,7 @@
   "4578893": {
    "fantasy_team": null,
    "id": "4578893",
-   "mpg": 6.8,
+   "mpg": 7.0,
    "name": "Vit Krejci",
    "nba_team": "POR",
    "positions": [
@@ -4286,7 +4286,7 @@
   "4683678": {
    "fantasy_team": null,
    "id": "4683678",
-   "mpg": 16.2,
+   "mpg": 16.6,
    "name": "Scoot Henderson",
    "nba_team": "POR",
    "positions": [
@@ -4296,7 +4296,7 @@
    "return_date": null,
    "slot": "",
    "status": "ACTIVE",
-   "value": 10.4
+   "value": 10.2
   },
   "4683688": {
    "fantasy_team": "Polga Silva",
@@ -5290,7 +5290,7 @@
   "5041955": {
    "fantasy_team": "Coringas do Gansola",
    "id": "5041955",
-   "mpg": 24.7,
+   "mpg": 24.8,
    "name": "Darryn Peterson",
    "nba_team": "UTA",
    "positions": [
@@ -5300,7 +5300,7 @@
    "return_date": null,
    "slot": "SG",
    "status": "ACTIVE",
-   "value": 22.8
+   "value": 23.0
   },
   "5044385": {
    "fantasy_team": null,
@@ -5418,7 +5418,7 @@
   "5081727": {
    "fantasy_team": null,
    "id": "5081727",
-   "mpg": 18.4,
+   "mpg": 18.6,
    "name": "Sidy Cissoko",
    "nba_team": "POR",
    "positions": [
@@ -5427,7 +5427,7 @@
    "return_date": null,
    "slot": "",
    "status": "ACTIVE",
-   "value": 13.3
+   "value": 13.2
   },
   "5082206": {
    "fantasy_team": null,
@@ -5645,7 +5645,7 @@
   "5105839": {
    "fantasy_team": null,
    "id": "5105839",
-   "mpg": 14.8,
+   "mpg": 12.5,
    "name": "Brice Sensabaugh",
    "nba_team": "UTA",
    "positions": [
@@ -5655,7 +5655,7 @@
    "return_date": null,
    "slot": "",
    "status": "ACTIVE",
-   "value": 16.5
+   "value": 14.8
   },
   "5105854": {
    "fantasy_team": null,

@@ -71,7 +71,7 @@
   "4997538:20261030"
  ],
  "hot_status": "ok: 250 FAs, 750 games",
- "last_activity_ms": 1793435521559,
+ "last_activity_ms": 1793435662772,
  "last_digest": 1793432298.163398,
  "last_error_alert": 1792787295.9267383,
  "last_hot_check": 1793434938.8221238,
@@ -1023,7 +1023,7 @@
    "value": 19.6
   },
   "3146557": {
-   "fantasy_team": null,
+   "fantasy_team": "CCCP  Баскетбол",
    "id": "3146557",
    "mpg": 17.7,
    "name": "Jock Landale",
@@ -1032,7 +1032,7 @@
     "C"
    ],
    "return_date": null,
-   "slot": "",
+   "slot": "UT",
    "status": "ACTIVE",
    "value": 16.7
   },
@@ -2198,7 +2198,7 @@
    "value": 7.4
   },
   "4277956": {
-   "fantasy_team": "CCCP  Баскетбол",
+   "fantasy_team": null,
    "id": "4277956",
    "mpg": 16.0,
    "name": "Jordan Poole",
@@ -2208,7 +2208,7 @@
     "SG"
    ],
    "return_date": null,
-   "slot": "SG",
+   "slot": "",
    "status": "OUT",
    "value": 18.1
   },
@@ -2527,7 +2527,7 @@
     "SG"
    ],
    "return_date": null,
-   "slot": "UT",
+   "slot": "SG",
    "status": "ACTIVE",
    "value": 19.6
   },

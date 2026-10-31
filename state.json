@@ -71,7 +71,7 @@
   "5104155:20261021"
  ],
  "hot_status": "ok: 250 FAs, 742 games",
- "last_activity_ms": 1793435662772,
+ "last_activity_ms": 1793435974225,
  "last_digest": 1793435900.9467323,
  "last_error_alert": 1792787295.9267383,
  "last_hot_check": 1793435900.946014,
@@ -644,7 +644,7 @@
     "PF"
    ],
    "return_date": null,
-   "slot": "UT",
+   "slot": "BE",
    "status": "ACTIVE",
    "value": 26.6
   },
@@ -1354,7 +1354,7 @@
    "value": 43.1
   },
   "3908845": {
-   "fantasy_team": "CCCP  Баскетбол",
+   "fantasy_team": null,
    "id": "3908845",
    "mpg": 26.5,
    "name": "John Collins",
@@ -1364,7 +1364,7 @@
     "C"
    ],
    "return_date": null,
-   "slot": "BE",
+   "slot": "",
    "status": "ACTIVE",
    "value": 23.3
   },
@@ -5187,7 +5187,7 @@
    "value": 16.9
   },
   "4997538": {
-   "fantasy_team": null,
+   "fantasy_team": "CCCP  Баскетбол",
    "id": "4997538",
    "mpg": 15.8,
    "name": "Karlo Matkovic",
@@ -5196,7 +5196,7 @@
     "PF"
    ],
    "return_date": null,
-   "slot": "",
+   "slot": "UT",
    "status": "ACTIVE",
    "value": 16.0
   },
@@ -6670,6 +6670,7 @@
   "inj:3917376:OUT",
   "hot:3150844:20261030",
   "drop:4397014:1793432091498",
-  "drop:4592691:1793435464226"
+  "drop:4592691:1793435464226",
+  "drop:3908845:1793435974225"
  ]
 }

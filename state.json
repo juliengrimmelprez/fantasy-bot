@@ -70,11 +70,11 @@
   "4684272:20261021",
   "4065731:20261025"
  ],
- "hot_status": "ok: 250 FAs, 736 games",
- "last_activity_ms": 1793453441734,
+ "hot_status": "ok: 250 FAs, 735 games",
+ "last_activity_ms": 1793459807757,
  "last_digest": 1793458098.76469,
  "last_error_alert": 1792787295.9267383,
- "last_hot_check": 1793458939.0161471,
+ "last_hot_check": 1793459898.3984315,
  "last_run": "2026-10-19T22:05:14+00:00",
  "matchup_periods": {
   "1": [
@@ -1369,7 +1369,7 @@
    "value": 23.3
   },
   "3912848": {
-   "fantasy_team": null,
+   "fantasy_team": "Lebron GOAT",
    "id": "3912848",
    "mpg": 27.2,
    "name": "Dean Wade",
@@ -1378,7 +1378,7 @@
     "PF"
    ],
    "return_date": null,
-   "slot": "",
+   "slot": "UT",
    "status": "ACTIVE",
    "value": 17.4
   },
@@ -2459,7 +2459,7 @@
    "value": 29.6
   },
   "4278594": {
-   "fantasy_team": "Lebron GOAT",
+   "fantasy_team": null,
    "id": "4278594",
    "mpg": 27.7,
    "name": "Naji Marshall",
@@ -2469,7 +2469,7 @@
     "PF"
    ],
    "return_date": null,
-   "slot": "BE",
+   "slot": "",
    "status": "ACTIVE",
    "value": 28.6
   },
@@ -6676,6 +6676,7 @@
   "drop:6440:1793453333102",
   "drop:4437244:1793453441734",
   "diag:12",
-  "planday:12"
+  "planday:12",
+  "drop:4278594:1793459807757"
  ]
 }

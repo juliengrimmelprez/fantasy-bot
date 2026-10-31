@@ -71,7 +71,7 @@
   "5044385:20261023"
  ],
  "hot_status": "ok: 250 FAs, 745 games",
- "last_activity_ms": 1793424382221,
+ "last_activity_ms": 1793432091498,
  "last_digest": 1793428584.7891862,
  "last_error_alert": 1792787295.9267383,
  "last_hot_check": 1793432058.4015112,
@@ -2156,7 +2156,7 @@
    "value": 42.1
   },
   "4277919": {
-   "fantasy_team": null,
+   "fantasy_team": "Caxias French Fries",
    "id": "4277919",
    "mpg": 22.5,
    "name": "Mo Bamba",
@@ -2165,7 +2165,7 @@
     "C"
    ],
    "return_date": null,
-   "slot": "",
+   "slot": "BE",
    "status": "ACTIVE",
    "value": 30.5
   },
@@ -2782,7 +2782,7 @@
    "value": 28.8
   },
   "4397014": {
-   "fantasy_team": "BL0CK BY ZION",
+   "fantasy_team": null,
    "id": "4397014",
    "mpg": 26.8,
    "name": "Quentin Grimes",
@@ -2792,7 +2792,7 @@
     "SF"
    ],
    "return_date": null,
-   "slot": "BE",
+   "slot": "",
    "status": "ACTIVE",
    "value": 21.7
   },
@@ -3291,7 +3291,7 @@
    "value": 44.4
   },
   "4432170": {
-   "fantasy_team": null,
+   "fantasy_team": "BL0CK BY ZION",
    "id": "4432170",
    "mpg": 21.6,
    "name": "Isaiah Jackson",
@@ -3301,7 +3301,7 @@
     "C"
    ],
    "return_date": null,
-   "slot": "",
+   "slot": "BE",
    "status": "ACTIVE",
    "value": 26.3
   },
@@ -6315,7 +6315,7 @@
    "value": 17.6
   },
   "5279133": {
-   "fantasy_team": "Caxias French Fries",
+   "fantasy_team": null,
    "id": "5279133",
    "mpg": 16.2,
    "name": "Joan Beringer",
@@ -6324,7 +6324,7 @@
     "C"
    ],
    "return_date": null,
-   "slot": "BE",
+   "slot": "",
    "status": "ACTIVE",
    "value": 17.0
   },
@@ -6654,6 +6654,7 @@
   "drop:4432810:1793390202860",
   "drop:4397077:1793390180895",
   "inj:3917376:OUT",
-  "hot:3150844:20261030"
+  "hot:3150844:20261030",
+  "drop:4397014:1793432091498"
  ]
 }

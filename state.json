@@ -70,11 +70,11 @@
   "3150844:20261027",
   "3102529:20261029"
  ],
- "hot_status": "ok: 250 FAs, 743 games",
+ "hot_status": "ok: 250 FAs, 745 games",
  "last_activity_ms": 1793459807757,
  "last_digest": 1793480304.071583,
  "last_error_alert": 1792787295.9267383,
- "last_hot_check": 1793481023.7666962,
+ "last_hot_check": 1793481975.5239525,
  "last_run": "2026-10-19T22:05:14+00:00",
  "matchup_periods": {
   "1": [
@@ -1306,7 +1306,7 @@
    ],
    "return_date": null,
    "slot": "SG",
-   "status": "ACTIVE",
+   "status": "OUT",
    "value": 40.9
   },
   "3907498": {
@@ -1437,7 +1437,7 @@
    ],
    "return_date": null,
    "slot": "SG",
-   "status": "DAY_TO_DAY",
+   "status": "ACTIVE",
    "value": 36.4
   },
   "3934672": {
@@ -3965,7 +3965,7 @@
   "4578893": {
    "fantasy_team": null,
    "id": "4578893",
-   "mpg": 11.0,
+   "mpg": 11.2,
    "name": "Vit Krejci",
    "nba_team": "POR",
    "positions": [
@@ -4373,7 +4373,7 @@
   "4683766": {
    "fantasy_team": "Tiki Taka Laranja",
    "id": "4683766",
-   "mpg": 18.3,
+   "mpg": 18.5,
    "name": "Isaiah Collier",
    "nba_team": "UTA",
    "positions": [
@@ -4490,7 +4490,7 @@
   "4684793": {
    "fantasy_team": null,
    "id": "4684793",
-   "mpg": 7.2,
+   "mpg": 7.5,
    "name": "Kyle Filipowski",
    "nba_team": "UTA",
    "positions": [
@@ -4500,7 +4500,7 @@
    "return_date": null,
    "slot": "",
    "status": "ACTIVE",
-   "value": 7.7
+   "value": 9.0
   },
   "4684806": {
    "fantasy_team": null,
@@ -4664,7 +4664,7 @@
   "4706557": {
    "fantasy_team": null,
    "id": "4706557",
-   "mpg": 5.0,
+   "mpg": 6.0,
    "name": "Chris Youngblood",
    "nba_team": "POR",
    "positions": [
@@ -4673,7 +4673,7 @@
    "return_date": null,
    "slot": "",
    "status": "ACTIVE",
-   "value": 3.0
+   "value": 2.0
   },
   "4709138": {
    "fantasy_team": "CCCP  Баскетбол",
@@ -4942,7 +4942,7 @@
   "4873138": {
    "fantasy_team": "Bull Market",
    "id": "4873138",
-   "mpg": 30.5,
+   "mpg": 30.8,
    "name": "Ace Bailey",
    "nba_team": "UTA",
    "positions": [
@@ -5290,7 +5290,7 @@
   "5041955": {
    "fantasy_team": "Coringas do Gansola",
    "id": "5041955",
-   "mpg": 29.5,
+   "mpg": 29.7,
    "name": "Darryn Peterson",
    "nba_team": "UTA",
    "positions": [
@@ -5645,7 +5645,7 @@
   "5105839": {
    "fantasy_team": null,
    "id": "5105839",
-   "mpg": 15.2,
+   "mpg": 15.3,
    "name": "Brice Sensabaugh",
    "nba_team": "UTA",
    "positions": [
@@ -5655,7 +5655,7 @@
    "return_date": null,
    "slot": "",
    "status": "ACTIVE",
-   "value": 16.2
+   "value": 17.0
   },
   "5105854": {
    "fantasy_team": null,
@@ -6176,7 +6176,7 @@
   "5217746": {
    "fantasy_team": null,
    "id": "5217746",
-   "mpg": 9.3,
+   "mpg": 9.7,
    "name": "Yang Hansen",
    "nba_team": "POR",
    "positions": [

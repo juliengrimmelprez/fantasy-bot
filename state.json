@@ -4686,7 +4686,7 @@
    ],
    "return_date": null,
    "slot": "PG",
-   "status": "OUT",
+   "status": "DAY_TO_DAY",
    "value": 27.0
   },
   "4711294": {
@@ -4802,7 +4802,7 @@
    ],
    "return_date": null,
    "slot": "",
-   "status": "OUT",
+   "status": "DAY_TO_DAY",
    "value": 7.0
   },
   "4868423": {
@@ -4890,7 +4890,7 @@
    ],
    "return_date": null,
    "slot": "UT",
-   "status": "OUT",
+   "status": "DAY_TO_DAY",
    "value": 49.0
   },
   "4871145": {

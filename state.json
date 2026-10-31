@@ -70,11 +70,11 @@
   "4066436:20261025",
   "2528426:20261029"
  ],
- "hot_status": "ok: 250 FAs, 754 games",
+ "hot_status": "ok: 250 FAs, 755 games",
  "last_activity_ms": 1793459807757,
  "last_digest": 1793487634.3973427,
  "last_error_alert": 1792787295.9267383,
- "last_hot_check": 1793487735.6006353,
+ "last_hot_check": 1793488697.202142,
  "last_run": "2026-10-19T22:05:14+00:00",
  "matchup_periods": {
   "1": [
@@ -2071,7 +2071,7 @@
   "4277813": {
    "fantasy_team": null,
    "id": "4277813",
-   "mpg": 17.7,
+   "mpg": 17.8,
    "name": "Herbert Jones",
    "nba_team": "NOP",
    "positions": [
@@ -2081,7 +2081,7 @@
    "return_date": null,
    "slot": "",
    "status": "ACTIVE",
-   "value": 13.9
+   "value": 13.8
   },
   "4277843": {
    "fantasy_team": null,
@@ -2240,7 +2240,7 @@
    "return_date": null,
    "slot": "SG",
    "status": "ACTIVE",
-   "value": 30.5
+   "value": 30.4
   },
   "4278049": {
    "fantasy_team": "Lakers x Bortolan 23",
@@ -2577,7 +2577,7 @@
   "4395628": {
    "fantasy_team": "BL0CK BY ZION",
    "id": "4395628",
-   "mpg": 27.5,
+   "mpg": 27.7,
    "name": "Zion Williamson",
    "nba_team": "NOP",
    "positions": [
@@ -2587,7 +2587,7 @@
    "return_date": null,
    "slot": "C",
    "status": "ACTIVE",
-   "value": 36.9
+   "value": 37.4
   },
   "4395630": {
    "fantasy_team": "Contagem Hunters",
@@ -2998,7 +2998,7 @@
    "return_date": null,
    "slot": "UT",
    "status": "ACTIVE",
-   "value": 25.7
+   "value": 25.6
   },
   "4397886": {
    "fantasy_team": null,
@@ -3092,7 +3092,7 @@
   "4431680": {
    "fantasy_team": "Lebron GOAT",
    "id": "4431680",
-   "mpg": 24.9,
+   "mpg": 25.0,
    "name": "Onyeka Okongwu",
    "nba_team": "ATL",
    "positions": [
@@ -3101,7 +3101,7 @@
    "return_date": null,
    "slot": "C",
    "status": "ACTIVE",
-   "value": 27.5
+   "value": 27.6
   },
   "4431684": {
    "fantasy_team": null,
@@ -4548,7 +4548,7 @@
   "4701230": {
    "fantasy_team": "Lakers x Bortolan 23",
    "id": "4701230",
-   "mpg": 29.3,
+   "mpg": 29.4,
    "name": "Jalen Johnson",
    "nba_team": "ATL",
    "positions": [
@@ -4557,7 +4557,7 @@
    "return_date": null,
    "slot": "BE",
    "status": "ACTIVE",
-   "value": 41.4
+   "value": 41.3
   },
   "4701232": {
    "fantasy_team": null,
@@ -4838,7 +4838,7 @@
   "4869342": {
    "fantasy_team": "King Coopa",
    "id": "4869342",
-   "mpg": 25.6,
+   "mpg": 25.7,
    "name": "Dyson Daniels",
    "nba_team": "ATL",
    "positions": [
@@ -5190,7 +5190,7 @@
   "4997538": {
    "fantasy_team": "CCCP  Баскетбол",
    "id": "4997538",
-   "mpg": 13.4,
+   "mpg": 13.6,
    "name": "Karlo Matkovic",
    "nba_team": "NOP",
    "positions": [

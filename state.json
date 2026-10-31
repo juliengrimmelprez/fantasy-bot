@@ -70,11 +70,11 @@
   "6475:20261031",
   "4592492:20261031"
  ],
- "hot_status": "ok: 250 FAs, 741 games",
+ "hot_status": "ok: 250 FAs, 742 games",
  "last_activity_ms": 1793459807757,
  "last_digest": 1793472859.7450848,
  "last_error_alert": 1792787295.9267383,
- "last_hot_check": 1793475258.60647,
+ "last_hot_check": 1793476222.2098546,
  "last_run": "2026-10-19T22:05:14+00:00",
  "matchup_periods": {
   "1": [
@@ -1567,7 +1567,7 @@
    ],
    "return_date": null,
    "slot": "UT",
-   "status": "ACTIVE",
+   "status": "OUT",
    "value": 46.3
   },
   "3978": {
@@ -1763,7 +1763,7 @@
   "4066211": {
    "fantasy_team": "Lucky",
    "id": "4066211",
-   "mpg": 15.0,
+   "mpg": 15.2,
    "name": "Robert Williams III",
    "nba_team": "POR",
    "positions": [
@@ -1865,7 +1865,7 @@
   "4066336": {
    "fantasy_team": "Fernando  Diniz",
    "id": "4066336",
-   "mpg": 24.6,
+   "mpg": 24.8,
    "name": "Lauri Markkanen",
    "nba_team": "UTA",
    "positions": [
@@ -2843,7 +2843,7 @@
   "4397077": {
    "fantasy_team": null,
    "id": "4397077",
-   "mpg": 23.4,
+   "mpg": 23.6,
    "name": "Jaxson Hayes",
    "nba_team": "UTA",
    "positions": [
@@ -3148,7 +3148,7 @@
   "4431736": {
    "fantasy_team": "King Coopa",
    "id": "4431736",
-   "mpg": 22.2,
+   "mpg": 22.4,
    "name": "Toumani Camara",
    "nba_team": "POR",
    "positions": [
@@ -3965,7 +3965,7 @@
   "4578893": {
    "fantasy_team": null,
    "id": "4578893",
-   "mpg": 7.8,
+   "mpg": 8.0,
    "name": "Vit Krejci",
    "nba_team": "POR",
    "positions": [
@@ -4286,7 +4286,7 @@
   "4683678": {
    "fantasy_team": null,
    "id": "4683678",
-   "mpg": 17.0,
+   "mpg": 17.2,
    "name": "Scoot Henderson",
    "nba_team": "POR",
    "positions": [
@@ -4296,7 +4296,7 @@
    "return_date": null,
    "slot": "",
    "status": "ACTIVE",
-   "value": 11.4
+   "value": 11.9
   },
   "4683688": {
    "fantasy_team": "Polga Silva",
@@ -4382,7 +4382,7 @@
    "return_date": null,
    "slot": "UT",
    "status": "ACTIVE",
-   "value": 15.8
+   "value": 16.1
   },
   "4683771": {
    "fantasy_team": null,

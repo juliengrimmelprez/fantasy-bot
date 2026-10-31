@@ -134,7 +134,7 @@
    9
   ]
  },
- "matchup_periods_day": "2026-10-30",
+ "matchup_periods_day": "2026-10-31",
  "plan_status": "ok: day 11, matchup 2 [7]..[13], adds left 8, opp Contagem Hunters",
  "players": {
   "1966": {
@@ -636,7 +636,7 @@
   "3064290": {
    "fantasy_team": "CCCP  Баскетбол",
    "id": "3064290",
-   "mpg": 28.6,
+   "mpg": 29.0,
    "name": "Aaron Gordon",
    "nba_team": "DEN",
    "positions": [
@@ -645,7 +645,7 @@
    "return_date": null,
    "slot": "UT",
    "status": "ACTIVE",
-   "value": 26.3
+   "value": 26.1
   },
   "3064440": {
    "fantasy_team": "BL0CK BY ZION",
@@ -923,7 +923,7 @@
   "3135046": {
    "fantasy_team": null,
    "id": "3135046",
-   "mpg": 9.8,
+   "mpg": 10.2,
    "name": "Tyus Jones",
    "nba_team": "DEN",
    "positions": [
@@ -1384,7 +1384,7 @@
   "3913174": {
    "fantasy_team": null,
    "id": "3913174",
-   "mpg": 14.3,
+   "mpg": 15.3,
    "name": "Luke Kennard",
    "nba_team": "PHO",
    "positions": [
@@ -1393,7 +1393,7 @@
    "return_date": null,
    "slot": "",
    "status": "ACTIVE",
-   "value": 18.8
+   "value": 19.5
   },
   "3913176": {
    "fantasy_team": "Tiki Taka Laranja",
@@ -1515,7 +1515,7 @@
   "3936299": {
    "fantasy_team": "Lucky",
    "id": "3936299",
-   "mpg": 36.2,
+   "mpg": 36.4,
    "name": "Jamal Murray",
    "nba_team": "DEN",
    "positions": [
@@ -1524,7 +1524,7 @@
    "return_date": null,
    "slot": "UT",
    "status": "ACTIVE",
-   "value": 43.7
+   "value": 44.4
   },
   "3945274": {
    "fantasy_team": "Lakers x Bortolan 23",
@@ -1572,7 +1572,7 @@
   "3978": {
    "fantasy_team": "Tiki Taka Laranja",
    "id": "3978",
-   "mpg": 25.2,
+   "mpg": 25.4,
    "name": "DeMar DeRozan",
    "nba_team": "DEN",
    "positions": [
@@ -1909,7 +1909,7 @@
   "4066383": {
    "fantasy_team": "Caxias French Fries",
    "id": "4066383",
-   "mpg": 29.8,
+   "mpg": 30.2,
    "name": "Miles Bridges",
    "nba_team": "PHO",
    "positions": [
@@ -1919,7 +1919,7 @@
    "return_date": null,
    "slot": "UT",
    "status": "ACTIVE",
-   "value": 28.7
+   "value": 29.1
   },
   "4066421": {
    "fantasy_team": null,
@@ -1939,7 +1939,7 @@
   "4066436": {
    "fantasy_team": "Polga Silva",
    "id": "4066436",
-   "mpg": 20.3,
+   "mpg": 20.5,
    "name": "De'Anthony Melton",
    "nba_team": "GSW",
    "positions": [
@@ -1949,12 +1949,12 @@
    "return_date": null,
    "slot": "SG",
    "status": "ACTIVE",
-   "value": 22.9
+   "value": 23.2
   },
   "4066457": {
    "fantasy_team": "King Coopa",
    "id": "4066457",
-   "mpg": 33.7,
+   "mpg": 33.8,
    "name": "Austin Reaves",
    "nba_team": "LAL",
    "positions": [
@@ -1964,7 +1964,7 @@
    "return_date": null,
    "slot": "PG",
    "status": "ACTIVE",
-   "value": 38.7
+   "value": 38.5
   },
   "4066648": {
    "fantasy_team": "Lakers x Bortolan 23",
@@ -2114,7 +2114,7 @@
   "4277848": {
    "fantasy_team": "CCCP  Баскетбол",
    "id": "4277848",
-   "mpg": 11.6,
+   "mpg": 11.8,
    "name": "Marvin Bagley III",
    "nba_team": "DEN",
    "positions": [
@@ -2441,12 +2441,12 @@
    "return_date": null,
    "slot": "C",
    "status": "ACTIVE",
-   "value": 20.5
+   "value": 21.2
   },
   "4278585": {
    "fantasy_team": "Tiki Taka Laranja",
    "id": "4278585",
-   "mpg": 23.2,
+   "mpg": 24.0,
    "name": "Collin Gillespie",
    "nba_team": "PHO",
    "positions": [
@@ -2455,7 +2455,7 @@
    "return_date": null,
    "slot": "UT",
    "status": "ACTIVE",
-   "value": 26.8
+   "value": 27.7
   },
   "4278594": {
    "fantasy_team": "Lebron GOAT",
@@ -2837,7 +2837,7 @@
    "return_date": null,
    "slot": "",
    "status": "ACTIVE",
-   "value": 16.2
+   "value": 16.5
   },
   "4397077": {
    "fantasy_team": null,
@@ -3002,7 +3002,7 @@
   "4397886": {
    "fantasy_team": null,
    "id": "4397886",
-   "mpg": 5.0,
+   "mpg": 5.2,
    "name": "Charles Bassey",
    "nba_team": "GSW",
    "positions": [
@@ -3890,7 +3890,7 @@
   "4437244": {
    "fantasy_team": "Tiki Taka Laranja",
    "id": "4437244",
-   "mpg": 25.2,
+   "mpg": 25.8,
    "name": "Jalen Green",
    "nba_team": "PHO",
    "positions": [
@@ -3900,7 +3900,7 @@
    "return_date": null,
    "slot": "UT",
    "status": "ACTIVE",
-   "value": 21.4
+   "value": 21.2
   },
   "4566434": {
    "fantasy_team": "King Coopa",
@@ -4007,7 +4007,7 @@
   "4592691": {
    "fantasy_team": "CCCP  Баскетбол",
    "id": "4592691",
-   "mpg": 21.6,
+   "mpg": 21.8,
    "name": "Jake LaRavia",
    "nba_team": "LAL",
    "positions": [
@@ -4970,7 +4970,7 @@
   "4888725": {
    "fantasy_team": null,
    "id": "4888725",
-   "mpg": 11.8,
+   "mpg": 12.5,
    "name": "Ryan Dunn",
    "nba_team": "PHO",
    "positions": [

@@ -543,7 +543,7 @@
    ],
    "return_date": null,
    "slot": "C",
-   "status": "DAY_TO_DAY",
+   "status": "OUT",
    "value": 23.4
   },
   "3032977": {
@@ -564,7 +564,7 @@
   "3032979": {
    "fantasy_team": "Lucky",
    "id": "3032979",
-   "mpg": 28.0,
+   "mpg": 28.1,
    "name": "Dennis Schroder",
    "nba_team": "CHA",
    "positions": [
@@ -573,7 +573,7 @@
    "return_date": null,
    "slot": "PG",
    "status": "ACTIVE",
-   "value": 20.6
+   "value": 20.5
   },
   "3037789": {
    "fantasy_team": null,
@@ -1428,7 +1428,7 @@
   "3917376": {
    "fantasy_team": "BL0CK BY ZION",
    "id": "3917376",
-   "mpg": 31.0,
+   "mpg": 31.2,
    "name": "Jaylen Brown",
    "nba_team": "PHL",
    "positions": [
@@ -1438,7 +1438,7 @@
    "return_date": null,
    "slot": "SG",
    "status": "ACTIVE",
-   "value": 32.2
+   "value": 32.0
   },
   "3934672": {
    "fantasy_team": "Coringas do Gansola",
@@ -3062,7 +3062,7 @@
   "4431678": {
    "fantasy_team": "Tiki Taka Laranja",
    "id": "4431678",
-   "mpg": 32.9,
+   "mpg": 33.0,
    "name": "Tyrese Maxey",
    "nba_team": "PHL",
    "positions": [
@@ -3817,7 +3817,7 @@
   "4433249": {
    "fantasy_team": "Caxias French Fries",
    "id": "4433249",
-   "mpg": 26.0,
+   "mpg": 26.1,
    "name": "Moussa Diabate",
    "nba_team": "CHA",
    "positions": [
@@ -3827,7 +3827,7 @@
    "return_date": null,
    "slot": "PF",
    "status": "ACTIVE",
-   "value": 25.9
+   "value": 26.0
   },
   "4433255": {
    "fantasy_team": "Lakers x Bortolan 23",
@@ -3857,7 +3857,7 @@
    "return_date": null,
    "slot": "SF",
    "status": "ACTIVE",
-   "value": 32.6
+   "value": 32.5
   },
   "4433621": {
    "fantasy_team": "Coringas do Gansola",
@@ -4228,7 +4228,7 @@
   "4602025": {
    "fantasy_team": null,
    "id": "4602025",
-   "mpg": 23.1,
+   "mpg": 23.3,
    "name": "Sion James",
    "nba_team": "CHA",
    "positions": [

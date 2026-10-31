@@ -3014,20 +3014,6 @@
    "status": "ACTIVE",
    "value": 11.1
   },
-  "4398207": {
-   "fantasy_team": null,
-   "id": "4398207",
-   "mpg": 11.4,
-   "name": "Jalen Slawson",
-   "nba_team": "IND",
-   "positions": [
-    "SF"
-   ],
-   "return_date": null,
-   "slot": "",
-   "status": "ACTIVE",
-   "value": 10.2
-  },
   "4398390": {
    "fantasy_team": null,
    "id": "4398390",
@@ -3749,6 +3735,20 @@
    "nba_team": "SAC",
    "positions": [
     "C"
+   ],
+   "return_date": null,
+   "slot": "",
+   "status": "OUT",
+   "value": 0.0
+  },
+  "4433188": {
+   "fantasy_team": null,
+   "id": "4433188",
+   "mpg": null,
+   "name": "Devin Carter",
+   "nba_team": "BOS",
+   "positions": [
+    "PG"
    ],
    "return_date": null,
    "slot": "",

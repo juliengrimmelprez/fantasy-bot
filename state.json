@@ -359,7 +359,7 @@
   "2990969": {
    "fantasy_team": null,
    "id": "2990969",
-   "mpg": 17.8,
+   "mpg": 18.0,
    "name": "Georges Niang",
    "nba_team": "GSW",
    "positions": [
@@ -368,7 +368,7 @@
    "return_date": null,
    "slot": "",
    "status": "ACTIVE",
-   "value": 12.8
+   "value": 13.0
   },
   "2990984": {
    "fantasy_team": null,
@@ -851,7 +851,7 @@
   "3134903": {
    "fantasy_team": null,
    "id": "3134903",
-   "mpg": 12.2,
+   "mpg": 12.3,
    "name": "Gary Payton II",
    "nba_team": "GSW",
    "positions": [
@@ -932,7 +932,7 @@
    "return_date": null,
    "slot": "",
    "status": "ACTIVE",
-   "value": 9.2
+   "value": 9.0
   },
   "3136193": {
    "fantasy_team": "Caxias French Fries",
@@ -1009,7 +1009,7 @@
   "3138196": {
    "fantasy_team": null,
    "id": "3138196",
-   "mpg": 17.5,
+   "mpg": 18.5,
    "name": "Cameron Johnson",
    "nba_team": "DEN",
    "positions": [
@@ -1019,7 +1019,7 @@
    "return_date": null,
    "slot": "",
    "status": "ACTIVE",
-   "value": 20.0
+   "value": 19.6
   },
   "3146557": {
    "fantasy_team": null,
@@ -1311,7 +1311,7 @@
   "3907498": {
    "fantasy_team": "Contagem Hunters",
    "id": "3907498",
-   "mpg": 23.5,
+   "mpg": 23.7,
    "name": "Matisse Thybulle",
    "nba_team": "LAL",
    "positions": [
@@ -1529,7 +1529,7 @@
   "3945274": {
    "fantasy_team": "Lakers x Bortolan 23",
    "id": "3945274",
-   "mpg": 33.4,
+   "mpg": 33.6,
    "name": "Luka Doncic",
    "nba_team": "LAL",
    "positions": [
@@ -1538,7 +1538,7 @@
    "return_date": null,
    "slot": "PG",
    "status": "ACTIVE",
-   "value": 59.0
+   "value": 58.8
   },
   "3948153": {
    "fantasy_team": null,
@@ -1558,7 +1558,7 @@
   "3975": {
    "fantasy_team": "Lucky",
    "id": "3975",
-   "mpg": 26.4,
+   "mpg": 26.6,
    "name": "Stephen Curry",
    "nba_team": "GSW",
    "positions": [
@@ -1567,12 +1567,12 @@
    "return_date": null,
    "slot": "UT",
    "status": "ACTIVE",
-   "value": 44.2
+   "value": 44.4
   },
   "3978": {
    "fantasy_team": "Tiki Taka Laranja",
    "id": "3978",
-   "mpg": 25.0,
+   "mpg": 25.2,
    "name": "DeMar DeRozan",
    "nba_team": "DEN",
    "positions": [
@@ -1582,7 +1582,7 @@
    "return_date": null,
    "slot": "UT",
    "status": "ACTIVE",
-   "value": 21.4
+   "value": 21.3
   },
   "3992": {
    "fantasy_team": "Tiki Taka Laranja",
@@ -1939,7 +1939,7 @@
   "4066436": {
    "fantasy_team": "Polga Silva",
    "id": "4066436",
-   "mpg": 20.2,
+   "mpg": 20.3,
    "name": "De'Anthony Melton",
    "nba_team": "GSW",
    "positions": [
@@ -1949,12 +1949,12 @@
    "return_date": null,
    "slot": "SG",
    "status": "ACTIVE",
-   "value": 22.3
+   "value": 22.9
   },
   "4066457": {
    "fantasy_team": "King Coopa",
    "id": "4066457",
-   "mpg": 33.5,
+   "mpg": 33.7,
    "name": "Austin Reaves",
    "nba_team": "LAL",
    "positions": [
@@ -2114,7 +2114,7 @@
   "4277848": {
    "fantasy_team": "CCCP  Баскетбол",
    "id": "4277848",
-   "mpg": 11.2,
+   "mpg": 11.6,
    "name": "Marvin Bagley III",
    "nba_team": "DEN",
    "positions": [
@@ -2124,7 +2124,7 @@
    "return_date": null,
    "slot": "UT",
    "status": "ACTIVE",
-   "value": 13.2
+   "value": 13.7
   },
   "4277869": {
    "fantasy_team": null,
@@ -3685,7 +3685,7 @@
   "4433136": {
    "fantasy_team": "Tropa do Nikola",
    "id": "4433136",
-   "mpg": 28.8,
+   "mpg": 29.0,
    "name": "Walker Kessler",
    "nba_team": "LAL",
    "positions": [
@@ -3694,7 +3694,7 @@
    "return_date": null,
    "slot": "UT",
    "status": "ACTIVE",
-   "value": 38.7
+   "value": 39.3
   },
   "4433137": {
    "fantasy_team": "Tropa do Nikola",
@@ -3890,7 +3890,7 @@
   "4437244": {
    "fantasy_team": "Tiki Taka Laranja",
    "id": "4437244",
-   "mpg": 25.0,
+   "mpg": 25.2,
    "name": "Jalen Green",
    "nba_team": "PHO",
    "positions": [
@@ -3900,7 +3900,7 @@
    "return_date": null,
    "slot": "UT",
    "status": "ACTIVE",
-   "value": 21.6
+   "value": 21.4
   },
   "4566434": {
    "fantasy_team": "King Coopa",
@@ -4017,7 +4017,7 @@
    "return_date": null,
    "slot": "SF",
    "status": "ACTIVE",
-   "value": 21.4
+   "value": 21.2
   },
   "4592714": {
    "fantasy_team": null,
@@ -6519,7 +6519,7 @@
   "6589": {
    "fantasy_team": "Bull Market",
    "id": "6589",
-   "mpg": 26.8,
+   "mpg": 27.0,
    "name": "Draymond Green",
    "nba_team": "GSW",
    "positions": [

@@ -73,7 +73,7 @@
  "last_activity_ms": 1793390202860,
  "last_digest": 1793417426.4791195,
  "last_error_alert": 1792787295.9267383,
- "last_hot_check": 1793417658.8203099,
+ "last_hot_check": 1793418620.8491845,
  "last_run": "2026-10-19T22:05:14+00:00",
  "matchup_periods": {
   "1": [
@@ -359,7 +359,7 @@
   "2990969": {
    "fantasy_team": null,
    "id": "2990969",
-   "mpg": 17.5,
+   "mpg": 17.7,
    "name": "Georges Niang",
    "nba_team": "GSW",
    "positions": [
@@ -780,7 +780,7 @@
   "3112335": {
    "fantasy_team": "Tropa do Nikola",
    "id": "3112335",
-   "mpg": 35.0,
+   "mpg": 35.4,
    "name": "Nikola Jokic",
    "nba_team": "DEN",
    "positions": [
@@ -789,7 +789,7 @@
    "return_date": null,
    "slot": "C",
    "status": "ACTIVE",
-   "value": 54.7
+   "value": 54.9
   },
   "3133602": {
    "fantasy_team": null,
@@ -851,7 +851,7 @@
   "3134903": {
    "fantasy_team": null,
    "id": "3134903",
-   "mpg": 11.8,
+   "mpg": 12.0,
    "name": "Gary Payton II",
    "nba_team": "GSW",
    "positions": [
@@ -937,7 +937,7 @@
   "3136193": {
    "fantasy_team": "Caxias French Fries",
    "id": "3136193",
-   "mpg": 31.8,
+   "mpg": 32.0,
    "name": "Devin Booker",
    "nba_team": "PHO",
    "positions": [
@@ -947,7 +947,7 @@
    "return_date": null,
    "slot": "PG",
    "status": "ACTIVE",
-   "value": 37.8
+   "value": 37.4
   },
   "3136195": {
    "fantasy_team": "Contagem Hunters",
@@ -1311,7 +1311,7 @@
   "3907498": {
    "fantasy_team": "Contagem Hunters",
    "id": "3907498",
-   "mpg": 23.2,
+   "mpg": 23.3,
    "name": "Matisse Thybulle",
    "nba_team": "LAL",
    "positions": [
@@ -1384,7 +1384,7 @@
   "3913174": {
    "fantasy_team": null,
    "id": "3913174",
-   "mpg": 13.7,
+   "mpg": 14.0,
    "name": "Luke Kennard",
    "nba_team": "PHO",
    "positions": [
@@ -1515,7 +1515,7 @@
   "3936299": {
    "fantasy_team": "Lucky",
    "id": "3936299",
-   "mpg": 36.0,
+   "mpg": 36.2,
    "name": "Jamal Murray",
    "nba_team": "DEN",
    "positions": [
@@ -1529,7 +1529,7 @@
   "3945274": {
    "fantasy_team": "Lakers x Bortolan 23",
    "id": "3945274",
-   "mpg": 33.0,
+   "mpg": 33.2,
    "name": "Luka Doncic",
    "nba_team": "LAL",
    "positions": [
@@ -1538,7 +1538,7 @@
    "return_date": null,
    "slot": "PG",
    "status": "ACTIVE",
-   "value": 57.8
+   "value": 58.2
   },
   "3948153": {
    "fantasy_team": null,
@@ -1558,7 +1558,7 @@
   "3975": {
    "fantasy_team": "Lucky",
    "id": "3975",
-   "mpg": 26.0,
+   "mpg": 26.2,
    "name": "Stephen Curry",
    "nba_team": "GSW",
    "positions": [
@@ -1567,12 +1567,12 @@
    "return_date": null,
    "slot": "UT",
    "status": "ACTIVE",
-   "value": 42.9
+   "value": 43.6
   },
   "3978": {
    "fantasy_team": "Tiki Taka Laranja",
    "id": "3978",
-   "mpg": 24.4,
+   "mpg": 24.6,
    "name": "DeMar DeRozan",
    "nba_team": "DEN",
    "positions": [
@@ -1582,7 +1582,7 @@
    "return_date": null,
    "slot": "UT",
    "status": "ACTIVE",
-   "value": 21.6
+   "value": 21.4
   },
   "3992": {
    "fantasy_team": "Tiki Taka Laranja",
@@ -1939,7 +1939,7 @@
   "4066436": {
    "fantasy_team": "Polga Silva",
    "id": "4066436",
-   "mpg": 19.8,
+   "mpg": 20.0,
    "name": "De'Anthony Melton",
    "nba_team": "GSW",
    "positions": [
@@ -1954,7 +1954,7 @@
   "4066457": {
    "fantasy_team": "King Coopa",
    "id": "4066457",
-   "mpg": 33.2,
+   "mpg": 33.3,
    "name": "Austin Reaves",
    "nba_team": "LAL",
    "positions": [
@@ -4007,7 +4007,7 @@
   "4592691": {
    "fantasy_team": "CCCP  Баскетбол",
    "id": "4592691",
-   "mpg": 21.2,
+   "mpg": 21.4,
    "name": "Jake LaRavia",
    "nba_team": "LAL",
    "positions": [
@@ -4192,7 +4192,7 @@
    "return_date": null,
    "slot": "",
    "status": "ACTIVE",
-   "value": 15.3
+   "value": 15.7
   },
   "4601025": {
    "fantasy_team": "Lebron GOAT",
@@ -4527,7 +4527,7 @@
    "return_date": null,
    "slot": "",
    "status": "ACTIVE",
-   "value": 18.8
+   "value": 19.8
   },
   "4701230": {
    "fantasy_team": "Lakers x Bortolan 23",
@@ -6529,7 +6529,7 @@
    "return_date": null,
    "slot": "UT",
    "status": "ACTIVE",
-   "value": 22.9
+   "value": 23.2
   },
   "6606": {
    "fantasy_team": "Bull Market",

@@ -3058,6 +3058,21 @@
    "status": "ACTIVE",
    "value": 35.3
   },
+  "4431675": {
+   "fantasy_team": null,
+   "id": "4431675",
+   "mpg": 17.0,
+   "name": "Trendon Watford",
+   "nba_team": "NOP",
+   "positions": [
+    "SF",
+    "PF"
+   ],
+   "return_date": null,
+   "slot": "",
+   "status": "ACTIVE",
+   "value": 23.0
+  },
   "4431678": {
    "fantasy_team": "Tiki Taka Laranja",
    "id": "4431678",
@@ -3734,20 +3749,6 @@
    "nba_team": "SAC",
    "positions": [
     "C"
-   ],
-   "return_date": null,
-   "slot": "",
-   "status": "OUT",
-   "value": 0.0
-  },
-  "4433188": {
-   "fantasy_team": null,
-   "id": "4433188",
-   "mpg": null,
-   "name": "Devin Carter",
-   "nba_team": "BOS",
-   "positions": [
-    "PG"
    ],
    "return_date": null,
    "slot": "",

@@ -547,7 +547,7 @@
    ],
    "return_date": null,
    "slot": "C",
-   "status": "OUT",
+   "status": "DAY_TO_DAY",
    "value": 23.4
   },
   "3032977": {
@@ -1732,7 +1732,7 @@
    ],
    "return_date": null,
    "slot": "UT",
-   "status": "OUT",
+   "status": "DAY_TO_DAY",
    "value": 41.3
   },
   "4065778": {
@@ -2213,7 +2213,7 @@
    ],
    "return_date": null,
    "slot": "",
-   "status": "OUT",
+   "status": "DAY_TO_DAY",
    "value": 18.1
   },
   "4277961": {
@@ -3219,7 +3219,7 @@
    ],
    "return_date": null,
    "slot": "BE",
-   "status": "OUT",
+   "status": "DAY_TO_DAY",
    "value": 17.4
   },
   "4431823": {
@@ -4053,7 +4053,7 @@
    ],
    "return_date": null,
    "slot": "",
-   "status": "OUT",
+   "status": "DAY_TO_DAY",
    "value": 13.4
   },
   "4593125": {
@@ -4329,7 +4329,7 @@
    ],
    "return_date": null,
    "slot": "",
-   "status": "OUT",
+   "status": "DAY_TO_DAY",
    "value": 19.7
   },
   "4683750": {

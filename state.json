@@ -75,7 +75,7 @@
   "6585:20261020"
  ],
  "hot_status": "ok: 250 FAs, 803 games",
- "last_activity_ms": 1793520068190,
+ "last_activity_ms": 1793541782878,
  "last_digest": 1793539336.7925155,
  "last_error_alert": 1792787295.9267383,
  "last_hot_check": 1793541497.294151,
@@ -2370,7 +2370,7 @@
     "PF"
    ],
    "return_date": null,
-   "slot": "SF",
+   "slot": "BE",
    "status": "ACTIVE",
    "value": 25.6
   },
@@ -4069,7 +4069,7 @@
    "value": 15.0
   },
   "4592829": {
-   "fantasy_team": null,
+   "fantasy_team": "Polga Silva",
    "id": "4592829",
    "mpg": 19.3,
    "name": "Quenton Jackson",
@@ -4079,7 +4079,7 @@
     "SG"
    ],
    "return_date": null,
-   "slot": "",
+   "slot": "SG",
    "status": "ACTIVE",
    "value": 20.0
   },
@@ -5101,7 +5101,7 @@
     "SF"
    ],
    "return_date": null,
-   "slot": "SG",
+   "slot": "SF",
    "status": "ACTIVE",
    "value": 32.0
   },
@@ -6523,7 +6523,7 @@
    "value": 41.3
   },
   "6585": {
-   "fantasy_team": "Polga Silva",
+   "fantasy_team": null,
    "id": "6585",
    "mpg": 13.2,
    "name": "Andre Drummond",
@@ -6532,7 +6532,7 @@
     "C"
    ],
    "return_date": null,
-   "slot": "BE",
+   "slot": "",
    "status": "ACTIVE",
    "value": 17.8
   },

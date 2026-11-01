@@ -1440,7 +1440,7 @@
    ],
    "return_date": null,
    "slot": "IR",
-   "status": "ACTIVE",
+   "status": "OUT",
    "value": 38.5
   },
   "3914044": {
@@ -5801,7 +5801,7 @@
    ],
    "return_date": null,
    "slot": "",
-   "status": "ACTIVE",
+   "status": "OUT",
    "value": 0.0
   },
   "5112087": {
@@ -6704,6 +6704,7 @@
   "diag:13",
   "planday:13",
   "drop:3032979:1793544530640",
-  "drop:5041951:1793544515128"
+  "drop:5041951:1793544515128",
+  "inj:3913176:OUT"
  ]
 }

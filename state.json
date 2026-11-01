@@ -74,11 +74,11 @@
   "4431823:20261023",
   "4684272:20261021"
  ],
- "hot_status": "ok: 250 FAs, 797 games",
- "last_activity_ms": 1793544694855,
+ "hot_status": "ok: 250 FAs, 800 games",
+ "last_activity_ms": 1793563458581,
  "last_digest": 1793561536.5352063,
  "last_error_alert": 1792787295.9267383,
- "last_hot_check": 1793562624.961063,
+ "last_hot_check": 1793563578.0279145,
  "last_run": "2026-10-19T22:05:14+00:00",
  "matchup_periods": {
   "1": [
@@ -2043,7 +2043,7 @@
    "value": 0.0
   },
   "4066757": {
-   "fantasy_team": "Coringas do Gansola",
+   "fantasy_team": null,
    "id": "4066757",
    "mpg": 23.7,
    "name": "Sam Merrill",
@@ -2052,7 +2052,7 @@
     "SG"
    ],
    "return_date": null,
-   "slot": "BE",
+   "slot": "",
    "status": "ACTIVE",
    "value": 19.6
   },
@@ -3309,7 +3309,7 @@
    "value": 41.8
   },
   "4432165": {
-   "fantasy_team": null,
+   "fantasy_team": "Coringas do Gansola",
    "id": "4432165",
    "mpg": 33.3,
    "name": "Jalen Suggs",
@@ -3319,7 +3319,7 @@
     "SG"
    ],
    "return_date": null,
-   "slot": "",
+   "slot": "BE",
    "status": "OUT",
    "value": 26.0
   },

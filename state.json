@@ -140,7 +140,7 @@
   ]
  },
  "matchup_periods_day": "2026-11-01",
- "plan_status": "ok: day 13, matchup 2 [7]..[13], adds left 9, opp Contagem Hunters",
+ "plan_status": "ok: day 13, matchup 2 [7]..[13], adds left 10, opp Contagem Hunters",
  "players": {
   "1966": {
    "fantasy_team": "Lucky",
@@ -1599,7 +1599,7 @@
     "PF"
    ],
    "return_date": null,
-   "slot": "UT",
+   "slot": "PF",
    "status": "ACTIVE",
    "value": 21.9
   },
@@ -2985,7 +2985,7 @@
     "C"
    ],
    "return_date": null,
-   "slot": "BE",
+   "slot": "UT",
    "status": "ACTIVE",
    "value": 22.2
   },
@@ -3406,7 +3406,7 @@
     "PG"
    ],
    "return_date": null,
-   "slot": "BE",
+   "slot": "UT",
    "status": "ACTIVE",
    "value": 18.2
   },
@@ -5230,7 +5230,7 @@
     "SG"
    ],
    "return_date": null,
-   "slot": "UT",
+   "slot": "BE",
    "status": "ACTIVE",
    "value": 33.9
   },

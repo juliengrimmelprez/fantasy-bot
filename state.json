@@ -853,6 +853,20 @@
    "status": "ACTIVE",
    "value": 24.0
   },
+  "3133635": {
+   "fantasy_team": null,
+   "id": "3133635",
+   "mpg": 17.5,
+   "name": "Jevon Carter",
+   "nba_team": "ORL",
+   "positions": [
+    "PG"
+   ],
+   "return_date": null,
+   "slot": "",
+   "status": "ACTIVE",
+   "value": 10.5
+  },
   "3134903": {
    "fantasy_team": null,
    "id": "3134903",
@@ -4477,20 +4491,6 @@
    "slot": "",
    "status": "ACTIVE",
    "value": 9.0
-  },
-  "4684806": {
-   "fantasy_team": null,
-   "id": "4684806",
-   "mpg": 4.7,
-   "name": "Taylor Hendricks",
-   "nba_team": "MEM",
-   "positions": [
-    "PF"
-   ],
-   "return_date": null,
-   "slot": "",
-   "status": "ACTIVE",
-   "value": 3.3
   },
   "4687718": {
    "fantasy_team": null,

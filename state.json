@@ -74,11 +74,11 @@
   "4432107:20261022",
   "4351851:20261028"
  ],
- "hot_status": "ok: 250 FAs, 800 games",
+ "hot_status": "ok: 250 FAs, 803 games",
  "last_activity_ms": 1793563458581,
  "last_digest": 1793565255.0489905,
  "last_error_alert": 1792787295.9267383,
- "last_hot_check": 1793565498.0929725,
+ "last_hot_check": 1793566457.5346043,
  "last_run": "2026-10-19T22:05:14+00:00",
  "matchup_periods": {
   "1": [
@@ -713,7 +713,7 @@
   "3078576": {
    "fantasy_team": "Lucky",
    "id": "3078576",
-   "mpg": 25.3,
+   "mpg": 25.5,
    "name": "Derrick White",
    "nba_team": "BOS",
    "positions": [
@@ -1678,7 +1678,7 @@
   "4065648": {
    "fantasy_team": "Caxias French Fries",
    "id": "4065648",
-   "mpg": 31.0,
+   "mpg": 31.2,
    "name": "Jayson Tatum",
    "nba_team": "BOS",
    "positions": [
@@ -1688,7 +1688,7 @@
    "return_date": null,
    "slot": "SF",
    "status": "ACTIVE",
-   "value": 42.5
+   "value": 43.0
   },
   "4065654": {
    "fantasy_team": null,
@@ -2073,7 +2073,7 @@
   "4251": {
    "fantasy_team": "Bull Market",
    "id": "4251",
-   "mpg": 26.5,
+   "mpg": 26.7,
    "name": "Paul George",
    "nba_team": "BOS",
    "positions": [
@@ -2083,7 +2083,7 @@
    "return_date": null,
    "slot": "SF",
    "status": "ACTIVE",
-   "value": 36.2
+   "value": 36.6
   },
   "4277811": {
    "fantasy_team": null,
@@ -2450,7 +2450,7 @@
   "4278572": {
    "fantasy_team": null,
    "id": "4278572",
-   "mpg": 14.2,
+   "mpg": 12.0,
    "name": "Jamal Cain",
    "nba_team": "ORL",
    "positions": [
@@ -2459,7 +2459,7 @@
    "return_date": null,
    "slot": "",
    "status": "ACTIVE",
-   "value": 9.0
+   "value": 8.1
   },
   "4278580": {
    "fantasy_team": "Bull Market",
@@ -2992,7 +2992,7 @@
   "4397424": {
    "fantasy_team": "Tiki Taka Laranja",
    "id": "4397424",
-   "mpg": 17.3,
+   "mpg": 17.5,
    "name": "Neemias Queta",
    "nba_team": "BOS",
    "positions": [
@@ -3953,7 +3953,7 @@
   "4566434": {
    "fantasy_team": "King Coopa",
    "id": "4566434",
-   "mpg": 29.7,
+   "mpg": 29.8,
    "name": "Franz Wagner",
    "nba_team": "ORL",
    "positions": [
@@ -3963,7 +3963,7 @@
    "return_date": null,
    "slot": "SF",
    "status": "ACTIVE",
-   "value": 31.4
+   "value": 31.9
   },
   "4576060": {
    "fantasy_team": null,
@@ -4638,7 +4638,7 @@
   "4702382": {
    "fantasy_team": "Contagem Hunters",
    "id": "4702382",
-   "mpg": 27.6,
+   "mpg": 23.2,
    "name": "Tristan da Silva",
    "nba_team": "ORL",
    "positions": [
@@ -4648,7 +4648,7 @@
    "return_date": null,
    "slot": "PF",
    "status": "ACTIVE",
-   "value": 22.1
+   "value": 19.8
   },
   "4702384": {
    "fantasy_team": null,
@@ -6095,7 +6095,7 @@
   "5175647": {
    "fantasy_team": null,
    "id": "5175647",
-   "mpg": 10.8,
+   "mpg": 11.0,
    "name": "Hugo Gonzalez",
    "nba_team": "BOS",
    "positions": [
@@ -6104,7 +6104,7 @@
    "return_date": null,
    "slot": "",
    "status": "ACTIVE",
-   "value": 9.6
+   "value": 9.8
   },
   "5175737": {
    "fantasy_team": "Fernando  Diniz",
@@ -6236,7 +6236,7 @@
   "5239561": {
    "fantasy_team": null,
    "id": "5239561",
-   "mpg": 16.3,
+   "mpg": 16.5,
    "name": "Jase Richardson",
    "nba_team": "ORL",
    "positions": [
@@ -6245,7 +6245,7 @@
    "return_date": null,
    "slot": "",
    "status": "ACTIVE",
-   "value": 11.3
+   "value": 11.6
   },
   "5239590": {
    "fantasy_team": null,
@@ -6480,7 +6480,7 @@
   "6478": {
    "fantasy_team": "Lakers x Bortolan 23",
    "id": "6478",
-   "mpg": 9.2,
+   "mpg": 7.8,
    "name": "Nikola Vucevic",
    "nba_team": "ORL",
    "positions": [
@@ -6489,7 +6489,7 @@
    "return_date": null,
    "slot": "C",
    "status": "ACTIVE",
-   "value": 13.8
+   "value": 13.3
   },
   "6578": {
    "fantasy_team": null,

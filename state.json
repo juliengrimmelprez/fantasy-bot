@@ -6017,7 +6017,7 @@
    ],
    "return_date": null,
    "slot": "C",
-   "status": "ACTIVE",
+   "status": "DAY_TO_DAY",
    "value": 27.9
   },
   "5164559": {
@@ -6705,6 +6705,7 @@
   "planday:13",
   "drop:3032979:1793544530640",
   "drop:5041951:1793544515128",
-  "inj:3913176:OUT"
+  "inj:3913176:OUT",
+  "inj:5160992:DAY_TO_DAY"
  ]
 }

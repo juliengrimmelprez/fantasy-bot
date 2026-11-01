@@ -1011,6 +1011,20 @@
    "status": "ACTIVE",
    "value": 17.3
   },
+  "3136777": {
+   "fantasy_team": null,
+   "id": "3136777",
+   "mpg": 2.8,
+   "name": "Jae'Sean Tate",
+   "nba_team": "HOU",
+   "positions": [
+    "SF"
+   ],
+   "return_date": null,
+   "slot": "",
+   "status": "ACTIVE",
+   "value": 2.8
+  },
   "3138160": {
    "fantasy_team": null,
    "id": "3138160",
@@ -3753,20 +3767,6 @@
    "nba_team": "SAC",
    "positions": [
     "C"
-   ],
-   "return_date": null,
-   "slot": "",
-   "status": "OUT",
-   "value": 0.0
-  },
-  "4433188": {
-   "fantasy_team": null,
-   "id": "4433188",
-   "mpg": null,
-   "name": "Devin Carter",
-   "nba_team": "BOS",
-   "positions": [
-    "PG"
    ],
    "return_date": null,
    "slot": "",

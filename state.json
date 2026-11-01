@@ -713,7 +713,7 @@
   "3078576": {
    "fantasy_team": "Lucky",
    "id": "3078576",
-   "mpg": 26.8,
+   "mpg": 27.0,
    "name": "Derrick White",
    "nba_team": "BOS",
    "positions": [
@@ -1688,7 +1688,7 @@
    "return_date": null,
    "slot": "SF",
    "status": "ACTIVE",
-   "value": 43.9
+   "value": 44.5
   },
   "4065654": {
    "fantasy_team": null,
@@ -1868,7 +1868,7 @@
   "4066320": {
    "fantasy_team": "Fernando  Diniz",
    "id": "4066320",
-   "mpg": 30.7,
+   "mpg": 30.8,
    "name": "Desmond Bane",
    "nba_team": "ORL",
    "positions": [
@@ -2083,7 +2083,7 @@
    "return_date": null,
    "slot": "SF",
    "status": "ACTIVE",
-   "value": 37.6
+   "value": 38.2
   },
   "4277811": {
    "fantasy_team": null,
@@ -2133,7 +2133,7 @@
   "4277847": {
    "fantasy_team": "Lebron GOAT",
    "id": "4277847",
-   "mpg": 28.3,
+   "mpg": 28.7,
    "name": "Wendell Carter Jr.",
    "nba_team": "ORL",
    "positions": [
@@ -2739,6 +2739,20 @@
    "status": "ACTIVE",
    "value": 36.5
   },
+  "4396818": {
+   "fantasy_team": null,
+   "id": "4396818",
+   "mpg": null,
+   "name": "Jordan Miller",
+   "nba_team": "LAC",
+   "positions": [
+    "SF"
+   ],
+   "return_date": null,
+   "slot": "",
+   "status": "OUT",
+   "value": 0.0
+  },
   "4396907": {
    "fantasy_team": "Tropa do Nikola",
    "id": "4396907",
@@ -2827,20 +2841,6 @@
    "slot": "SG",
    "status": "ACTIVE",
    "value": 21.7
-  },
-  "4397018": {
-   "fantasy_team": null,
-   "id": "4397018",
-   "mpg": null,
-   "name": "Ochai Agbaji",
-   "nba_team": "FA",
-   "positions": [
-    "SF"
-   ],
-   "return_date": null,
-   "slot": "",
-   "status": "ACTIVE",
-   "value": 0.0
   },
   "4397020": {
    "fantasy_team": null,
@@ -3963,7 +3963,7 @@
    "return_date": null,
    "slot": "SF",
    "status": "ACTIVE",
-   "value": 32.4
+   "value": 32.3
   },
   "4576060": {
    "fantasy_team": null,

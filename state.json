@@ -75,7 +75,7 @@
   "4687718:20261025"
  ],
  "hot_status": "ok: 250 FAs, 803 games",
- "last_activity_ms": 1793544558601,
+ "last_activity_ms": 1793544694855,
  "last_digest": 1793543057.8477786,
  "last_error_alert": 1792787295.9267383,
  "last_hot_check": 1793544377.2200637,
@@ -3540,7 +3540,7 @@
    "value": 0.0
   },
   "4432810": {
-   "fantasy_team": null,
+   "fantasy_team": "Lucky",
    "id": "4432810",
    "mpg": 18.0,
    "name": "Isaiah Stewart",
@@ -3550,7 +3550,7 @@
     "C"
    ],
    "return_date": null,
-   "slot": "",
+   "slot": "BE",
    "status": "ACTIVE",
    "value": 23.0
   },
@@ -3876,6 +3876,20 @@
    "slot": "UT",
    "status": "ACTIVE",
    "value": 36.6
+  },
+  "4433569": {
+   "fantasy_team": null,
+   "id": "4433569",
+   "mpg": 8.3,
+   "name": "Johni Broome",
+   "nba_team": "FA",
+   "positions": [
+    "PF"
+   ],
+   "return_date": null,
+   "slot": "",
+   "status": "ACTIVE",
+   "value": 7.0
   },
   "4433621": {
    "fantasy_team": "Coringas do Gansola",

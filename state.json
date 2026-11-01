@@ -852,20 +852,6 @@
    "status": "ACTIVE",
    "value": 24.0
   },
-  "3133635": {
-   "fantasy_team": null,
-   "id": "3133635",
-   "mpg": 17.5,
-   "name": "Jevon Carter",
-   "nba_team": "ORL",
-   "positions": [
-    "PG"
-   ],
-   "return_date": null,
-   "slot": "",
-   "status": "ACTIVE",
-   "value": 10.5
-  },
   "3134903": {
    "fantasy_team": null,
    "id": "3134903",
@@ -3030,6 +3016,20 @@
    "slot": "",
    "status": "ACTIVE",
    "value": 11.1
+  },
+  "4398207": {
+   "fantasy_team": null,
+   "id": "4398207",
+   "mpg": 11.4,
+   "name": "Jalen Slawson",
+   "nba_team": "IND",
+   "positions": [
+    "SF"
+   ],
+   "return_date": null,
+   "slot": "",
+   "status": "ACTIVE",
+   "value": 10.2
   },
   "4398390": {
    "fantasy_team": null,

@@ -75,7 +75,7 @@
   "5149115:20261025"
  ],
  "hot_status": "ok: 248 FAs, 786 games",
- "last_activity_ms": 1793492649999,
+ "last_activity_ms": 1793520068190,
  "last_digest": 1793517142.781634,
  "last_error_alert": 1792787295.9267383,
  "last_hot_check": 1793519422.590749,
@@ -2859,7 +2859,7 @@
    "value": 17.3
   },
   "4397077": {
-   "fantasy_team": null,
+   "fantasy_team": "Coringas do Gansola",
    "id": "4397077",
    "mpg": 25.6,
    "name": "Jaxson Hayes",
@@ -2868,7 +2868,7 @@
     "C"
    ],
    "return_date": null,
-   "slot": "",
+   "slot": "BE",
    "status": "ACTIVE",
    "value": 26.5
   },
@@ -4593,7 +4593,7 @@
    "value": 5.5
   },
   "4702177": {
-   "fantasy_team": "Coringas do Gansola",
+   "fantasy_team": null,
    "id": "4702177",
    "mpg": 25.0,
    "name": "Keon Ellis",
@@ -4603,7 +4603,7 @@
     "SF"
    ],
    "return_date": null,
-   "slot": "BE",
+   "slot": "",
    "status": "ACTIVE",
    "value": 21.2
   },
@@ -6685,6 +6685,7 @@
   "inj:4845367:DAY_TO_DAY",
   "inj:4845367:ACTIVE",
   "inj:4065733:OUT",
-  "hot:5149077:20261031"
+  "hot:5149077:20261031",
+  "drop:4702177:1793520068190"
  ]
 }

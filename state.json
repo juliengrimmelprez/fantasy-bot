@@ -140,7 +140,7 @@
   ]
  },
  "matchup_periods_day": "2026-11-01",
- "plan_status": "ok: day 12, matchup 2 [7]..[13], adds left 8, opp Contagem Hunters",
+ "plan_status": "ok: day 13, matchup 2 [7]..[13], adds left 9, opp Contagem Hunters",
  "players": {
   "1966": {
    "fantasy_team": "Lucky",
@@ -183,7 +183,7 @@
     "SG"
    ],
    "return_date": null,
-   "slot": "SG",
+   "slot": "UT",
    "status": "ACTIVE",
    "value": 26.4
   },
@@ -285,7 +285,7 @@
     "SF"
    ],
    "return_date": null,
-   "slot": "UT",
+   "slot": "BE",
    "status": "ACTIVE",
    "value": 17.1
   },
@@ -445,7 +445,7 @@
     "SG"
    ],
    "return_date": null,
-   "slot": "BE",
+   "slot": "PG",
    "status": "ACTIVE",
    "value": 28.9
   },
@@ -546,7 +546,7 @@
     "C"
    ],
    "return_date": null,
-   "slot": "C",
+   "slot": "IR",
    "status": "DAY_TO_DAY",
    "value": 23.4
   },
@@ -561,7 +561,7 @@
     "C"
    ],
    "return_date": null,
-   "slot": "PF",
+   "slot": "UT",
    "status": "ACTIVE",
    "value": 53.6
   },
@@ -575,7 +575,7 @@
     "PG"
    ],
    "return_date": null,
-   "slot": "PG",
+   "slot": "UT",
    "status": "ACTIVE",
    "value": 21.0
   },
@@ -634,7 +634,7 @@
     "SF"
    ],
    "return_date": null,
-   "slot": "BE",
+   "slot": "UT",
    "status": "ACTIVE",
    "value": 29.1
   },
@@ -648,7 +648,7 @@
     "PF"
    ],
    "return_date": null,
-   "slot": "BE",
+   "slot": "UT",
    "status": "ACTIVE",
    "value": 26.6
   },
@@ -663,7 +663,7 @@
     "SF"
    ],
    "return_date": null,
-   "slot": "SF",
+   "slot": "BE",
    "status": "ACTIVE",
    "value": 32.9
   },
@@ -735,7 +735,7 @@
     "C"
    ],
    "return_date": null,
-   "slot": "UT",
+   "slot": "BE",
    "status": "ACTIVE",
    "value": 17.2
   },
@@ -821,7 +821,7 @@
     "SF"
    ],
    "return_date": null,
-   "slot": "SG",
+   "slot": "UT",
    "status": "ACTIVE",
    "value": 18.3
   },
@@ -892,7 +892,7 @@
     "PF"
    ],
    "return_date": null,
-   "slot": "PF",
+   "slot": "BE",
    "status": "ACTIVE",
    "value": 24.2
   },
@@ -935,7 +935,7 @@
     "SG"
    ],
    "return_date": null,
-   "slot": "SG",
+   "slot": "UT",
    "status": "ACTIVE",
    "value": 25.6
   },
@@ -964,7 +964,7 @@
     "SG"
    ],
    "return_date": null,
-   "slot": "PG",
+   "slot": "UT",
    "status": "ACTIVE",
    "value": 38.7
   },
@@ -1050,7 +1050,7 @@
     "C"
    ],
    "return_date": null,
-   "slot": "UT",
+   "slot": "BE",
    "status": "DAY_TO_DAY",
    "value": 14.3
   },
@@ -1224,7 +1224,7 @@
     "C"
    ],
    "return_date": null,
-   "slot": "BE",
+   "slot": "C",
    "status": "ACTIVE",
    "value": 26.2
   },
@@ -1337,7 +1337,7 @@
     "SF"
    ],
    "return_date": null,
-   "slot": "BE",
+   "slot": "SF",
    "status": "ACTIVE",
    "value": 21.9
   },
@@ -1367,7 +1367,7 @@
     "SG"
    ],
    "return_date": null,
-   "slot": "UT",
+   "slot": "PG",
    "status": "ACTIVE",
    "value": 41.1
   },
@@ -1396,7 +1396,7 @@
     "PF"
    ],
    "return_date": null,
-   "slot": "UT",
+   "slot": "BE",
    "status": "ACTIVE",
    "value": 20.4
   },
@@ -1527,7 +1527,7 @@
     "PF"
    ],
    "return_date": null,
-   "slot": "BE",
+   "slot": "SF",
    "status": "ACTIVE",
    "value": 27.2
   },
@@ -1584,7 +1584,7 @@
     "PG"
    ],
    "return_date": null,
-   "slot": "UT",
+   "slot": "PG",
    "status": "OUT",
    "value": 46.3
   },
@@ -1599,7 +1599,7 @@
     "PF"
    ],
    "return_date": null,
-   "slot": "SF",
+   "slot": "UT",
    "status": "ACTIVE",
    "value": 21.9
   },
@@ -1643,7 +1643,7 @@
     "C"
    ],
    "return_date": null,
-   "slot": "UT",
+   "slot": "C",
    "status": "OUT",
    "value": 25.1
   },
@@ -1730,7 +1730,7 @@
     "PF"
    ],
    "return_date": null,
-   "slot": "PF",
+   "slot": "UT",
    "status": "ACTIVE",
    "value": 22.0
   },
@@ -1788,7 +1788,7 @@
     "C"
    ],
    "return_date": null,
-   "slot": "C",
+   "slot": "BE",
    "status": "ACTIVE",
    "value": 24.7
   },
@@ -1817,7 +1817,7 @@
     "SG"
    ],
    "return_date": null,
-   "slot": "PG",
+   "slot": "SG",
    "status": "ACTIVE",
    "value": 38.5
   },
@@ -1862,7 +1862,7 @@
     "SF"
    ],
    "return_date": null,
-   "slot": "UT",
+   "slot": "SG",
    "status": "ACTIVE",
    "value": 29.5
   },
@@ -1891,7 +1891,7 @@
     "PF"
    ],
    "return_date": null,
-   "slot": "SF",
+   "slot": "UT",
    "status": "ACTIVE",
    "value": 27.7
   },
@@ -1906,7 +1906,7 @@
     "SG"
    ],
    "return_date": null,
-   "slot": "BE",
+   "slot": "PG",
    "status": "ACTIVE",
    "value": 29.0
   },
@@ -1936,7 +1936,7 @@
     "PF"
    ],
    "return_date": null,
-   "slot": "UT",
+   "slot": "PF",
    "status": "ACTIVE",
    "value": 33.0
   },
@@ -1981,7 +1981,7 @@
     "SG"
    ],
    "return_date": null,
-   "slot": "UT",
+   "slot": "PG",
    "status": "ACTIVE",
    "value": 39.7
   },
@@ -2038,7 +2038,7 @@
     "SG"
    ],
    "return_date": null,
-   "slot": "UT",
+   "slot": "BE",
    "status": "ACTIVE",
    "value": 19.6
   },
@@ -2052,7 +2052,7 @@
     "C"
    ],
    "return_date": null,
-   "slot": "C",
+   "slot": "UT",
    "status": "ACTIVE",
    "value": 25.6
   },
@@ -2067,7 +2067,7 @@
     "PF"
    ],
    "return_date": null,
-   "slot": "BE",
+   "slot": "SF",
    "status": "ACTIVE",
    "value": 41.4
   },
@@ -2126,7 +2126,7 @@
     "C"
    ],
    "return_date": null,
-   "slot": "BE",
+   "slot": "C",
    "status": "ACTIVE",
    "value": 30.5
   },
@@ -2183,7 +2183,7 @@
     "C"
    ],
    "return_date": null,
-   "slot": "C",
+   "slot": "BE",
    "status": "ACTIVE",
    "value": 25.7
   },
@@ -2256,7 +2256,7 @@
     "SG"
    ],
    "return_date": null,
-   "slot": "SG",
+   "slot": "UT",
    "status": "ACTIVE",
    "value": 31.2
   },
@@ -2371,7 +2371,7 @@
     "PF"
    ],
    "return_date": null,
-   "slot": "UT",
+   "slot": "SF",
    "status": "ACTIVE",
    "value": 37.3
   },
@@ -2399,7 +2399,7 @@
     "PF"
    ],
    "return_date": null,
-   "slot": "BE",
+   "slot": "PF",
    "status": "DAY_TO_DAY",
    "value": 25.9
   },
@@ -2458,7 +2458,7 @@
     "C"
    ],
    "return_date": null,
-   "slot": "BE",
+   "slot": "PF",
    "status": "ACTIVE",
    "value": 22.2
   },
@@ -2472,7 +2472,7 @@
     "PG"
    ],
    "return_date": null,
-   "slot": "UT",
+   "slot": "BE",
    "status": "ACTIVE",
    "value": 29.6
   },
@@ -2545,7 +2545,7 @@
     "SG"
    ],
    "return_date": null,
-   "slot": "SG",
+   "slot": "UT",
    "status": "ACTIVE",
    "value": 21.9
   },
@@ -2559,7 +2559,7 @@
     "C"
    ],
    "return_date": null,
-   "slot": "BE",
+   "slot": "C",
    "status": "DAY_TO_DAY",
    "value": 19.7
   },
@@ -2574,7 +2574,7 @@
     "SF"
    ],
    "return_date": null,
-   "slot": "BE",
+   "slot": "SF",
    "status": "ACTIVE",
    "value": 33.0
   },
@@ -2618,7 +2618,7 @@
     "SF"
    ],
    "return_date": null,
-   "slot": "UT",
+   "slot": "BE",
    "status": "ACTIVE",
    "value": 27.5
   },
@@ -2691,7 +2691,7 @@
     "PF"
    ],
    "return_date": null,
-   "slot": "UT",
+   "slot": "SF",
    "status": "ACTIVE",
    "value": 18.9
   },
@@ -2721,7 +2721,7 @@
     "SG"
    ],
    "return_date": null,
-   "slot": "PG",
+   "slot": "SG",
    "status": "ACTIVE",
    "value": 36.5
   },
@@ -2735,7 +2735,7 @@
     "PG"
    ],
    "return_date": null,
-   "slot": "BE",
+   "slot": "PG",
    "status": "ACTIVE",
    "value": 31.5
   },
@@ -2897,7 +2897,7 @@
     "PF"
    ],
    "return_date": null,
-   "slot": "SF",
+   "slot": "UT",
    "status": "ACTIVE",
    "value": 26.1
   },
@@ -2927,7 +2927,7 @@
     "SF"
    ],
    "return_date": null,
-   "slot": "UT",
+   "slot": "BE",
    "status": "ACTIVE",
    "value": 26.0
   },
@@ -2942,7 +2942,7 @@
     "C"
    ],
    "return_date": null,
-   "slot": "PF",
+   "slot": "C",
    "status": "ACTIVE",
    "value": 27.0
   },
@@ -3131,7 +3131,7 @@
     "C"
    ],
    "return_date": null,
-   "slot": "C",
+   "slot": "UT",
    "status": "ACTIVE",
    "value": 29.0
   },
@@ -3188,7 +3188,7 @@
     "PF"
    ],
    "return_date": null,
-   "slot": "PF",
+   "slot": "BE",
    "status": "ACTIVE",
    "value": 29.0
   },
@@ -3217,7 +3217,7 @@
     "SF"
    ],
    "return_date": null,
-   "slot": "BE",
+   "slot": "UT",
    "status": "ACTIVE",
    "value": 30.7
   },
@@ -3382,6 +3382,34 @@
    "status": "OUT",
    "value": 13.1
   },
+  "4432194": {
+   "fantasy_team": "Tiki Taka Laranja",
+   "id": "4432194",
+   "mpg": 22.0,
+   "name": "Day'Ron Sharpe",
+   "nba_team": "BKN",
+   "positions": [
+    "C"
+   ],
+   "return_date": null,
+   "slot": "UT",
+   "status": "ACTIVE",
+   "value": 20.9
+  },
+  "4432241": {
+   "fantasy_team": "Tiki Taka Laranja",
+   "id": "4432241",
+   "mpg": 21.4,
+   "name": "Jamal Shead",
+   "nba_team": "TOR",
+   "positions": [
+    "PG"
+   ],
+   "return_date": null,
+   "slot": "BE",
+   "status": "ACTIVE",
+   "value": 18.2
+  },
   "4432247": {
    "fantasy_team": null,
    "id": "4432247",
@@ -3435,7 +3463,7 @@
     "PF"
    ],
    "return_date": null,
-   "slot": "BE",
+   "slot": "SF",
    "status": "OUT",
    "value": 43.5
   },
@@ -3536,7 +3564,7 @@
     "PG"
    ],
    "return_date": null,
-   "slot": "PG",
+   "slot": "BE",
    "status": "ACTIVE",
    "value": 33.9
   },
@@ -3595,7 +3623,7 @@
     "SG"
    ],
    "return_date": null,
-   "slot": "UT",
+   "slot": "BE",
    "status": "ACTIVE",
    "value": 18.4
   },
@@ -3610,7 +3638,7 @@
     "SF"
    ],
    "return_date": null,
-   "slot": "SF",
+   "slot": "UT",
    "status": "ACTIVE",
    "value": 27.3
   },
@@ -3655,7 +3683,7 @@
     "SG"
    ],
    "return_date": null,
-   "slot": "UT",
+   "slot": "BE",
    "status": "ACTIVE",
    "value": 26.0
   },
@@ -3670,7 +3698,7 @@
     "SF"
    ],
    "return_date": null,
-   "slot": "UT",
+   "slot": "SG",
    "status": "ACTIVE",
    "value": 43.6
   },
@@ -3684,7 +3712,7 @@
     "C"
    ],
    "return_date": null,
-   "slot": "BE",
+   "slot": "C",
    "status": "ACTIVE",
    "value": 39.4
   },
@@ -3699,7 +3727,7 @@
     "SF"
    ],
    "return_date": null,
-   "slot": "IR",
+   "slot": "SG",
    "status": "DAY_TO_DAY",
    "value": 25.0
   },
@@ -3756,7 +3784,7 @@
     "PF"
    ],
    "return_date": null,
-   "slot": "SF",
+   "slot": "BE",
    "status": "ACTIVE",
    "value": 24.7
   },
@@ -3800,7 +3828,7 @@
     "PF"
    ],
    "return_date": null,
-   "slot": "SF",
+   "slot": "UT",
    "status": "ACTIVE",
    "value": 28.6
   },
@@ -3815,7 +3843,7 @@
     "C"
    ],
    "return_date": null,
-   "slot": "PF",
+   "slot": "BE",
    "status": "ACTIVE",
    "value": 29.1
   },
@@ -3845,7 +3873,7 @@
     "SF"
    ],
    "return_date": null,
-   "slot": "SF",
+   "slot": "UT",
    "status": "ACTIVE",
    "value": 36.6
   },
@@ -3859,7 +3887,7 @@
     "C"
    ],
    "return_date": null,
-   "slot": "UT",
+   "slot": "C",
    "status": "OUT",
    "value": 34.2
   },
@@ -3874,7 +3902,7 @@
     "SG"
    ],
    "return_date": null,
-   "slot": "PG",
+   "slot": "UT",
    "status": "ACTIVE",
    "value": 33.7
   },
@@ -3919,7 +3947,7 @@
     "PF"
    ],
    "return_date": null,
-   "slot": "UT",
+   "slot": "SF",
    "status": "ACTIVE",
    "value": 34.9
   },
@@ -3948,7 +3976,7 @@
     "PF"
    ],
    "return_date": null,
-   "slot": "SF",
+   "slot": "BE",
    "status": "ACTIVE",
    "value": 26.2
   },
@@ -3977,7 +4005,7 @@
     "SG"
    ],
    "return_date": null,
-   "slot": "PG",
+   "slot": "SG",
    "status": "ACTIVE",
    "value": 25.0
   },
@@ -4254,7 +4282,7 @@
     "PF"
    ],
    "return_date": null,
-   "slot": "PF",
+   "slot": "UT",
    "status": "ACTIVE",
    "value": 40.1
   },
@@ -4361,7 +4389,7 @@
    "value": 3.6
   },
   "4683766": {
-   "fantasy_team": "Tiki Taka Laranja",
+   "fantasy_team": null,
    "id": "4683766",
    "mpg": 18.7,
    "name": "Isaiah Collier",
@@ -4370,7 +4398,7 @@
     "PG"
    ],
    "return_date": null,
-   "slot": "UT",
+   "slot": "",
    "status": "ACTIVE",
    "value": 18.3
   },
@@ -4415,7 +4443,7 @@
     "SG"
    ],
    "return_date": null,
-   "slot": "PG",
+   "slot": "BE",
    "status": "ACTIVE",
    "value": 16.5
   },
@@ -4429,7 +4457,7 @@
     "SG"
    ],
    "return_date": null,
-   "slot": "BE",
+   "slot": "SG",
    "status": "ACTIVE",
    "value": 27.5
   },
@@ -4458,7 +4486,7 @@
     "SF"
    ],
    "return_date": null,
-   "slot": "UT",
+   "slot": "SG",
    "status": "ACTIVE",
    "value": 35.4
   },
@@ -4604,7 +4632,7 @@
     "PF"
    ],
    "return_date": null,
-   "slot": "BE",
+   "slot": "PF",
    "status": "ACTIVE",
    "value": 22.1
   },
@@ -4662,7 +4690,7 @@
     "SG"
    ],
    "return_date": null,
-   "slot": "UT",
+   "slot": "PG",
    "status": "ACTIVE",
    "value": 34.1
   },
@@ -4677,7 +4705,7 @@
     "SG"
    ],
    "return_date": null,
-   "slot": "UT",
+   "slot": "SG",
    "status": "DAY_TO_DAY",
    "value": 27.0
   },
@@ -4721,7 +4749,7 @@
     "SG"
    ],
    "return_date": null,
-   "slot": "UT",
+   "slot": "PG",
    "status": "ACTIVE",
    "value": 32.3
   },
@@ -4764,7 +4792,7 @@
     "SG"
    ],
    "return_date": null,
-   "slot": "SG",
+   "slot": "UT",
    "status": "ACTIVE",
    "value": 32.2
   },
@@ -4822,7 +4850,7 @@
     "SG"
    ],
    "return_date": null,
-   "slot": "PG",
+   "slot": "UT",
    "status": "ACTIVE",
    "value": 34.4
   },
@@ -4837,7 +4865,7 @@
     "C"
    ],
    "return_date": null,
-   "slot": "PF",
+   "slot": "UT",
    "status": "ACTIVE",
    "value": 26.0
   },
@@ -4881,7 +4909,7 @@
     "C"
    ],
    "return_date": null,
-   "slot": "C",
+   "slot": "UT",
    "status": "ACTIVE",
    "value": 46.8
   },
@@ -4896,7 +4924,7 @@
     "SG"
    ],
    "return_date": null,
-   "slot": "UT",
+   "slot": "PG",
    "status": "ACTIVE",
    "value": 30.4
   },
@@ -4926,7 +4954,7 @@
     "PF"
    ],
    "return_date": null,
-   "slot": "SF",
+   "slot": "UT",
    "status": "ACTIVE",
    "value": 30.6
   },
@@ -5058,7 +5086,7 @@
     "SG"
    ],
    "return_date": null,
-   "slot": "UT",
+   "slot": "BE",
    "status": "ACTIVE",
    "value": 32.0
   },
@@ -5173,7 +5201,7 @@
     "PF"
    ],
    "return_date": null,
-   "slot": "UT",
+   "slot": "PF",
    "status": "ACTIVE",
    "value": 18.4
   },
@@ -5245,7 +5273,7 @@
     "SG"
    ],
    "return_date": null,
-   "slot": "UT",
+   "slot": "BE",
    "status": "ACTIVE",
    "value": 23.3
   },
@@ -5274,7 +5302,7 @@
     "SG"
    ],
    "return_date": null,
-   "slot": "SG",
+   "slot": "UT",
    "status": "ACTIVE",
    "value": 25.3
   },
@@ -5429,7 +5457,7 @@
     "PF"
    ],
    "return_date": null,
-   "slot": "BE",
+   "slot": "PF",
    "status": "ACTIVE",
    "value": 20.3
   },
@@ -5471,7 +5499,7 @@
     "PG"
    ],
    "return_date": null,
-   "slot": "UT",
+   "slot": "BE",
    "status": "OUT",
    "value": 18.8
   },
@@ -5773,7 +5801,7 @@
     "SF"
    ],
    "return_date": null,
-   "slot": "SG",
+   "slot": "BE",
    "status": "ACTIVE",
    "value": 22.4
   },
@@ -5802,7 +5830,7 @@
     "SG"
    ],
    "return_date": null,
-   "slot": "SG",
+   "slot": "UT",
    "status": "ACTIVE",
    "value": 29.2
   },
@@ -6046,7 +6074,7 @@
     "SG"
    ],
    "return_date": null,
-   "slot": "UT",
+   "slot": "PG",
    "status": "OUT",
    "value": 17.8
   },
@@ -6075,7 +6103,7 @@
     "PF"
    ],
    "return_date": null,
-   "slot": "BE",
+   "slot": "PF",
    "status": "ACTIVE",
    "value": 29.5
   },
@@ -6136,7 +6164,7 @@
    "value": 2.3
   },
   "5214640": {
-   "fantasy_team": "Tiki Taka Laranja",
+   "fantasy_team": null,
    "id": "5214640",
    "mpg": 22.5,
    "name": "Kasparas Jakucionis",
@@ -6145,7 +6173,7 @@
     "PG"
    ],
    "return_date": null,
-   "slot": "UT",
+   "slot": "",
    "status": "ACTIVE",
    "value": 18.8
   },
@@ -6387,7 +6415,7 @@
     "PG"
    ],
    "return_date": null,
-   "slot": "BE",
+   "slot": "UT",
    "status": "ACTIVE",
    "value": 41.6
   },
@@ -6519,7 +6547,7 @@
     "C"
    ],
    "return_date": null,
-   "slot": "BE",
+   "slot": "UT",
    "status": "OUT",
    "value": 23.6
   },
@@ -6533,7 +6561,7 @@
     "PG"
    ],
    "return_date": null,
-   "slot": "PG",
+   "slot": "UT",
    "status": "ACTIVE",
    "value": 31.7
   },

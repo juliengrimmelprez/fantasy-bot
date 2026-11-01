@@ -78,7 +78,7 @@
  "last_activity_ms": 1793492649999,
  "last_digest": 1793506099.2694814,
  "last_error_alert": 1792787295.9267383,
- "last_hot_check": 1793507896.6646159,
+ "last_hot_check": 1793508858.6628206,
  "last_run": "2026-10-19T22:05:14+00:00",
  "matchup_periods": {
   "1": [
@@ -154,7 +154,7 @@
    ],
    "return_date": null,
    "slot": "SF",
-   "status": "OUT",
+   "status": "DAY_TO_DAY",
    "value": 41.5
   },
   "2326307": {
@@ -605,7 +605,7 @@
    ],
    "return_date": null,
    "slot": "UT",
-   "status": "OUT",
+   "status": "DAY_TO_DAY",
    "value": 38.2
   },
   "3059319": {
@@ -1037,7 +1037,7 @@
    ],
    "return_date": null,
    "slot": "UT",
-   "status": "OUT",
+   "status": "DAY_TO_DAY",
    "value": 14.3
   },
   "3147657": {
@@ -1310,7 +1310,7 @@
    ],
    "return_date": null,
    "slot": "SG",
-   "status": "OUT",
+   "status": "DAY_TO_DAY",
    "value": 40.9
   },
   "3907498": {

@@ -74,11 +74,11 @@
   "4432107:20261022",
   "4351851:20261028"
  ],
- "hot_status": "ok: 250 FAs, 806 games",
+ "hot_status": "ok: 250 FAs, 807 games",
  "last_activity_ms": 1793563458581,
  "last_digest": 1793565255.0489905,
  "last_error_alert": 1792787295.9267383,
- "last_hot_check": 1793567422.0753078,
+ "last_hot_check": 1793568377.5011315,
  "last_run": "2026-10-19T22:05:14+00:00",
  "matchup_periods": {
   "1": [
@@ -713,7 +713,7 @@
   "3078576": {
    "fantasy_team": "Lucky",
    "id": "3078576",
-   "mpg": 26.7,
+   "mpg": 26.8,
    "name": "Derrick White",
    "nba_team": "BOS",
    "positions": [
@@ -723,7 +723,7 @@
    "return_date": null,
    "slot": "PG",
    "status": "ACTIVE",
-   "value": 29.0
+   "value": 28.9
   },
   "3102529": {
    "fantasy_team": "Fernando  Diniz",
@@ -1678,7 +1678,7 @@
   "4065648": {
    "fantasy_team": "Caxias French Fries",
    "id": "4065648",
-   "mpg": 32.0,
+   "mpg": 32.3,
    "name": "Jayson Tatum",
    "nba_team": "BOS",
    "positions": [
@@ -1688,7 +1688,7 @@
    "return_date": null,
    "slot": "SF",
    "status": "DAY_TO_DAY",
-   "value": 43.1
+   "value": 43.7
   },
   "4065654": {
    "fantasy_team": null,
@@ -1780,7 +1780,7 @@
   "4065804": {
    "fantasy_team": null,
    "id": "4065804",
-   "mpg": 18.3,
+   "mpg": 18.5,
    "name": "Sam Hauser",
    "nba_team": "BOS",
    "positions": [
@@ -1790,7 +1790,7 @@
    "return_date": null,
    "slot": "",
    "status": "ACTIVE",
-   "value": 16.4
+   "value": 16.5
   },
   "4066211": {
    "fantasy_team": "Lucky",
@@ -2992,7 +2992,7 @@
   "4397424": {
    "fantasy_team": "Tiki Taka Laranja",
    "id": "4397424",
-   "mpg": 18.2,
+   "mpg": 18.3,
    "name": "Neemias Queta",
    "nba_team": "BOS",
    "positions": [
@@ -3001,7 +3001,7 @@
    "return_date": null,
    "slot": "UT",
    "status": "ACTIVE",
-   "value": 20.4
+   "value": 20.8
   },
   "4397475": {
    "fantasy_team": null,
@@ -3963,7 +3963,7 @@
    "return_date": null,
    "slot": "SF",
    "status": "ACTIVE",
-   "value": 32.0
+   "value": 32.3
   },
   "4576060": {
    "fantasy_team": null,
@@ -4648,7 +4648,7 @@
    "return_date": null,
    "slot": "PF",
    "status": "ACTIVE",
-   "value": 20.5
+   "value": 20.4
   },
   "4702384": {
    "fantasy_team": null,
@@ -6489,7 +6489,7 @@
    "return_date": null,
    "slot": "C",
    "status": "ACTIVE",
-   "value": 13.9
+   "value": 14.3
   },
   "6578": {
    "fantasy_team": null,

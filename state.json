@@ -3991,7 +3991,7 @@
    ],
    "return_date": null,
    "slot": "BE",
-   "status": "ACTIVE",
+   "status": "DAY_TO_DAY",
    "value": 26.2
   },
   "4578893": {
@@ -4385,7 +4385,7 @@
    ],
    "return_date": null,
    "slot": "",
-   "status": "DAY_TO_DAY",
+   "status": "OUT",
    "value": 19.7
   },
   "4683750": {
@@ -6706,6 +6706,7 @@
   "drop:3032979:1793544530640",
   "drop:5041951:1793544515128",
   "inj:3913176:OUT",
-  "inj:5160992:DAY_TO_DAY"
+  "inj:5160992:DAY_TO_DAY",
+  "inj:4576087:DAY_TO_DAY"
  ]
 }

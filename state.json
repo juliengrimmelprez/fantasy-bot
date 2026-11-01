@@ -71,11 +71,11 @@
   "5279129:20261025",
   "5149077:20261031"
  ],
- "hot_status": "ok: 248 FAs, 783 games",
+ "hot_status": "ok: 248 FAs, 784 games",
  "last_activity_ms": 1793492649999,
  "last_digest": 1793498660.3193805,
  "last_error_alert": 1792787295.9267383,
- "last_hot_check": 1793500225.9952445,
+ "last_hot_check": 1793501179.4384253,
  "last_run": "2026-10-19T22:05:14+00:00",
  "matchup_periods": {
   "1": [
@@ -400,7 +400,7 @@
    "return_date": null,
    "slot": "",
    "status": "ACTIVE",
-   "value": 23.3
+   "value": 23.7
   },
   "2991043": {
    "fantasy_team": null,
@@ -579,7 +579,7 @@
   "3037789": {
    "fantasy_team": null,
    "id": "3037789",
-   "mpg": 14.1,
+   "mpg": 14.3,
    "name": "Bogdan Bogdanovic",
    "nba_team": "HOU",
    "positions": [
@@ -4880,7 +4880,7 @@
    "return_date": null,
    "slot": "C",
    "status": "ACTIVE",
-   "value": 47.1
+   "value": 46.8
   },
   "4871145": {
    "fantasy_team": "Lebron GOAT",
@@ -5604,7 +5604,7 @@
   "5105837": {
    "fantasy_team": null,
    "id": "5105837",
-   "mpg": 3.2,
+   "mpg": 3.4,
    "name": "Bruce Thornton",
    "nba_team": "HOU",
    "positions": [
@@ -5613,7 +5613,7 @@
    "return_date": null,
    "slot": "",
    "status": "ACTIVE",
-   "value": 2.0
+   "value": 3.0
   },
   "5105839": {
    "fantasy_team": null,
@@ -6228,7 +6228,7 @@
    "return_date": null,
    "slot": "",
    "status": "ACTIVE",
-   "value": 6.7
+   "value": 7.0
   },
   "5242496": {
    "fantasy_team": null,

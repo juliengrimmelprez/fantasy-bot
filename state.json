@@ -78,7 +78,7 @@
  "last_activity_ms": 1793563458581,
  "last_digest": 1793572698.4545774,
  "last_error_alert": 1792787295.9267383,
- "last_hot_check": 1793574139.033297,
+ "last_hot_check": 1793575094.89054,
  "last_run": "2026-10-19T22:05:14+00:00",
  "matchup_periods": {
   "1": [
@@ -1086,7 +1086,7 @@
   "3149673": {
    "fantasy_team": "Coringas do Gansola",
    "id": "3149673",
-   "mpg": 29.3,
+   "mpg": 29.4,
    "name": "Pascal Siakam",
    "nba_team": "IND",
    "positions": [
@@ -1095,12 +1095,12 @@
    "return_date": null,
    "slot": "PF",
    "status": "ACTIVE",
-   "value": 33.5
+   "value": 33.7
   },
   "3150844": {
    "fantasy_team": "Lucky",
    "id": "3150844",
-   "mpg": 16.8,
+   "mpg": 17.0,
    "name": "Moritz Wagner",
    "nba_team": "BKN",
    "positions": [
@@ -1109,7 +1109,7 @@
    "return_date": null,
    "slot": "C",
    "status": "ACTIVE",
-   "value": 18.4
+   "value": 18.5
   },
   "3155526": {
    "fantasy_team": "Fernando  Diniz",
@@ -2377,7 +2377,7 @@
   "4278104": {
    "fantasy_team": "Tropa do Nikola",
    "id": "4278104",
-   "mpg": 28.3,
+   "mpg": 28.7,
    "name": "Michael Porter Jr.",
    "nba_team": "BKN",
    "positions": [
@@ -2387,7 +2387,7 @@
    "return_date": null,
    "slot": "SF",
    "status": "ACTIVE",
-   "value": 34.2
+   "value": 34.4
   },
   "4278129": {
    "fantasy_team": null,
@@ -2682,7 +2682,7 @@
   "4395712": {
    "fantasy_team": "Lakers x Bortolan 23",
    "id": "4395712",
-   "mpg": 28.8,
+   "mpg": 29.0,
    "name": "Andrew Nembhard",
    "nba_team": "IND",
    "positions": [
@@ -2692,7 +2692,7 @@
    "return_date": null,
    "slot": "UT",
    "status": "ACTIVE",
-   "value": 29.5
+   "value": 29.8
   },
   "4395723": {
    "fantasy_team": "CCCP  Баскетбол",
@@ -2770,7 +2770,7 @@
   "4396909": {
    "fantasy_team": null,
    "id": "4396909",
-   "mpg": 20.2,
+   "mpg": 20.3,
    "name": "Aaron Nesmith",
    "nba_team": "IND",
    "positions": [
@@ -2780,7 +2780,7 @@
    "return_date": null,
    "slot": "",
    "status": "ACTIVE",
-   "value": 17.4
+   "value": 17.5
   },
   "4396971": {
    "fantasy_team": "Polga Silva",
@@ -4793,7 +4793,7 @@
    "return_date": null,
    "slot": "",
    "status": "ACTIVE",
-   "value": 13.7
+   "value": 13.6
   },
   "4845367": {
    "fantasy_team": "King Coopa",
@@ -5692,7 +5692,7 @@
   "5106060": {
    "fantasy_team": null,
    "id": "5106060",
-   "mpg": 20.7,
+   "mpg": 20.9,
    "name": "Jarace Walker",
    "nba_team": "IND",
    "positions": [
@@ -5702,7 +5702,7 @@
    "return_date": null,
    "slot": "",
    "status": "ACTIVE",
-   "value": 15.7
+   "value": 15.6
   },
   "5106258": {
    "fantasy_team": null,
@@ -6052,7 +6052,7 @@
   "5174655": {
    "fantasy_team": null,
    "id": "5174655",
-   "mpg": 18.8,
+   "mpg": 19.0,
    "name": "Chaney Johnson",
    "nba_team": "BKN",
    "positions": [
@@ -6336,7 +6336,7 @@
   "5279130": {
    "fantasy_team": null,
    "id": "5279130",
-   "mpg": 18.0,
+   "mpg": 18.2,
    "name": "Nolan Traore",
    "nba_team": "BKN",
    "positions": [

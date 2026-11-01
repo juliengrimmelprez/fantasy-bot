@@ -75,7 +75,7 @@
   "4687718:20261025"
  ],
  "hot_status": "ok: 250 FAs, 803 games",
- "last_activity_ms": 1793541782878,
+ "last_activity_ms": 1793544558601,
  "last_digest": 1793543057.8477786,
  "last_error_alert": 1792787295.9267383,
  "last_hot_check": 1793544377.2200637,
@@ -566,7 +566,7 @@
    "value": 53.6
   },
   "3032979": {
-   "fantasy_team": "Lucky",
+   "fantasy_team": null,
    "id": "3032979",
    "mpg": 32.4,
    "name": "Dennis Schroder",
@@ -575,7 +575,7 @@
     "PG"
    ],
    "return_date": null,
-   "slot": "UT",
+   "slot": "",
    "status": "ACTIVE",
    "value": 21.0
   },
@@ -721,7 +721,7 @@
     "SG"
    ],
    "return_date": null,
-   "slot": "SG",
+   "slot": "PG",
    "status": "ACTIVE",
    "value": 30.6
   },
@@ -1098,7 +1098,7 @@
    "value": 35.9
   },
   "3150844": {
-   "fantasy_team": null,
+   "fantasy_team": "Lucky",
    "id": "3150844",
    "mpg": 18.0,
    "name": "Moritz Wagner",
@@ -1107,7 +1107,7 @@
     "C"
    ],
    "return_date": null,
-   "slot": "",
+   "slot": "C",
    "status": "ACTIVE",
    "value": 18.8
   },
@@ -1238,7 +1238,7 @@
     "C"
    ],
    "return_date": null,
-   "slot": "C",
+   "slot": "UT",
    "status": "ACTIVE",
    "value": 26.2
   },
@@ -2814,7 +2814,7 @@
    "value": 31.7
   },
   "4397014": {
-   "fantasy_team": null,
+   "fantasy_team": "Lucky",
    "id": "4397014",
    "mpg": 26.8,
    "name": "Quentin Grimes",
@@ -2824,7 +2824,7 @@
     "SF"
    ],
    "return_date": null,
-   "slot": "",
+   "slot": "SG",
    "status": "ACTIVE",
    "value": 21.7
   },
@@ -5264,7 +5264,7 @@
    "value": 54.5
   },
   "5041951": {
-   "fantasy_team": "Lucky",
+   "fantasy_team": null,
    "id": "5041951",
    "mpg": 20.7,
    "name": "Meleek Thomas",
@@ -5273,7 +5273,7 @@
     "SG"
    ],
    "return_date": null,
-   "slot": "BE",
+   "slot": "",
    "status": "ACTIVE",
    "value": 23.3
   },
@@ -6688,6 +6688,8 @@
   "hot:5149077:20261031",
   "drop:4702177:1793520068190",
   "diag:13",
-  "planday:13"
+  "planday:13",
+  "drop:3032979:1793544530640",
+  "drop:5041951:1793544515128"
  ]
 }

@@ -74,11 +74,11 @@
   "2990992:20261101",
   "5107199:20261025"
  ],
- "hot_status": "ok: 250 FAs, 813 games",
+ "hot_status": "ok: 250 FAs, 818 games",
  "last_activity_ms": 1793563458581,
  "last_digest": 1793568980.8609605,
  "last_error_alert": 1792787295.9267383,
- "last_hot_check": 1793571260.4356403,
+ "last_hot_check": 1793572225.678204,
  "last_run": "2026-10-19T22:05:14+00:00",
  "matchup_periods": {
   "1": [
@@ -1688,7 +1688,7 @@
    "return_date": null,
    "slot": "SF",
    "status": "ACTIVE",
-   "value": 45.9
+   "value": 46.0
   },
   "4065654": {
    "fantasy_team": null,
@@ -2377,7 +2377,7 @@
   "4278104": {
    "fantasy_team": "Tropa do Nikola",
    "id": "4278104",
-   "mpg": 26.8,
+   "mpg": 27.0,
    "name": "Michael Porter Jr.",
    "nba_team": "BKN",
    "positions": [
@@ -2387,7 +2387,7 @@
    "return_date": null,
    "slot": "SF",
    "status": "ACTIVE",
-   "value": 33.7
+   "value": 34.0
   },
   "4278129": {
    "fantasy_team": null,
@@ -2770,7 +2770,7 @@
   "4396909": {
    "fantasy_team": null,
    "id": "4396909",
-   "mpg": 19.0,
+   "mpg": 19.2,
    "name": "Aaron Nesmith",
    "nba_team": "IND",
    "positions": [
@@ -5692,7 +5692,7 @@
   "5106060": {
    "fantasy_team": null,
    "id": "5106060",
-   "mpg": 20.1,
+   "mpg": 20.3,
    "name": "Jarace Walker",
    "nba_team": "IND",
    "positions": [

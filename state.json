@@ -1544,7 +1544,7 @@
    ],
    "return_date": null,
    "slot": "SF",
-   "status": "OUT",
+   "status": "DAY_TO_DAY",
    "value": 26.0
   },
   "3936299": {
@@ -1974,7 +1974,7 @@
   "4066436": {
    "fantasy_team": "Polga Silva",
    "id": "4066436",
-   "mpg": 21.9,
+   "mpg": 22.0,
    "name": "De'Anthony Melton",
    "nba_team": "GSW",
    "positions": [
@@ -2100,7 +2100,7 @@
    "return_date": null,
    "slot": "",
    "status": "ACTIVE",
-   "value": 15.7
+   "value": 15.3
   },
   "4277813": {
    "fantasy_team": null,
@@ -2592,7 +2592,7 @@
    "return_date": null,
    "slot": "SF",
    "status": "ACTIVE",
-   "value": 31.2
+   "value": 31.0
   },
   "4395626": {
    "fantasy_team": "Polga Silva",
@@ -2832,7 +2832,7 @@
   "4397014": {
    "fantasy_team": "Lucky",
    "id": "4397014",
-   "mpg": 24.9,
+   "mpg": 25.0,
    "name": "Quentin Grimes",
    "nba_team": "LAL",
    "positions": [
@@ -2842,7 +2842,7 @@
    "return_date": null,
    "slot": "SG",
    "status": "ACTIVE",
-   "value": 17.0
+   "value": 16.9
   },
   "4397020": {
    "fantasy_team": null,
@@ -3037,7 +3037,7 @@
   "4397886": {
    "fantasy_team": null,
    "id": "4397886",
-   "mpg": 8.8,
+   "mpg": 9.0,
    "name": "Charles Bassey",
    "nba_team": "GSW",
    "positions": [
@@ -3065,7 +3065,7 @@
   "4398390": {
    "fantasy_team": null,
    "id": "4398390",
-   "mpg": 4.0,
+   "mpg": 4.3,
    "name": "Jalen Pickett",
    "nba_team": "LAC",
    "positions": [
@@ -3075,7 +3075,7 @@
    "return_date": null,
    "slot": "",
    "status": "ACTIVE",
-   "value": 5.7
+   "value": 6.7
   },
   "4431671": {
    "fantasy_team": "BL0CK BY ZION",
@@ -3415,7 +3415,7 @@
   "4432241": {
    "fantasy_team": "Tiki Taka Laranja",
    "id": "4432241",
-   "mpg": 20.7,
+   "mpg": 20.8,
    "name": "Jamal Shead",
    "nba_team": "TOR",
    "positions": [
@@ -3721,7 +3721,7 @@
   "4433136": {
    "fantasy_team": "Tropa do Nikola",
    "id": "4433136",
-   "mpg": 29.1,
+   "mpg": 29.3,
    "name": "Walker Kessler",
    "nba_team": "LAL",
    "positions": [
@@ -3730,7 +3730,7 @@
    "return_date": null,
    "slot": "C",
    "status": "ACTIVE",
-   "value": 38.7
+   "value": 39.1
   },
   "4433137": {
    "fantasy_team": "Tropa do Nikola",
@@ -4698,7 +4698,7 @@
   "4709138": {
    "fantasy_team": "CCCP  Баскетбол",
    "id": "4709138",
-   "mpg": 32.8,
+   "mpg": 33.0,
    "name": "Brandin Podziemski",
    "nba_team": "GSW",
    "positions": [
@@ -5060,7 +5060,7 @@
    "return_date": null,
    "slot": "",
    "status": "ACTIVE",
-   "value": 10.7
+   "value": 10.6
   },
   "4897943": {
    "fantasy_team": null,
@@ -5424,7 +5424,7 @@
   "5075626": {
    "fantasy_team": null,
    "id": "5075626",
-   "mpg": 7.0,
+   "mpg": 7.2,
    "name": "Baba Miller",
    "nba_team": "LAC",
    "positions": [
@@ -5433,7 +5433,7 @@
    "return_date": null,
    "slot": "",
    "status": "ACTIVE",
-   "value": 6.4
+   "value": 7.4
   },
   "5081727": {
    "fantasy_team": null,
@@ -5466,7 +5466,7 @@
   "5093267": {
    "fantasy_team": "King Coopa",
    "id": "5093267",
-   "mpg": 18.7,
+   "mpg": 18.8,
    "name": "Collin Murray-Boyles",
    "nba_team": "TOR",
    "positions": [
@@ -6111,7 +6111,7 @@
   "5175737": {
    "fantasy_team": "Fernando  Diniz",
    "id": "5175737",
-   "mpg": 32.0,
+   "mpg": 32.1,
    "name": "Yaxel Lendeborg",
    "nba_team": "GSW",
    "positions": [
@@ -6121,7 +6121,7 @@
    "return_date": null,
    "slot": "PF",
    "status": "ACTIVE",
-   "value": 36.6
+   "value": 36.4
   },
   "5203685": {
    "fantasy_team": "CCCP  Баскетбол",

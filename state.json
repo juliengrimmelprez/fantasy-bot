@@ -2174,7 +2174,7 @@
    ],
    "return_date": null,
    "slot": "",
-   "status": "OUT",
+   "status": "ACTIVE",
    "value": 15.0
   },
   "4277905": {
@@ -4578,7 +4578,7 @@
    ],
    "return_date": null,
    "slot": "PF",
-   "status": "DAY_TO_DAY",
+   "status": "OUT",
    "value": 40.9
   },
   "4701232": {

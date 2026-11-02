@@ -79,7 +79,7 @@
   "4278562:20261024"
  ],
  "hot_status": "ok: 250 FAs, 841 games",
- "last_activity_ms": 1793606943308,
+ "last_activity_ms": 1793631509049,
  "last_digest": 1793628039.2704868,
  "last_error_alert": 1792787295.9267383,
  "last_hot_check": 1793630783.312237,
@@ -279,7 +279,7 @@
    "value": 0.0
   },
   "2581018": {
-   "fantasy_team": "Bull Market",
+   "fantasy_team": null,
    "id": "2581018",
    "mpg": 24.3,
    "name": "Kentavious Caldwell-Pope",
@@ -289,7 +289,7 @@
     "SF"
    ],
    "return_date": null,
-   "slot": "BE",
+   "slot": "",
    "status": "ACTIVE",
    "value": 17.0
   },
@@ -1390,7 +1390,7 @@
    "value": 39.3
   },
   "3908845": {
-   "fantasy_team": null,
+   "fantasy_team": "Bull Market",
    "id": "3908845",
    "mpg": 26.5,
    "name": "John Collins",
@@ -1400,7 +1400,7 @@
     "C"
    ],
    "return_date": null,
-   "slot": "",
+   "slot": "BE",
    "status": "ACTIVE",
    "value": 20.5
   },

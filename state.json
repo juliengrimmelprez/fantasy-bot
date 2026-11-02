@@ -75,11 +75,11 @@
   "4278580:20261028",
   "4433137:20261024"
  ],
- "hot_status": "ok: 250 FAs, 820 games",
+ "hot_status": "ok: 250 FAs, 822 games",
  "last_activity_ms": 1793563458581,
  "last_digest": 1793580139.1378288,
  "last_error_alert": 1792787295.9267383,
- "last_hot_check": 1793582776.5174897,
+ "last_hot_check": 1793583737.8124106,
  "last_run": "2026-10-19T22:05:14+00:00",
  "matchup_periods": {
   "1": [
@@ -365,7 +365,7 @@
   "2990969": {
    "fantasy_team": null,
    "id": "2990969",
-   "mpg": 19.3,
+   "mpg": 16.6,
    "name": "Georges Niang",
    "nba_team": "GSW",
    "positions": [
@@ -374,7 +374,7 @@
    "return_date": null,
    "slot": "",
    "status": "ACTIVE",
-   "value": 13.7
+   "value": 11.6
   },
   "2990984": {
    "fantasy_team": null,
@@ -438,7 +438,7 @@
   "2991139": {
    "fantasy_team": "Caxias French Fries",
    "id": "2991139",
-   "mpg": 30.4,
+   "mpg": 25.5,
    "name": "Kris Dunn",
    "nba_team": "LAC",
    "positions": [
@@ -448,7 +448,7 @@
    "return_date": null,
    "slot": "PG",
    "status": "ACTIVE",
-   "value": 31.8
+   "value": 26.8
   },
   "2991230": {
    "fantasy_team": "Coringas do Gansola",
@@ -1534,7 +1534,7 @@
   "3936099": {
    "fantasy_team": "Tiki Taka Laranja",
    "id": "3936099",
-   "mpg": 29.0,
+   "mpg": 24.3,
    "name": "Derrick Jones Jr.",
    "nba_team": "LAC",
    "positions": [
@@ -1544,7 +1544,7 @@
    "return_date": null,
    "slot": "SF",
    "status": "ACTIVE",
-   "value": 29.2
+   "value": 24.3
   },
   "3936299": {
    "fantasy_team": "Lucky",
@@ -1973,7 +1973,7 @@
   "4066436": {
    "fantasy_team": "Polga Silva",
    "id": "4066436",
-   "mpg": 21.3,
+   "mpg": 18.4,
    "name": "De'Anthony Melton",
    "nba_team": "GSW",
    "positions": [
@@ -1983,7 +1983,7 @@
    "return_date": null,
    "slot": "PG",
    "status": "ACTIVE",
-   "value": 24.3
+   "value": 20.9
   },
   "4066457": {
    "fantasy_team": "King Coopa",
@@ -2003,7 +2003,7 @@
   "4066648": {
    "fantasy_team": "Lakers x Bortolan 23",
    "id": "4066648",
-   "mpg": 30.0,
+   "mpg": 24.2,
    "name": "Rui Hachimura",
    "nba_team": "LAC",
    "positions": [
@@ -2013,7 +2013,7 @@
    "return_date": null,
    "slot": "PF",
    "status": "ACTIVE",
-   "value": 14.5
+   "value": 12.2
   },
   "4066650": {
    "fantasy_team": null,
@@ -2757,7 +2757,7 @@
   "4396907": {
    "fantasy_team": "Tropa do Nikola",
    "id": "4396907",
-   "mpg": 32.4,
+   "mpg": 27.2,
    "name": "Darius Garland",
    "nba_team": "LAC",
    "positions": [
@@ -2766,7 +2766,7 @@
    "return_date": null,
    "slot": "PG",
    "status": "ACTIVE",
-   "value": 28.6
+   "value": 23.8
   },
   "4396909": {
    "fantasy_team": null,
@@ -3036,7 +3036,7 @@
   "4397886": {
    "fantasy_team": null,
    "id": "4397886",
-   "mpg": 6.5,
+   "mpg": 5.4,
    "name": "Charles Bassey",
    "nba_team": "GSW",
    "positions": [
@@ -3045,7 +3045,7 @@
    "return_date": null,
    "slot": "",
    "status": "ACTIVE",
-   "value": 10.0
+   "value": 8.0
   },
   "4398207": {
    "fantasy_team": null,
@@ -3341,7 +3341,7 @@
   "4432170": {
    "fantasy_team": "BL0CK BY ZION",
    "id": "4432170",
-   "mpg": 21.6,
+   "mpg": 18.2,
    "name": "Isaiah Jackson",
    "nba_team": "LAC",
    "positions": [
@@ -3351,7 +3351,7 @@
    "return_date": null,
    "slot": "C",
    "status": "ACTIVE",
-   "value": 28.2
+   "value": 23.5
   },
   "4432171": {
    "fantasy_team": null,
@@ -4697,7 +4697,7 @@
   "4709138": {
    "fantasy_team": "CCCP  Баскетбол",
    "id": "4709138",
-   "mpg": 32.8,
+   "mpg": 26.4,
    "name": "Brandin Podziemski",
    "nba_team": "GSW",
    "positions": [
@@ -4707,7 +4707,7 @@
    "return_date": null,
    "slot": "PG",
    "status": "ACTIVE",
-   "value": 35.2
+   "value": 28.2
   },
   "4711272": {
    "fantasy_team": "Bull Market",
@@ -6110,7 +6110,7 @@
   "5175737": {
    "fantasy_team": "Fernando  Diniz",
    "id": "5175737",
-   "mpg": 32.0,
+   "mpg": 27.6,
    "name": "Yaxel Lendeborg",
    "nba_team": "GSW",
    "positions": [
@@ -6120,7 +6120,7 @@
    "return_date": null,
    "slot": "PF",
    "status": "ACTIVE",
-   "value": 31.5
+   "value": 27.0
   },
   "5203685": {
    "fantasy_team": "CCCP  Баскетбол",

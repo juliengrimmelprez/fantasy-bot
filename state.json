@@ -78,7 +78,7 @@
   "5149077:20261028"
  ],
  "hot_status": "ok: 250 FAs, 842 games",
- "last_activity_ms": 1793563458581,
+ "last_activity_ms": 1793606943308,
  "last_digest": 1793606068.22826,
  "last_error_alert": 1792787295.9267383,
  "last_hot_check": 1793606779.8406942,
@@ -1404,7 +1404,7 @@
    "value": 20.5
   },
   "3912848": {
-   "fantasy_team": "Lebron GOAT",
+   "fantasy_team": null,
    "id": "3912848",
    "mpg": 27.8,
    "name": "Dean Wade",
@@ -1413,7 +1413,7 @@
     "PF"
    ],
    "return_date": null,
-   "slot": "BE",
+   "slot": "",
    "status": "ACTIVE",
    "value": 21.8
   },
@@ -2191,7 +2191,7 @@
    "value": 41.2
   },
   "4277919": {
-   "fantasy_team": "Caxias French Fries",
+   "fantasy_team": null,
    "id": "4277919",
    "mpg": 18.7,
    "name": "Mo Bamba",
@@ -2200,7 +2200,7 @@
     "C"
    ],
    "return_date": null,
-   "slot": "BE",
+   "slot": "",
    "status": "ACTIVE",
    "value": 25.7
   },
@@ -2494,7 +2494,7 @@
    "value": 30.0
   },
   "4278594": {
-   "fantasy_team": null,
+   "fantasy_team": "Caxias French Fries",
    "id": "4278594",
    "mpg": 27.7,
    "name": "Naji Marshall",
@@ -2504,7 +2504,7 @@
     "PF"
    ],
    "return_date": null,
-   "slot": "",
+   "slot": "BE",
    "status": "ACTIVE",
    "value": 30.7
   },
@@ -3939,7 +3939,7 @@
    "value": 8.5
   },
   "4437244": {
-   "fantasy_team": null,
+   "fantasy_team": "Lebron GOAT",
    "id": "4437244",
    "mpg": 26.8,
    "name": "Jalen Green",
@@ -3949,7 +3949,7 @@
     "SF"
    ],
    "return_date": null,
-   "slot": "",
+   "slot": "BE",
    "status": "ACTIVE",
    "value": 17.0
   },
@@ -6710,6 +6710,8 @@
   "drop:5041951:1793544515128",
   "inj:3913176:OUT",
   "inj:5160992:DAY_TO_DAY",
-  "inj:4576087:DAY_TO_DAY"
+  "inj:4576087:DAY_TO_DAY",
+  "drop:4277919:1793606943308",
+  "drop:3912848:1793606943308"
  ]
 }

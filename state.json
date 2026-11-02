@@ -3981,7 +3981,7 @@
    ],
    "return_date": null,
    "slot": "BE",
-   "status": "DAY_TO_DAY",
+   "status": "OUT",
    "value": 25.2
   },
   "4578893": {
@@ -6703,6 +6703,7 @@
   "week:3",
   "inj:5160992:OUT",
   "inj:3149673:OUT",
-  "inj:4251:OUT"
+  "inj:4251:OUT",
+  "inj:4576087:OUT"
  ]
 }

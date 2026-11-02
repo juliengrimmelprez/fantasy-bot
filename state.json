@@ -1215,7 +1215,7 @@
    ],
    "return_date": null,
    "slot": "",
-   "status": "ACTIVE",
+   "status": "OUT",
    "value": 13.3
   },
   "3442": {
@@ -1603,7 +1603,7 @@
    ],
    "return_date": null,
    "slot": "IR",
-   "status": "DAY_TO_DAY",
+   "status": "ACTIVE",
    "value": 47.4
   },
   "3978": {
@@ -2873,7 +2873,7 @@
    ],
    "return_date": null,
    "slot": "",
-   "status": "ACTIVE",
+   "status": "DAY_TO_DAY",
    "value": 19.4
   },
   "4397077": {
@@ -6565,7 +6565,7 @@
    ],
    "return_date": null,
    "slot": "BE",
-   "status": "DAY_TO_DAY",
+   "status": "ACTIVE",
    "value": 22.0
   },
   "6606": {

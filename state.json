@@ -82,7 +82,7 @@
  "last_activity_ms": 1793606943308,
  "last_digest": 1793628039.2704868,
  "last_error_alert": 1792787295.9267383,
- "last_hot_check": 1793627895.9730756,
+ "last_hot_check": 1793628859.5383809,
  "last_run": "2026-10-19T22:05:14+00:00",
  "matchup_periods": {
   "1": [
@@ -1013,7 +1013,7 @@
    "return_date": null,
    "slot": "",
    "status": "ACTIVE",
-   "value": 17.3
+   "value": 0.0
   },
   "3136777": {
    "fantasy_team": null,
@@ -1328,7 +1328,7 @@
    "return_date": null,
    "slot": "",
    "status": "OUT",
-   "value": 21.7
+   "value": 22.0
   },
   "3907497": {
    "fantasy_team": "Lakers x Bortolan 23",
@@ -2932,7 +2932,7 @@
    "return_date": null,
    "slot": "",
    "status": "ACTIVE",
-   "value": 33.0
+   "value": 33.1
   },
   "4397183": {
    "fantasy_team": "Tropa do Nikola",
@@ -5077,7 +5077,7 @@
    "return_date": null,
    "slot": "",
    "status": "ACTIVE",
-   "value": 9.1
+   "value": 9.2
   },
   "4898371": {
    "fantasy_team": null,

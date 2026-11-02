@@ -79,7 +79,7 @@
   "5254165:20261022"
  ],
  "hot_status": "ok: 250 FAs, 842 games",
- "last_activity_ms": 1793631509049,
+ "last_activity_ms": 1793660778133,
  "last_digest": 1793657659.4400156,
  "last_error_alert": 1793633778.3678486,
  "last_hot_check": 1793660661.7715952,
@@ -1602,7 +1602,7 @@
     "PG"
    ],
    "return_date": null,
-   "slot": "IR",
+   "slot": "UT",
    "status": "ACTIVE",
    "value": 47.4
   },
@@ -1806,7 +1806,7 @@
     "C"
    ],
    "return_date": null,
-   "slot": "BE",
+   "slot": "UT",
    "status": "ACTIVE",
    "value": 24.0
   },
@@ -2743,20 +2743,6 @@
    "status": "ACTIVE",
    "value": 35.7
   },
-  "4396818": {
-   "fantasy_team": null,
-   "id": "4396818",
-   "mpg": null,
-   "name": "Jordan Miller",
-   "nba_team": "LAC",
-   "positions": [
-    "SF"
-   ],
-   "return_date": null,
-   "slot": "",
-   "status": "OUT",
-   "value": 0.0
-  },
   "4396907": {
    "fantasy_team": "Tropa do Nikola",
    "id": "4396907",
@@ -2832,7 +2818,7 @@
    "value": 32.1
   },
   "4397014": {
-   "fantasy_team": "Lucky",
+   "fantasy_team": null,
    "id": "4397014",
    "mpg": 26.7,
    "name": "Quentin Grimes",
@@ -2842,7 +2828,7 @@
     "SF"
    ],
    "return_date": null,
-   "slot": "UT",
+   "slot": "",
    "status": "ACTIVE",
    "value": 17.4
   },
@@ -3554,7 +3540,7 @@
     "C"
    ],
    "return_date": null,
-   "slot": "UT",
+   "slot": "BE",
    "status": "ACTIVE",
    "value": 22.2
   },

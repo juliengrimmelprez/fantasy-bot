@@ -5138,21 +5138,6 @@
    "status": "OUT",
    "value": 24.8
   },
-  "4917149": {
-   "fantasy_team": null,
-   "id": "4917149",
-   "mpg": 9.5,
-   "name": "Alex Karaban",
-   "nba_team": "SAC",
-   "positions": [
-    "SF",
-    "PF"
-   ],
-   "return_date": null,
-   "slot": "",
-   "status": "ACTIVE",
-   "value": 1.8
-  },
   "4997526": {
    "fantasy_team": null,
    "id": "4997526",
@@ -5635,6 +5620,20 @@
    "slot": "",
    "status": "ACTIVE",
    "value": 10.9
+  },
+  "5105806": {
+   "fantasy_team": null,
+   "id": "5105806",
+   "mpg": 3.5,
+   "name": "Jett Howard",
+   "nba_team": "DAL",
+   "positions": [
+    "SF"
+   ],
+   "return_date": null,
+   "slot": "",
+   "status": "ACTIVE",
+   "value": 2.5
   },
   "5105809": {
    "fantasy_team": null,

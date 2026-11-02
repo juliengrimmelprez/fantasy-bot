@@ -2743,20 +2743,6 @@
    "status": "ACTIVE",
    "value": 35.7
   },
-  "4396818": {
-   "fantasy_team": null,
-   "id": "4396818",
-   "mpg": null,
-   "name": "Jordan Miller",
-   "nba_team": "LAC",
-   "positions": [
-    "SF"
-   ],
-   "return_date": null,
-   "slot": "",
-   "status": "OUT",
-   "value": 0.0
-  },
   "4396907": {
    "fantasy_team": "Tropa do Nikola",
    "id": "4396907",
@@ -5137,6 +5123,21 @@
    "slot": "",
    "status": "OUT",
    "value": 24.8
+  },
+  "4917149": {
+   "fantasy_team": null,
+   "id": "4917149",
+   "mpg": 9.5,
+   "name": "Alex Karaban",
+   "nba_team": "SAC",
+   "positions": [
+    "SF",
+    "PF"
+   ],
+   "return_date": null,
+   "slot": "",
+   "status": "ACTIVE",
+   "value": 1.8
   },
   "4997526": {
    "fantasy_team": null,

@@ -1204,7 +1204,7 @@
   "3213": {
    "fantasy_team": null,
    "id": "3213",
-   "mpg": 16.0,
+   "mpg": 16.2,
    "name": "Al Horford",
    "nba_team": "GSW",
    "positions": [
@@ -1214,7 +1214,7 @@
    "return_date": null,
    "slot": "",
    "status": "ACTIVE",
-   "value": 12.2
+   "value": 12.3
   },
   "3442": {
    "fantasy_team": null,
@@ -1233,7 +1233,7 @@
   "3448": {
    "fantasy_team": "Lucky",
    "id": "3448",
-   "mpg": 19.8,
+   "mpg": 20.0,
    "name": "Brook Lopez",
    "nba_team": "LAC",
    "positions": [
@@ -1242,7 +1242,7 @@
    "return_date": null,
    "slot": "UT",
    "status": "ACTIVE",
-   "value": 23.0
+   "value": 22.7
   },
   "3449": {
    "fantasy_team": null,
@@ -1346,7 +1346,7 @@
   "3907498": {
    "fantasy_team": "Contagem Hunters",
    "id": "3907498",
-   "mpg": 21.7,
+   "mpg": 22.0,
    "name": "Matisse Thybulle",
    "nba_team": "LAL",
    "positions": [
@@ -1355,7 +1355,7 @@
    "return_date": null,
    "slot": "SF",
    "status": "ACTIVE",
-   "value": 19.6
+   "value": 20.3
   },
   "3907823": {
    "fantasy_team": null,
@@ -1564,7 +1564,7 @@
   "3945274": {
    "fantasy_team": "Lakers x Bortolan 23",
    "id": "3945274",
-   "mpg": 30.0,
+   "mpg": 30.3,
    "name": "Luka Doncic",
    "nba_team": "LAL",
    "positions": [
@@ -1573,7 +1573,7 @@
    "return_date": null,
    "slot": "PG",
    "status": "ACTIVE",
-   "value": 49.8
+   "value": 50.3
   },
   "3948153": {
    "fantasy_team": null,
@@ -1989,7 +1989,7 @@
   "4066457": {
    "fantasy_team": "King Coopa",
    "id": "4066457",
-   "mpg": 30.6,
+   "mpg": 30.9,
    "name": "Austin Reaves",
    "nba_team": "LAL",
    "positions": [
@@ -2004,7 +2004,7 @@
   "4066648": {
    "fantasy_team": "Lakers x Bortolan 23",
    "id": "4066648",
-   "mpg": 25.6,
+   "mpg": 25.8,
    "name": "Rui Hachimura",
    "nba_team": "LAC",
    "positions": [
@@ -2582,7 +2582,7 @@
   "4395625": {
    "fantasy_team": "Lebron GOAT",
    "id": "4395625",
-   "mpg": 26.7,
+   "mpg": 26.8,
    "name": "RJ Barrett",
    "nba_team": "TOR",
    "positions": [
@@ -2592,7 +2592,7 @@
    "return_date": null,
    "slot": "SF",
    "status": "ACTIVE",
-   "value": 28.2
+   "value": 28.3
   },
   "4395626": {
    "fantasy_team": "Polga Silva",
@@ -2714,7 +2714,7 @@
   "4395724": {
    "fantasy_team": "Fernando  Diniz",
    "id": "4395724",
-   "mpg": 25.3,
+   "mpg": 25.7,
    "name": "Immanuel Quickley",
    "nba_team": "TOR",
    "positions": [
@@ -2724,7 +2724,7 @@
    "return_date": null,
    "slot": "UT",
    "status": "ACTIVE",
-   "value": 29.2
+   "value": 29.0
   },
   "4395725": {
    "fantasy_team": "Contagem Hunters",
@@ -2862,7 +2862,7 @@
   "4397040": {
    "fantasy_team": null,
    "id": "4397040",
-   "mpg": 14.9,
+   "mpg": 15.0,
    "name": "Brandon Williams",
    "nba_team": "GSW",
    "positions": [
@@ -2872,7 +2872,7 @@
    "return_date": null,
    "slot": "",
    "status": "ACTIVE",
-   "value": 17.1
+   "value": 17.7
   },
   "4397077": {
    "fantasy_team": "Coringas do Gansola",
@@ -3154,7 +3154,7 @@
   "4431684": {
    "fantasy_team": null,
    "id": "4431684",
-   "mpg": 6.7,
+   "mpg": 6.8,
    "name": "Trayce Jackson-Davis",
    "nba_team": "TOR",
    "positions": [
@@ -3706,7 +3706,7 @@
   "4433134": {
    "fantasy_team": "Lebron GOAT",
    "id": "4433134",
-   "mpg": 27.2,
+   "mpg": 27.3,
    "name": "Scottie Barnes",
    "nba_team": "TOR",
    "positions": [
@@ -3721,7 +3721,7 @@
   "4433136": {
    "fantasy_team": "Tropa do Nikola",
    "id": "4433136",
-   "mpg": 26.4,
+   "mpg": 26.6,
    "name": "Walker Kessler",
    "nba_team": "LAL",
    "positions": [
@@ -3730,7 +3730,7 @@
    "return_date": null,
    "slot": "C",
    "status": "ACTIVE",
-   "value": 34.9
+   "value": 35.0
   },
   "4433137": {
    "fantasy_team": "Tropa do Nikola",
@@ -4057,7 +4057,7 @@
   "4592691": {
    "fantasy_team": null,
    "id": "4592691",
-   "mpg": 19.3,
+   "mpg": 19.7,
    "name": "Jake LaRavia",
    "nba_team": "LAL",
    "positions": [
@@ -4067,7 +4067,7 @@
    "return_date": null,
    "slot": "",
    "status": "ACTIVE",
-   "value": 16.7
+   "value": 16.5
   },
   "4592714": {
    "fantasy_team": null,
@@ -4466,7 +4466,7 @@
   "4684272": {
    "fantasy_team": "Caxias French Fries",
    "id": "4684272",
-   "mpg": 23.2,
+   "mpg": 23.5,
    "name": "Ja'Kobe Walter",
    "nba_team": "TOR",
    "positions": [
@@ -5050,7 +5050,7 @@
   "4897262": {
    "fantasy_team": null,
    "id": "4897262",
-   "mpg": 14.0,
+   "mpg": 14.1,
    "name": "Will Richard",
    "nba_team": "GSW",
    "positions": [
@@ -6294,7 +6294,7 @@
   "5254165": {
    "fantasy_team": "Lakers x Bortolan 23",
    "id": "5254165",
-   "mpg": 22.8,
+   "mpg": 23.0,
    "name": "Keaton Wagler",
    "nba_team": "LAC",
    "positions": [

@@ -550,7 +550,7 @@
     "C"
    ],
    "return_date": null,
-   "slot": "IR",
+   "slot": "BE",
    "status": "ACTIVE",
    "value": 19.8
   },
@@ -3745,7 +3745,7 @@
     "SF"
    ],
    "return_date": null,
-   "slot": "BE",
+   "slot": "IR",
    "status": "OUT",
    "value": 26.8
   },

@@ -1098,7 +1098,7 @@
    ],
    "return_date": null,
    "slot": "PF",
-   "status": "ACTIVE",
+   "status": "OUT",
    "value": 33.1
   },
   "3150844": {
@@ -6716,6 +6716,7 @@
   "drop:3912848:1793606943308",
   "diag:14",
   "week:3",
-  "inj:5160992:OUT"
+  "inj:5160992:OUT",
+  "inj:3149673:OUT"
  ]
 }

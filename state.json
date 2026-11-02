@@ -76,11 +76,11 @@
   "4683689:20261027",
   "5279130:20261101"
  ],
- "hot_status": "ok: 250 FAs, 832 games",
+ "hot_status": "ok: 250 FAs, 835 games",
  "last_activity_ms": 1793563458581,
  "last_digest": 1793583858.7071085,
  "last_error_alert": 1792787295.9267383,
- "last_hot_check": 1793585658.4381943,
+ "last_hot_check": 1793586625.94809,
  "last_run": "2026-10-19T22:05:14+00:00",
  "matchup_periods": {
   "1": [
@@ -872,7 +872,7 @@
   "3134903": {
    "fantasy_team": null,
    "id": "3134903",
-   "mpg": 11.7,
+   "mpg": 11.9,
    "name": "Gary Payton II",
    "nba_team": "GSW",
    "positions": [
@@ -1535,7 +1535,7 @@
   "3936099": {
    "fantasy_team": "Tiki Taka Laranja",
    "id": "3936099",
-   "mpg": 26.5,
+   "mpg": 26.7,
    "name": "Derrick Jones Jr.",
    "nba_team": "LAC",
    "positions": [
@@ -1545,7 +1545,7 @@
    "return_date": null,
    "slot": "SF",
    "status": "ACTIVE",
-   "value": 25.7
+   "value": 26.2
   },
   "3936299": {
    "fantasy_team": "Lucky",
@@ -1974,7 +1974,7 @@
   "4066436": {
    "fantasy_team": "Polga Silva",
    "id": "4066436",
-   "mpg": 19.7,
+   "mpg": 20.0,
    "name": "De'Anthony Melton",
    "nba_team": "GSW",
    "positions": [
@@ -1984,7 +1984,7 @@
    "return_date": null,
    "slot": "PG",
    "status": "ACTIVE",
-   "value": 22.6
+   "value": 23.4
   },
   "4066457": {
    "fantasy_team": "King Coopa",
@@ -2004,7 +2004,7 @@
   "4066648": {
    "fantasy_team": "Lakers x Bortolan 23",
    "id": "4066648",
-   "mpg": 26.8,
+   "mpg": 27.2,
    "name": "Rui Hachimura",
    "nba_team": "LAC",
    "positions": [
@@ -2758,7 +2758,7 @@
   "4396907": {
    "fantasy_team": "Tropa do Nikola",
    "id": "4396907",
-   "mpg": 29.3,
+   "mpg": 29.5,
    "name": "Darius Garland",
    "nba_team": "LAC",
    "positions": [
@@ -2767,7 +2767,7 @@
    "return_date": null,
    "slot": "PG",
    "status": "ACTIVE",
-   "value": 24.7
+   "value": 25.2
   },
   "4396909": {
    "fantasy_team": null,
@@ -2862,7 +2862,7 @@
   "4397040": {
    "fantasy_team": null,
    "id": "4397040",
-   "mpg": 15.1,
+   "mpg": 15.4,
    "name": "Brandon Williams",
    "nba_team": "GSW",
    "positions": [
@@ -2872,7 +2872,7 @@
    "return_date": null,
    "slot": "",
    "status": "ACTIVE",
-   "value": 17.7
+   "value": 17.6
   },
   "4397077": {
    "fantasy_team": "Coringas do Gansola",
@@ -3342,7 +3342,7 @@
   "4432170": {
    "fantasy_team": "BL0CK BY ZION",
    "id": "4432170",
-   "mpg": 19.8,
+   "mpg": 20.2,
    "name": "Isaiah Jackson",
    "nba_team": "LAC",
    "positions": [
@@ -3352,7 +3352,7 @@
    "return_date": null,
    "slot": "C",
    "status": "ACTIVE",
-   "value": 24.5
+   "value": 24.8
   },
   "4432171": {
    "fantasy_team": null,
@@ -4626,7 +4626,7 @@
   "4702352": {
    "fantasy_team": null,
    "id": "4702352",
-   "mpg": 20.2,
+   "mpg": 20.3,
    "name": "Kobe Sanders",
    "nba_team": "LAC",
    "positions": [
@@ -4670,7 +4670,7 @@
   "4703396": {
    "fantasy_team": null,
    "id": "4703396",
-   "mpg": 11.2,
+   "mpg": 11.6,
    "name": "Graham Ike",
    "nba_team": "GSW",
    "positions": [
@@ -4679,7 +4679,7 @@
    "return_date": null,
    "slot": "",
    "status": "ACTIVE",
-   "value": 14.4
+   "value": 15.4
   },
   "4706557": {
    "fantasy_team": null,
@@ -6111,7 +6111,7 @@
   "5175737": {
    "fantasy_team": "Fernando  Diniz",
    "id": "5175737",
-   "mpg": 29.1,
+   "mpg": 29.4,
    "name": "Yaxel Lendeborg",
    "nba_team": "GSW",
    "positions": [
@@ -6121,7 +6121,7 @@
    "return_date": null,
    "slot": "PF",
    "status": "ACTIVE",
-   "value": 29.6
+   "value": 29.7
   },
   "5203685": {
    "fantasy_team": "CCCP  Баскетбол",

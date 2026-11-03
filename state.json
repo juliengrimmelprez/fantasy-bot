@@ -3509,7 +3509,7 @@
    ],
    "return_date": null,
    "slot": "",
-   "status": "DAY_TO_DAY",
+   "status": "OUT",
    "value": 14.1
   },
   "4432639": {
@@ -6431,7 +6431,7 @@
    ],
    "return_date": null,
    "slot": "UT",
-   "status": "DAY_TO_DAY",
+   "status": "ACTIVE",
    "value": 40.8
   },
   "6450": {

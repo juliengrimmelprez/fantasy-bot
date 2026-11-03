@@ -93,7 +93,7 @@
  "last_activity_ms": 1793660778133,
  "last_digest": 1793679621.9239936,
  "last_error_alert": 1793633778.3678486,
- "last_hot_check": 1793679857.9199731,
+ "last_hot_check": 1793680822.8219793,
  "last_run": "2026-10-19T22:05:14+00:00",
  "matchup_periods": {
   "1": [
@@ -568,7 +568,7 @@
   "3032977": {
    "fantasy_team": "Fernando  Diniz",
    "id": "3032977",
-   "mpg": 29.9,
+   "mpg": 30.1,
    "name": "Giannis Antetokounmpo",
    "nba_team": "MIA",
    "positions": [
@@ -578,7 +578,7 @@
    "return_date": null,
    "slot": "PF",
    "status": "ACTIVE",
-   "value": 50.1
+   "value": 50.0
   },
   "3032979": {
    "fantasy_team": null,
@@ -626,7 +626,7 @@
   "3059319": {
    "fantasy_team": "Tiki Taka Laranja",
    "id": "3059319",
-   "mpg": 25.7,
+   "mpg": 26.0,
    "name": "Andrew Wiggins",
    "nba_team": "MIA",
    "positions": [
@@ -981,7 +981,7 @@
    "return_date": null,
    "slot": "UT",
    "status": "ACTIVE",
-   "value": 34.2
+   "value": 34.4
   },
   "3136195": {
    "fantasy_team": "Contagem Hunters",
@@ -1359,7 +1359,7 @@
   "3907498": {
    "fantasy_team": "Contagem Hunters",
    "id": "3907498",
-   "mpg": 23.6,
+   "mpg": 23.9,
    "name": "Matisse Thybulle",
    "nba_team": "LAL",
    "positions": [
@@ -1368,7 +1368,7 @@
    "return_date": null,
    "slot": "BE",
    "status": "ACTIVE",
-   "value": 22.5
+   "value": 22.4
   },
   "3907823": {
    "fantasy_team": null,
@@ -1577,7 +1577,7 @@
   "3945274": {
    "fantasy_team": "Lakers x Bortolan 23",
    "id": "3945274",
-   "mpg": 33.6,
+   "mpg": 33.9,
    "name": "Luka Doncic",
    "nba_team": "LAL",
    "positions": [
@@ -1586,7 +1586,7 @@
    "return_date": null,
    "slot": "PG",
    "status": "ACTIVE",
-   "value": 64.1
+   "value": 64.7
   },
   "3948153": {
    "fantasy_team": null,
@@ -1853,7 +1853,7 @@
   "4066261": {
    "fantasy_team": "BL0CK BY ZION",
    "id": "4066261",
-   "mpg": 29.6,
+   "mpg": 29.7,
    "name": "Bam Adebayo",
    "nba_team": "MIA",
    "positions": [
@@ -1863,7 +1863,7 @@
    "return_date": null,
    "slot": "C",
    "status": "ACTIVE",
-   "value": 33.6
+   "value": 33.4
   },
   "4066262": {
    "fantasy_team": null,
@@ -2002,7 +2002,7 @@
   "4066457": {
    "fantasy_team": "King Coopa",
    "id": "4066457",
-   "mpg": 34.1,
+   "mpg": 34.4,
    "name": "Austin Reaves",
    "nba_team": "LAL",
    "positions": [
@@ -2012,7 +2012,7 @@
    "return_date": null,
    "slot": "UT",
    "status": "ACTIVE",
-   "value": 34.5
+   "value": 34.4
   },
   "4066648": {
    "fantasy_team": "Lakers x Bortolan 23",
@@ -2306,7 +2306,7 @@
   "4278053": {
    "fantasy_team": "Tropa do Nikola",
    "id": "4278053",
-   "mpg": 31.9,
+   "mpg": 32.1,
    "name": "Davion Mitchell",
    "nba_team": "MIA",
    "positions": [
@@ -3734,7 +3734,7 @@
   "4433136": {
    "fantasy_team": "Tropa do Nikola",
    "id": "4433136",
-   "mpg": 28.6,
+   "mpg": 28.9,
    "name": "Walker Kessler",
    "nba_team": "LAL",
    "positions": [
@@ -4055,7 +4055,7 @@
   "4592691": {
    "fantasy_team": null,
    "id": "4592691",
-   "mpg": 22.0,
+   "mpg": 22.3,
    "name": "Jake LaRavia",
    "nba_team": "LAL",
    "positions": [
@@ -4065,7 +4065,7 @@
    "return_date": null,
    "slot": "",
    "status": "ACTIVE",
-   "value": 19.4
+   "value": 20.4
   },
   "4592714": {
    "fantasy_team": null,
@@ -6450,7 +6450,7 @@
   "6475": {
    "fantasy_team": null,
    "id": "6475",
-   "mpg": 20.4,
+   "mpg": 20.6,
    "name": "Klay Thompson",
    "nba_team": "MIA",
    "positions": [
@@ -6460,7 +6460,7 @@
    "return_date": null,
    "slot": "",
    "status": "ACTIVE",
-   "value": 16.9
+   "value": 16.6
   },
   "6477": {
    "fantasy_team": null,
@@ -6716,6 +6716,7 @@
   "inj:4251:OUT",
   "inj:4576087:OUT",
   "hot:5279130:20261103",
-  "hot:4592492:20261103"
+  "hot:4592492:20261103",
+  "hot:2990992:20261103"
  ]
 }

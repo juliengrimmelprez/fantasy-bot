@@ -3262,7 +3262,7 @@
    ],
    "return_date": null,
    "slot": "BE",
-   "status": "OUT",
+   "status": "DAY_TO_DAY",
    "value": 13.0
   },
   "4431823": {
@@ -4109,7 +4109,7 @@
    ],
    "return_date": null,
    "slot": "",
-   "status": "OUT",
+   "status": "DAY_TO_DAY",
    "value": 13.4
   },
   "4593125": {
@@ -4706,7 +4706,7 @@
    "return_date": null,
    "slot": "UT",
    "status": "ACTIVE",
-   "value": 34.5
+   "value": 34.7
   },
   "4711272": {
    "fantasy_team": "Bull Market",
@@ -6132,7 +6132,7 @@
    "return_date": null,
    "slot": "UT",
    "status": "ACTIVE",
-   "value": 18.8
+   "value": 18.6
   },
   "5211175": {
    "fantasy_team": "BL0CK BY ZION",

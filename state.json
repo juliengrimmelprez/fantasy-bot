@@ -609,7 +609,7 @@
    ],
    "return_date": null,
    "slot": "C",
-   "status": "DAY_TO_DAY",
+   "status": "ACTIVE",
    "value": 35.8
   },
   "3059319": {
@@ -667,8 +667,8 @@
     "SF"
    ],
    "return_date": null,
-   "slot": "BE",
-   "status": "DAY_TO_DAY",
+   "slot": "SF",
+   "status": "ACTIVE",
    "value": 33.8
   },
   "3064482": {
@@ -6134,7 +6134,7 @@
     "SF"
    ],
    "return_date": null,
-   "slot": "SF",
+   "slot": "BE",
    "status": "ACTIVE",
    "value": 30.0
   },

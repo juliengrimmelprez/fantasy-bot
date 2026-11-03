@@ -92,7 +92,7 @@
   "5081727:20261024"
  ],
  "hot_status": "ok: 250 FAs, 993 games",
- "last_activity_ms": 1793660778133,
+ "last_activity_ms": 1793705910120,
  "last_digest": 1793705308.9033716,
  "last_error_alert": 1793633778.3678486,
  "last_hot_check": 1793705777.7966633,
@@ -828,7 +828,7 @@
    "value": 9.0
   },
   "3133603": {
-   "fantasy_team": "Bull Market",
+   "fantasy_team": null,
    "id": "3133603",
    "mpg": 23.3,
    "name": "Kelly Oubre Jr.",
@@ -838,7 +838,7 @@
     "SF"
    ],
    "return_date": null,
-   "slot": "UT",
+   "slot": "",
    "status": "DAY_TO_DAY",
    "value": 16.9
   },
@@ -6450,7 +6450,7 @@
    "value": 37.5
   },
   "6475": {
-   "fantasy_team": null,
+   "fantasy_team": "Bull Market",
    "id": "6475",
    "mpg": 21.7,
    "name": "Klay Thompson",
@@ -6460,7 +6460,7 @@
     "SF"
    ],
    "return_date": null,
-   "slot": "",
+   "slot": "UT",
    "status": "ACTIVE",
    "value": 17.3
   },

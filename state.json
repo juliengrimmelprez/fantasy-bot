@@ -652,7 +652,7 @@
    ],
    "return_date": null,
    "slot": "UT",
-   "status": "ACTIVE",
+   "status": "DAY_TO_DAY",
    "value": 28.7
   },
   "3064290": {
@@ -6720,6 +6720,7 @@
   "hot:5279130:20261103",
   "hot:4592492:20261103",
   "hot:2990992:20261103",
-  "diag:15"
+  "diag:15",
+  "inj:3062679:DAY_TO_DAY"
  ]
 }

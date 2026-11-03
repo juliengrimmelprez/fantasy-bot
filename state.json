@@ -271,7 +271,7 @@
    ],
    "return_date": null,
    "slot": "",
-   "status": "OUT",
+   "status": "DAY_TO_DAY",
    "value": 10.7
   },
   "2580782": {
@@ -837,7 +837,7 @@
    ],
    "return_date": null,
    "slot": "BE",
-   "status": "OUT",
+   "status": "DAY_TO_DAY",
    "value": 16.9
   },
   "3133626": {
@@ -1109,7 +1109,7 @@
    ],
    "return_date": null,
    "slot": "PF",
-   "status": "OUT",
+   "status": "DAY_TO_DAY",
    "value": 33.1
   },
   "3150844": {
@@ -1790,7 +1790,7 @@
    "return_date": null,
    "slot": "",
    "status": "ACTIVE",
-   "value": 21.0
+   "value": 23.0
   },
   "4065804": {
    "fantasy_team": null,
@@ -1987,7 +1987,7 @@
   "4066436": {
    "fantasy_team": "Polga Silva",
    "id": "4066436",
-   "mpg": 22.9,
+   "mpg": 23.0,
    "name": "De'Anthony Melton",
    "nba_team": "GSW",
    "positions": [
@@ -2706,7 +2706,7 @@
    ],
    "return_date": null,
    "slot": "UT",
-   "status": "OUT",
+   "status": "DAY_TO_DAY",
    "value": 33.7
   },
   "4395723": {
@@ -2737,7 +2737,7 @@
    "return_date": null,
    "slot": "UT",
    "status": "ACTIVE",
-   "value": 33.7
+   "value": 34.4
   },
   "4395725": {
    "fantasy_team": "Contagem Hunters",
@@ -2794,7 +2794,7 @@
    ],
    "return_date": null,
    "slot": "",
-   "status": "OUT",
+   "status": "DAY_TO_DAY",
    "value": 17.2
   },
   "4396971": {
@@ -5931,7 +5931,7 @@
    ],
    "return_date": null,
    "slot": "",
-   "status": "DAY_TO_DAY",
+   "status": "ACTIVE",
    "value": 19.6
   },
   "5149115": {

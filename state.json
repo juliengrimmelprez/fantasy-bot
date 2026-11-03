@@ -524,7 +524,7 @@
    "return_date": null,
    "slot": "",
    "status": "ACTIVE",
-   "value": 15.6
+   "value": 16.1
   },
   "3012": {
    "fantasy_team": null,
@@ -826,13 +826,13 @@
    ],
    "return_date": null,
    "slot": "BE",
-   "status": "ACTIVE",
+   "status": "DAY_TO_DAY",
    "value": 16.9
   },
   "3133626": {
    "fantasy_team": null,
    "id": "3133626",
-   "mpg": 12.9,
+   "mpg": 13.0,
    "name": "Kenrich Williams",
    "nba_team": "OKC",
    "positions": [
@@ -1377,7 +1377,7 @@
   "3908809": {
    "fantasy_team": "Bull Market",
    "id": "3908809",
-   "mpg": 29.0,
+   "mpg": 29.1,
    "name": "Donovan Mitchell",
    "nba_team": "CLE",
    "positions": [
@@ -1387,7 +1387,7 @@
    "return_date": null,
    "slot": "PG",
    "status": "ACTIVE",
-   "value": 35.9
+   "value": 36.0
   },
   "3908845": {
    "fantasy_team": "Bull Market",
@@ -2323,7 +2323,7 @@
   "4278073": {
    "fantasy_team": "Polga Silva",
    "id": "4278073",
-   "mpg": 29.1,
+   "mpg": 29.3,
    "name": "Shai Gilgeous-Alexander",
    "nba_team": "OKC",
    "positions": [
@@ -2332,7 +2332,7 @@
    "return_date": null,
    "slot": "UT",
    "status": "ACTIVE",
-   "value": 38.3
+   "value": 38.6
   },
   "4278076": {
    "fantasy_team": null,
@@ -6055,7 +6055,7 @@
   "5174983": {
    "fantasy_team": "Lakers x Bortolan 23",
    "id": "5174983",
-   "mpg": 16.0,
+   "mpg": 16.1,
    "name": "Aday Mara",
    "nba_team": "OKC",
    "positions": [
@@ -6064,7 +6064,7 @@
    "return_date": null,
    "slot": "BE",
    "status": "ACTIVE",
-   "value": 15.7
+   "value": 15.6
   },
   "5175643": {
    "fantasy_team": "Fernando  Diniz",
@@ -6253,7 +6253,7 @@
   "5241364": {
    "fantasy_team": null,
    "id": "5241364",
-   "mpg": 15.5,
+   "mpg": 13.3,
    "name": "Bennett Stirtz",
    "nba_team": "OKC",
    "positions": [
@@ -6262,7 +6262,7 @@
    "return_date": null,
    "slot": "",
    "status": "ACTIVE",
-   "value": 7.0
+   "value": 6.0
   },
   "5242496": {
    "fantasy_team": null,

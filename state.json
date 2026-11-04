@@ -95,7 +95,7 @@
  "last_activity_ms": 1793705910120,
  "last_digest": 1793782937.2713861,
  "last_error_alert": 1793633778.3678486,
- "last_hot_check": 1793784495.8239787,
+ "last_hot_check": 1793786058.1483197,
  "last_run": "2026-10-19T22:05:14+00:00",
  "matchup_periods": {
   "1": [
@@ -3336,7 +3336,7 @@
     "SG"
    ],
    "return_date": null,
-   "slot": "BE",
+   "slot": "IR",
    "status": "OUT",
    "value": 25.0
   },
@@ -5360,7 +5360,7 @@
     "SF"
    ],
    "return_date": null,
-   "slot": "IR",
+   "slot": "BE",
    "status": "OUT",
    "value": 35.2
   },

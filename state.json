@@ -4576,7 +4576,7 @@
    ],
    "return_date": null,
    "slot": "PF",
-   "status": "DAY_TO_DAY",
+   "status": "OUT",
    "value": 40.9
   },
   "4701232": {
@@ -6018,7 +6018,7 @@
    ],
    "return_date": null,
    "slot": "UT",
-   "status": "DAY_TO_DAY",
+   "status": "ACTIVE",
    "value": 25.0
   },
   "5164559": {
@@ -6723,6 +6723,8 @@
   "diag:15",
   "inj:3062679:DAY_TO_DAY",
   "diag:16",
-  "inj:3062679:OUT"
+  "inj:3062679:OUT",
+  "inj:4701230:OUT",
+  "inj:5160992:ACTIVE"
  ]
 }

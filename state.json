@@ -866,7 +866,7 @@
     "C"
    ],
    "return_date": null,
-   "slot": "BE",
+   "slot": "C",
    "status": "ACTIVE",
    "value": 25.4
   },
@@ -1168,7 +1168,7 @@
     "C"
    ],
    "return_date": null,
-   "slot": "PF",
+   "slot": "UT",
    "status": "ACTIVE",
    "value": 43.4
   },
@@ -1660,7 +1660,7 @@
     "SG"
    ],
    "return_date": null,
-   "slot": "UT",
+   "slot": "SG",
    "status": "ACTIVE",
    "value": 33.2
   },
@@ -1997,7 +1997,7 @@
     "SG"
    ],
    "return_date": null,
-   "slot": "PG",
+   "slot": "BE",
    "status": "ACTIVE",
    "value": 25.5
   },
@@ -2343,7 +2343,7 @@
     "PG"
    ],
    "return_date": null,
-   "slot": "UT",
+   "slot": "PG",
    "status": "ACTIVE",
    "value": 46.3
   },
@@ -2387,7 +2387,7 @@
     "PF"
    ],
    "return_date": null,
-   "slot": "SF",
+   "slot": "PF",
    "status": "ACTIVE",
    "value": 24.1
   },
@@ -2619,7 +2619,7 @@
     "PG"
    ],
    "return_date": null,
-   "slot": "BE",
+   "slot": "UT",
    "status": "ACTIVE",
    "value": 22.3
   },
@@ -2810,7 +2810,7 @@
     "C"
    ],
    "return_date": null,
-   "slot": "C",
+   "slot": "BE",
    "status": "ACTIVE",
    "value": 24.9
   },
@@ -3148,7 +3148,7 @@
     "C"
    ],
    "return_date": null,
-   "slot": "UT",
+   "slot": "BE",
    "status": "DAY_TO_DAY",
    "value": 29.9
   },
@@ -4095,7 +4095,7 @@
     "SG"
    ],
    "return_date": null,
-   "slot": "BE",
+   "slot": "UT",
    "status": "ACTIVE",
    "value": 23.4
   },
@@ -5117,7 +5117,7 @@
     "SF"
    ],
    "return_date": null,
-   "slot": "SG",
+   "slot": "SF",
    "status": "ACTIVE",
    "value": 31.5
   },

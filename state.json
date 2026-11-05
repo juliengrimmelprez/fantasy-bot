@@ -97,7 +97,7 @@
   "5107199:20261024"
  ],
  "hot_status": "ok: 250 FAs, 1122 games",
- "last_activity_ms": 1793876194748,
+ "last_activity_ms": 1793877570587,
  "last_digest": 1793875343.0704648,
  "last_error_alert": 1793633778.3678486,
  "last_hot_check": 1793876899.983018,
@@ -2982,7 +2982,7 @@
    "value": 26.4
   },
   "4397189": {
-   "fantasy_team": "Tiki Taka Laranja",
+   "fantasy_team": null,
    "id": "4397189",
    "mpg": 22.4,
    "name": "Jalen Smith",
@@ -2992,7 +2992,7 @@
     "C"
    ],
    "return_date": null,
-   "slot": "C",
+   "slot": "",
    "status": "DAY_TO_DAY",
    "value": 26.2
   },
@@ -3035,7 +3035,7 @@
     "C"
    ],
    "return_date": null,
-   "slot": "BE",
+   "slot": "C",
    "status": "ACTIVE",
    "value": 23.6
   },
@@ -4235,7 +4235,7 @@
    "value": 22.1
   },
   "4601023": {
-   "fantasy_team": null,
+   "fantasy_team": "Tiki Taka Laranja",
    "id": "4601023",
    "mpg": 20.8,
    "name": "Oso Ighodaro",
@@ -4244,7 +4244,7 @@
     "PF"
    ],
    "return_date": null,
-   "slot": "",
+   "slot": "PF",
    "status": "ACTIVE",
    "value": 23.0
   },
@@ -6729,6 +6729,7 @@
   "diag:16",
   "inj:3062679:OUT",
   "inj:4701230:OUT",
-  "inj:5160992:ACTIVE"
+  "inj:5160992:ACTIVE",
+  "drop:4397189:1793877570587"
  ]
 }

@@ -3927,21 +3927,6 @@
    "status": "ACTIVE",
    "value": 34.0
   },
-  "4433629": {
-   "fantasy_team": null,
-   "id": "4433629",
-   "mpg": 3.3,
-   "name": "Ryan Nembhard",
-   "nba_team": "DEN",
-   "positions": [
-    "PG",
-    "SG"
-   ],
-   "return_date": null,
-   "slot": "",
-   "status": "ACTIVE",
-   "value": 4.7
-  },
   "4437244": {
    "fantasy_team": "Lebron GOAT",
    "id": "4437244",
@@ -4306,6 +4291,20 @@
    "slot": "UT",
    "status": "ACTIVE",
    "value": 39.4
+  },
+  "4683024": {
+   "fantasy_team": null,
+   "id": "4683024",
+   "mpg": null,
+   "name": "Killian Hayes",
+   "nba_team": "FA",
+   "positions": [
+    "PG"
+   ],
+   "return_date": null,
+   "slot": "",
+   "status": "ACTIVE",
+   "value": 0.0
   },
   "4683634": {
    "fantasy_team": null,

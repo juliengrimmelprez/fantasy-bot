@@ -758,7 +758,7 @@
    ],
    "return_date": null,
    "slot": "BE",
-   "status": "OUT",
+   "status": "DAY_TO_DAY",
    "value": 16.5
   },
   "3102530": {
@@ -1636,7 +1636,7 @@
    ],
    "return_date": null,
    "slot": "",
-   "status": "OUT",
+   "status": "DAY_TO_DAY",
    "value": 17.7
   },
   "3992": {
@@ -2451,7 +2451,7 @@
    ],
    "return_date": null,
    "slot": "",
-   "status": "OUT",
+   "status": "DAY_TO_DAY",
    "value": 22.6
   },
   "4278562": {
@@ -3514,7 +3514,7 @@
    ],
    "return_date": null,
    "slot": "",
-   "status": "OUT",
+   "status": "DAY_TO_DAY",
    "value": 14.1
   },
   "4432639": {
@@ -6733,6 +6733,7 @@
   "inj:4701230:OUT",
   "inj:5160992:ACTIVE",
   "drop:4397189:1793877570587",
-  "diag:17"
+  "diag:17",
+  "planday:17"
  ]
 }

@@ -97,7 +97,7 @@
   "5107199:20261024"
  ],
  "hot_status": "ok: 250 FAs, 1121 games",
- "last_activity_ms": 1793876135760,
+ "last_activity_ms": 1793876194748,
  "last_digest": 1793875343.0704648,
  "last_error_alert": 1793633778.3678486,
  "last_hot_check": 1793875947.1404917,
@@ -1047,6 +1047,20 @@
    "status": "ACTIVE",
    "value": 0.7
   },
+  "3137259": {
+   "fantasy_team": null,
+   "id": "3137259",
+   "mpg": null,
+   "name": "Gabe Vincent",
+   "nba_team": "FA",
+   "positions": [
+    "PG"
+   ],
+   "return_date": null,
+   "slot": "",
+   "status": "ACTIVE",
+   "value": 0.0
+  },
   "3138160": {
    "fantasy_team": null,
    "id": "3138160",
@@ -1188,7 +1202,7 @@
     "SF"
    ],
    "return_date": null,
-   "slot": "SG",
+   "slot": "UT",
    "status": "ACTIVE",
    "value": 35.4
   },
@@ -2435,7 +2449,7 @@
     "PF"
    ],
    "return_date": null,
-   "slot": "BE",
+   "slot": "UT",
    "status": "ACTIVE",
    "value": 24.8
   },
@@ -2880,7 +2894,7 @@
    "value": 16.7
   },
   "4397040": {
-   "fantasy_team": null,
+   "fantasy_team": "Lucky",
    "id": "4397040",
    "mpg": 17.4,
    "name": "Brandon Williams",
@@ -2890,7 +2904,7 @@
     "SG"
    ],
    "return_date": null,
-   "slot": "",
+   "slot": "SG",
    "status": "ACTIVE",
    "value": 19.4
   },
@@ -3557,7 +3571,7 @@
     "C"
    ],
    "return_date": null,
-   "slot": "UT",
+   "slot": "BE",
    "status": "DAY_TO_DAY",
    "value": 21.6
   },
@@ -4026,7 +4040,7 @@
     "PF"
    ],
    "return_date": null,
-   "slot": "UT",
+   "slot": "BE",
    "status": "ACTIVE",
    "value": 23.3
   },

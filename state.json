@@ -97,7 +97,7 @@
   "5107199:20261024"
  ],
  "hot_status": "ok: 250 FAs, 1121 games",
- "last_activity_ms": 1793848181131,
+ "last_activity_ms": 1793876135760,
  "last_digest": 1793875343.0704648,
  "last_error_alert": 1793633778.3678486,
  "last_hot_check": 1793875947.1404917,
@@ -1047,20 +1047,6 @@
    "status": "ACTIVE",
    "value": 0.7
   },
-  "3137259": {
-   "fantasy_team": null,
-   "id": "3137259",
-   "mpg": null,
-   "name": "Gabe Vincent",
-   "nba_team": "FA",
-   "positions": [
-    "PG"
-   ],
-   "return_date": null,
-   "slot": "",
-   "status": "ACTIVE",
-   "value": 0.0
-  },
   "3138160": {
    "fantasy_team": null,
    "id": "3138160",
@@ -1134,7 +1120,7 @@
    "value": 34.6
   },
   "3150844": {
-   "fantasy_team": "Lucky",
+   "fantasy_team": null,
    "id": "3150844",
    "mpg": 18.9,
    "name": "Moritz Wagner",
@@ -1143,7 +1129,7 @@
     "C"
    ],
    "return_date": null,
-   "slot": "BE",
+   "slot": "",
    "status": "ACTIVE",
    "value": 18.2
   },
@@ -2449,7 +2435,7 @@
     "PF"
    ],
    "return_date": null,
-   "slot": "IR",
+   "slot": "BE",
    "status": "ACTIVE",
    "value": 24.8
   },

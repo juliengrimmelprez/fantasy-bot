@@ -91,11 +91,11 @@
   "4065731:20261025",
   "5149077:20261028"
  ],
- "hot_status": "ok: 250 FAs, 993 games",
+ "hot_status": "ok: 250 FAs, 995 games",
  "last_activity_ms": 1793705910120,
  "last_digest": 1793834537.460454,
  "last_error_alert": 1793633778.3678486,
- "last_hot_check": 1793836581.3133323,
+ "last_hot_check": 1793837542.1679375,
  "last_run": "2026-10-19T22:05:14+00:00",
  "matchup_periods": {
   "1": [
@@ -2193,7 +2193,7 @@
   "4277905": {
    "fantasy_team": "BL0CK BY ZION",
    "id": "4277905",
-   "mpg": 36.1,
+   "mpg": 31.8,
    "name": "Trae Young",
    "nba_team": "WAS",
    "positions": [
@@ -2202,7 +2202,7 @@
    "return_date": null,
    "slot": "UT",
    "status": "ACTIVE",
-   "value": 39.9
+   "value": 35.1
   },
   "4277919": {
    "fantasy_team": null,
@@ -2279,7 +2279,7 @@
   "4278039": {
    "fantasy_team": "Tropa do Nikola",
    "id": "4278039",
-   "mpg": 30.1,
+   "mpg": 26.9,
    "name": "Nickeil Alexander-Walker",
    "nba_team": "ATL",
    "positions": [
@@ -2289,7 +2289,7 @@
    "return_date": null,
    "slot": "UT",
    "status": "ACTIVE",
-   "value": 34.2
+   "value": 30.4
   },
   "4278049": {
    "fantasy_team": "Lakers x Bortolan 23",
@@ -2862,7 +2862,7 @@
   "4397020": {
    "fantasy_team": null,
    "id": "4397020",
-   "mpg": 24.6,
+   "mpg": 22.0,
    "name": "Luguentz Dort",
    "nba_team": "ATL",
    "positions": [
@@ -2872,7 +2872,7 @@
    "return_date": null,
    "slot": "",
    "status": "ACTIVE",
-   "value": 16.9
+   "value": 15.0
   },
   "4397040": {
    "fantasy_team": null,
@@ -3155,7 +3155,7 @@
   "4431680": {
    "fantasy_team": "Lebron GOAT",
    "id": "4431680",
-   "mpg": 28.9,
+   "mpg": 25.8,
    "name": "Onyeka Okongwu",
    "nba_team": "ATL",
    "positions": [
@@ -3164,7 +3164,7 @@
    "return_date": null,
    "slot": "C",
    "status": "ACTIVE",
-   "value": 27.2
+   "value": 24.4
   },
   "4431684": {
    "fantasy_team": null,
@@ -4858,7 +4858,7 @@
   "4869342": {
    "fantasy_team": "King Coopa",
    "id": "4869342",
-   "mpg": 29.1,
+   "mpg": 26.0,
    "name": "Dyson Daniels",
    "nba_team": "ATL",
    "positions": [
@@ -4868,7 +4868,7 @@
    "return_date": null,
    "slot": "PG",
    "status": "ACTIVE",
-   "value": 33.6
+   "value": 29.9
   },
   "4869780": {
    "fantasy_team": "Lucky",
@@ -5881,7 +5881,7 @@
   "5142718": {
    "fantasy_team": "Contagem Hunters",
    "id": "5142718",
-   "mpg": 30.0,
+   "mpg": 22.8,
    "name": "AJ Dybantsa",
    "nba_team": "WAS",
    "positions": [
@@ -5890,7 +5890,7 @@
    "return_date": null,
    "slot": "SF",
    "status": "ACTIVE",
-   "value": 29.7
+   "value": 22.2
   },
   "5144091": {
    "fantasy_team": "King Coopa",
@@ -5924,7 +5924,7 @@
   "5149077": {
    "fantasy_team": null,
    "id": "5149077",
-   "mpg": 20.3,
+   "mpg": 17.9,
    "name": "Kingston Flemings",
    "nba_team": "ATL",
    "positions": [
@@ -5934,7 +5934,7 @@
    "return_date": null,
    "slot": "",
    "status": "ACTIVE",
-   "value": 19.6
+   "value": 17.8
   },
   "5149115": {
    "fantasy_team": null,
@@ -6009,7 +6009,7 @@
   "5160992": {
    "fantasy_team": "King Coopa",
    "id": "5160992",
-   "mpg": 25.5,
+   "mpg": 22.0,
    "name": "Alex Sarr",
    "nba_team": "WAS",
    "positions": [
@@ -6019,7 +6019,7 @@
    "return_date": null,
    "slot": "UT",
    "status": "ACTIVE",
-   "value": 25.0
+   "value": 21.4
   },
   "5164559": {
    "fantasy_team": null,
@@ -6038,7 +6038,7 @@
   "5174563": {
    "fantasy_team": "Caxias French Fries",
    "id": "5174563",
-   "mpg": 32.4,
+   "mpg": 28.5,
    "name": "Kyshawn George",
    "nba_team": "WAS",
    "positions": [
@@ -6048,7 +6048,7 @@
    "return_date": null,
    "slot": "SG",
    "status": "ACTIVE",
-   "value": 31.1
+   "value": 27.2
   },
   "5174655": {
    "fantasy_team": null,
@@ -6525,7 +6525,7 @@
   "6583": {
    "fantasy_team": "Bull Market",
    "id": "6583",
-   "mpg": 33.6,
+   "mpg": 29.5,
    "name": "Anthony Davis",
    "nba_team": "WAS",
    "positions": [
@@ -6535,7 +6535,7 @@
    "return_date": null,
    "slot": "PF",
    "status": "ACTIVE",
-   "value": 40.6
+   "value": 35.9
   },
   "6585": {
    "fantasy_team": null,

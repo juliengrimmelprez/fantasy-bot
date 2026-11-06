@@ -100,7 +100,7 @@
  "last_activity_ms": 1793925363939,
  "last_digest": 1793938458.7703254,
  "last_error_alert": 1793633778.3678486,
- "last_hot_check": 1793940377.3397174,
+ "last_hot_check": 1793941340.02492,
  "last_run": "2026-10-19T22:05:14+00:00",
  "matchup_periods": {
   "1": [
@@ -575,7 +575,7 @@
   "3032977": {
    "fantasy_team": "Fernando  Diniz",
    "id": "3032977",
-   "mpg": 31.9,
+   "mpg": 32.0,
    "name": "Giannis Antetokounmpo",
    "nba_team": "MIA",
    "positions": [
@@ -585,7 +585,7 @@
    "return_date": null,
    "slot": "PF",
    "status": "ACTIVE",
-   "value": 51.9
+   "value": 51.7
   },
   "3032979": {
    "fantasy_team": null,
@@ -1627,7 +1627,7 @@
   "3975": {
    "fantasy_team": "Lucky",
    "id": "3975",
-   "mpg": 28.0,
+   "mpg": 28.1,
    "name": "Stephen Curry",
    "nba_team": "GSW",
    "positions": [
@@ -3080,7 +3080,7 @@
    "return_date": null,
    "slot": "C",
    "status": "ACTIVE",
-   "value": 16.7
+   "value": 17.3
   },
   "4398207": {
    "fantasy_team": null,
@@ -4712,7 +4712,7 @@
    "return_date": null,
    "slot": "PG",
    "status": "ACTIVE",
-   "value": 31.9
+   "value": 32.1
   },
   "4711272": {
    "fantasy_team": "Bull Market",
@@ -5166,7 +5166,7 @@
    "return_date": null,
    "slot": "",
    "status": "ACTIVE",
-   "value": 7.6
+   "value": 7.4
   },
   "4997536": {
    "fantasy_team": null,
@@ -6114,7 +6114,7 @@
   "5175737": {
    "fantasy_team": "Fernando  Diniz",
    "id": "5175737",
-   "mpg": 31.0,
+   "mpg": 31.1,
    "name": "Yaxel Lendeborg",
    "nba_team": "GSW",
    "positions": [

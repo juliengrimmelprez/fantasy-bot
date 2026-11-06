@@ -3127,6 +3127,21 @@
    "status": "ACTIVE",
    "value": 33.8
   },
+  "4431675": {
+   "fantasy_team": null,
+   "id": "4431675",
+   "mpg": 17.8,
+   "name": "Trendon Watford",
+   "nba_team": "NOP",
+   "positions": [
+    "SF",
+    "PF"
+   ],
+   "return_date": null,
+   "slot": "",
+   "status": "ACTIVE",
+   "value": 15.5
+  },
   "4431678": {
    "fantasy_team": "Tiki Taka Laranja",
    "id": "4431678",
@@ -4292,20 +4307,6 @@
    "slot": "UT",
    "status": "ACTIVE",
    "value": 39.4
-  },
-  "4683024": {
-   "fantasy_team": null,
-   "id": "4683024",
-   "mpg": null,
-   "name": "Killian Hayes",
-   "nba_team": "FA",
-   "positions": [
-    "PG"
-   ],
-   "return_date": null,
-   "slot": "",
-   "status": "ACTIVE",
-   "value": 0.0
   },
   "4683634": {
    "fantasy_team": null,

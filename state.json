@@ -100,7 +100,7 @@
  "last_activity_ms": 1793925363939,
  "last_digest": 1793942175.959573,
  "last_error_alert": 1793633778.3678486,
- "last_hot_check": 1793942296.521024,
+ "last_hot_check": 1793943255.8372028,
  "last_run": "2026-10-19T22:05:14+00:00",
  "matchup_periods": {
   "1": [
@@ -386,7 +386,7 @@
   "2990969": {
    "fantasy_team": null,
    "id": "2990969",
-   "mpg": 20.0,
+   "mpg": 20.1,
    "name": "Georges Niang",
    "nba_team": "GSW",
    "positions": [
@@ -395,7 +395,7 @@
    "return_date": null,
    "slot": "",
    "status": "ACTIVE",
-   "value": 14.4
+   "value": 15.0
   },
   "2990984": {
    "fantasy_team": null,
@@ -575,7 +575,7 @@
   "3032977": {
    "fantasy_team": "Fernando  Diniz",
    "id": "3032977",
-   "mpg": 32.7,
+   "mpg": 32.8,
    "name": "Giannis Antetokounmpo",
    "nba_team": "MIA",
    "positions": [
@@ -1874,7 +1874,7 @@
   "4066261": {
    "fantasy_team": "BL0CK BY ZION",
    "id": "4066261",
-   "mpg": 32.4,
+   "mpg": 32.7,
    "name": "Bam Adebayo",
    "nba_team": "MIA",
    "positions": [
@@ -1884,7 +1884,7 @@
    "return_date": null,
    "slot": "C",
    "status": "ACTIVE",
-   "value": 40.1
+   "value": 40.0
   },
   "4066262": {
    "fantasy_team": null,
@@ -2327,7 +2327,7 @@
   "4278053": {
    "fantasy_team": "Tropa do Nikola",
    "id": "4278053",
-   "mpg": 34.8,
+   "mpg": 35.0,
    "name": "Davion Mitchell",
    "nba_team": "MIA",
    "positions": [
@@ -2336,7 +2336,7 @@
    "return_date": null,
    "slot": "PG",
    "status": "ACTIVE",
-   "value": 37.6
+   "value": 38.1
   },
   "4278067": {
    "fantasy_team": "BL0CK BY ZION",
@@ -2896,7 +2896,7 @@
   "4397040": {
    "fantasy_team": "Lucky",
    "id": "4397040",
-   "mpg": 17.5,
+   "mpg": 17.6,
    "name": "Brandon Williams",
    "nba_team": "GSW",
    "positions": [
@@ -2906,7 +2906,7 @@
    "return_date": null,
    "slot": "SG",
    "status": "ACTIVE",
-   "value": 18.9
+   "value": 19.1
   },
   "4397077": {
    "fantasy_team": "Hospital do Gansola",
@@ -3071,7 +3071,7 @@
   "4397886": {
    "fantasy_team": "Contagem Hunters",
    "id": "4397886",
-   "mpg": 11.4,
+   "mpg": 11.7,
    "name": "Charles Bassey",
    "nba_team": "GSW",
    "positions": [
@@ -3080,7 +3080,7 @@
    "return_date": null,
    "slot": "C",
    "status": "ACTIVE",
-   "value": 17.6
+   "value": 17.3
   },
   "4398207": {
    "fantasy_team": null,
@@ -4237,7 +4237,7 @@
   "4601025": {
    "fantasy_team": "Lebron GOAT",
    "id": "4601025",
-   "mpg": 30.0,
+   "mpg": 30.2,
    "name": "Pelle Larsson",
    "nba_team": "MIA",
    "positions": [
@@ -4702,7 +4702,7 @@
   "4709138": {
    "fantasy_team": "CCCP  Баскетбол",
    "id": "4709138",
-   "mpg": 33.0,
+   "mpg": 33.3,
    "name": "Brandin Podziemski",
    "nba_team": "GSW",
    "positions": [
@@ -4712,7 +4712,7 @@
    "return_date": null,
    "slot": "PG",
    "status": "ACTIVE",
-   "value": 33.3
+   "value": 33.4
   },
   "4711272": {
    "fantasy_team": "Bull Market",
@@ -5741,7 +5741,7 @@
   "5107157": {
    "fantasy_team": null,
    "id": "5107157",
-   "mpg": 9.9,
+   "mpg": 10.1,
    "name": "Ryan Conwell",
    "nba_team": "MIA",
    "positions": [
@@ -5750,7 +5750,7 @@
    "return_date": null,
    "slot": "",
    "status": "ACTIVE",
-   "value": 8.9
+   "value": 9.3
   },
   "5107173": {
    "fantasy_team": null,
@@ -6114,7 +6114,7 @@
   "5175737": {
    "fantasy_team": "Fernando  Diniz",
    "id": "5175737",
-   "mpg": 31.4,
+   "mpg": 31.7,
    "name": "Yaxel Lendeborg",
    "nba_team": "GSW",
    "positions": [
@@ -6124,7 +6124,7 @@
    "return_date": null,
    "slot": "UT",
    "status": "ACTIVE",
-   "value": 36.3
+   "value": 36.9
   },
   "5203685": {
    "fantasy_team": "CCCP  Баскетбол",

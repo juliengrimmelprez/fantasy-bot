@@ -97,11 +97,11 @@
   "4896372:20261103",
   "4431684:20261028"
  ],
- "hot_status": "ok: 250 FAs, 1151 games",
- "last_activity_ms": 1793955386892,
+ "hot_status": "ok: 250 FAs, 1143 games",
+ "last_activity_ms": 1793960446343,
  "last_digest": 1793957057.7900069,
  "last_error_alert": 1793633778.3678486,
- "last_hot_check": 1793959582.049899,
+ "last_hot_check": 1793960536.560408,
  "last_run": "2026-10-19T22:05:14+00:00",
  "matchup_periods": {
   "1": [
@@ -4061,7 +4061,7 @@
    "value": 21.0
   },
   "4592691": {
-   "fantasy_team": null,
+   "fantasy_team": "Lucky",
    "id": "4592691",
    "mpg": 23.4,
    "name": "Jake LaRavia",
@@ -4071,7 +4071,7 @@
     "PF"
    ],
    "return_date": null,
-   "slot": "",
+   "slot": "UT",
    "status": "ACTIVE",
    "value": 21.5
   },
@@ -4307,6 +4307,20 @@
    "slot": "PF",
    "status": "ACTIVE",
    "value": 39.6
+  },
+  "4683024": {
+   "fantasy_team": null,
+   "id": "4683024",
+   "mpg": null,
+   "name": "Killian Hayes",
+   "nba_team": "FA",
+   "positions": [
+    "PG"
+   ],
+   "return_date": null,
+   "slot": "",
+   "status": "ACTIVE",
+   "value": 0.0
   },
   "4683634": {
    "fantasy_team": null,

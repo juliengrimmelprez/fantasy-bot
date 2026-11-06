@@ -98,7 +98,7 @@
   "5254165:20261022"
  ],
  "hot_status": "ok: 250 FAs, 1142 games",
- "last_activity_ms": 1793973564003,
+ "last_activity_ms": 1793973688308,
  "last_digest": 1793971944.5371137,
  "last_error_alert": 1793633778.3678486,
  "last_hot_check": 1793973018.465755,
@@ -1578,7 +1578,7 @@
     "PF"
    ],
    "return_date": null,
-   "slot": "SF",
+   "slot": "PF",
    "status": "ACTIVE",
    "value": 27.5
   },
@@ -2865,7 +2865,7 @@
    "value": 35.9
   },
   "4397014": {
-   "fantasy_team": null,
+   "fantasy_team": "Contagem Hunters",
    "id": "4397014",
    "mpg": 26.1,
    "name": "Quentin Grimes",
@@ -2875,7 +2875,7 @@
     "SF"
    ],
    "return_date": null,
-   "slot": "",
+   "slot": "UT",
    "status": "ACTIVE",
    "value": 15.8
   },
@@ -3070,7 +3070,7 @@
    "value": 29.3
   },
   "4397886": {
-   "fantasy_team": "Contagem Hunters",
+   "fantasy_team": null,
    "id": "4397886",
    "mpg": 11.9,
    "name": "Charles Bassey",
@@ -3079,7 +3079,7 @@
     "C"
    ],
    "return_date": null,
-   "slot": "UT",
+   "slot": "",
    "status": "ACTIVE",
    "value": 17.3
   },
@@ -4062,7 +4062,7 @@
    "value": 23.3
   },
   "4592492": {
-   "fantasy_team": null,
+   "fantasy_team": "Tiki Taka Laranja",
    "id": "4592492",
    "mpg": 12.4,
    "name": "Bones Hyland",
@@ -4071,7 +4071,7 @@
     "PG"
    ],
    "return_date": null,
-   "slot": "",
+   "slot": "UT",
    "status": "ACTIVE",
    "value": 21.0
   },
@@ -4252,7 +4252,7 @@
    "value": 21.9
   },
   "4601023": {
-   "fantasy_team": "Tiki Taka Laranja",
+   "fantasy_team": null,
    "id": "4601023",
    "mpg": 21.4,
    "name": "Oso Ighodaro",
@@ -4261,7 +4261,7 @@
     "PF"
    ],
    "return_date": null,
-   "slot": "PF",
+   "slot": "",
    "status": "ACTIVE",
    "value": 20.4
   },
@@ -4946,7 +4946,7 @@
     "C"
    ],
    "return_date": null,
-   "slot": "UT",
+   "slot": "BE",
    "status": "ACTIVE",
    "value": 53.1
   },
@@ -6754,6 +6754,7 @@
   "drop:4278580:1793955386892",
   "drop:4397040:1793960558580",
   "diag:18",
-  "planday:18"
+  "planday:18",
+  "drop:4601023:1793973661624"
  ]
 }

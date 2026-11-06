@@ -98,7 +98,7 @@
   "4683689:20261027"
  ],
  "hot_status": "ok: 250 FAs, 1148 games",
- "last_activity_ms": 1793925363939,
+ "last_activity_ms": 1793955386892,
  "last_digest": 1793953337.5859644,
  "last_error_alert": 1793633778.3678486,
  "last_hot_check": 1793954776.3105555,
@@ -1640,7 +1640,7 @@
    "value": 48.1
   },
   "3978": {
-   "fantasy_team": null,
+   "fantasy_team": "Bull Market",
    "id": "3978",
    "mpg": 25.2,
    "name": "DeMar DeRozan",
@@ -1650,7 +1650,7 @@
     "PF"
    ],
    "return_date": null,
-   "slot": "",
+   "slot": "BE",
    "status": "DAY_TO_DAY",
    "value": 17.7
   },
@@ -2499,7 +2499,7 @@
    "value": 6.9
   },
   "4278580": {
-   "fantasy_team": "Bull Market",
+   "fantasy_team": null,
    "id": "4278580",
    "mpg": 23.6,
    "name": "Sandro Mamukelashvili",
@@ -2509,7 +2509,7 @@
     "C"
    ],
    "return_date": null,
-   "slot": "C",
+   "slot": "",
    "status": "DAY_TO_DAY",
    "value": 20.8
   },
@@ -6735,6 +6735,7 @@
   "drop:4397189:1793877570587",
   "diag:17",
   "planday:17",
-  "drop:4432847:1793925363939"
+  "drop:4432847:1793925363939",
+  "drop:4278580:1793955386892"
  ]
 }

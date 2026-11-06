@@ -1130,7 +1130,7 @@
     "PF"
    ],
    "return_date": null,
-   "slot": "PF",
+   "slot": "BE",
    "status": "ACTIVE",
    "value": 34.2
   },
@@ -3346,7 +3346,7 @@
    "value": 40.9
   },
   "4432165": {
-   "fantasy_team": "Hospital do Gansola",
+   "fantasy_team": null,
    "id": "4432165",
    "mpg": 33.3,
    "name": "Jalen Suggs",
@@ -3356,7 +3356,7 @@
     "SG"
    ],
    "return_date": null,
-   "slot": "BE",
+   "slot": "",
    "status": "OUT",
    "value": 26.9
   },
@@ -4134,6 +4134,21 @@
    "slot": "",
    "status": "ACTIVE",
    "value": 12.2
+  },
+  "4593125": {
+   "fantasy_team": "Hospital do Gansola",
+   "id": "4593125",
+   "mpg": 23.7,
+   "name": "Santi Aldama",
+   "nba_team": "DAL",
+   "positions": [
+    "SF",
+    "PF"
+   ],
+   "return_date": null,
+   "slot": "PF",
+   "status": "OUT",
+   "value": 25.0
   },
   "4593803": {
    "fantasy_team": null,

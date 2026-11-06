@@ -97,7 +97,7 @@
   "6585:20261020"
  ],
  "hot_status": "ok: 250 FAs, 1126 games",
- "last_activity_ms": 1793877570587,
+ "last_activity_ms": 1793925363939,
  "last_digest": 1793923697.0661404,
  "last_error_alert": 1793633778.3678486,
  "last_hot_check": 1793925026.0772347,
@@ -1000,7 +1000,7 @@
     "C"
    ],
    "return_date": null,
-   "slot": "C",
+   "slot": "BE",
    "status": "ACTIVE",
    "value": 38.9
   },
@@ -3069,7 +3069,7 @@
    "value": 28.0
   },
   "4397886": {
-   "fantasy_team": null,
+   "fantasy_team": "Contagem Hunters",
    "id": "4397886",
    "mpg": 11.5,
    "name": "Charles Bassey",
@@ -3078,7 +3078,7 @@
     "C"
    ],
    "return_date": null,
-   "slot": "",
+   "slot": "C",
    "status": "ACTIVE",
    "value": 16.3
   },
@@ -3649,7 +3649,7 @@
    "value": 9.2
   },
   "4432847": {
-   "fantasy_team": "Contagem Hunters",
+   "fantasy_team": null,
    "id": "4432847",
    "mpg": 22.0,
    "name": "Terrence Shannon Jr.",
@@ -3658,7 +3658,7 @@
     "SG"
    ],
    "return_date": null,
-   "slot": "BE",
+   "slot": "",
    "status": "DAY_TO_DAY",
    "value": 19.6
   },
@@ -6732,6 +6732,7 @@
   "inj:5160992:ACTIVE",
   "drop:4397189:1793877570587",
   "diag:17",
-  "planday:17"
+  "planday:17",
+  "drop:4432847:1793925363939"
  ]
 }

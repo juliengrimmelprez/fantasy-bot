@@ -1453,7 +1453,7 @@
   "3913174": {
    "fantasy_team": null,
    "id": "3913174",
-   "mpg": 15.6,
+   "mpg": 13.2,
    "name": "Luke Kennard",
    "nba_team": "PHO",
    "positions": [
@@ -1462,7 +1462,7 @@
    "return_date": null,
    "slot": "",
    "status": "ACTIVE",
-   "value": 13.8
+   "value": 11.3
   },
   "3913176": {
    "fantasy_team": "Tiki Taka Laranja",
@@ -2092,20 +2092,6 @@
    "status": "ACTIVE",
    "value": 20.2
   },
-  "4066993": {
-   "fantasy_team": null,
-   "id": "4066993",
-   "mpg": 10.0,
-   "name": "Dru Smith",
-   "nba_team": "MIA",
-   "positions": [
-    "PG"
-   ],
-   "return_date": null,
-   "slot": "",
-   "status": "ACTIVE",
-   "value": 8.0
-  },
   "4222252": {
    "fantasy_team": "Fernando  Diniz",
    "id": "4222252",
@@ -2183,7 +2169,7 @@
   "4277847": {
    "fantasy_team": "Lebron GOAT",
    "id": "4277847",
-   "mpg": 28.9,
+   "mpg": 29.0,
    "name": "Wendell Carter Jr.",
    "nba_team": "ORL",
    "positions": [
@@ -2529,7 +2515,7 @@
   "4278585": {
    "fantasy_team": "Tiki Taka Laranja",
    "id": "4278585",
-   "mpg": 22.0,
+   "mpg": 22.1,
    "name": "Collin Gillespie",
    "nba_team": "PHO",
    "positions": [
@@ -2538,7 +2524,7 @@
    "return_date": null,
    "slot": "UT",
    "status": "ACTIVE",
-   "value": 20.1
+   "value": 21.4
   },
   "4278594": {
    "fantasy_team": "Caxias French Fries",
@@ -3969,7 +3955,7 @@
    "return_date": null,
    "slot": "SF",
    "status": "ACTIVE",
-   "value": 30.6
+   "value": 31.0
   },
   "4576060": {
    "fantasy_team": null,
@@ -4305,6 +4291,20 @@
    "slot": "UT",
    "status": "ACTIVE",
    "value": 39.4
+  },
+  "4683024": {
+   "fantasy_team": null,
+   "id": "4683024",
+   "mpg": null,
+   "name": "Killian Hayes",
+   "nba_team": "FA",
+   "positions": [
+    "PG"
+   ],
+   "return_date": null,
+   "slot": "",
+   "status": "ACTIVE",
+   "value": 0.0
   },
   "4683634": {
    "fantasy_team": null,
@@ -4644,7 +4644,7 @@
   "4702382": {
    "fantasy_team": "Contagem Hunters",
    "id": "4702382",
-   "mpg": 26.1,
+   "mpg": 26.2,
    "name": "Tristan da Silva",
    "nba_team": "ORL",
    "positions": [
@@ -4761,7 +4761,7 @@
   "4712849": {
    "fantasy_team": "Contagem Hunters",
    "id": "4712849",
-   "mpg": 23.6,
+   "mpg": 23.8,
    "name": "Anthony Black",
    "nba_team": "ORL",
    "positions": [
@@ -4771,7 +4771,7 @@
    "return_date": null,
    "slot": "PG",
    "status": "ACTIVE",
-   "value": 28.4
+   "value": 28.0
   },
   "4712863": {
    "fantasy_team": null,
@@ -6138,7 +6138,7 @@
    "return_date": null,
    "slot": "C",
    "status": "ACTIVE",
-   "value": 16.1
+   "value": 16.4
   },
   "5211175": {
    "fantasy_team": "BL0CK BY ZION",

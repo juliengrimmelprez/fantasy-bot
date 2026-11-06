@@ -2092,6 +2092,20 @@
    "status": "ACTIVE",
    "value": 20.2
   },
+  "4066993": {
+   "fantasy_team": null,
+   "id": "4066993",
+   "mpg": 10.0,
+   "name": "Dru Smith",
+   "nba_team": "MIA",
+   "positions": [
+    "PG"
+   ],
+   "return_date": null,
+   "slot": "",
+   "status": "ACTIVE",
+   "value": 8.0
+  },
   "4222252": {
    "fantasy_team": "Fernando  Diniz",
    "id": "4222252",
@@ -4291,20 +4305,6 @@
    "slot": "UT",
    "status": "ACTIVE",
    "value": 39.4
-  },
-  "4683024": {
-   "fantasy_team": null,
-   "id": "4683024",
-   "mpg": null,
-   "name": "Killian Hayes",
-   "nba_team": "FA",
-   "positions": [
-    "PG"
-   ],
-   "return_date": null,
-   "slot": "",
-   "status": "ACTIVE",
-   "value": 0.0
   },
   "4683634": {
    "fantasy_team": null,

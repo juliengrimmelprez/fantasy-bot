@@ -101,7 +101,7 @@
  "last_activity_ms": 1793982254884,
  "last_digest": 1793986818.2692206,
  "last_error_alert": 1793633778.3678486,
- "last_hot_check": 1793989339.6779592,
+ "last_hot_check": 1793990295.8294828,
  "last_run": "2026-10-19T22:05:14+00:00",
  "matchup_periods": {
   "1": [
@@ -1188,7 +1188,7 @@
     "C"
    ],
    "return_date": null,
-   "slot": "PF",
+   "slot": "UT",
    "status": "ACTIVE",
    "value": 41.2
   },
@@ -1927,7 +1927,7 @@
     "C"
    ],
    "return_date": null,
-   "slot": "UT",
+   "slot": "C",
    "status": "DAY_TO_DAY",
    "value": 31.2
   },
@@ -2017,7 +2017,7 @@
     "SG"
    ],
    "return_date": null,
-   "slot": "PG",
+   "slot": "BE",
    "status": "ACTIVE",
    "value": 26.2
   },
@@ -2363,7 +2363,7 @@
     "PG"
    ],
    "return_date": null,
-   "slot": "UT",
+   "slot": "PG",
    "status": "ACTIVE",
    "value": 45.6
   },
@@ -2830,7 +2830,7 @@
     "C"
    ],
    "return_date": null,
-   "slot": "BE",
+   "slot": "PF",
    "status": "ACTIVE",
    "value": 25.9
   },
@@ -5593,7 +5593,7 @@
     "C"
    ],
    "return_date": null,
-   "slot": "C",
+   "slot": "UT",
    "status": "ACTIVE",
    "value": 36.6
   },

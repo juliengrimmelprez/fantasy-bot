@@ -98,7 +98,7 @@
   "2581018:20261024"
  ],
  "hot_status": "ok: 250 FAs, 1137 games",
- "last_activity_ms": 1793973688308,
+ "last_activity_ms": 1793982254884,
  "last_digest": 1793979378.0085855,
  "last_error_alert": 1793633778.3678486,
  "last_hot_check": 1793981655.878869,
@@ -3356,7 +3356,7 @@
     "SG"
    ],
    "return_date": null,
-   "slot": "IR",
+   "slot": "BE",
    "status": "OUT",
    "value": 26.9
   },
@@ -3514,7 +3514,7 @@
     "PF"
    ],
    "return_date": null,
-   "slot": "BE",
+   "slot": "IR",
    "status": "OUT",
    "value": 34.6
   },
@@ -4134,21 +4134,6 @@
    "slot": "",
    "status": "ACTIVE",
    "value": 12.2
-  },
-  "4593125": {
-   "fantasy_team": null,
-   "id": "4593125",
-   "mpg": 23.7,
-   "name": "Santi Aldama",
-   "nba_team": "DAL",
-   "positions": [
-    "SF",
-    "PF"
-   ],
-   "return_date": null,
-   "slot": "",
-   "status": "OUT",
-   "value": 25.0
   },
   "4593803": {
    "fantasy_team": null,

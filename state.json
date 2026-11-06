@@ -100,7 +100,7 @@
  "last_activity_ms": 1793925363939,
  "last_digest": 1793938458.7703254,
  "last_error_alert": 1793633778.3678486,
- "last_hot_check": 1793939426.050098,
+ "last_hot_check": 1793940377.3397174,
  "last_run": "2026-10-19T22:05:14+00:00",
  "matchup_periods": {
   "1": [
@@ -1238,7 +1238,7 @@
   "3213": {
    "fantasy_team": null,
    "id": "3213",
-   "mpg": 18.0,
+   "mpg": 18.1,
    "name": "Al Horford",
    "nba_team": "GSW",
    "positions": [
@@ -1874,7 +1874,7 @@
   "4066261": {
    "fantasy_team": "BL0CK BY ZION",
    "id": "4066261",
-   "mpg": 31.6,
+   "mpg": 31.7,
    "name": "Bam Adebayo",
    "nba_team": "MIA",
    "positions": [
@@ -1884,7 +1884,7 @@
    "return_date": null,
    "slot": "C",
    "status": "ACTIVE",
-   "value": 38.1
+   "value": 38.2
   },
   "4066262": {
    "fantasy_team": null,
@@ -2008,7 +2008,7 @@
   "4066436": {
    "fantasy_team": "Polga Silva",
    "id": "4066436",
-   "mpg": 21.4,
+   "mpg": 21.6,
    "name": "De'Anthony Melton",
    "nba_team": "GSW",
    "positions": [

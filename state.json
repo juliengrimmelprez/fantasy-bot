@@ -98,7 +98,7 @@
   "4431684:20261028"
  ],
  "hot_status": "ok: 250 FAs, 1143 games",
- "last_activity_ms": 1793960446343,
+ "last_activity_ms": 1793960646631,
  "last_digest": 1793957057.7900069,
  "last_error_alert": 1793633778.3678486,
  "last_hot_check": 1793960536.560408,
@@ -444,7 +444,7 @@
    "value": 19.4
   },
   "2991070": {
-   "fantasy_team": null,
+   "fantasy_team": "Lucky",
    "id": "2991070",
    "mpg": 24.2,
    "name": "Jerami Grant",
@@ -453,7 +453,7 @@
     "PF"
    ],
    "return_date": null,
-   "slot": "",
+   "slot": "UT",
    "status": "ACTIVE",
    "value": 17.9
   },
@@ -1592,7 +1592,7 @@
     "PG"
    ],
    "return_date": null,
-   "slot": "UT",
+   "slot": "BE",
    "status": "ACTIVE",
    "value": 46.4
   },
@@ -2895,7 +2895,7 @@
    "value": 17.1
   },
   "4397040": {
-   "fantasy_team": "Lucky",
+   "fantasy_team": null,
    "id": "4397040",
    "mpg": 17.9,
    "name": "Brandon Williams",
@@ -2905,7 +2905,7 @@
     "SG"
    ],
    "return_date": null,
-   "slot": "BE",
+   "slot": "",
    "status": "ACTIVE",
    "value": 19.4
   },
@@ -6750,6 +6750,7 @@
   "diag:17",
   "planday:17",
   "drop:4432847:1793925363939",
-  "drop:4278580:1793955386892"
+  "drop:4278580:1793955386892",
+  "drop:4397040:1793960558580"
  ]
 }

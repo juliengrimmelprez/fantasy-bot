@@ -253,7 +253,7 @@
   "2530530": {
    "fantasy_team": null,
    "id": "2530530",
-   "mpg": 2.0,
+   "mpg": 4.0,
    "name": "T.J. McConnell",
    "nba_team": "IND",
    "positions": [
@@ -262,7 +262,7 @@
    "return_date": null,
    "slot": "",
    "status": "ACTIVE",
-   "value": 24.4
+   "value": 3.0
   },
   "2578185": {
    "fantasy_team": null,
@@ -674,7 +674,7 @@
   "3064290": {
    "fantasy_team": "CCCP  Баскетбол",
    "id": "3064290",
-   "mpg": 26.5,
+   "mpg": 26.6,
    "name": "Aaron Gordon",
    "nba_team": "DEN",
    "positions": [
@@ -683,7 +683,7 @@
    "return_date": null,
    "slot": "PF",
    "status": "ACTIVE",
-   "value": 21.3
+   "value": 21.2
   },
   "3064440": {
    "fantasy_team": "BL0CK BY ZION",
@@ -818,7 +818,7 @@
   "3112335": {
    "fantasy_team": "Tropa do Nikola",
    "id": "3112335",
-   "mpg": 32.1,
+   "mpg": 32.4,
    "name": "Nikola Jokic",
    "nba_team": "DEN",
    "positions": [
@@ -827,7 +827,7 @@
    "return_date": null,
    "slot": "C",
    "status": "ACTIVE",
-   "value": 55.6
+   "value": 56.1
   },
   "3133602": {
    "fantasy_team": null,
@@ -846,7 +846,7 @@
   "3133603": {
    "fantasy_team": null,
    "id": "3133603",
-   "mpg": 20.6,
+   "mpg": 20.9,
    "name": "Kelly Oubre Jr.",
    "nba_team": "IND",
    "positions": [
@@ -856,7 +856,7 @@
    "return_date": null,
    "slot": "",
    "status": "ACTIVE",
-   "value": 15.0
+   "value": 15.6
   },
   "3133626": {
    "fantasy_team": null,
@@ -1595,7 +1595,7 @@
   "3936299": {
    "fantasy_team": "Lucky",
    "id": "3936299",
-   "mpg": 33.0,
+   "mpg": 33.1,
    "name": "Jamal Murray",
    "nba_team": "DEN",
    "positions": [
@@ -1604,7 +1604,7 @@
    "return_date": null,
    "slot": "PG",
    "status": "ACTIVE",
-   "value": 44.8
+   "value": 44.6
   },
   "3945274": {
    "fantasy_team": "Lakers x Bortolan 23",
@@ -1652,7 +1652,7 @@
   "3978": {
    "fantasy_team": "Bull Market",
    "id": "3978",
-   "mpg": 25.2,
+   "mpg": 21.6,
    "name": "DeMar DeRozan",
    "nba_team": "DEN",
    "positions": [
@@ -1662,7 +1662,7 @@
    "return_date": null,
    "slot": "PF",
    "status": "ACTIVE",
-   "value": 19.6
+   "value": 16.5
   },
   "3992": {
    "fantasy_team": "Tiki Taka Laranja",
@@ -1769,7 +1769,7 @@
   "4065731": {
    "fantasy_team": null,
    "id": "4065731",
-   "mpg": 17.3,
+   "mpg": 17.4,
    "name": "Jay Huff",
    "nba_team": "IND",
    "positions": [
@@ -1778,7 +1778,7 @@
    "return_date": null,
    "slot": "",
    "status": "ACTIVE",
-   "value": 15.1
+   "value": 15.2
   },
   "4065732": {
    "fantasy_team": "Bull Market",
@@ -2453,7 +2453,7 @@
   "4278355": {
    "fantasy_team": "Lucky",
    "id": "4278355",
-   "mpg": 19.4,
+   "mpg": 19.6,
    "name": "Obi Toppin",
    "nba_team": "IND",
    "positions": [
@@ -2462,7 +2462,7 @@
    "return_date": null,
    "slot": "PF",
    "status": "ACTIVE",
-   "value": 19.6
+   "value": 19.5
   },
   "4278402": {
    "fantasy_team": null,
@@ -2817,7 +2817,7 @@
   "4396909": {
    "fantasy_team": "Lebron GOAT",
    "id": "4396909",
-   "mpg": 21.5,
+   "mpg": 21.8,
    "name": "Aaron Nesmith",
    "nba_team": "IND",
    "positions": [
@@ -2827,7 +2827,7 @@
    "return_date": null,
    "slot": "UT",
    "status": "ACTIVE",
-   "value": 17.0
+   "value": 16.9
   },
   "4396971": {
    "fantasy_team": "Polga Silva",
@@ -3270,7 +3270,7 @@
   "4431767": {
    "fantasy_team": "CCCP  Баскетбол",
    "id": "4431767",
-   "mpg": 31.4,
+   "mpg": 31.6,
    "name": "Christian Braun",
    "nba_team": "DEN",
    "positions": [
@@ -3280,7 +3280,7 @@
    "return_date": null,
    "slot": "SG",
    "status": "ACTIVE",
-   "value": 30.0
+   "value": 29.9
   },
   "4431785": {
    "fantasy_team": "Lakers x Bortolan 23",
@@ -4583,7 +4583,7 @@
   "4698719": {
    "fantasy_team": null,
    "id": "4698719",
-   "mpg": 19.5,
+   "mpg": 19.6,
    "name": "Trevon Brazile",
    "nba_team": "DEN",
    "positions": [
@@ -4593,7 +4593,7 @@
    "return_date": null,
    "slot": "",
    "status": "ACTIVE",
-   "value": 18.2
+   "value": 18.3
   },
   "4701230": {
    "fantasy_team": "Lakers x Bortolan 23",

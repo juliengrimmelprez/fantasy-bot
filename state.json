@@ -107,11 +107,11 @@
   "4351851:20261030",
   "4592492:20261031"
  ],
- "hot_status": "ok: 250 FAs, 1238 games",
+ "hot_status": "ok: 250 FAs, 1240 games",
  "last_activity_ms": 1794073009066,
  "last_digest": 1794086535.8635974,
  "last_error_alert": 1793633778.3678486,
- "last_hot_check": 1794089177.9933136,
+ "last_hot_check": 1794090137.1954978,
  "last_run": "2026-10-19T22:05:14+00:00",
  "matchup_periods": {
   "1": [
@@ -674,7 +674,7 @@
   "3064290": {
    "fantasy_team": "CCCP  Баскетбол",
    "id": "3064290",
-   "mpg": 26.1,
+   "mpg": 26.2,
    "name": "Aaron Gordon",
    "nba_team": "DEN",
    "positions": [
@@ -818,7 +818,7 @@
   "3112335": {
    "fantasy_team": "Tropa do Nikola",
    "id": "3112335",
-   "mpg": 31.8,
+   "mpg": 31.9,
    "name": "Nikola Jokic",
    "nba_team": "DEN",
    "positions": [
@@ -827,7 +827,7 @@
    "return_date": null,
    "slot": "C",
    "status": "ACTIVE",
-   "value": 54.6
+   "value": 55.6
   },
   "3133602": {
    "fantasy_team": null,
@@ -1089,7 +1089,7 @@
   "3138196": {
    "fantasy_team": null,
    "id": "3138196",
-   "mpg": 22.2,
+   "mpg": 22.6,
    "name": "Cameron Johnson",
    "nba_team": "DEN",
    "positions": [
@@ -1133,7 +1133,7 @@
   "3149673": {
    "fantasy_team": "Hospital do Gansola",
    "id": "3149673",
-   "mpg": 28.7,
+   "mpg": 28.9,
    "name": "Pascal Siakam",
    "nba_team": "IND",
    "positions": [
@@ -1142,7 +1142,7 @@
    "return_date": null,
    "slot": "BE",
    "status": "ACTIVE",
-   "value": 30.9
+   "value": 30.8
   },
   "3150844": {
    "fantasy_team": null,
@@ -1595,7 +1595,7 @@
   "3936299": {
    "fantasy_team": "Lucky",
    "id": "3936299",
-   "mpg": 32.5,
+   "mpg": 32.8,
    "name": "Jamal Murray",
    "nba_team": "DEN",
    "positions": [
@@ -1604,7 +1604,7 @@
    "return_date": null,
    "slot": "PG",
    "status": "ACTIVE",
-   "value": 44.2
+   "value": 44.9
   },
   "3945274": {
    "fantasy_team": "Lakers x Bortolan 23",
@@ -1697,7 +1697,7 @@
   "4017837": {
    "fantasy_team": "Caxias French Fries",
    "id": "4017837",
-   "mpg": 17.4,
+   "mpg": 17.6,
    "name": "Ivica Zubac",
    "nba_team": "IND",
    "positions": [
@@ -2729,7 +2729,7 @@
   "4395712": {
    "fantasy_team": "Lakers x Bortolan 23",
    "id": "4395712",
-   "mpg": 29.5,
+   "mpg": 29.8,
    "name": "Andrew Nembhard",
    "nba_team": "IND",
    "positions": [
@@ -2817,7 +2817,7 @@
   "4396909": {
    "fantasy_team": "Lebron GOAT",
    "id": "4396909",
-   "mpg": 21.2,
+   "mpg": 21.5,
    "name": "Aaron Nesmith",
    "nba_team": "IND",
    "positions": [
@@ -3270,7 +3270,7 @@
   "4431767": {
    "fantasy_team": "CCCP  Баскетбол",
    "id": "4431767",
-   "mpg": 30.9,
+   "mpg": 31.1,
    "name": "Christian Braun",
    "nba_team": "DEN",
    "positions": [
@@ -3280,7 +3280,7 @@
    "return_date": null,
    "slot": "SG",
    "status": "ACTIVE",
-   "value": 29.6
+   "value": 29.9
   },
   "4431785": {
    "fantasy_team": "Lakers x Bortolan 23",
@@ -5709,7 +5709,7 @@
   "5105854": {
    "fantasy_team": null,
    "id": "5105854",
-   "mpg": 12.4,
+   "mpg": 12.6,
    "name": "Braden Smith",
    "nba_team": "IND",
    "positions": [
@@ -5718,7 +5718,7 @@
    "return_date": null,
    "slot": "",
    "status": "ACTIVE",
-   "value": 12.7
+   "value": 12.6
   },
   "5106060": {
    "fantasy_team": null,

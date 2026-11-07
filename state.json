@@ -1938,7 +1938,7 @@
    ],
    "return_date": null,
    "slot": "C",
-   "status": "OUT",
+   "status": "DAY_TO_DAY",
    "value": 31.6
   },
   "4066336": {
@@ -5030,7 +5030,7 @@
    ],
    "return_date": null,
    "slot": "",
-   "status": "OUT",
+   "status": "DAY_TO_DAY",
    "value": 8.0
   },
   "4888725": {

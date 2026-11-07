@@ -108,7 +108,7 @@
   "4432170:20261031"
  ],
  "hot_status": "ok: 250 FAs, 1219 games",
- "last_activity_ms": 1794045564926,
+ "last_activity_ms": 1794058947881,
  "last_digest": 1794056895.9740162,
  "last_error_alert": 1793633778.3678486,
  "last_hot_check": 1794058455.760101,
@@ -2815,7 +2815,7 @@
    "value": 26.9
   },
   "4396909": {
-   "fantasy_team": null,
+   "fantasy_team": "Lebron GOAT",
    "id": "4396909",
    "mpg": 24.0,
    "name": "Aaron Nesmith",
@@ -2825,7 +2825,7 @@
     "SF"
    ],
    "return_date": null,
-   "slot": "",
+   "slot": "UT",
    "status": "ACTIVE",
    "value": 19.6
   },
@@ -3759,7 +3759,7 @@
     "SF"
    ],
    "return_date": null,
-   "slot": "UT",
+   "slot": "BE",
    "status": "OUT",
    "value": 42.8
   },
@@ -5622,7 +5622,7 @@
    "value": 7.0
   },
   "5105623": {
-   "fantasy_team": "Lebron GOAT",
+   "fantasy_team": null,
    "id": "5105623",
    "mpg": 18.2,
    "name": "Kel'el Ware",
@@ -5631,7 +5631,7 @@
     "C"
    ],
    "return_date": null,
-   "slot": "BE",
+   "slot": "",
    "status": "ACTIVE",
    "value": 19.8
   },

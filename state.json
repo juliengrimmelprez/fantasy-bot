@@ -108,7 +108,7 @@
   "5149077:20261028"
  ],
  "hot_status": "ok: 250 FAs, 1229 games",
- "last_activity_ms": 1794063820108,
+ "last_activity_ms": 1794073009066,
  "last_digest": 1794071657.9994614,
  "last_error_alert": 1793633778.3678486,
  "last_hot_check": 1794072856.2179253,
@@ -2768,7 +2768,7 @@
    ],
    "return_date": null,
    "slot": "UT",
-   "status": "OUT",
+   "status": "DAY_TO_DAY",
    "value": 32.8
   },
   "4395725": {
@@ -2870,7 +2870,7 @@
     "SG"
    ],
    "return_date": null,
-   "slot": "UT",
+   "slot": "BE",
    "status": "ACTIVE",
    "value": 36.4
   },
@@ -3163,7 +3163,7 @@
     "SG"
    ],
    "return_date": null,
-   "slot": "UT",
+   "slot": "BE",
    "status": "ACTIVE",
    "value": 44.4
   },
@@ -4071,7 +4071,7 @@
    "value": 22.9
   },
   "4592492": {
-   "fantasy_team": "Tiki Taka Laranja",
+   "fantasy_team": null,
    "id": "4592492",
    "mpg": 12.2,
    "name": "Bones Hyland",
@@ -4080,7 +4080,7 @@
     "PG"
    ],
    "return_date": null,
-   "slot": "BE",
+   "slot": "",
    "status": "ACTIVE",
    "value": 18.7
   },
@@ -5093,7 +5093,7 @@
    "value": 11.0
   },
   "4897943": {
-   "fantasy_team": null,
+   "fantasy_team": "Tiki Taka Laranja",
    "id": "4897943",
    "mpg": 16.0,
    "name": "Dalton Knecht",
@@ -5103,7 +5103,7 @@
     "SF"
    ],
    "return_date": null,
-   "slot": "",
+   "slot": "UT",
    "status": "ACTIVE",
    "value": 27.0
   },
@@ -5962,7 +5962,7 @@
     "PG"
    ],
    "return_date": null,
-   "slot": "BE",
+   "slot": "UT",
    "status": "ACTIVE",
    "value": 21.8
   },

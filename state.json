@@ -101,7 +101,7 @@
  "last_activity_ms": 1794010057809,
  "last_digest": 1794019937.127084,
  "last_error_alert": 1793633778.3678486,
- "last_hot_check": 1794019099.955601,
+ "last_hot_check": 1794020058.8623183,
  "last_run": "2026-10-19T22:05:14+00:00",
  "matchup_periods": {
   "1": [
@@ -1426,7 +1426,7 @@
   "3912848": {
    "fantasy_team": null,
    "id": "3912848",
-   "mpg": 25.5,
+   "mpg": 25.6,
    "name": "Dean Wade",
    "nba_team": "PHL",
    "positions": [
@@ -1643,7 +1643,7 @@
   "3992": {
    "fantasy_team": "Tiki Taka Laranja",
    "id": "3992",
-   "mpg": 32.8,
+   "mpg": 32.9,
    "name": "James Harden",
    "nba_team": "CLE",
    "positions": [
@@ -1653,7 +1653,7 @@
    "return_date": null,
    "slot": "SG",
    "status": "ACTIVE",
-   "value": 30.2
+   "value": 30.3
   },
   "3995": {
    "fantasy_team": "Polga Silva",
@@ -2351,7 +2351,7 @@
    "return_date": null,
    "slot": "PG",
    "status": "ACTIVE",
-   "value": 45.5
+   "value": 45.4
   },
   "4278076": {
    "fantasy_team": null,
@@ -2848,7 +2848,7 @@
    "return_date": null,
    "slot": "UT",
    "status": "ACTIVE",
-   "value": 33.7
+   "value": 33.8
   },
   "4397014": {
    "fantasy_team": "Contagem Hunters",
@@ -3445,7 +3445,7 @@
    "return_date": null,
    "slot": "UT",
    "status": "ACTIVE",
-   "value": 23.4
+   "value": 23.6
   },
   "4432247": {
    "fantasy_team": null,
@@ -4029,7 +4029,7 @@
    "return_date": null,
    "slot": "SG",
    "status": "ACTIVE",
-   "value": 21.9
+   "value": 21.6
   },
   "4592479": {
    "fantasy_team": "Lucky",
@@ -4123,7 +4123,7 @@
   "4593125": {
    "fantasy_team": "Hospital do Gansola",
    "id": "4593125",
-   "mpg": 10.0,
+   "mpg": 11.0,
    "name": "Santi Aldama",
    "nba_team": "DAL",
    "positions": [
@@ -4133,7 +4133,7 @@
    "return_date": null,
    "slot": "PF",
    "status": "ACTIVE",
-   "value": 12.0
+   "value": 13.0
   },
   "4593803": {
    "fantasy_team": null,
@@ -4211,7 +4211,7 @@
   "4595400": {
    "fantasy_team": null,
    "id": "4595400",
-   "mpg": 4.5,
+   "mpg": 4.8,
    "name": "Olivier-Maxence Prosper",
    "nba_team": "MEM",
    "positions": [
@@ -4220,7 +4220,7 @@
    "return_date": null,
    "slot": "",
    "status": "ACTIVE",
-   "value": 6.0
+   "value": 5.8
   },
   "4600663": {
    "fantasy_team": "Tropa do Nikola",
@@ -5466,7 +5466,7 @@
    "return_date": null,
    "slot": "UT",
    "status": "ACTIVE",
-   "value": 19.2
+   "value": 19.7
   },
   "5095151": {
    "fantasy_team": "BL0CK BY ZION",
@@ -5901,7 +5901,7 @@
   "5144091": {
    "fantasy_team": "King Coopa",
    "id": "5144091",
-   "mpg": 27.7,
+   "mpg": 27.8,
    "name": "Jeremiah Fears",
    "nba_team": "NOP",
    "positions": [
@@ -5945,7 +5945,7 @@
   "5149115": {
    "fantasy_team": null,
    "id": "5149115",
-   "mpg": 12.4,
+   "mpg": 12.6,
    "name": "Allen Graves",
    "nba_team": "TOR",
    "positions": [
@@ -5954,7 +5954,7 @@
    "return_date": null,
    "slot": "",
    "status": "ACTIVE",
-   "value": 9.9
+   "value": 10.4
   },
   "5157066": {
    "fantasy_team": null,
@@ -6030,7 +6030,7 @@
   "5164559": {
    "fantasy_team": null,
    "id": "5164559",
-   "mpg": 14.4,
+   "mpg": 14.6,
    "name": "Nate Ament",
    "nba_team": "MIL",
    "positions": [
@@ -6082,7 +6082,7 @@
    "return_date": null,
    "slot": "C",
    "status": "ACTIVE",
-   "value": 18.6
+   "value": 19.2
   },
   "5175643": {
    "fantasy_team": "Fernando  Diniz",
@@ -6187,7 +6187,7 @@
   "5214640": {
    "fantasy_team": null,
    "id": "5214640",
-   "mpg": 19.6,
+   "mpg": 19.7,
    "name": "Kasparas Jakucionis",
    "nba_team": "MIL",
    "positions": [

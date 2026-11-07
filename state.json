@@ -108,7 +108,7 @@
   "4397040:20261102"
  ],
  "hot_status": "ok: 250 FAs, 1221 games",
- "last_activity_ms": 1794058947881,
+ "last_activity_ms": 1794063820108,
  "last_digest": 1794060623.4979281,
  "last_error_alert": 1793633778.3678486,
  "last_hot_check": 1794063254.3060815,
@@ -1389,7 +1389,7 @@
    "value": 36.1
   },
   "3907498": {
-   "fantasy_team": "Contagem Hunters",
+   "fantasy_team": null,
    "id": "3907498",
    "mpg": 24.2,
    "name": "Matisse Thybulle",
@@ -1398,7 +1398,7 @@
     "SF"
    ],
    "return_date": null,
-   "slot": "BE",
+   "slot": "",
    "status": "ACTIVE",
    "value": 21.7
   },
@@ -5409,7 +5409,7 @@
    "value": 0.0
   },
   "5061589": {
-   "fantasy_team": null,
+   "fantasy_team": "Contagem Hunters",
    "id": "5061589",
    "mpg": 19.5,
    "name": "Yves Missi",
@@ -5418,7 +5418,7 @@
     "C"
    ],
    "return_date": null,
-   "slot": "",
+   "slot": "BE",
    "status": "OUT",
    "value": 21.7
   },

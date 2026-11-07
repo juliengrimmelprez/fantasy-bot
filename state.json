@@ -168,7 +168,7 @@
   "1966": {
    "fantasy_team": "Lucky",
    "id": "1966",
-   "mpg": 30.0,
+   "mpg": 30.1,
    "name": "LeBron James",
    "nba_team": "PHL",
    "positions": [
@@ -315,7 +315,7 @@
   "2583632": {
    "fantasy_team": null,
    "id": "2583632",
-   "mpg": 17.2,
+   "mpg": 17.3,
    "name": "Royce O'Neale",
    "nba_team": "CHA",
    "positions": [
@@ -325,7 +325,7 @@
    "return_date": null,
    "slot": "",
    "status": "ACTIVE",
-   "value": 9.5
+   "value": 10.0
   },
   "2595516": {
    "fantasy_team": "Contagem Hunters",
@@ -606,7 +606,7 @@
   "3059318": {
    "fantasy_team": "Caxias French Fries",
    "id": "3059318",
-   "mpg": 30.2,
+   "mpg": 30.4,
    "name": "Joel Embiid",
    "nba_team": "PHL",
    "positions": [
@@ -722,7 +722,7 @@
   "3078576": {
    "fantasy_team": "Lucky",
    "id": "3078576",
-   "mpg": 29.3,
+   "mpg": 29.4,
    "name": "Derrick White",
    "nba_team": "BOS",
    "positions": [
@@ -732,7 +732,7 @@
    "return_date": null,
    "slot": "PG",
    "status": "ACTIVE",
-   "value": 28.0
+   "value": 29.0
   },
   "3102529": {
    "fantasy_team": "Fernando  Diniz",
@@ -936,7 +936,7 @@
   "3135045": {
    "fantasy_team": "Lebron GOAT",
    "id": "3135045",
-   "mpg": 25.0,
+   "mpg": 25.2,
    "name": "Grayson Allen",
    "nba_team": "CHA",
    "positions": [
@@ -946,7 +946,7 @@
    "return_date": null,
    "slot": "PG",
    "status": "ACTIVE",
-   "value": 22.7
+   "value": 22.9
   },
   "3135046": {
    "fantasy_team": null,
@@ -1396,7 +1396,7 @@
   "3908809": {
    "fantasy_team": "Bull Market",
    "id": "3908809",
-   "mpg": 30.2,
+   "mpg": 30.3,
    "name": "Donovan Mitchell",
    "nba_team": "CLE",
    "positions": [
@@ -1426,7 +1426,7 @@
   "3912848": {
    "fantasy_team": null,
    "id": "3912848",
-   "mpg": 23.4,
+   "mpg": 23.5,
    "name": "Dean Wade",
    "nba_team": "PHL",
    "positions": [
@@ -1701,7 +1701,7 @@
   "4065648": {
    "fantasy_team": "Caxias French Fries",
    "id": "4065648",
-   "mpg": 32.8,
+   "mpg": 32.9,
    "name": "Jayson Tatum",
    "nba_team": "BOS",
    "positions": [
@@ -1711,7 +1711,7 @@
    "return_date": null,
    "slot": "IR",
    "status": "ACTIVE",
-   "value": 45.2
+   "value": 45.7
   },
   "4065654": {
    "fantasy_team": null,
@@ -1803,7 +1803,7 @@
   "4065804": {
    "fantasy_team": null,
    "id": "4065804",
-   "mpg": 19.9,
+   "mpg": 20.0,
    "name": "Sam Hauser",
    "nba_team": "BOS",
    "positions": [
@@ -1813,7 +1813,7 @@
    "return_date": null,
    "slot": "",
    "status": "ACTIVE",
-   "value": 13.2
+   "value": 14.0
   },
   "4066211": {
    "fantasy_team": "Lucky",
@@ -1935,7 +1935,7 @@
   "4066354": {
    "fantasy_team": "Hospital do Gansola",
    "id": "4066354",
-   "mpg": 25.3,
+   "mpg": 25.4,
    "name": "Payton Pritchard",
    "nba_team": "BOS",
    "positions": [
@@ -1945,7 +1945,7 @@
    "return_date": null,
    "slot": "PG",
    "status": "ACTIVE",
-   "value": 22.9
+   "value": 23.0
   },
   "4066372": {
    "fantasy_team": null,
@@ -2584,12 +2584,12 @@
    "return_date": null,
    "slot": "PG",
    "status": "ACTIVE",
-   "value": 15.5
+   "value": 15.6
   },
   "4351852": {
    "fantasy_team": "Fernando  Diniz",
    "id": "4351852",
-   "mpg": 17.9,
+   "mpg": 18.1,
    "name": "Mitchell Robinson",
    "nba_team": "BOS",
    "positions": [
@@ -2598,7 +2598,7 @@
    "return_date": null,
    "slot": "C",
    "status": "ACTIVE",
-   "value": 13.0
+   "value": 13.7
   },
   "4395625": {
    "fantasy_team": "Lebron GOAT",
@@ -2808,7 +2808,7 @@
   "4396971": {
    "fantasy_team": "Polga Silva",
    "id": "4396971",
-   "mpg": 28.2,
+   "mpg": 28.3,
    "name": "Naz Reid",
    "nba_team": "CHA",
    "positions": [
@@ -2818,7 +2818,7 @@
    "return_date": null,
    "slot": "PF",
    "status": "ACTIVE",
-   "value": 24.8
+   "value": 24.6
   },
   "4396993": {
    "fantasy_team": "Lebron GOAT",
@@ -3131,7 +3131,7 @@
   "4431678": {
    "fantasy_team": "Tiki Taka Laranja",
    "id": "4431678",
-   "mpg": 34.3,
+   "mpg": 34.4,
    "name": "Tyrese Maxey",
    "nba_team": "PHL",
    "positions": [
@@ -4269,7 +4269,7 @@
   "4602025": {
    "fantasy_team": null,
    "id": "4602025",
-   "mpg": 23.9,
+   "mpg": 24.0,
    "name": "Sion James",
    "nba_team": "CHA",
    "positions": [
@@ -5274,7 +5274,7 @@
   "5041951": {
    "fantasy_team": null,
    "id": "5041951",
-   "mpg": 18.2,
+   "mpg": 18.3,
    "name": "Meleek Thomas",
    "nba_team": "CLE",
    "positions": [
@@ -6372,7 +6372,7 @@
   "5281370": {
    "fantasy_team": null,
    "id": "5281370",
-   "mpg": 8.2,
+   "mpg": 8.5,
    "name": "Hannes Steinbach",
    "nba_team": "CHA",
    "positions": [

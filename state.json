@@ -108,7 +108,7 @@
   "4873153:20261107"
  ],
  "hot_status": "ok: 250 FAs, 1219 games",
- "last_activity_ms": 1794010057809,
+ "last_activity_ms": 1794045564926,
  "last_digest": 1794042140.9987657,
  "last_error_alert": 1793633778.3678486,
  "last_hot_check": 1794045020.6665199,
@@ -188,7 +188,7 @@
    "return_date": null,
    "slot": "UT",
    "status": "ACTIVE",
-   "value": 37.2
+   "value": 37.0
   },
   "2326307": {
    "fantasy_team": null,
@@ -454,7 +454,7 @@
    "value": 19.4
   },
   "2991070": {
-   "fantasy_team": "Lucky",
+   "fantasy_team": null,
    "id": "2991070",
    "mpg": 24.0,
    "name": "Jerami Grant",
@@ -463,7 +463,7 @@
     "PF"
    ],
    "return_date": null,
-   "slot": "BE",
+   "slot": "",
    "status": "ACTIVE",
    "value": 17.6
   },
@@ -524,7 +524,7 @@
    "return_date": null,
    "slot": "UT",
    "status": "ACTIVE",
-   "value": 26.3
+   "value": 25.8
   },
   "2993874": {
    "fantasy_team": null,
@@ -553,7 +553,7 @@
    "return_date": null,
    "slot": "SF",
    "status": "ACTIVE",
-   "value": 21.0
+   "value": 20.6
   },
   "3012": {
    "fantasy_team": null,
@@ -683,7 +683,7 @@
    "return_date": null,
    "slot": "PF",
    "status": "ACTIVE",
-   "value": 25.9
+   "value": 24.2
   },
   "3064440": {
    "fantasy_team": "BL0CK BY ZION",
@@ -754,7 +754,7 @@
     "SG"
    ],
    "return_date": null,
-   "slot": "UT",
+   "slot": "BE",
    "status": "ACTIVE",
    "value": 28.5
   },
@@ -827,7 +827,7 @@
    "return_date": null,
    "slot": "C",
    "status": "ACTIVE",
-   "value": 58.3
+   "value": 62.0
   },
   "3133602": {
    "fantasy_team": null,
@@ -870,7 +870,7 @@
    "return_date": null,
    "slot": "",
    "status": "ACTIVE",
-   "value": 14.2
+   "value": 14.9
   },
   "3133628": {
    "fantasy_team": "Polga Silva",
@@ -984,7 +984,7 @@
    "return_date": null,
    "slot": "",
    "status": "ACTIVE",
-   "value": 9.0
+   "value": 9.4
   },
   "3136193": {
    "fantasy_team": "Caxias French Fries",
@@ -1099,7 +1099,7 @@
    "return_date": null,
    "slot": "",
    "status": "ACTIVE",
-   "value": 18.5
+   "value": 20.1
   },
   "3146557": {
    "fantasy_team": "CCCP  Баскетбол",
@@ -1213,7 +1213,7 @@
     "SF"
    ],
    "return_date": null,
-   "slot": "SG",
+   "slot": "UT",
    "status": "ACTIVE",
    "value": 35.4
   },
@@ -1430,7 +1430,7 @@
    "return_date": null,
    "slot": "UT",
    "status": "ACTIVE",
-   "value": 40.6
+   "value": 39.6
   },
   "3908845": {
    "fantasy_team": null,
@@ -1517,7 +1517,7 @@
    "return_date": null,
    "slot": "SG",
    "status": "ACTIVE",
-   "value": 37.9
+   "value": 38.2
   },
   "3934672": {
    "fantasy_team": "Hospital do Gansola",
@@ -1604,7 +1604,7 @@
    "return_date": null,
    "slot": "PG",
    "status": "ACTIVE",
-   "value": 46.4
+   "value": 50.9
   },
   "3945274": {
    "fantasy_team": "Lakers x Bortolan 23",
@@ -1662,7 +1662,7 @@
    "return_date": null,
    "slot": "PF",
    "status": "DAY_TO_DAY",
-   "value": 17.7
+   "value": 19.6
   },
   "3992": {
    "fantasy_team": "Tiki Taka Laranja",
@@ -1677,7 +1677,7 @@
    "return_date": null,
    "slot": "SG",
    "status": "ACTIVE",
-   "value": 31.3
+   "value": 32.2
   },
   "3995": {
    "fantasy_team": "Polga Silva",
@@ -1939,7 +1939,7 @@
    "return_date": null,
    "slot": "C",
    "status": "OUT",
-   "value": 31.2
+   "value": 31.6
   },
   "4066336": {
    "fantasy_team": "Fernando  Diniz",
@@ -2115,7 +2115,7 @@
    "return_date": null,
    "slot": "UT",
    "status": "ACTIVE",
-   "value": 25.5
+   "value": 26.8
   },
   "4251": {
    "fantasy_team": "Bull Market",
@@ -2204,7 +2204,7 @@
    "return_date": null,
    "slot": "",
    "status": "ACTIVE",
-   "value": 11.4
+   "value": 12.5
   },
   "4277869": {
    "fantasy_team": null,
@@ -2375,7 +2375,7 @@
    "return_date": null,
    "slot": "PG",
    "status": "ACTIVE",
-   "value": 45.1
+   "value": 46.9
   },
   "4278076": {
    "fantasy_team": null,
@@ -2608,7 +2608,7 @@
    "return_date": null,
    "slot": "BE",
    "status": "ACTIVE",
-   "value": 16.1
+   "value": 17.5
   },
   "4351852": {
    "fantasy_team": "Fernando  Diniz",
@@ -2890,7 +2890,7 @@
    "value": 14.8
   },
   "4397020": {
-   "fantasy_team": null,
+   "fantasy_team": "Lucky",
    "id": "4397020",
    "mpg": 26.0,
    "name": "Luguentz Dort",
@@ -2900,12 +2900,12 @@
     "SF"
    ],
    "return_date": null,
-   "slot": "",
+   "slot": "SG",
    "status": "ACTIVE",
    "value": 21.0
   },
   "4397040": {
-   "fantasy_team": null,
+   "fantasy_team": "Lucky",
    "id": "4397040",
    "mpg": 17.9,
    "name": "Brandon Williams",
@@ -2915,7 +2915,7 @@
     "SG"
    ],
    "return_date": null,
-   "slot": "",
+   "slot": "UT",
    "status": "ACTIVE",
    "value": 19.4
   },
@@ -3165,7 +3165,7 @@
    "return_date": null,
    "slot": "UT",
    "status": "ACTIVE",
-   "value": 45.1
+   "value": 44.4
   },
   "4431679": {
    "fantasy_team": "Polga Silva",
@@ -3280,7 +3280,7 @@
    "return_date": null,
    "slot": "SG",
    "status": "ACTIVE",
-   "value": 31.7
+   "value": 33.8
   },
   "4431785": {
    "fantasy_team": "Lakers x Bortolan 23",
@@ -3353,7 +3353,7 @@
    "return_date": null,
    "slot": "UT",
    "status": "ACTIVE",
-   "value": 41.3
+   "value": 42.3
   },
   "4432165": {
    "fantasy_team": null,
@@ -3497,7 +3497,7 @@
    "return_date": null,
    "slot": "",
    "status": "ACTIVE",
-   "value": 9.9
+   "value": 11.0
   },
   "4432452": {
    "fantasy_team": null,
@@ -3672,7 +3672,7 @@
    "return_date": null,
    "slot": "",
    "status": "OUT",
-   "value": 9.2
+   "value": 8.4
   },
   "4432847": {
    "fantasy_team": null,
@@ -3907,7 +3907,7 @@
    "return_date": null,
    "slot": "IR",
    "status": "OUT",
-   "value": 33.5
+   "value": 23.7
   },
   "4433287": {
    "fantasy_team": "Tropa do Nikola",
@@ -3980,7 +3980,7 @@
    "return_date": null,
    "slot": "",
    "status": "ACTIVE",
-   "value": 10.8
+   "value": 12.4
   },
   "4566434": {
    "fantasy_team": "King Coopa",
@@ -4024,7 +4024,7 @@
    "return_date": null,
    "slot": "PF",
    "status": "ACTIVE",
-   "value": 25.0
+   "value": 26.4
   },
   "4578893": {
    "fantasy_team": null,
@@ -4085,7 +4085,7 @@
    "value": 18.7
   },
   "4592691": {
-   "fantasy_team": "Lucky",
+   "fantasy_team": null,
    "id": "4592691",
    "mpg": 23.6,
    "name": "Jake LaRavia",
@@ -4095,7 +4095,7 @@
     "PF"
    ],
    "return_date": null,
-   "slot": "BE",
+   "slot": "",
    "status": "ACTIVE",
    "value": 21.2
   },
@@ -4172,7 +4172,7 @@
    "return_date": null,
    "slot": "",
    "status": "OUT",
-   "value": 26.8
+   "value": 24.8
   },
   "4593841": {
    "fantasy_team": null,
@@ -4417,7 +4417,7 @@
    "return_date": null,
    "slot": "",
    "status": "OUT",
-   "value": 20.1
+   "value": 14.9
   },
   "4683747": {
    "fantasy_team": null,
@@ -4432,7 +4432,7 @@
    "return_date": null,
    "slot": "",
    "status": "OUT",
-   "value": 17.8
+   "value": 18.1
   },
   "4683750": {
    "fantasy_team": null,
@@ -4505,7 +4505,7 @@
    "return_date": null,
    "slot": "BE",
    "status": "ACTIVE",
-   "value": 16.5
+   "value": 18.1
   },
   "4684272": {
    "fantasy_team": "Caxias French Fries",
@@ -4593,7 +4593,7 @@
    "return_date": null,
    "slot": "",
    "status": "ACTIVE",
-   "value": 20.0
+   "value": 21.1
   },
   "4701230": {
    "fantasy_team": "Lakers x Bortolan 23",
@@ -4636,7 +4636,7 @@
    "return_date": null,
    "slot": "",
    "status": "ACTIVE",
-   "value": 5.3
+   "value": 5.4
   },
   "4702177": {
    "fantasy_team": null,
@@ -4911,7 +4911,7 @@
     "C"
    ],
    "return_date": null,
-   "slot": "UT",
+   "slot": "BE",
    "status": "ACTIVE",
    "value": 25.7
   },
@@ -5134,7 +5134,7 @@
    "return_date": null,
    "slot": "SG",
    "status": "ACTIVE",
-   "value": 38.1
+   "value": 39.0
   },
   "4903027": {
    "fantasy_team": "Polga Silva",
@@ -5248,7 +5248,7 @@
    "return_date": null,
    "slot": "",
    "status": "ACTIVE",
-   "value": 15.2
+   "value": 16.8
   },
   "5037871": {
    "fantasy_team": "Tiki Taka Laranja",
@@ -5647,7 +5647,7 @@
    "return_date": null,
    "slot": "",
    "status": "OUT",
-   "value": 10.7
+   "value": 11.1
   },
   "5105806": {
    "fantasy_team": null,
@@ -5877,7 +5877,7 @@
    "return_date": null,
    "slot": "BE",
    "status": "ACTIVE",
-   "value": 32.6
+   "value": 32.3
   },
   "5142620": {
    "fantasy_team": "BL0CK BY ZION",
@@ -6106,7 +6106,7 @@
    "return_date": null,
    "slot": "C",
    "status": "ACTIVE",
-   "value": 19.5
+   "value": 20.4
   },
   "5175643": {
    "fantasy_team": "Fernando  Diniz",
@@ -6304,7 +6304,7 @@
    "return_date": null,
    "slot": "",
    "status": "ACTIVE",
-   "value": 14.4
+   "value": 15.9
   },
   "5242496": {
    "fantasy_team": null,

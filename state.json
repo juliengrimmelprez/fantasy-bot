@@ -281,7 +281,7 @@
   "2580365": {
    "fantasy_team": null,
    "id": "2580365",
-   "mpg": 15.1,
+   "mpg": 15.2,
    "name": "Larry Nance Jr.",
    "nba_team": "IND",
    "positions": [
@@ -290,7 +290,7 @@
    "return_date": null,
    "slot": "",
    "status": "ACTIVE",
-   "value": 12.9
+   "value": 13.5
   },
   "2580782": {
    "fantasy_team": null,
@@ -818,7 +818,7 @@
   "3112335": {
    "fantasy_team": "Tropa do Nikola",
    "id": "3112335",
-   "mpg": 34.6,
+   "mpg": 34.9,
    "name": "Nikola Jokic",
    "nba_team": "DEN",
    "positions": [
@@ -827,7 +827,7 @@
    "return_date": null,
    "slot": "C",
    "status": "ACTIVE",
-   "value": 59.9
+   "value": 60.2
   },
   "3133602": {
    "fantasy_team": null,
@@ -911,7 +911,7 @@
    ],
    "return_date": null,
    "slot": "",
-   "status": "DAY_TO_DAY",
+   "status": "ACTIVE",
    "value": 9.2
   },
   "3134907": {
@@ -1595,7 +1595,7 @@
   "3936299": {
    "fantasy_team": "Lucky",
    "id": "3936299",
-   "mpg": 35.2,
+   "mpg": 35.4,
    "name": "Jamal Murray",
    "nba_team": "DEN",
    "positions": [
@@ -1604,7 +1604,7 @@
    "return_date": null,
    "slot": "PG",
    "status": "ACTIVE",
-   "value": 46.9
+   "value": 47.4
   },
   "3945274": {
    "fantasy_team": "Lakers x Bortolan 23",
@@ -1652,7 +1652,7 @@
   "3978": {
    "fantasy_team": "Bull Market",
    "id": "3978",
-   "mpg": 23.3,
+   "mpg": 23.4,
    "name": "DeMar DeRozan",
    "nba_team": "DEN",
    "positions": [
@@ -1662,7 +1662,7 @@
    "return_date": null,
    "slot": "PF",
    "status": "ACTIVE",
-   "value": 18.8
+   "value": 19.1
   },
   "3992": {
    "fantasy_team": "Tiki Taka Laranja",
@@ -2453,7 +2453,7 @@
   "4278355": {
    "fantasy_team": "Lucky",
    "id": "4278355",
-   "mpg": 20.6,
+   "mpg": 20.7,
    "name": "Obi Toppin",
    "nba_team": "IND",
    "positions": [
@@ -2462,7 +2462,7 @@
    "return_date": null,
    "slot": "PF",
    "status": "ACTIVE",
-   "value": 20.1
+   "value": 20.3
   },
   "4278402": {
    "fantasy_team": null,
@@ -2729,7 +2729,7 @@
   "4395712": {
    "fantasy_team": "Lakers x Bortolan 23",
    "id": "4395712",
-   "mpg": 32.1,
+   "mpg": 32.4,
    "name": "Andrew Nembhard",
    "nba_team": "IND",
    "positions": [
@@ -2817,7 +2817,7 @@
   "4396909": {
    "fantasy_team": "Lebron GOAT",
    "id": "4396909",
-   "mpg": 23.4,
+   "mpg": 23.6,
    "name": "Aaron Nesmith",
    "nba_team": "IND",
    "positions": [
@@ -3096,7 +3096,7 @@
   "4398207": {
    "fantasy_team": null,
    "id": "4398207",
-   "mpg": 14.1,
+   "mpg": 14.3,
    "name": "Jalen Slawson",
    "nba_team": "IND",
    "positions": [
@@ -3105,7 +3105,7 @@
    "return_date": null,
    "slot": "",
    "status": "ACTIVE",
-   "value": 12.2
+   "value": 12.3
   },
   "4398390": {
    "fantasy_team": null,
@@ -4583,7 +4583,7 @@
   "4698719": {
    "fantasy_team": null,
    "id": "4698719",
-   "mpg": 20.8,
+   "mpg": 20.9,
    "name": "Trevon Brazile",
    "nba_team": "DEN",
    "positions": [

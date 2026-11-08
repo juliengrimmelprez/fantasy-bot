@@ -115,7 +115,7 @@
  "last_activity_ms": 1794110391135,
  "last_digest": 1794112336.3831933,
  "last_error_alert": 1793633778.3678486,
- "last_hot_check": 1794113181.9305184,
+ "last_hot_check": 1794114135.593228,
  "last_run": "2026-10-19T22:05:14+00:00",
  "matchup_periods": {
   "1": [
@@ -2748,7 +2748,7 @@
   "4395723": {
    "fantasy_team": "CCCP  Баскетбол",
    "id": "4395723",
-   "mpg": 22.0,
+   "mpg": 22.1,
    "name": "Keldon Johnson",
    "nba_team": "SAS",
    "positions": [
@@ -2758,7 +2758,7 @@
    "return_date": null,
    "slot": "SF",
    "status": "ACTIVE",
-   "value": 14.5
+   "value": 14.8
   },
   "4395724": {
    "fantasy_team": "Fernando  Diniz",
@@ -4062,7 +4062,7 @@
   "4592479": {
    "fantasy_team": "Lucky",
    "id": "4592479",
-   "mpg": 25.3,
+   "mpg": 25.4,
    "name": "Julian Champagnie",
    "nba_team": "SAS",
    "positions": [
@@ -4363,7 +4363,7 @@
    "return_date": null,
    "slot": "",
    "status": "ACTIVE",
-   "value": 7.3
+   "value": 7.7
   },
   "4683688": {
    "fantasy_team": "Polga Silva",
@@ -4703,7 +4703,7 @@
   "4706557": {
    "fantasy_team": null,
    "id": "4706557",
-   "mpg": 10.4,
+   "mpg": 10.6,
    "name": "Chris Youngblood",
    "nba_team": "POR",
    "positions": [
@@ -5242,7 +5242,7 @@
   "5037871": {
    "fantasy_team": "Tiki Taka Laranja",
    "id": "5037871",
-   "mpg": 31.7,
+   "mpg": 31.8,
    "name": "Dylan Harper",
    "nba_team": "SAS",
    "positions": [
@@ -5442,7 +5442,7 @@
   "5081727": {
    "fantasy_team": null,
    "id": "5081727",
-   "mpg": 20.9,
+   "mpg": 21.0,
    "name": "Sidy Cissoko",
    "nba_team": "POR",
    "positions": [
@@ -6214,7 +6214,7 @@
   "5217746": {
    "fantasy_team": null,
    "id": "5217746",
-   "mpg": 7.8,
+   "mpg": 8.0,
    "name": "Yang Hansen",
    "nba_team": "POR",
    "positions": [
@@ -6514,7 +6514,7 @@
   "6578": {
    "fantasy_team": null,
    "id": "6578",
-   "mpg": 11.2,
+   "mpg": 11.4,
    "name": "Harrison Barnes",
    "nba_team": "SAS",
    "positions": [

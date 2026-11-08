@@ -114,7 +114,7 @@
   "4396909:20261105"
  ],
  "hot_status": "ok: 250 FAs, 1297 games",
- "last_activity_ms": 1794134416614,
+ "last_activity_ms": 1794143575963,
  "last_digest": 1794141974.8069127,
  "last_error_alert": 1794133333.591223,
  "last_hot_check": 1794143055.9015963,
@@ -548,7 +548,7 @@
    "value": 6.3
   },
   "2995706": {
-   "fantasy_team": "Bull Market",
+   "fantasy_team": null,
    "id": "2995706",
    "mpg": 20.4,
    "name": "Mario Hezonja",
@@ -557,7 +557,7 @@
     "SF"
    ],
    "return_date": null,
-   "slot": "BE",
+   "slot": "",
    "status": "ACTIVE",
    "value": 18.5
   },
@@ -1063,20 +1063,6 @@
    "slot": "",
    "status": "ACTIVE",
    "value": 0.9
-  },
-  "3137259": {
-   "fantasy_team": null,
-   "id": "3137259",
-   "mpg": null,
-   "name": "Gabe Vincent",
-   "nba_team": "FA",
-   "positions": [
-    "PG"
-   ],
-   "return_date": null,
-   "slot": "",
-   "status": "ACTIVE",
-   "value": 0.0
   },
   "3138160": {
    "fantasy_team": null,
@@ -4353,20 +4339,6 @@
    "status": "ACTIVE",
    "value": 36.7
   },
-  "4683024": {
-   "fantasy_team": null,
-   "id": "4683024",
-   "mpg": null,
-   "name": "Killian Hayes",
-   "nba_team": "FA",
-   "positions": [
-    "PG"
-   ],
-   "return_date": null,
-   "slot": "",
-   "status": "ACTIVE",
-   "value": 0.0
-  },
   "4683634": {
    "fantasy_team": null,
    "id": "4683634",
@@ -5542,7 +5514,7 @@
    "value": 5.0
   },
   "5101761": {
-   "fantasy_team": "Bull Market",
+   "fantasy_team": null,
    "id": "5101761",
    "mpg": 23.3,
    "name": "Mikel Brown Jr.",
@@ -5551,7 +5523,7 @@
     "PG"
    ],
    "return_date": null,
-   "slot": "PG",
+   "slot": "",
    "status": "OUT",
    "value": 20.6
   },

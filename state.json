@@ -1184,7 +1184,7 @@
   "3157465": {
    "fantasy_team": "Lucky",
    "id": "3157465",
-   "mpg": 28.9,
+   "mpg": 29.0,
    "name": "Duncan Robinson",
    "nba_team": "DET",
    "positions": [
@@ -1370,7 +1370,7 @@
   "3907498": {
    "fantasy_team": null,
    "id": "3907498",
-   "mpg": 22.9,
+   "mpg": 23.0,
    "name": "Matisse Thybulle",
    "nba_team": "LAL",
    "positions": [
@@ -1379,7 +1379,7 @@
    "return_date": null,
    "slot": "",
    "status": "ACTIVE",
-   "value": 19.9
+   "value": 19.8
   },
   "3907823": {
    "fantasy_team": null,
@@ -1946,7 +1946,7 @@
    ],
    "return_date": null,
    "slot": "SF",
-   "status": "ACTIVE",
+   "status": "OUT",
    "value": 30.6
   },
   "4066354": {
@@ -2387,7 +2387,7 @@
   "4278077": {
    "fantasy_team": null,
    "id": "4278077",
-   "mpg": 10.7,
+   "mpg": 10.8,
    "name": "Jarred Vanderbilt",
    "nba_team": "LAL",
    "positions": [
@@ -2397,7 +2397,7 @@
    "return_date": null,
    "slot": "",
    "status": "ACTIVE",
-   "value": 8.2
+   "value": 8.3
   },
   "4278078": {
    "fantasy_team": "Polga Silva",
@@ -3366,7 +3366,7 @@
   "4432166": {
    "fantasy_team": "CCCP  Баскетбол",
    "id": "4432166",
-   "mpg": 30.9,
+   "mpg": 31.0,
    "name": "Cade Cunningham",
    "nba_team": "DET",
    "positions": [
@@ -4547,7 +4547,7 @@
   "4684742": {
    "fantasy_team": "Tropa do Nikola",
    "id": "4684742",
-   "mpg": 24.9,
+   "mpg": 25.0,
    "name": "Ausar Thompson",
    "nba_team": "DET",
    "positions": [
@@ -6774,6 +6774,7 @@
   "drop:4684272:1794158485410",
   "drop:6589:1794165041032",
   "drop:3135045:1794165614495",
-  "inj:4433287:OUT"
+  "inj:4433287:OUT",
+  "inj:4066336:OUT"
  ]
 }

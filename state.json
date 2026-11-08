@@ -114,7 +114,7 @@
   "4395650:20261107"
  ],
  "hot_status": "ok: 250 FAs, 1290 games",
- "last_activity_ms": 1794125156733,
+ "last_activity_ms": 1794132634681,
  "last_digest": 1794130821.1010365,
  "last_error_alert": 1793633778.3678486,
  "last_hot_check": 1794132374.7185295,
@@ -2911,7 +2911,7 @@
    "value": 19.6
   },
   "4397040": {
-   "fantasy_team": "Lucky",
+   "fantasy_team": null,
    "id": "4397040",
    "mpg": 17.8,
    "name": "Brandon Williams",
@@ -2921,7 +2921,7 @@
     "SG"
    ],
    "return_date": null,
-   "slot": "BE",
+   "slot": "",
    "status": "ACTIVE",
    "value": 20.2
   },
@@ -4352,20 +4352,6 @@
    "slot": "BE",
    "status": "ACTIVE",
    "value": 36.7
-  },
-  "4683024": {
-   "fantasy_team": null,
-   "id": "4683024",
-   "mpg": null,
-   "name": "Killian Hayes",
-   "nba_team": "FA",
-   "positions": [
-    "PG"
-   ],
-   "return_date": null,
-   "slot": "",
-   "status": "ACTIVE",
-   "value": 0.0
   },
   "4683634": {
    "fantasy_team": null,

@@ -268,7 +268,7 @@
    ],
    "return_date": null,
    "slot": "",
-   "status": "ACTIVE",
+   "status": "DAY_TO_DAY",
    "value": 13.0
   },
   "2578185": {
@@ -2514,7 +2514,7 @@
    "return_date": null,
    "slot": "PF",
    "status": "ACTIVE",
-   "value": 19.2
+   "value": 19.0
   },
   "4278585": {
    "fantasy_team": null,
@@ -2870,7 +2870,7 @@
   "4397014": {
    "fantasy_team": "Contagem Hunters",
    "id": "4397014",
-   "mpg": 23.8,
+   "mpg": 23.9,
    "name": "Quentin Grimes",
    "nba_team": "LAL",
    "positions": [
@@ -2880,7 +2880,7 @@
    "return_date": null,
    "slot": "UT",
    "status": "ACTIVE",
-   "value": 13.0
+   "value": 13.7
   },
   "4397020": {
    "fantasy_team": null,
@@ -3366,7 +3366,7 @@
   "4432166": {
    "fantasy_team": "CCCP  Баскетбол",
    "id": "4432166",
-   "mpg": 30.6,
+   "mpg": 30.7,
    "name": "Cade Cunningham",
    "nba_team": "DET",
    "positions": [
@@ -3375,7 +3375,7 @@
    "return_date": null,
    "slot": "PG",
    "status": "ACTIVE",
-   "value": 43.0
+   "value": 43.3
   },
   "4432170": {
    "fantasy_team": null,

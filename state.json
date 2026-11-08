@@ -114,7 +114,7 @@
   "4845374:20261108"
  ],
  "hot_status": "ok: 250 FAs, 1314 games",
- "last_activity_ms": 1794165041032,
+ "last_activity_ms": 1794165614495,
  "last_digest": 1794164057.9826355,
  "last_error_alert": 1794133333.591223,
  "last_hot_check": 1794165136.5007274,
@@ -964,7 +964,7 @@
    "value": 5.0
   },
   "3135045": {
-   "fantasy_team": "Lebron GOAT",
+   "fantasy_team": null,
    "id": "3135045",
    "mpg": 26.0,
    "name": "Grayson Allen",
@@ -974,7 +974,7 @@
     "SG"
    ],
    "return_date": null,
-   "slot": "BE",
+   "slot": "",
    "status": "ACTIVE",
    "value": 23.5
   },
@@ -5070,7 +5070,7 @@
    "value": 16.2
   },
   "4896372": {
-   "fantasy_team": null,
+   "fantasy_team": "Lebron GOAT",
    "id": "4896372",
    "mpg": 15.6,
    "name": "Walter Clayton Jr.",
@@ -5080,7 +5080,7 @@
     "SG"
    ],
    "return_date": null,
-   "slot": "",
+   "slot": "BE",
    "status": "ACTIVE",
    "value": 19.0
   },
@@ -6771,6 +6771,7 @@
   "drop:4278585:1794149033805",
   "drop:4711272:1794158204947",
   "drop:4684272:1794158485410",
-  "drop:6589:1794165041032"
+  "drop:6589:1794165041032",
+  "drop:3135045:1794165614495"
  ]
 }

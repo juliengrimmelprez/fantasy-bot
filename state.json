@@ -114,7 +114,7 @@
   "4845374:20261108"
  ],
  "hot_status": "ok: 250 FAs, 1307 games",
- "last_activity_ms": 1794158673684,
+ "last_activity_ms": 1794164486790,
  "last_digest": 1794164057.9826355,
  "last_error_alert": 1794133333.591223,
  "last_hot_check": 1794164177.1047332,
@@ -1063,20 +1063,6 @@
    "slot": "",
    "status": "ACTIVE",
    "value": 0.9
-  },
-  "3137259": {
-   "fantasy_team": null,
-   "id": "3137259",
-   "mpg": null,
-   "name": "Gabe Vincent",
-   "nba_team": "FA",
-   "positions": [
-    "PG"
-   ],
-   "return_date": null,
-   "slot": "",
-   "status": "ACTIVE",
-   "value": 0.0
   },
   "3138160": {
    "fantasy_team": null,
@@ -2323,7 +2309,7 @@
     "SG"
    ],
    "return_date": null,
-   "slot": "SG",
+   "slot": "BE",
    "status": "ACTIVE",
    "value": 31.9
   },
@@ -3794,7 +3780,7 @@
     "SF"
    ],
    "return_date": null,
-   "slot": "IR",
+   "slot": "SG",
    "status": "ACTIVE",
    "value": 24.1
   },
@@ -4268,7 +4254,7 @@
    "value": 5.8
   },
   "4600663": {
-   "fantasy_team": "Tropa do Nikola",
+   "fantasy_team": null,
    "id": "4600663",
    "mpg": 20.6,
    "name": "Zach Edey",
@@ -4277,7 +4263,7 @@
     "C"
    ],
    "return_date": null,
-   "slot": "BE",
+   "slot": "",
    "status": "ACTIVE",
    "value": 19.6
   },

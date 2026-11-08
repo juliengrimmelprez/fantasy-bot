@@ -1946,7 +1946,7 @@
    ],
    "return_date": null,
    "slot": "SF",
-   "status": "DAY_TO_DAY",
+   "status": "ACTIVE",
    "value": 30.6
   },
   "4066354": {
@@ -2475,7 +2475,7 @@
   "4278562": {
    "fantasy_team": "King Coopa",
    "id": "4278562",
-   "mpg": 24.4,
+   "mpg": 24.6,
    "name": "Paul Reed",
    "nba_team": "DET",
    "positions": [
@@ -2485,7 +2485,7 @@
    "return_date": null,
    "slot": "PF",
    "status": "ACTIVE",
-   "value": 25.9
+   "value": 26.2
   },
   "4278572": {
    "fantasy_team": null,
@@ -3943,7 +3943,7 @@
    ],
    "return_date": null,
    "slot": "PG",
-   "status": "DAY_TO_DAY",
+   "status": "ACTIVE",
    "value": 33.5
   },
   "4437244": {

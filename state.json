@@ -114,7 +114,7 @@
   "3032979:20261021"
  ],
  "hot_status": "ok: 250 FAs, 1300 games",
- "last_activity_ms": 1794144076723,
+ "last_activity_ms": 1794149033805,
  "last_digest": 1794145577.8818202,
  "last_error_alert": 1794133333.591223,
  "last_hot_check": 1794148823.8733265,
@@ -2530,7 +2530,7 @@
    "value": 20.9
   },
   "4278585": {
-   "fantasy_team": "Tiki Taka Laranja",
+   "fantasy_team": null,
    "id": "4278585",
    "mpg": 24.5,
    "name": "Collin Gillespie",
@@ -2539,7 +2539,7 @@
     "PG"
    ],
    "return_date": null,
-   "slot": "BE",
+   "slot": "",
    "status": "ACTIVE",
    "value": 24.1
   },
@@ -2690,7 +2690,7 @@
    "value": 29.7
   },
   "4395650": {
-   "fantasy_team": null,
+   "fantasy_team": "Tiki Taka Laranja",
    "id": "4395650",
    "mpg": 19.0,
    "name": "Leaky Black",
@@ -2699,7 +2699,7 @@
     "SF"
    ],
    "return_date": null,
-   "slot": "",
+   "slot": "UT",
    "status": "ACTIVE",
    "value": 20.0
   },
@@ -5041,7 +5041,7 @@
    "value": 27.0
   },
   "4873153": {
-   "fantasy_team": null,
+   "fantasy_team": "Tiki Taka Laranja",
    "id": "4873153",
    "mpg": 16.9,
    "name": "Morez Johnson Jr.",
@@ -5051,7 +5051,7 @@
     "C"
    ],
    "return_date": null,
-   "slot": "",
+   "slot": "PF",
    "status": "ACTIVE",
    "value": 16.6
   },
@@ -5129,7 +5129,7 @@
    "value": 11.4
   },
   "4897943": {
-   "fantasy_team": "Tiki Taka Laranja",
+   "fantasy_team": null,
    "id": "4897943",
    "mpg": 10.5,
    "name": "Dalton Knecht",
@@ -5139,7 +5139,7 @@
     "SF"
    ],
    "return_date": null,
-   "slot": "BE",
+   "slot": "",
    "status": "ACTIVE",
    "value": 13.5
   },
@@ -5297,7 +5297,7 @@
     "SG"
    ],
    "return_date": null,
-   "slot": "UT",
+   "slot": "BE",
    "status": "ACTIVE",
    "value": 34.0
   },
@@ -6796,6 +6796,7 @@
   "lineup:19",
   "drop:4432170:1794133857426",
   "diag:20",
-  "planday:20"
+  "planday:20",
+  "drop:4278585:1794149033805"
  ]
 }

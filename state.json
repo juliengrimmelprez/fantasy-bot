@@ -114,7 +114,7 @@
   "2990992:20261101"
  ],
  "hot_status": "ok: 250 FAs, 1316 games",
- "last_activity_ms": 1794158485410,
+ "last_activity_ms": 1794158673684,
  "last_digest": 1794156737.0065632,
  "last_error_alert": 1794133333.591223,
  "last_hot_check": 1794158418.854172,
@@ -1031,7 +1031,7 @@
     "PF"
    ],
    "return_date": null,
-   "slot": "BE",
+   "slot": "UT",
    "status": "ACTIVE",
    "value": 14.6
   },
@@ -1063,6 +1063,20 @@
    "slot": "",
    "status": "ACTIVE",
    "value": 0.9
+  },
+  "3137259": {
+   "fantasy_team": null,
+   "id": "3137259",
+   "mpg": null,
+   "name": "Gabe Vincent",
+   "nba_team": "FA",
+   "positions": [
+    "PG"
+   ],
+   "return_date": null,
+   "slot": "",
+   "status": "ACTIVE",
+   "value": 0.0
   },
   "3138160": {
    "fantasy_team": null,
@@ -1420,7 +1434,7 @@
     "SG"
    ],
    "return_date": null,
-   "slot": "PG",
+   "slot": "UT",
    "status": "ACTIVE",
    "value": 41.3
   },
@@ -1890,7 +1904,7 @@
    "value": 42.4
   },
   "4066262": {
-   "fantasy_team": null,
+   "fantasy_team": "Bull Market",
    "id": "4066262",
    "mpg": 16.4,
    "name": "Malik Monk",
@@ -1900,7 +1914,7 @@
     "SG"
    ],
    "return_date": null,
-   "slot": "",
+   "slot": "PG",
    "status": "ACTIVE",
    "value": 16.9
   },
@@ -5139,7 +5153,7 @@
     "SG"
    ],
    "return_date": null,
-   "slot": "UT",
+   "slot": "BE",
    "status": "ACTIVE",
    "value": 36.0
   },
@@ -6599,7 +6613,7 @@
     "PG"
    ],
    "return_date": null,
-   "slot": "UT",
+   "slot": "BE",
    "status": "ACTIVE",
    "value": 28.3
   },

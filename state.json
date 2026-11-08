@@ -114,7 +114,7 @@
   "4395650:20261107"
  ],
  "hot_status": "ok: 250 FAs, 1299 games",
- "last_activity_ms": 1794132634681,
+ "last_activity_ms": 1794133700243,
  "last_digest": 1794130821.1010365,
  "last_error_alert": 1794133333.591223,
  "last_hot_check": 1794133454.759663,
@@ -2466,7 +2466,7 @@
     "PF"
    ],
    "return_date": null,
-   "slot": "UT",
+   "slot": "BE",
    "status": "ACTIVE",
    "value": 22.3
   },
@@ -2515,7 +2515,7 @@
    "value": 12.9
   },
   "4278580": {
-   "fantasy_team": null,
+   "fantasy_team": "Lucky",
    "id": "4278580",
    "mpg": 23.2,
    "name": "Sandro Mamukelashvili",
@@ -2525,7 +2525,7 @@
     "C"
    ],
    "return_date": null,
-   "slot": "",
+   "slot": "PF",
    "status": "ACTIVE",
    "value": 20.9
   },
@@ -4353,6 +4353,20 @@
    "status": "ACTIVE",
    "value": 36.7
   },
+  "4683024": {
+   "fantasy_team": null,
+   "id": "4683024",
+   "mpg": null,
+   "name": "Killian Hayes",
+   "nba_team": "FA",
+   "positions": [
+    "PG"
+   ],
+   "return_date": null,
+   "slot": "",
+   "status": "ACTIVE",
+   "value": 0.0
+  },
   "4683634": {
    "fantasy_team": null,
    "id": "4683634",
@@ -4918,7 +4932,7 @@
     "C"
    ],
    "return_date": null,
-   "slot": "PF",
+   "slot": "UT",
    "status": "ACTIVE",
    "value": 24.9
   },

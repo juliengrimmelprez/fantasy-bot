@@ -3959,6 +3959,21 @@
    "status": "ACTIVE",
    "value": 33.5
   },
+  "4433629": {
+   "fantasy_team": null,
+   "id": "4433629",
+   "mpg": 3.3,
+   "name": "Ryan Nembhard",
+   "nba_team": "DEN",
+   "positions": [
+    "PG",
+    "SG"
+   ],
+   "return_date": null,
+   "slot": "",
+   "status": "ACTIVE",
+   "value": 2.9
+  },
   "4437244": {
    "fantasy_team": "Lebron GOAT",
    "id": "4437244",
@@ -5669,20 +5684,6 @@
    "slot": "",
    "status": "OUT",
    "value": 11.1
-  },
-  "5105806": {
-   "fantasy_team": null,
-   "id": "5105806",
-   "mpg": 2.5,
-   "name": "Jett Howard",
-   "nba_team": "DAL",
-   "positions": [
-    "SF"
-   ],
-   "return_date": null,
-   "slot": "",
-   "status": "ACTIVE",
-   "value": 1.8
   },
   "5105809": {
    "fantasy_team": null,

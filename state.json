@@ -107,11 +107,11 @@
   "4397189:20261029",
   "5112087:20261022"
  ],
- "hot_status": "ok: 250 FAs, 1254 games",
+ "hot_status": "ok: 250 FAs, 1258 games",
  "last_activity_ms": 1794073009066,
  "last_digest": 1794097574.4259403,
  "last_error_alert": 1793633778.3678486,
- "last_hot_check": 1794099738.5320704,
+ "last_hot_check": 1794100694.940177,
  "last_run": "2026-10-19T22:05:14+00:00",
  "matchup_periods": {
   "1": [
@@ -861,7 +861,7 @@
   "3133626": {
    "fantasy_team": null,
    "id": "3133626",
-   "mpg": 16.2,
+   "mpg": 16.3,
    "name": "Kenrich Williams",
    "nba_team": "OKC",
    "positions": [
@@ -1147,7 +1147,7 @@
   "3150844": {
    "fantasy_team": null,
    "id": "3150844",
-   "mpg": 17.7,
+   "mpg": 17.8,
    "name": "Moritz Wagner",
    "nba_team": "BKN",
    "positions": [
@@ -1156,7 +1156,7 @@
    "return_date": null,
    "slot": "",
    "status": "ACTIVE",
-   "value": 18.2
+   "value": 18.1
   },
   "3155526": {
    "fantasy_team": "Fernando  Diniz",
@@ -1420,7 +1420,7 @@
   "3908809": {
    "fantasy_team": "Bull Market",
    "id": "3908809",
-   "mpg": 29.9,
+   "mpg": 30.0,
    "name": "Donovan Mitchell",
    "nba_team": "CLE",
    "positions": [
@@ -1430,7 +1430,7 @@
    "return_date": null,
    "slot": "UT",
    "status": "ACTIVE",
-   "value": 35.4
+   "value": 35.6
   },
   "3908845": {
    "fantasy_team": null,
@@ -1493,7 +1493,7 @@
   "3914044": {
    "fantasy_team": null,
    "id": "3914044",
-   "mpg": 22.2,
+   "mpg": 22.3,
    "name": "Landry Shamet",
    "nba_team": "NYK",
    "positions": [
@@ -1502,7 +1502,7 @@
    "return_date": null,
    "slot": "",
    "status": "ACTIVE",
-   "value": 14.2
+   "value": 14.7
   },
   "3917376": {
    "fantasy_team": "BL0CK BY ZION",
@@ -1551,7 +1551,7 @@
   "3934719": {
    "fantasy_team": "Caxias French Fries",
    "id": "3934719",
-   "mpg": 29.4,
+   "mpg": 29.6,
    "name": "OG Anunoby",
    "nba_team": "NYK",
    "positions": [
@@ -1561,7 +1561,7 @@
    "return_date": null,
    "slot": "PF",
    "status": "ACTIVE",
-   "value": 25.4
+   "value": 25.2
   },
   "3934723": {
    "fantasy_team": null,
@@ -2106,7 +2106,7 @@
   "4222252": {
    "fantasy_team": "Fernando  Diniz",
    "id": "4222252",
-   "mpg": 22.5,
+   "mpg": 22.6,
    "name": "Isaiah Hartenstein",
    "nba_team": "OKC",
    "positions": [
@@ -2115,7 +2115,7 @@
    "return_date": null,
    "slot": "C",
    "status": "ACTIVE",
-   "value": 23.9
+   "value": 24.0
   },
   "4251": {
    "fantasy_team": "Bull Market",
@@ -2223,7 +2223,7 @@
   "4277905": {
    "fantasy_team": "BL0CK BY ZION",
    "id": "4277905",
-   "mpg": 32.5,
+   "mpg": 32.6,
    "name": "Trae Young",
    "nba_team": "WAS",
    "positions": [
@@ -2232,7 +2232,7 @@
    "return_date": null,
    "slot": "UT",
    "status": "ACTIVE",
-   "value": 34.5
+   "value": 35.1
   },
   "4277919": {
    "fantasy_team": null,
@@ -2366,7 +2366,7 @@
   "4278073": {
    "fantasy_team": "Polga Silva",
    "id": "4278073",
-   "mpg": 30.1,
+   "mpg": 30.3,
    "name": "Shai Gilgeous-Alexander",
    "nba_team": "OKC",
    "positions": [
@@ -2375,7 +2375,7 @@
    "return_date": null,
    "slot": "UT",
    "status": "ACTIVE",
-   "value": 41.6
+   "value": 41.8
   },
   "4278076": {
    "fantasy_team": null,
@@ -3353,7 +3353,7 @@
    "return_date": null,
    "slot": "UT",
    "status": "ACTIVE",
-   "value": 37.8
+   "value": 37.6
   },
   "4432165": {
    "fantasy_team": null,
@@ -4014,7 +4014,7 @@
   "4576087": {
    "fantasy_team": "King Coopa",
    "id": "4576087",
-   "mpg": 24.9,
+   "mpg": 25.0,
    "name": "Peyton Watson",
    "nba_team": "CLE",
    "positions": [
@@ -4825,7 +4825,7 @@
    "return_date": null,
    "slot": "",
    "status": "ACTIVE",
-   "value": 11.2
+   "value": 11.3
   },
   "4845367": {
    "fantasy_team": "King Coopa",
@@ -4888,7 +4888,7 @@
   "4869342": {
    "fantasy_team": "King Coopa",
    "id": "4869342",
-   "mpg": 28.3,
+   "mpg": 28.4,
    "name": "Dyson Daniels",
    "nba_team": "ATL",
    "positions": [
@@ -4898,7 +4898,7 @@
    "return_date": null,
    "slot": "PG",
    "status": "ACTIVE",
-   "value": 32.4
+   "value": 32.3
   },
   "4869780": {
    "fantasy_team": "Lucky",
@@ -5124,7 +5124,7 @@
   "4900671": {
    "fantasy_team": "Bull Market",
    "id": "4900671",
-   "mpg": 25.1,
+   "mpg": 25.2,
    "name": "Ajay Mitchell",
    "nba_team": "OKC",
    "positions": [
@@ -5134,7 +5134,7 @@
    "return_date": null,
    "slot": "SG",
    "status": "ACTIVE",
-   "value": 34.4
+   "value": 34.8
   },
   "4903027": {
    "fantasy_team": "Polga Silva",
@@ -5552,7 +5552,7 @@
   "5104155": {
    "fantasy_team": "Lakers x Bortolan 23",
    "id": "5104155",
-   "mpg": 23.9,
+   "mpg": 24.1,
    "name": "Bilal Coulibaly",
    "nba_team": "WAS",
    "positions": [
@@ -5911,7 +5911,7 @@
   "5142718": {
    "fantasy_team": "Contagem Hunters",
    "id": "5142718",
-   "mpg": 26.5,
+   "mpg": 26.7,
    "name": "AJ Dybantsa",
    "nba_team": "WAS",
    "positions": [
@@ -5920,7 +5920,7 @@
    "return_date": null,
    "slot": "SF",
    "status": "ACTIVE",
-   "value": 22.5
+   "value": 22.3
   },
   "5144091": {
    "fantasy_team": "King Coopa",
@@ -6039,7 +6039,7 @@
   "5160992": {
    "fantasy_team": "King Coopa",
    "id": "5160992",
-   "mpg": 23.0,
+   "mpg": 23.1,
    "name": "Alex Sarr",
    "nba_team": "WAS",
    "positions": [
@@ -6068,7 +6068,7 @@
   "5174563": {
    "fantasy_team": "Caxias French Fries",
    "id": "5174563",
-   "mpg": 30.2,
+   "mpg": 30.3,
    "name": "Kyshawn George",
    "nba_team": "WAS",
    "positions": [
@@ -6078,7 +6078,7 @@
    "return_date": null,
    "slot": "SG",
    "status": "ACTIVE",
-   "value": 32.3
+   "value": 32.6
   },
   "5174655": {
    "fantasy_team": null,
@@ -6097,7 +6097,7 @@
   "5174983": {
    "fantasy_team": "Lakers x Bortolan 23",
    "id": "5174983",
-   "mpg": 17.2,
+   "mpg": 17.3,
    "name": "Aday Mara",
    "nba_team": "OKC",
    "positions": [
@@ -6106,7 +6106,7 @@
    "return_date": null,
    "slot": "C",
    "status": "ACTIVE",
-   "value": 18.5
+   "value": 18.4
   },
   "5175643": {
    "fantasy_team": "Fernando  Diniz",

@@ -114,7 +114,7 @@
   "2990992:20261101"
  ],
  "hot_status": "ok: 250 FAs, 1316 games",
- "last_activity_ms": 1794158212977,
+ "last_activity_ms": 1794158485410,
  "last_digest": 1794156737.0065632,
  "last_error_alert": 1794133333.591223,
  "last_hot_check": 1794158418.854172,
@@ -1022,7 +1022,7 @@
    "value": 41.8
   },
   "3136196": {
-   "fantasy_team": null,
+   "fantasy_team": "Bull Market",
    "id": "3136196",
    "mpg": 18.2,
    "name": "Trey Lyles",
@@ -1031,7 +1031,7 @@
     "PF"
    ],
    "return_date": null,
-   "slot": "",
+   "slot": "BE",
    "status": "ACTIVE",
    "value": 14.6
   },
@@ -1725,7 +1725,7 @@
     "PF"
    ],
    "return_date": null,
-   "slot": "IR",
+   "slot": "UT",
    "status": "ACTIVE",
    "value": 46.9
   },
@@ -4501,7 +4501,7 @@
    "value": 20.6
   },
   "4684272": {
-   "fantasy_team": "Caxias French Fries",
+   "fantasy_team": null,
    "id": "4684272",
    "mpg": 29.1,
    "name": "Ja'Kobe Walter",
@@ -4510,7 +4510,7 @@
     "SG"
    ],
    "return_date": null,
-   "slot": "UT",
+   "slot": "",
    "status": "ACTIVE",
    "value": 24.1
   },
@@ -6382,7 +6382,7 @@
    ],
    "return_date": null,
    "slot": "",
-   "status": "DAY_TO_DAY",
+   "status": "ACTIVE",
    "value": 18.5
   },
   "5281370": {
@@ -6769,6 +6769,7 @@
   "diag:20",
   "planday:20",
   "drop:4278585:1794149033805",
-  "drop:4711272:1794158204947"
+  "drop:4711272:1794158204947",
+  "drop:4684272:1794158485410"
  ]
 }

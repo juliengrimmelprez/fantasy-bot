@@ -114,11 +114,11 @@
   "3907498:20261024",
   "6589:20261108"
  ],
- "hot_status": "ok: 250 FAs, 1324 games",
+ "hot_status": "ok: 250 FAs, 1325 games",
  "last_activity_ms": 1794165614495,
  "last_digest": 1794167777.3372738,
  "last_error_alert": 1794133333.591223,
- "last_hot_check": 1794169935.7067306,
+ "last_hot_check": 1794170896.5143752,
  "last_run": "2026-10-19T22:05:14+00:00",
  "matchup_periods": {
   "1": [
@@ -185,7 +185,7 @@
   "1966": {
    "fantasy_team": "Lucky",
    "id": "1966",
-   "mpg": 29.7,
+   "mpg": 29.9,
    "name": "LeBron James",
    "nba_team": "PHL",
    "positions": [
@@ -637,7 +637,7 @@
   "3059318": {
    "fantasy_team": "Caxias French Fries",
    "id": "3059318",
-   "mpg": 29.1,
+   "mpg": 29.3,
    "name": "Joel Embiid",
    "nba_team": "PHL",
    "positions": [
@@ -646,7 +646,7 @@
    "return_date": null,
    "slot": "C",
    "status": "ACTIVE",
-   "value": 26.0
+   "value": 26.4
   },
   "3059319": {
    "fantasy_team": "Lucky",
@@ -1500,7 +1500,7 @@
   "3917376": {
    "fantasy_team": "BL0CK BY ZION",
    "id": "3917376",
-   "mpg": 32.8,
+   "mpg": 33.0,
    "name": "Jaylen Brown",
    "nba_team": "PHL",
    "positions": [
@@ -2988,7 +2988,7 @@
   "4397189": {
    "fantasy_team": "Contagem Hunters",
    "id": "4397189",
-   "mpg": 20.3,
+   "mpg": 20.6,
    "name": "Jalen Smith",
    "nba_team": "CHI",
    "positions": [
@@ -2998,7 +2998,7 @@
    "return_date": null,
    "slot": "C",
    "status": "ACTIVE",
-   "value": 22.3
+   "value": 23.8
   },
   "4397227": {
    "fantasy_team": null,
@@ -3148,7 +3148,7 @@
   "4431678": {
    "fantasy_team": "Tiki Taka Laranja",
    "id": "4431678",
-   "mpg": 33.7,
+   "mpg": 33.8,
    "name": "Tyrese Maxey",
    "nba_team": "PHL",
    "positions": [
@@ -3158,7 +3158,7 @@
    "return_date": null,
    "slot": "PG",
    "status": "ACTIVE",
-   "value": 40.5
+   "value": 40.7
   },
   "4431679": {
    "fantasy_team": "Polga Silva",
@@ -3640,7 +3640,7 @@
   "4432822": {
    "fantasy_team": null,
    "id": "4432822",
-   "mpg": 16.3,
+   "mpg": 16.6,
    "name": "Isaac Okoro",
    "nba_team": "CHI",
    "positions": [
@@ -4766,7 +4766,7 @@
   "4711294": {
    "fantasy_team": "Fernando  Diniz",
    "id": "4711294",
-   "mpg": 22.8,
+   "mpg": 23.0,
    "name": "Matas Buzelis",
    "nba_team": "CHI",
    "positions": [
@@ -4776,7 +4776,7 @@
    "return_date": null,
    "slot": "PF",
    "status": "ACTIVE",
-   "value": 17.5
+   "value": 18.3
   },
   "4711297": {
    "fantasy_team": null,
@@ -4970,7 +4970,7 @@
   "4871145": {
    "fantasy_team": "Lebron GOAT",
    "id": "4871145",
-   "mpg": 24.7,
+   "mpg": 24.9,
    "name": "Josh Giddey",
    "nba_team": "CHI",
    "positions": [
@@ -4980,7 +4980,7 @@
    "return_date": null,
    "slot": "SG",
    "status": "ACTIVE",
-   "value": 26.6
+   "value": 27.4
   },
   "4873090": {
    "fantasy_team": null,
@@ -5503,7 +5503,7 @@
   "5095151": {
    "fantasy_team": "BL0CK BY ZION",
    "id": "5095151",
-   "mpg": 29.4,
+   "mpg": 29.6,
    "name": "Caleb Wilson",
    "nba_team": "CHI",
    "positions": [
@@ -5862,7 +5862,7 @@
   "5124612": {
    "fantasy_team": "Caxias French Fries",
    "id": "5124612",
-   "mpg": 30.4,
+   "mpg": 30.6,
    "name": "VJ Edgecombe",
    "nba_team": "PHL",
    "positions": [

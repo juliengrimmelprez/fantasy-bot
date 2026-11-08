@@ -846,7 +846,7 @@
   "3133603": {
    "fantasy_team": null,
    "id": "3133603",
-   "mpg": 21.9,
+   "mpg": 22.0,
    "name": "Kelly Oubre Jr.",
    "nba_team": "IND",
    "positions": [
@@ -984,7 +984,7 @@
    "return_date": null,
    "slot": "",
    "status": "ACTIVE",
-   "value": 10.3
+   "value": 10.6
   },
   "3136193": {
    "fantasy_team": "Caxias French Fries",
@@ -1133,7 +1133,7 @@
   "3149673": {
    "fantasy_team": "Hospital do Gansola",
    "id": "3149673",
-   "mpg": 31.1,
+   "mpg": 31.2,
    "name": "Pascal Siakam",
    "nba_team": "IND",
    "positions": [
@@ -1142,7 +1142,7 @@
    "return_date": null,
    "slot": "BE",
    "status": "ACTIVE",
-   "value": 33.4
+   "value": 33.7
   },
   "3150844": {
    "fantasy_team": null,
@@ -2194,7 +2194,7 @@
   "4277848": {
    "fantasy_team": null,
    "id": "4277848",
-   "mpg": 11.9,
+   "mpg": 12.0,
    "name": "Marvin Bagley III",
    "nba_team": "DEN",
    "positions": [
@@ -2462,7 +2462,7 @@
    "return_date": null,
    "slot": "PF",
    "status": "ACTIVE",
-   "value": 21.4
+   "value": 22.2
   },
   "4278402": {
    "fantasy_team": null,
@@ -2548,7 +2548,7 @@
     "PF"
    ],
    "return_date": null,
-   "slot": "UT",
+   "slot": "BE",
    "status": "ACTIVE",
    "value": 28.2
   },
@@ -4117,7 +4117,7 @@
   "4592829": {
    "fantasy_team": "Polga Silva",
    "id": "4592829",
-   "mpg": 21.0,
+   "mpg": 21.1,
    "name": "Quenton Jackson",
    "nba_team": "IND",
    "positions": [
@@ -4127,7 +4127,7 @@
    "return_date": null,
    "slot": "PG",
    "status": "ACTIVE",
-   "value": 22.2
+   "value": 22.4
   },
   "4593016": {
    "fantasy_team": null,
@@ -5723,7 +5723,7 @@
   "5106060": {
    "fantasy_team": null,
    "id": "5106060",
-   "mpg": 23.0,
+   "mpg": 23.1,
    "name": "Jarace Walker",
    "nba_team": "IND",
    "positions": [
@@ -5733,7 +5733,7 @@
    "return_date": null,
    "slot": "",
    "status": "ACTIVE",
-   "value": 17.7
+   "value": 17.9
   },
   "5106258": {
    "fantasy_team": null,
@@ -5875,7 +5875,7 @@
     "SG"
    ],
    "return_date": null,
-   "slot": "BE",
+   "slot": "UT",
    "status": "ACTIVE",
    "value": 32.3
   },

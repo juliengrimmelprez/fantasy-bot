@@ -113,11 +113,11 @@
   "4433192:20261027",
   "4845374:20261108"
  ],
- "hot_status": "ok: 250 FAs, 1307 games",
- "last_activity_ms": 1794164486790,
+ "hot_status": "ok: 250 FAs, 1314 games",
+ "last_activity_ms": 1794165041032,
  "last_digest": 1794164057.9826355,
  "last_error_alert": 1794133333.591223,
- "last_hot_check": 1794164177.1047332,
+ "last_hot_check": 1794165136.5007274,
  "last_run": "2026-10-19T22:05:14+00:00",
  "matchup_periods": {
   "1": [
@@ -1420,7 +1420,7 @@
     "SG"
    ],
    "return_date": null,
-   "slot": "UT",
+   "slot": "BE",
    "status": "ACTIVE",
    "value": 41.3
   },
@@ -2255,7 +2255,7 @@
    "value": 1.2
   },
   "4277951": {
-   "fantasy_team": null,
+   "fantasy_team": "Bull Market",
    "id": "4277951",
    "mpg": 13.4,
    "name": "Luka Garza",
@@ -2264,7 +2264,7 @@
     "C"
    ],
    "return_date": null,
-   "slot": "",
+   "slot": "UT",
    "status": "ACTIVE",
    "value": 16.8
   },
@@ -6575,7 +6575,7 @@
    "value": 14.4
   },
   "6589": {
-   "fantasy_team": "Bull Market",
+   "fantasy_team": null,
    "id": "6589",
    "mpg": 27.6,
    "name": "Draymond Green",
@@ -6585,7 +6585,7 @@
     "C"
    ],
    "return_date": null,
-   "slot": "BE",
+   "slot": "",
    "status": "ACTIVE",
    "value": 25.0
   },
@@ -6770,6 +6770,7 @@
   "planday:20",
   "drop:4278585:1794149033805",
   "drop:4711272:1794158204947",
-  "drop:4684272:1794158485410"
+  "drop:4684272:1794158485410",
+  "drop:6589:1794165041032"
  ]
 }

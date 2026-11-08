@@ -113,7 +113,7 @@
   "2990992:20261101"
  ],
  "hot_status": "ok: 249 FAs, 1281 games",
- "last_activity_ms": 1794110391135,
+ "last_activity_ms": 1794125156733,
  "last_digest": 1794123380.3936338,
  "last_error_alert": 1793633778.3678486,
  "last_hot_check": 1794124699.5650754,
@@ -1438,7 +1438,7 @@
    "value": 41.3
   },
   "3908845": {
-   "fantasy_team": null,
+   "fantasy_team": "Lebron GOAT",
    "id": "3908845",
    "mpg": 25.5,
    "name": "John Collins",
@@ -1448,7 +1448,7 @@
     "C"
    ],
    "return_date": null,
-   "slot": "",
+   "slot": "C",
    "status": "ACTIVE",
    "value": 19.5
   },
@@ -2820,7 +2820,7 @@
    "value": 26.9
   },
   "4396909": {
-   "fantasy_team": "Lebron GOAT",
+   "fantasy_team": null,
    "id": "4396909",
    "mpg": 24.4,
    "name": "Aaron Nesmith",
@@ -2830,7 +2830,7 @@
     "SF"
    ],
    "return_date": null,
-   "slot": "BE",
+   "slot": "",
    "status": "ACTIVE",
    "value": 18.1
   },

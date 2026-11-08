@@ -637,7 +637,7 @@
   "3059318": {
    "fantasy_team": "Caxias French Fries",
    "id": "3059318",
-   "mpg": 31.8,
+   "mpg": 31.9,
    "name": "Joel Embiid",
    "nba_team": "PHL",
    "positions": [
@@ -1510,7 +1510,7 @@
    "return_date": null,
    "slot": "SG",
    "status": "ACTIVE",
-   "value": 38.6
+   "value": 39.0
   },
   "3934672": {
    "fantasy_team": "Hospital do Gansola",
@@ -1596,7 +1596,7 @@
    ],
    "return_date": null,
    "slot": "UT",
-   "status": "ACTIVE",
+   "status": "DAY_TO_DAY",
    "value": 49.0
   },
   "3945274": {
@@ -2107,7 +2107,7 @@
    ],
    "return_date": null,
    "slot": "",
-   "status": "DAY_TO_DAY",
+   "status": "OUT",
    "value": 18.7
   },
   "4222252": {
@@ -2988,7 +2988,7 @@
   "4397189": {
    "fantasy_team": "Contagem Hunters",
    "id": "4397189",
-   "mpg": 23.1,
+   "mpg": 23.2,
    "name": "Jalen Smith",
    "nba_team": "CHI",
    "positions": [
@@ -3272,7 +3272,7 @@
    ],
    "return_date": null,
    "slot": "UT",
-   "status": "ACTIVE",
+   "status": "DAY_TO_DAY",
    "value": 30.8
   },
   "4431785": {

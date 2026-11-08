@@ -114,7 +114,7 @@
   "4396909:20261105"
  ],
  "hot_status": "ok: 250 FAs, 1297 games",
- "last_activity_ms": 1794143575963,
+ "last_activity_ms": 1794143739451,
  "last_digest": 1794141974.8069127,
  "last_error_alert": 1794133333.591223,
  "last_hot_check": 1794143055.9015963,
@@ -1063,6 +1063,20 @@
    "slot": "",
    "status": "ACTIVE",
    "value": 0.9
+  },
+  "3137259": {
+   "fantasy_team": null,
+   "id": "3137259",
+   "mpg": null,
+   "name": "Gabe Vincent",
+   "nba_team": "FA",
+   "positions": [
+    "PG"
+   ],
+   "return_date": null,
+   "slot": "",
+   "status": "ACTIVE",
+   "value": 0.0
   },
   "3138160": {
    "fantasy_team": null,
@@ -5458,7 +5472,7 @@
    "value": 15.0
   },
   "5082206": {
-   "fantasy_team": null,
+   "fantasy_team": "Bull Market",
    "id": "5082206",
    "mpg": 20.1,
    "name": "Brayden Burries",
@@ -5467,7 +5481,7 @@
     "SG"
    ],
    "return_date": null,
-   "slot": "",
+   "slot": "BE",
    "status": "ACTIVE",
    "value": 19.9
   },

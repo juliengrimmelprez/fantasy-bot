@@ -114,7 +114,7 @@
   "4395650:20261107"
  ],
  "hot_status": "ok: 250 FAs, 1299 games",
- "last_activity_ms": 1794133700243,
+ "last_activity_ms": 1794133857426,
  "last_digest": 1794130821.1010365,
  "last_error_alert": 1794133333.591223,
  "last_hot_check": 1794133454.759663,
@@ -1817,7 +1817,7 @@
    "value": 38.4
   },
   "4065778": {
-   "fantasy_team": null,
+   "fantasy_team": "BL0CK BY ZION",
    "id": "4065778",
    "mpg": 23.0,
    "name": "Max Strus",
@@ -1826,7 +1826,7 @@
     "SF"
    ],
    "return_date": null,
-   "slot": "",
+   "slot": "UT",
    "status": "ACTIVE",
    "value": 25.5
   },
@@ -2236,7 +2236,7 @@
     "PG"
    ],
    "return_date": null,
-   "slot": "UT",
+   "slot": "BE",
    "status": "ACTIVE",
    "value": 35.2
   },
@@ -2365,7 +2365,7 @@
     "C"
    ],
    "return_date": null,
-   "slot": "IR",
+   "slot": "UT",
    "status": "OUT",
    "value": 30.3
   },
@@ -2568,7 +2568,7 @@
     "PG"
    ],
    "return_date": null,
-   "slot": "BE",
+   "slot": "IR",
    "status": "OUT",
    "value": 29.4
   },
@@ -3391,7 +3391,7 @@
    "value": 50.2
   },
   "4432170": {
-   "fantasy_team": "BL0CK BY ZION",
+   "fantasy_team": null,
    "id": "4432170",
    "mpg": 21.1,
    "name": "Isaiah Jackson",
@@ -3401,7 +3401,7 @@
     "C"
    ],
    "return_date": null,
-   "slot": "UT",
+   "slot": "",
    "status": "OUT",
    "value": 23.5
   },
@@ -6792,6 +6792,7 @@
   "hot:3134908:20261107",
   "diag:19",
   "planday:19",
-  "lineup:19"
+  "lineup:19",
+  "drop:4432170:1794133857426"
  ]
 }

@@ -114,7 +114,7 @@
   "4396909:20261105"
  ],
  "hot_status": "ok: 250 FAs, 1305 games",
- "last_activity_ms": 1794143739451,
+ "last_activity_ms": 1794144076723,
  "last_digest": 1794141974.8069127,
  "last_error_alert": 1794133333.591223,
  "last_hot_check": 1794144018.9146574,
@@ -1434,7 +1434,7 @@
     "SG"
    ],
    "return_date": null,
-   "slot": "UT",
+   "slot": "PG",
    "status": "ACTIVE",
    "value": 41.3
   },
@@ -4353,6 +4353,20 @@
    "status": "ACTIVE",
    "value": 36.7
   },
+  "4683024": {
+   "fantasy_team": null,
+   "id": "4683024",
+   "mpg": null,
+   "name": "Killian Hayes",
+   "nba_team": "FA",
+   "positions": [
+    "PG"
+   ],
+   "return_date": null,
+   "slot": "",
+   "status": "ACTIVE",
+   "value": 0.0
+  },
   "4683634": {
    "fantasy_team": null,
    "id": "4683634",
@@ -4758,7 +4772,7 @@
     "SG"
    ],
    "return_date": null,
-   "slot": "UT",
+   "slot": "BE",
    "status": "ACTIVE",
    "value": 22.9
   },
@@ -5481,7 +5495,7 @@
     "SG"
    ],
    "return_date": null,
-   "slot": "BE",
+   "slot": "SG",
    "status": "ACTIVE",
    "value": 19.9
   },
@@ -5786,7 +5800,7 @@
    "value": 10.9
   },
   "5107173": {
-   "fantasy_team": null,
+   "fantasy_team": "Bull Market",
    "id": "5107173",
    "mpg": 19.2,
    "name": "Danny Wolf",
@@ -5796,7 +5810,7 @@
     "C"
    ],
    "return_date": null,
-   "slot": "",
+   "slot": "C",
    "status": "ACTIVE",
    "value": 17.5
   },
@@ -6497,7 +6511,7 @@
     "SF"
    ],
    "return_date": null,
-   "slot": "SG",
+   "slot": "UT",
    "status": "ACTIVE",
    "value": 23.1
   },
@@ -6570,7 +6584,7 @@
     "C"
    ],
    "return_date": null,
-   "slot": "C",
+   "slot": "UT",
    "status": "OUT",
    "value": 44.0
   },

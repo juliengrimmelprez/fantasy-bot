@@ -115,7 +115,7 @@
   "4684272:20261021"
  ],
  "hot_status": "ok: 250 FAs, 1327 games",
- "last_activity_ms": 1794165614495,
+ "last_activity_ms": 1794178100353,
  "last_digest": 1794175230.9194305,
  "last_error_alert": 1794133333.591223,
  "last_hot_check": 1794177622.0000176,
@@ -935,20 +935,6 @@
    "slot": "SF",
    "status": "ACTIVE",
    "value": 21.9
-  },
-  "3134908": {
-   "fantasy_team": null,
-   "id": "3134908",
-   "mpg": 21.6,
-   "name": "Jakob Poeltl",
-   "nba_team": "TOR",
-   "positions": [
-    "C"
-   ],
-   "return_date": null,
-   "slot": "",
-   "status": "ACTIVE",
-   "value": 19.9
   },
   "3134916": {
    "fantasy_team": null,
@@ -2792,6 +2778,20 @@
    "slot": "PG",
    "status": "ACTIVE",
    "value": 35.6
+  },
+  "4396818": {
+   "fantasy_team": null,
+   "id": "4396818",
+   "mpg": null,
+   "name": "Jordan Miller",
+   "nba_team": "LAC",
+   "positions": [
+    "SF"
+   ],
+   "return_date": null,
+   "slot": "",
+   "status": "OUT",
+   "value": 0.0
   },
   "4396907": {
    "fantasy_team": "Tropa do Nikola",

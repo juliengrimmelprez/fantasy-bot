@@ -1743,6 +1743,20 @@
    "status": "OUT",
    "value": 10.9
   },
+  "4065663": {
+   "fantasy_team": null,
+   "id": "4065663",
+   "mpg": 18.8,
+   "name": "Josh Okogie",
+   "nba_team": "UTA",
+   "positions": [
+    "SF"
+   ],
+   "return_date": null,
+   "slot": "",
+   "status": "ACTIVE",
+   "value": 11.1
+  },
   "4065670": {
    "fantasy_team": null,
    "id": "4065670",
@@ -2777,20 +2791,6 @@
    "slot": "PG",
    "status": "ACTIVE",
    "value": 35.6
-  },
-  "4396818": {
-   "fantasy_team": null,
-   "id": "4396818",
-   "mpg": null,
-   "name": "Jordan Miller",
-   "nba_team": "LAC",
-   "positions": [
-    "SF"
-   ],
-   "return_date": null,
-   "slot": "",
-   "status": "OUT",
-   "value": 0.0
   },
   "4396907": {
    "fantasy_team": "Tropa do Nikola",

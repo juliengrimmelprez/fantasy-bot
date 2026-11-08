@@ -114,7 +114,7 @@
   "2990992:20261101"
  ],
  "hot_status": "ok: 250 FAs, 1302 games",
- "last_activity_ms": 1794149033805,
+ "last_activity_ms": 1794158212977,
  "last_digest": 1794156737.0065632,
  "last_error_alert": 1794133333.591223,
  "last_hot_check": 1794157457.3699143,
@@ -1064,20 +1064,6 @@
    "status": "ACTIVE",
    "value": 0.9
   },
-  "3137259": {
-   "fantasy_team": null,
-   "id": "3137259",
-   "mpg": null,
-   "name": "Gabe Vincent",
-   "nba_team": "FA",
-   "positions": [
-    "PG"
-   ],
-   "return_date": null,
-   "slot": "",
-   "status": "ACTIVE",
-   "value": 0.0
-  },
   "3138160": {
    "fantasy_team": null,
    "id": "3138160",
@@ -1656,7 +1642,7 @@
    "value": 54.2
   },
   "3978": {
-   "fantasy_team": "Bull Market",
+   "fantasy_team": null,
    "id": "3978",
    "mpg": 24.7,
    "name": "DeMar DeRozan",
@@ -1666,7 +1652,7 @@
     "PF"
    ],
    "return_date": null,
-   "slot": "BE",
+   "slot": "",
    "status": "ACTIVE",
    "value": 19.9
   },
@@ -4353,20 +4339,6 @@
    "status": "ACTIVE",
    "value": 36.7
   },
-  "4683024": {
-   "fantasy_team": null,
-   "id": "4683024",
-   "mpg": null,
-   "name": "Killian Hayes",
-   "nba_team": "FA",
-   "positions": [
-    "PG"
-   ],
-   "return_date": null,
-   "slot": "",
-   "status": "ACTIVE",
-   "value": 0.0
-  },
   "4683634": {
    "fantasy_team": null,
    "id": "4683634",
@@ -4776,7 +4748,7 @@
    "value": 34.6
   },
   "4711272": {
-   "fantasy_team": "Bull Market",
+   "fantasy_team": null,
    "id": "4711272",
    "mpg": 20.6,
    "name": "Reed Sheppard",
@@ -4786,7 +4758,7 @@
     "SG"
    ],
    "return_date": null,
-   "slot": "BE",
+   "slot": "",
    "status": "ACTIVE",
    "value": 22.9
   },
@@ -6796,6 +6768,7 @@
   "drop:4432170:1794133857426",
   "diag:20",
   "planday:20",
-  "drop:4278585:1794149033805"
+  "drop:4278585:1794149033805",
+  "drop:4711272:1794158204947"
  ]
 }

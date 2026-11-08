@@ -114,11 +114,11 @@
   "4845374:20261108",
   "2991139:20261022"
  ],
- "hot_status": "ok: 250 FAs, 1320 games",
+ "hot_status": "ok: 250 FAs, 1325 games",
  "last_activity_ms": 1794178100353,
  "last_digest": 1794178935.856642,
  "last_error_alert": 1794133333.591223,
- "last_hot_check": 1794179538.0613034,
+ "last_hot_check": 1794180496.976793,
  "last_run": "2026-10-19T22:05:14+00:00",
  "matchup_periods": {
   "1": [
@@ -1379,7 +1379,7 @@
    "return_date": null,
    "slot": "",
    "status": "ACTIVE",
-   "value": 19.2
+   "value": 19.6
   },
   "3907823": {
    "fantasy_team": null,
@@ -1424,7 +1424,7 @@
    "return_date": null,
    "slot": "C",
    "status": "ACTIVE",
-   "value": 15.8
+   "value": 15.3
   },
   "3912848": {
    "fantasy_team": null,
@@ -1967,7 +1967,7 @@
   "4066372": {
    "fantasy_team": null,
    "id": "4066372",
-   "mpg": 20.4,
+   "mpg": 18.1,
    "name": "Kevin Huerter",
    "nba_team": "DET",
    "positions": [
@@ -1977,7 +1977,7 @@
    "return_date": null,
    "slot": "",
    "status": "ACTIVE",
-   "value": 16.4
+   "value": 14.0
   },
   "4066383": {
    "fantasy_team": "Caxias French Fries",
@@ -2037,7 +2037,7 @@
    "return_date": null,
    "slot": "PG",
    "status": "ACTIVE",
-   "value": 31.6
+   "value": 31.9
   },
   "4066648": {
    "fantasy_team": "Lakers x Bortolan 23",
@@ -3768,7 +3768,7 @@
    "return_date": null,
    "slot": "C",
    "status": "ACTIVE",
-   "value": 35.5
+   "value": 34.8
   },
   "4433137": {
    "fantasy_team": "Tropa do Nikola",

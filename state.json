@@ -516,7 +516,7 @@
   "2991350": {
    "fantasy_team": "CCCP  Баскетбол",
    "id": "2991350",
-   "mpg": 18.0,
+   "mpg": 18.1,
    "name": "Alex Caruso",
    "nba_team": "OKC",
    "positions": [
@@ -720,7 +720,7 @@
   "3064514": {
    "fantasy_team": "Lebron GOAT",
    "id": "3064514",
-   "mpg": 33.2,
+   "mpg": 33.3,
    "name": "Julius Randle",
    "nba_team": "BKN",
    "positions": [
@@ -872,7 +872,7 @@
    "return_date": null,
    "slot": "",
    "status": "ACTIVE",
-   "value": 14.9
+   "value": 14.2
   },
   "3133628": {
    "fantasy_team": "Polga Silva",
@@ -1015,7 +1015,7 @@
    "return_date": null,
    "slot": "C",
    "status": "ACTIVE",
-   "value": 39.3
+   "value": 38.8
   },
   "3136196": {
    "fantasy_team": null,
@@ -1246,7 +1246,7 @@
    "return_date": null,
    "slot": "UT",
    "status": "ACTIVE",
-   "value": 31.4
+   "value": 31.2
   },
   "3213": {
    "fantasy_team": null,
@@ -1432,7 +1432,7 @@
    "return_date": null,
    "slot": "UT",
    "status": "ACTIVE",
-   "value": 37.7
+   "value": 38.1
   },
   "3908845": {
    "fantasy_team": null,
@@ -1495,7 +1495,7 @@
   "3914044": {
    "fantasy_team": null,
    "id": "3914044",
-   "mpg": 24.0,
+   "mpg": 24.1,
    "name": "Landry Shamet",
    "nba_team": "NYK",
    "positions": [
@@ -1504,7 +1504,7 @@
    "return_date": null,
    "slot": "",
    "status": "ACTIVE",
-   "value": 15.3
+   "value": 15.9
   },
   "3917376": {
    "fantasy_team": "BL0CK BY ZION",
@@ -1524,7 +1524,7 @@
   "3934672": {
    "fantasy_team": "Hospital do Gansola",
    "id": "3934672",
-   "mpg": 33.0,
+   "mpg": 33.1,
    "name": "Jalen Brunson",
    "nba_team": "NYK",
    "positions": [
@@ -1533,7 +1533,7 @@
    "return_date": null,
    "slot": "BE",
    "status": "ACTIVE",
-   "value": 38.9
+   "value": 39.4
   },
   "3934673": {
    "fantasy_team": null,
@@ -2117,7 +2117,7 @@
    "return_date": null,
    "slot": "C",
    "status": "ACTIVE",
-   "value": 27.5
+   "value": 28.0
   },
   "4251": {
    "fantasy_team": "Bull Market",
@@ -2321,7 +2321,7 @@
    "return_date": null,
    "slot": "PG",
    "status": "ACTIVE",
-   "value": 31.0
+   "value": 31.2
   },
   "4278049": {
    "fantasy_team": "Lakers x Bortolan 23",
@@ -2368,7 +2368,7 @@
   "4278073": {
    "fantasy_team": "Polga Silva",
    "id": "4278073",
-   "mpg": 32.5,
+   "mpg": 32.6,
    "name": "Shai Gilgeous-Alexander",
    "nba_team": "OKC",
    "positions": [
@@ -2377,7 +2377,7 @@
    "return_date": null,
    "slot": "UT",
    "status": "ACTIVE",
-   "value": 47.0
+   "value": 46.9
   },
   "4278076": {
    "fantasy_team": null,
@@ -2426,7 +2426,7 @@
   "4278104": {
    "fantasy_team": "Tropa do Nikola",
    "id": "4278104",
-   "mpg": 33.0,
+   "mpg": 33.1,
    "name": "Michael Porter Jr.",
    "nba_team": "BKN",
    "positions": [
@@ -3187,7 +3187,7 @@
   "4431680": {
    "fantasy_team": "Lebron GOAT",
    "id": "4431680",
-   "mpg": 29.1,
+   "mpg": 29.2,
    "name": "Onyeka Okongwu",
    "nba_team": "ATL",
    "positions": [
@@ -3196,7 +3196,7 @@
    "return_date": null,
    "slot": "C",
    "status": "ACTIVE",
-   "value": 32.6
+   "value": 32.5
   },
   "4431684": {
    "fantasy_team": null,
@@ -3302,7 +3302,7 @@
   "4431823": {
    "fantasy_team": null,
    "id": "4431823",
-   "mpg": 16.8,
+   "mpg": 17.0,
    "name": "Miles McBride",
    "nba_team": "NYK",
    "positions": [
@@ -3448,7 +3448,7 @@
   "4432194": {
    "fantasy_team": "Tiki Taka Laranja",
    "id": "4432194",
-   "mpg": 23.6,
+   "mpg": 23.7,
    "name": "Day'Ron Sharpe",
    "nba_team": "BKN",
    "positions": [
@@ -3457,7 +3457,7 @@
    "return_date": null,
    "slot": "C",
    "status": "DAY_TO_DAY",
-   "value": 23.1
+   "value": 23.0
   },
   "4432241": {
    "fantasy_team": "Tiki Taka Laranja",
@@ -4601,7 +4601,7 @@
   "4701230": {
    "fantasy_team": "Lakers x Bortolan 23",
    "id": "4701230",
-   "mpg": 32.5,
+   "mpg": 32.6,
    "name": "Jalen Johnson",
    "nba_team": "ATL",
    "positions": [
@@ -4610,7 +4610,7 @@
    "return_date": null,
    "slot": "PF",
    "status": "ACTIVE",
-   "value": 40.5
+   "value": 40.6
   },
   "4701232": {
    "fantasy_team": null,
@@ -4629,7 +4629,7 @@
   "4701233": {
    "fantasy_team": null,
    "id": "4701233",
-   "mpg": 8.1,
+   "mpg": 8.4,
    "name": "Craig Porter Jr.",
    "nba_team": "CLE",
    "positions": [
@@ -4848,7 +4848,7 @@
   "4845374": {
    "fantasy_team": null,
    "id": "4845374",
-   "mpg": 18.3,
+   "mpg": 18.4,
    "name": "Bub Carrington",
    "nba_team": "WAS",
    "positions": [
@@ -4858,7 +4858,7 @@
    "return_date": null,
    "slot": "",
    "status": "ACTIVE",
-   "value": 13.1
+   "value": 13.2
   },
   "4848625": {
    "fantasy_team": null,
@@ -4891,7 +4891,7 @@
   "4869342": {
    "fantasy_team": "King Coopa",
    "id": "4869342",
-   "mpg": 29.9,
+   "mpg": 30.0,
    "name": "Dyson Daniels",
    "nba_team": "ATL",
    "positions": [
@@ -5526,7 +5526,7 @@
   "5101761": {
    "fantasy_team": "Bull Market",
    "id": "5101761",
-   "mpg": 22.6,
+   "mpg": 22.7,
    "name": "Mikel Brown Jr.",
    "nba_team": "BKN",
    "positions": [
@@ -5565,7 +5565,7 @@
    "return_date": null,
    "slot": "SF",
    "status": "ACTIVE",
-   "value": 18.2
+   "value": 18.1
   },
   "5104157": {
    "fantasy_team": "CCCP  Баскетбол",
@@ -5784,7 +5784,7 @@
   "5107173": {
    "fantasy_team": null,
    "id": "5107173",
-   "mpg": 18.0,
+   "mpg": 18.2,
    "name": "Danny Wolf",
    "nba_team": "BKN",
    "positions": [
@@ -5957,7 +5957,7 @@
   "5149077": {
    "fantasy_team": "Tiki Taka Laranja",
    "id": "5149077",
-   "mpg": 21.2,
+   "mpg": 21.3,
    "name": "Kingston Flemings",
    "nba_team": "ATL",
    "positions": [
@@ -6109,7 +6109,7 @@
    "return_date": null,
    "slot": "C",
    "status": "ACTIVE",
-   "value": 20.9
+   "value": 21.1
   },
   "5175643": {
    "fantasy_team": "Fernando  Diniz",
@@ -6265,7 +6265,7 @@
    "return_date": null,
    "slot": "",
    "status": "ACTIVE",
-   "value": 12.1
+   "value": 12.0
   },
   "5239561": {
    "fantasy_team": null,
@@ -6298,7 +6298,7 @@
   "5241364": {
    "fantasy_team": null,
    "id": "5241364",
-   "mpg": 16.4,
+   "mpg": 16.5,
    "name": "Bennett Stirtz",
    "nba_team": "OKC",
    "positions": [
@@ -6307,7 +6307,7 @@
    "return_date": null,
    "slot": "",
    "status": "ACTIVE",
-   "value": 14.1
+   "value": 14.3
   },
   "5242496": {
    "fantasy_team": null,
@@ -6421,7 +6421,7 @@
    "return_date": null,
    "slot": "",
    "status": "ACTIVE",
-   "value": 7.8
+   "value": 8.5
   },
   "6430": {
    "fantasy_team": null,

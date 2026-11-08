@@ -185,7 +185,7 @@
   "1966": {
    "fantasy_team": "Lucky",
    "id": "1966",
-   "mpg": 32.0,
+   "mpg": 32.2,
    "name": "LeBron James",
    "nba_team": "PHL",
    "positions": [
@@ -195,7 +195,7 @@
    "return_date": null,
    "slot": "SF",
    "status": "ACTIVE",
-   "value": 34.7
+   "value": 35.0
   },
   "2326307": {
    "fantasy_team": null,
@@ -317,7 +317,7 @@
   "2581018": {
    "fantasy_team": null,
    "id": "2581018",
-   "mpg": 21.4,
+   "mpg": 21.5,
    "name": "Kentavious Caldwell-Pope",
    "nba_team": "PHL",
    "positions": [
@@ -327,7 +327,7 @@
    "return_date": null,
    "slot": "",
    "status": "ACTIVE",
-   "value": 14.9
+   "value": 15.0
   },
   "2583632": {
    "fantasy_team": null,
@@ -1500,7 +1500,7 @@
   "3917376": {
    "fantasy_team": "BL0CK BY ZION",
    "id": "3917376",
-   "mpg": 35.1,
+   "mpg": 35.2,
    "name": "Jaylen Brown",
    "nba_team": "PHL",
    "positions": [
@@ -1510,7 +1510,7 @@
    "return_date": null,
    "slot": "SG",
    "status": "ACTIVE",
-   "value": 37.8
+   "value": 38.2
   },
   "3934672": {
    "fantasy_team": "Hospital do Gansola",
@@ -2988,7 +2988,7 @@
   "4397189": {
    "fantasy_team": "Contagem Hunters",
    "id": "4397189",
-   "mpg": 22.3,
+   "mpg": 22.6,
    "name": "Jalen Smith",
    "nba_team": "CHI",
    "positions": [
@@ -2998,7 +2998,7 @@
    "return_date": null,
    "slot": "C",
    "status": "ACTIVE",
-   "value": 27.0
+   "value": 26.9
   },
   "4397227": {
    "fantasy_team": null,
@@ -3206,7 +3206,7 @@
   "4431687": {
    "fantasy_team": null,
    "id": "4431687",
-   "mpg": 20.5,
+   "mpg": 21.0,
    "name": "Patrick Williams",
    "nba_team": "CHI",
    "positions": [
@@ -3215,7 +3215,7 @@
    "return_date": null,
    "slot": "",
    "status": "ACTIVE",
-   "value": 11.5
+   "value": 14.5
   },
   "4431714": {
    "fantasy_team": null,
@@ -3481,7 +3481,7 @@
   "4432446": {
    "fantasy_team": null,
    "id": "4432446",
-   "mpg": 10.3,
+   "mpg": 10.6,
    "name": "Jabari Walker",
    "nba_team": "PHL",
    "positions": [
@@ -3490,7 +3490,7 @@
    "return_date": null,
    "slot": "",
    "status": "ACTIVE",
-   "value": 12.4
+   "value": 12.5
   },
   "4432452": {
    "fantasy_team": null,
@@ -3914,7 +3914,7 @@
    ],
    "return_date": null,
    "slot": "BE",
-   "status": "DAY_TO_DAY",
+   "status": "OUT",
    "value": 31.7
   },
   "4433621": {
@@ -4431,7 +4431,7 @@
   "4683750": {
    "fantasy_team": null,
    "id": "4683750",
-   "mpg": 7.0,
+   "mpg": 7.2,
    "name": "Jordan Hawkins",
    "nba_team": "CHI",
    "positions": [
@@ -4970,7 +4970,7 @@
   "4871145": {
    "fantasy_team": "Lebron GOAT",
    "id": "4871145",
-   "mpg": 26.8,
+   "mpg": 27.0,
    "name": "Josh Giddey",
    "nba_team": "CHI",
    "positions": [
@@ -4980,7 +4980,7 @@
    "return_date": null,
    "slot": "SG",
    "status": "ACTIVE",
-   "value": 29.3
+   "value": 30.0
   },
   "4873090": {
    "fantasy_team": null,
@@ -5862,7 +5862,7 @@
   "5124612": {
    "fantasy_team": "Caxias French Fries",
    "id": "5124612",
-   "mpg": 32.9,
+   "mpg": 33.1,
    "name": "VJ Edgecombe",
    "nba_team": "PHL",
    "positions": [
@@ -5871,7 +5871,7 @@
    "return_date": null,
    "slot": "SG",
    "status": "ACTIVE",
-   "value": 32.4
+   "value": 33.4
   },
   "5142620": {
    "fantasy_team": "BL0CK BY ZION",
@@ -6303,7 +6303,7 @@
   "5242496": {
    "fantasy_team": null,
    "id": "5242496",
-   "mpg": 13.6,
+   "mpg": 13.9,
    "name": "Noa Essengue",
    "nba_team": "CHI",
    "positions": [
@@ -6773,6 +6773,7 @@
   "drop:4711272:1794158204947",
   "drop:4684272:1794158485410",
   "drop:6589:1794165041032",
-  "drop:3135045:1794165614495"
+  "drop:3135045:1794165614495",
+  "inj:4433287:OUT"
  ]
 }

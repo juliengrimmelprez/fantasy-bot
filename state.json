@@ -3959,21 +3959,6 @@
    "status": "ACTIVE",
    "value": 33.5
   },
-  "4433629": {
-   "fantasy_team": null,
-   "id": "4433629",
-   "mpg": 3.3,
-   "name": "Ryan Nembhard",
-   "nba_team": "DEN",
-   "positions": [
-    "PG",
-    "SG"
-   ],
-   "return_date": null,
-   "slot": "",
-   "status": "ACTIVE",
-   "value": 2.9
-  },
   "4437244": {
    "fantasy_team": "Lebron GOAT",
    "id": "4437244",
@@ -4732,6 +4717,20 @@
    "slot": "",
    "status": "ACTIVE",
    "value": 3.5
+  },
+  "4702656": {
+   "fantasy_team": null,
+   "id": "4702656",
+   "mpg": 10.0,
+   "name": "Alijah Martin",
+   "nba_team": "TOR",
+   "positions": [
+    "SG"
+   ],
+   "return_date": null,
+   "slot": "",
+   "status": "ACTIVE",
+   "value": 14.3
   },
   "4703396": {
    "fantasy_team": null,

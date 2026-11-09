@@ -120,7 +120,7 @@
  "last_activity_ms": 1794178100353,
  "last_digest": 1794189980.93471,
  "last_error_alert": 1794133333.591223,
- "last_hot_check": 1794189137.8475447,
+ "last_hot_check": 1794190096.6199386,
  "last_run": "2026-10-19T22:05:14+00:00",
  "matchup_periods": {
   "1": [
@@ -1716,7 +1716,7 @@
    "return_date": null,
    "slot": "UT",
    "status": "ACTIVE",
-   "value": 44.8
+   "value": 44.7
   },
   "4065654": {
    "fantasy_team": null,
@@ -2319,7 +2319,7 @@
   "4278049": {
    "fantasy_team": "Lakers x Bortolan 23",
    "id": "4278049",
-   "mpg": 21.9,
+   "mpg": 22.0,
    "name": "Daniel Gafford",
    "nba_team": "DAL",
    "positions": [
@@ -2328,7 +2328,7 @@
    "return_date": null,
    "slot": "UT",
    "status": "ACTIVE",
-   "value": 28.6
+   "value": 29.0
   },
   "4278053": {
    "fantasy_team": "Tropa do Nikola",
@@ -2404,7 +2404,7 @@
   "4278078": {
    "fantasy_team": "Polga Silva",
    "id": "4278078",
-   "mpg": 32.8,
+   "mpg": 32.9,
    "name": "P.J. Washington",
    "nba_team": "DAL",
    "positions": [
@@ -2419,7 +2419,7 @@
   "4278104": {
    "fantasy_team": "Tropa do Nikola",
    "id": "4278104",
-   "mpg": 32.3,
+   "mpg": 32.4,
    "name": "Michael Porter Jr.",
    "nba_team": "BKN",
    "positions": [
@@ -2429,7 +2429,7 @@
    "return_date": null,
    "slot": "SF",
    "status": "ACTIVE",
-   "value": 33.9
+   "value": 33.7
   },
   "4278129": {
    "fantasy_team": null,
@@ -2617,7 +2617,7 @@
    "return_date": null,
    "slot": "C",
    "status": "ACTIVE",
-   "value": 16.3
+   "value": 16.6
   },
   "4395625": {
    "fantasy_team": "Lebron GOAT",
@@ -3130,7 +3130,7 @@
    "return_date": null,
    "slot": "PF",
    "status": "ACTIVE",
-   "value": 33.9
+   "value": 34.0
   },
   "4431675": {
    "fantasy_team": null,
@@ -3441,7 +3441,7 @@
   "4432194": {
    "fantasy_team": "Tiki Taka Laranja",
    "id": "4432194",
-   "mpg": 23.3,
+   "mpg": 23.4,
    "name": "Day'Ron Sharpe",
    "nba_team": "BKN",
    "positions": [
@@ -3450,7 +3450,7 @@
    "return_date": null,
    "slot": "C",
    "status": "ACTIVE",
-   "value": 23.0
+   "value": 23.5
   },
   "4432241": {
    "fantasy_team": "Tiki Taka Laranja",
@@ -4187,7 +4187,7 @@
   "4593841": {
    "fantasy_team": null,
    "id": "4593841",
-   "mpg": 18.8,
+   "mpg": 18.9,
    "name": "Baylor Scheierman",
    "nba_team": "BOS",
    "positions": [
@@ -5292,7 +5292,7 @@
   "5041939": {
    "fantasy_team": "King Coopa",
    "id": "5041939",
-   "mpg": 32.8,
+   "mpg": 32.9,
    "name": "Cooper Flagg",
    "nba_team": "DAL",
    "positions": [
@@ -5302,7 +5302,7 @@
    "return_date": null,
    "slot": "SF",
    "status": "ACTIVE",
-   "value": 48.5
+   "value": 48.7
   },
   "5041951": {
    "fantasy_team": null,
@@ -5700,7 +5700,7 @@
    "return_date": null,
    "slot": "",
    "status": "ACTIVE",
-   "value": 11.5
+   "value": 11.4
   },
   "5105854": {
    "fantasy_team": null,
@@ -5777,7 +5777,7 @@
   "5107173": {
    "fantasy_team": "Bull Market",
    "id": "5107173",
-   "mpg": 19.6,
+   "mpg": 19.8,
    "name": "Danny Wolf",
    "nba_team": "BKN",
    "positions": [
@@ -6122,7 +6122,7 @@
   "5175647": {
    "fantasy_team": null,
    "id": "5175647",
-   "mpg": 12.4,
+   "mpg": 12.3,
    "name": "Hugo Gonzalez",
    "nba_team": "BOS",
    "positions": [
@@ -6449,7 +6449,7 @@
   "6442": {
    "fantasy_team": "Hospital do Gansola",
    "id": "6442",
-   "mpg": 28.4,
+   "mpg": 28.5,
    "name": "Kyrie Irving",
    "nba_team": "DAL",
    "positions": [
@@ -6458,7 +6458,7 @@
    "return_date": null,
    "slot": "PG",
    "status": "ACTIVE",
-   "value": 37.5
+   "value": 37.8
   },
   "6450": {
    "fantasy_team": "Fernando  Diniz",
@@ -6778,6 +6778,7 @@
   "drop:3135045:1794165614495",
   "inj:4433287:OUT",
   "inj:4066336:OUT",
-  "inj:3155942:OUT"
+  "inj:3155942:OUT",
+  "hot:4066372:20261108"
  ]
 }

@@ -119,7 +119,7 @@
   "4683771:20261030"
  ],
  "hot_status": "ok: 250 FAs, 1378 games",
- "last_activity_ms": 1794239603185,
+ "last_activity_ms": 1794244925536,
  "last_digest": 1794241579.023695,
  "last_error_alert": 1794133333.591223,
  "last_hot_check": 1794244825.8524709,
@@ -2826,7 +2826,7 @@
    "value": 29.3
   },
   "4396909": {
-   "fantasy_team": null,
+   "fantasy_team": "Bull Market",
    "id": "4396909",
    "mpg": 24.4,
    "name": "Aaron Nesmith",
@@ -2836,7 +2836,7 @@
     "SF"
    ],
    "return_date": null,
-   "slot": "",
+   "slot": "BE",
    "status": "ACTIVE",
    "value": 19.0
   },
@@ -3017,6 +3017,21 @@
    "slot": "BE",
    "status": "ACTIVE",
    "value": 28.7
+  },
+  "4397227": {
+   "fantasy_team": null,
+   "id": "4397227",
+   "mpg": null,
+   "name": "Vince Williams Jr.",
+   "nba_team": "FA",
+   "positions": [
+    "PG",
+    "SG"
+   ],
+   "return_date": null,
+   "slot": "",
+   "status": "OUT",
+   "value": 0.0
   },
   "4397251": {
    "fantasy_team": null,

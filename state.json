@@ -118,11 +118,11 @@
   "4278402:20261031",
   "4065731:20261103"
  ],
- "hot_status": "ok: 250 FAs, 1370 games",
- "last_activity_ms": 1794244925536,
+ "hot_status": "ok: 250 FAs, 1372 games",
+ "last_activity_ms": 1794248514984,
  "last_digest": 1794245296.7909734,
  "last_error_alert": 1794133333.591223,
- "last_hot_check": 1794246739.5326223,
+ "last_hot_check": 1794248538.9319732,
  "last_run": "2026-10-19T22:05:14+00:00",
  "matchup_periods": {
   "1": [
@@ -1628,7 +1628,7 @@
    ],
    "return_date": null,
    "slot": "PG",
-   "status": "DAY_TO_DAY",
+   "status": "ACTIVE",
    "value": 72.8
   },
   "3948153": {
@@ -1983,7 +1983,7 @@
    "value": 26.6
   },
   "4066372": {
-   "fantasy_team": null,
+   "fantasy_team": "Contagem Hunters",
    "id": "4066372",
    "mpg": 22.0,
    "name": "Kevin Huerter",
@@ -1993,7 +1993,7 @@
     "SF"
    ],
    "return_date": null,
-   "slot": "",
+   "slot": "SG",
    "status": "ACTIVE",
    "value": 23.7
   },
@@ -2054,7 +2054,7 @@
    ],
    "return_date": null,
    "slot": "PG",
-   "status": "ACTIVE",
+   "status": "DAY_TO_DAY",
    "value": 36.5
   },
   "4066648": {
@@ -2886,7 +2886,7 @@
    "value": 35.3
   },
   "4397014": {
-   "fantasy_team": "Contagem Hunters",
+   "fantasy_team": null,
    "id": "4397014",
    "mpg": 26.1,
    "name": "Quentin Grimes",
@@ -2896,8 +2896,8 @@
     "SF"
    ],
    "return_date": null,
-   "slot": "SG",
-   "status": "DAY_TO_DAY",
+   "slot": "",
+   "status": "OUT",
    "value": 14.2
   },
   "4397020": {
@@ -6797,6 +6797,7 @@
   "inj:3155942:OUT",
   "hot:4066372:20261108",
   "diag:21",
-  "week:4"
+  "week:4",
+  "inj:4066457:DAY_TO_DAY"
  ]
 }

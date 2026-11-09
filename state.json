@@ -118,11 +118,11 @@
   "2995706:20261103",
   "4702382:20261108"
  ],
- "hot_status": "ok: 250 FAs, 1362 games",
- "last_activity_ms": 1794222606709,
+ "hot_status": "ok: 250 FAs, 1359 games",
+ "last_activity_ms": 1794222696896,
  "last_digest": 1794219385.7664888,
  "last_error_alert": 1794133333.591223,
- "last_hot_check": 1794221776.5185933,
+ "last_hot_check": 1794222742.1156206,
  "last_run": "2026-10-19T22:05:14+00:00",
  "matchup_periods": {
   "1": [
@@ -653,7 +653,7 @@
    "value": 29.0
   },
   "3059319": {
-   "fantasy_team": null,
+   "fantasy_team": "Bull Market",
    "id": "3059319",
    "mpg": 26.4,
    "name": "Andrew Wiggins",
@@ -663,7 +663,7 @@
     "PF"
    ],
    "return_date": null,
-   "slot": "",
+   "slot": "UT",
    "status": "ACTIVE",
    "value": 17.3
   },
@@ -1068,6 +1068,20 @@
    "slot": "",
    "status": "ACTIVE",
    "value": 1.0
+  },
+  "3137259": {
+   "fantasy_team": null,
+   "id": "3137259",
+   "mpg": null,
+   "name": "Gabe Vincent",
+   "nba_team": "FA",
+   "positions": [
+    "PG"
+   ],
+   "return_date": null,
+   "slot": "",
+   "status": "ACTIVE",
+   "value": 0.0
   },
   "3138160": {
    "fantasy_team": null,

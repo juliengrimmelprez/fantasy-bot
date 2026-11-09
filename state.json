@@ -3757,7 +3757,7 @@
    ],
    "return_date": null,
    "slot": "SG",
-   "status": "DAY_TO_DAY",
+   "status": "OUT",
    "value": 41.9
   },
   "4433136": {
@@ -6802,6 +6802,7 @@
   "inj:4066457:DAY_TO_DAY",
   "inj:5093267:DAY_TO_DAY",
   "inj:4066457:OUT",
-  "lineup:21"
+  "lineup:21",
+  "inj:4433134:OUT"
  ]
 }

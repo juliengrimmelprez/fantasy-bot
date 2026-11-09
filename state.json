@@ -119,7 +119,7 @@
   "4702382:20261108"
  ],
  "hot_status": "ok: 250 FAs, 1362 games",
- "last_activity_ms": 1794218827929,
+ "last_activity_ms": 1794222606709,
  "last_digest": 1794219385.7664888,
  "last_error_alert": 1794133333.591223,
  "last_hot_check": 1794221776.5185933,
@@ -1027,7 +1027,7 @@
    "value": 41.8
   },
   "3136196": {
-   "fantasy_team": "Bull Market",
+   "fantasy_team": null,
    "id": "3136196",
    "mpg": 18.5,
    "name": "Trey Lyles",
@@ -1036,7 +1036,7 @@
     "PF"
    ],
    "return_date": null,
-   "slot": "UT",
+   "slot": "",
    "status": "ACTIVE",
    "value": 15.5
   },
@@ -1068,20 +1068,6 @@
    "slot": "",
    "status": "ACTIVE",
    "value": 1.0
-  },
-  "3137259": {
-   "fantasy_team": null,
-   "id": "3137259",
-   "mpg": null,
-   "name": "Gabe Vincent",
-   "nba_team": "FA",
-   "positions": [
-    "PG"
-   ],
-   "return_date": null,
-   "slot": "",
-   "status": "ACTIVE",
-   "value": 0.0
   },
   "3138160": {
    "fantasy_team": null,
@@ -5791,7 +5777,7 @@
    "value": 12.1
   },
   "5107173": {
-   "fantasy_team": "Bull Market",
+   "fantasy_team": null,
    "id": "5107173",
    "mpg": 22.6,
    "name": "Danny Wolf",
@@ -5801,7 +5787,7 @@
     "C"
    ],
    "return_date": null,
-   "slot": "C",
+   "slot": "",
    "status": "ACTIVE",
    "value": 17.2
   },
@@ -6580,7 +6566,7 @@
    "value": 46.5
   },
   "6585": {
-   "fantasy_team": null,
+   "fantasy_team": "Bull Market",
    "id": "6585",
    "mpg": 13.1,
    "name": "Andre Drummond",
@@ -6589,7 +6575,7 @@
     "C"
    ],
    "return_date": null,
-   "slot": "",
+   "slot": "C",
    "status": "ACTIVE",
    "value": 14.4
   },

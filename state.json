@@ -2615,7 +2615,7 @@
    ],
    "return_date": null,
    "slot": "C",
-   "status": "DAY_TO_DAY",
+   "status": "ACTIVE",
    "value": 14.4
   },
   "4395625": {
@@ -2674,7 +2674,7 @@
    ],
    "return_date": null,
    "slot": "BE",
-   "status": "ACTIVE",
+   "status": "DAY_TO_DAY",
    "value": 29.7
   },
   "4395650": {
@@ -3769,7 +3769,7 @@
    "return_date": null,
    "slot": "C",
    "status": "ACTIVE",
-   "value": 36.3
+   "value": 36.2
   },
   "4433137": {
    "fantasy_team": "Tropa do Nikola",

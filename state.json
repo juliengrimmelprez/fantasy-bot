@@ -122,7 +122,7 @@
  "last_activity_ms": 1794248514984,
  "last_digest": 1794260026.337576,
  "last_error_alert": 1794133333.591223,
- "last_hot_check": 1794261978.5128782,
+ "last_hot_check": 1794262936.8245168,
  "last_run": "2026-10-19T22:05:14+00:00",
  "matchup_periods": {
   "1": [
@@ -2780,7 +2780,7 @@
    ],
    "return_date": null,
    "slot": "UT",
-   "status": "ACTIVE",
+   "status": "DAY_TO_DAY",
    "value": 34.6
   },
   "4396818": {

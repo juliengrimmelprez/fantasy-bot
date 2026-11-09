@@ -1109,7 +1109,7 @@
    ],
    "return_date": null,
    "slot": "IR",
-   "status": "OUT",
+   "status": "ACTIVE",
    "value": 13.1
   },
   "3147657": {
@@ -5673,7 +5673,7 @@
    ],
    "return_date": null,
    "slot": "",
-   "status": "DAY_TO_DAY",
+   "status": "OUT",
    "value": 11.8
   },
   "5105809": {

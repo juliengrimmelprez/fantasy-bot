@@ -119,7 +119,7 @@
   "4702382:20261108"
  ],
  "hot_status": "ok: 250 FAs, 1359 games",
- "last_activity_ms": 1794222696896,
+ "last_activity_ms": 1794222764169,
  "last_digest": 1794219385.7664888,
  "last_error_alert": 1794133333.591223,
  "last_hot_check": 1794222742.1156206,
@@ -2274,7 +2274,7 @@
    "value": 1.1
   },
   "4277951": {
-   "fantasy_team": "Bull Market",
+   "fantasy_team": null,
    "id": "4277951",
    "mpg": 13.0,
    "name": "Luka Garza",
@@ -2283,7 +2283,7 @@
     "C"
    ],
    "return_date": null,
-   "slot": "UT",
+   "slot": "",
    "status": "ACTIVE",
    "value": 16.1
   },
@@ -4244,7 +4244,7 @@
    "value": 8.3
   },
   "4594327": {
-   "fantasy_team": null,
+   "fantasy_team": "Bull Market",
    "id": "4594327",
    "mpg": 25.7,
    "name": "Keegan Murray",
@@ -4254,7 +4254,7 @@
     "PF"
    ],
    "return_date": null,
-   "slot": "",
+   "slot": "UT",
    "status": "ACTIVE",
    "value": 20.1
   },

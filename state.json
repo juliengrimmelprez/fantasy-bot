@@ -360,7 +360,7 @@
    ],
    "return_date": null,
    "slot": "IR",
-   "status": "OUT",
+   "status": "DAY_TO_DAY",
    "value": 25.3
   },
   "2596112": {
@@ -2083,7 +2083,7 @@
    ],
    "return_date": null,
    "slot": "",
-   "status": "OUT",
+   "status": "DAY_TO_DAY",
    "value": 4.4
   },
   "4066731": {
@@ -5657,7 +5657,7 @@
    ],
    "return_date": null,
    "slot": "",
-   "status": "OUT",
+   "status": "DAY_TO_DAY",
    "value": 11.8
   },
   "5105809": {

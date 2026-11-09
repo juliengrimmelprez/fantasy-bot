@@ -1055,6 +1055,20 @@
    "status": "ACTIVE",
    "value": 0.9
   },
+  "3137259": {
+   "fantasy_team": null,
+   "id": "3137259",
+   "mpg": null,
+   "name": "Gabe Vincent",
+   "nba_team": "FA",
+   "positions": [
+    "PG"
+   ],
+   "return_date": null,
+   "slot": "",
+   "status": "ACTIVE",
+   "value": 0.0
+  },
   "3138160": {
    "fantasy_team": null,
    "id": "3138160",
@@ -1733,20 +1747,6 @@
    "slot": "",
    "status": "OUT",
    "value": 10.9
-  },
-  "4065663": {
-   "fantasy_team": null,
-   "id": "4065663",
-   "mpg": 18.6,
-   "name": "Josh Okogie",
-   "nba_team": "UTA",
-   "positions": [
-    "SF"
-   ],
-   "return_date": null,
-   "slot": "",
-   "status": "ACTIVE",
-   "value": 9.7
   },
   "4065670": {
    "fantasy_team": null,

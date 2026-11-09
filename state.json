@@ -119,7 +119,7 @@
   "4592492:20261031"
  ],
  "hot_status": "ok: 250 FAs, 1363 games",
- "last_activity_ms": 1794178100353,
+ "last_activity_ms": 1794212662656,
  "last_digest": 1794212176.0435715,
  "last_error_alert": 1794133333.591223,
  "last_hot_check": 1794212176.0426867,
@@ -4680,7 +4680,7 @@
    "value": 19.1
   },
   "4702382": {
-   "fantasy_team": null,
+   "fantasy_team": "Lebron GOAT",
    "id": "4702382",
    "mpg": 30.4,
    "name": "Tristan da Silva",
@@ -4690,7 +4690,7 @@
     "PF"
    ],
    "return_date": null,
-   "slot": "",
+   "slot": "UT",
    "status": "ACTIVE",
    "value": 24.8
   },
@@ -5089,7 +5089,7 @@
    "value": 16.2
   },
   "4896372": {
-   "fantasy_team": "Lebron GOAT",
+   "fantasy_team": null,
    "id": "4896372",
    "mpg": 15.7,
    "name": "Walter Clayton Jr.",
@@ -5099,7 +5099,7 @@
     "SG"
    ],
    "return_date": null,
-   "slot": "UT",
+   "slot": "",
    "status": "ACTIVE",
    "value": 20.0
   },

@@ -119,7 +119,7 @@
   "5105854:20261105"
  ],
  "hot_status": "ok: 250 FAs, 1375 games",
- "last_activity_ms": 1794222886426,
+ "last_activity_ms": 1794239603185,
  "last_digest": 1794237858.9871159,
  "last_error_alert": 1794133333.591223,
  "last_hot_check": 1794239058.9436367,
@@ -936,7 +936,7 @@
     "PF"
    ],
    "return_date": null,
-   "slot": "UT",
+   "slot": "BE",
    "status": "ACTIVE",
    "value": 24.8
   },
@@ -2607,7 +2607,7 @@
    "value": 8.1
   },
   "4351851": {
-   "fantasy_team": "CCCP  Баскетбол",
+   "fantasy_team": null,
    "id": "4351851",
    "mpg": 21.9,
    "name": "Anfernee Simons",
@@ -2617,7 +2617,7 @@
     "SG"
    ],
    "return_date": null,
-   "slot": "BE",
+   "slot": "",
    "status": "ACTIVE",
    "value": 17.3
   },
@@ -4578,7 +4578,7 @@
    "value": 4.6
   },
   "4698719": {
-   "fantasy_team": null,
+   "fantasy_team": "CCCP  Баскетбол",
    "id": "4698719",
    "mpg": 21.1,
    "name": "Trevon Brazile",
@@ -4588,7 +4588,7 @@
     "PF"
    ],
    "return_date": null,
-   "slot": "",
+   "slot": "UT",
    "status": "ACTIVE",
    "value": 18.0
   },

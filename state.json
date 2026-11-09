@@ -359,7 +359,7 @@
     "SF"
    ],
    "return_date": null,
-   "slot": "IR",
+   "slot": "BE",
    "status": "DAY_TO_DAY",
    "value": 25.3
   },
@@ -1022,7 +1022,7 @@
     "C"
    ],
    "return_date": null,
-   "slot": "BE",
+   "slot": "C",
    "status": "ACTIVE",
    "value": 41.8
   },
@@ -5444,7 +5444,7 @@
     "C"
    ],
    "return_date": null,
-   "slot": "C",
+   "slot": "IR",
    "status": "OUT",
    "value": 36.0
   },
@@ -5515,7 +5515,7 @@
    ],
    "return_date": null,
    "slot": "UT",
-   "status": "ACTIVE",
+   "status": "DAY_TO_DAY",
    "value": 22.7
   },
   "5095151": {
@@ -6798,6 +6798,7 @@
   "hot:4066372:20261108",
   "diag:21",
   "week:4",
-  "inj:4066457:DAY_TO_DAY"
+  "inj:4066457:DAY_TO_DAY",
+  "inj:5093267:DAY_TO_DAY"
  ]
 }

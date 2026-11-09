@@ -119,7 +119,7 @@
   "6585:20261020"
  ],
  "hot_status": "ok: 250 FAs, 1363 games",
- "last_activity_ms": 1794212662656,
+ "last_activity_ms": 1794218735298,
  "last_digest": 1794215782.1482348,
  "last_error_alert": 1794133333.591223,
  "last_hot_check": 1794217938.2706804,
@@ -197,7 +197,7 @@
     "PF"
    ],
    "return_date": null,
-   "slot": "SF",
+   "slot": "UT",
    "status": "ACTIVE",
    "value": 36.9
   },
@@ -653,7 +653,7 @@
    "value": 29.0
   },
   "3059319": {
-   "fantasy_team": "Lucky",
+   "fantasy_team": null,
    "id": "3059319",
    "mpg": 26.4,
    "name": "Andrew Wiggins",
@@ -663,7 +663,7 @@
     "PF"
    ],
    "return_date": null,
-   "slot": "UT",
+   "slot": "",
    "status": "ACTIVE",
    "value": 17.3
   },
@@ -765,7 +765,7 @@
     "SG"
    ],
    "return_date": null,
-   "slot": "PG",
+   "slot": "UT",
    "status": "ACTIVE",
    "value": 29.6
   },
@@ -1069,20 +1069,6 @@
    "status": "ACTIVE",
    "value": 1.0
   },
-  "3137259": {
-   "fantasy_team": null,
-   "id": "3137259",
-   "mpg": null,
-   "name": "Gabe Vincent",
-   "nba_team": "FA",
-   "positions": [
-    "PG"
-   ],
-   "return_date": null,
-   "slot": "",
-   "status": "ACTIVE",
-   "value": 0.0
-  },
   "3138160": {
    "fantasy_team": null,
    "id": "3138160",
@@ -1296,7 +1282,7 @@
     "C"
    ],
    "return_date": null,
-   "slot": "C",
+   "slot": "BE",
    "status": "ACTIVE",
    "value": 24.7
   },
@@ -1613,7 +1599,7 @@
     "PG"
    ],
    "return_date": null,
-   "slot": "UT",
+   "slot": "PG",
    "status": "DAY_TO_DAY",
    "value": 47.0
   },
@@ -2471,7 +2457,7 @@
     "PF"
    ],
    "return_date": null,
-   "slot": "BE",
+   "slot": "UT",
    "status": "ACTIVE",
    "value": 22.3
   },
@@ -2530,7 +2516,7 @@
     "C"
    ],
    "return_date": null,
-   "slot": "PF",
+   "slot": "C",
    "status": "ACTIVE",
    "value": 19.5
   },
@@ -3362,7 +3348,7 @@
     "C"
    ],
    "return_date": null,
-   "slot": "UT",
+   "slot": "PF",
    "status": "ACTIVE",
    "value": 39.0
   },
@@ -4092,7 +4078,7 @@
     "PF"
    ],
    "return_date": null,
-   "slot": "BE",
+   "slot": "SF",
    "status": "ACTIVE",
    "value": 21.6
   },

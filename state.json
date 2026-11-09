@@ -115,11 +115,11 @@
   "4433137:20261024",
   "2581018:20261108"
  ],
- "hot_status": "ok: 250 FAs, 1333 games",
+ "hot_status": "ok: 250 FAs, 1337 games",
  "last_activity_ms": 1794178100353,
  "last_digest": 1794182658.6922228,
  "last_error_alert": 1794133333.591223,
- "last_hot_check": 1794184338.2266893,
+ "last_hot_check": 1794185294.0863395,
  "last_run": "2026-10-19T22:05:14+00:00",
  "matchup_periods": {
   "1": [
@@ -372,7 +372,7 @@
    "return_date": null,
    "slot": "",
    "status": "ACTIVE",
-   "value": 11.5
+   "value": 12.4
   },
   "2779": {
    "fantasy_team": null,
@@ -726,7 +726,7 @@
   "3064514": {
    "fantasy_team": "Lebron GOAT",
    "id": "3064514",
-   "mpg": 30.7,
+   "mpg": 30.8,
    "name": "Julius Randle",
    "nba_team": "BKN",
    "positions": [
@@ -1055,7 +1055,7 @@
   "3138160": {
    "fantasy_team": null,
    "id": "3138160",
-   "mpg": 15.7,
+   "mpg": 15.8,
    "name": "Caleb Martin",
    "nba_team": "DAL",
    "positions": [
@@ -1978,7 +1978,7 @@
    "return_date": null,
    "slot": "",
    "status": "ACTIVE",
-   "value": 19.9
+   "value": 20.0
   },
   "4066383": {
    "fantasy_team": "Caxias French Fries",
@@ -2139,7 +2139,7 @@
    "return_date": null,
    "slot": "",
    "status": "ACTIVE",
-   "value": 13.5
+   "value": 13.4
   },
   "4277813": {
    "fantasy_team": null,
@@ -2318,7 +2318,7 @@
   "4278049": {
    "fantasy_team": "Lakers x Bortolan 23",
    "id": "4278049",
-   "mpg": 20.7,
+   "mpg": 20.8,
    "name": "Daniel Gafford",
    "nba_team": "DAL",
    "positions": [
@@ -2388,7 +2388,7 @@
   "4278077": {
    "fantasy_team": null,
    "id": "4278077",
-   "mpg": 11.3,
+   "mpg": 11.5,
    "name": "Jarred Vanderbilt",
    "nba_team": "LAL",
    "positions": [
@@ -2398,12 +2398,12 @@
    "return_date": null,
    "slot": "",
    "status": "ACTIVE",
-   "value": 8.5
+   "value": 8.2
   },
   "4278078": {
    "fantasy_team": "Polga Silva",
    "id": "4278078",
-   "mpg": 31.5,
+   "mpg": 31.6,
    "name": "P.J. Washington",
    "nba_team": "DAL",
    "positions": [
@@ -2413,12 +2413,12 @@
    "return_date": null,
    "slot": "SF",
    "status": "ACTIVE",
-   "value": 24.9
+   "value": 25.1
   },
   "4278104": {
    "fantasy_team": "Tropa do Nikola",
    "id": "4278104",
-   "mpg": 30.4,
+   "mpg": 30.5,
    "name": "Michael Porter Jr.",
    "nba_team": "BKN",
    "positions": [
@@ -2856,7 +2856,7 @@
   "4397002": {
    "fantasy_team": "Tiki Taka Laranja",
    "id": "4397002",
-   "mpg": 29.7,
+   "mpg": 29.8,
    "name": "Ayo Dosunmu",
    "nba_team": "MIN",
    "positions": [
@@ -2871,7 +2871,7 @@
   "4397014": {
    "fantasy_team": "Contagem Hunters",
    "id": "4397014",
-   "mpg": 25.5,
+   "mpg": 25.6,
    "name": "Quentin Grimes",
    "nba_team": "LAL",
    "positions": [
@@ -3440,7 +3440,7 @@
   "4432194": {
    "fantasy_team": "Tiki Taka Laranja",
    "id": "4432194",
-   "mpg": 22.0,
+   "mpg": 22.1,
    "name": "Day'Ron Sharpe",
    "nba_team": "BKN",
    "positions": [
@@ -3449,7 +3449,7 @@
    "return_date": null,
    "slot": "C",
    "status": "ACTIVE",
-   "value": 20.8
+   "value": 20.9
   },
   "4432241": {
    "fantasy_team": "Tiki Taka Laranja",
@@ -5291,7 +5291,7 @@
   "5041939": {
    "fantasy_team": "King Coopa",
    "id": "5041939",
-   "mpg": 30.9,
+   "mpg": 31.0,
    "name": "Cooper Flagg",
    "nba_team": "DAL",
    "positions": [
@@ -5301,7 +5301,7 @@
    "return_date": null,
    "slot": "SF",
    "status": "ACTIVE",
-   "value": 43.8
+   "value": 44.3
   },
   "5041951": {
    "fantasy_team": null,
@@ -5776,7 +5776,7 @@
   "5107173": {
    "fantasy_team": "Bull Market",
    "id": "5107173",
-   "mpg": 16.0,
+   "mpg": 16.2,
    "name": "Danny Wolf",
    "nba_team": "BKN",
    "positions": [
@@ -6362,7 +6362,7 @@
   "5279130": {
    "fantasy_team": "Tiki Taka Laranja",
    "id": "5279130",
-   "mpg": 20.3,
+   "mpg": 20.4,
    "name": "Nolan Traore",
    "nba_team": "BKN",
    "positions": [
@@ -6371,7 +6371,7 @@
    "return_date": null,
    "slot": "UT",
    "status": "ACTIVE",
-   "value": 26.1
+   "value": 26.2
   },
   "5279133": {
    "fantasy_team": null,
@@ -6448,7 +6448,7 @@
   "6442": {
    "fantasy_team": "Hospital do Gansola",
    "id": "6442",
-   "mpg": 26.4,
+   "mpg": 26.5,
    "name": "Kyrie Irving",
    "nba_team": "DAL",
    "positions": [

@@ -122,7 +122,7 @@
  "last_activity_ms": 1794178100353,
  "last_digest": 1794208454.2335913,
  "last_error_alert": 1794133333.591223,
- "last_hot_check": 1794210256.651682,
+ "last_hot_check": 1794211230.7176943,
  "last_run": "2026-10-19T22:05:14+00:00",
  "matchup_periods": {
   "1": [
@@ -184,7 +184,7 @@
   ]
  },
  "matchup_periods_day": "2026-11-09",
- "plan_status": "ok: day 20, matchup 3 [14]..[20], adds left 10, opp Polga Silva",
+ "plan_status": "ok: day 21, matchup 4 [21]..[27], adds left 10, opp CCCP  Баскетбол",
  "players": {
   "1966": {
    "fantasy_team": "Lucky",
@@ -678,7 +678,7 @@
     "SF"
    ],
    "return_date": null,
-   "slot": "UT",
+   "slot": "BE",
    "status": "DAY_TO_DAY",
    "value": 26.6
   },
@@ -939,6 +939,20 @@
    "slot": "SF",
    "status": "ACTIVE",
    "value": 25.0
+  },
+  "3134908": {
+   "fantasy_team": "Tropa do Nikola",
+   "id": "3134908",
+   "mpg": 21.6,
+   "name": "Jakob Poeltl",
+   "nba_team": "TOR",
+   "positions": [
+    "C"
+   ],
+   "return_date": null,
+   "slot": "UT",
+   "status": "ACTIVE",
+   "value": 19.9
   },
   "3134916": {
    "fantasy_team": null,
@@ -2314,7 +2328,7 @@
     "SG"
    ],
    "return_date": null,
-   "slot": "BE",
+   "slot": "PG",
    "status": "ACTIVE",
    "value": 31.9
   },
@@ -2429,7 +2443,7 @@
     "PF"
    ],
    "return_date": null,
-   "slot": "SF",
+   "slot": "BE",
    "status": "ACTIVE",
    "value": 33.5
   },
@@ -2807,7 +2821,7 @@
     "PG"
    ],
    "return_date": null,
-   "slot": "UT",
+   "slot": "BE",
    "status": "ACTIVE",
    "value": 29.3
   },
@@ -2985,7 +2999,7 @@
     "SF"
    ],
    "return_date": null,
-   "slot": "BE",
+   "slot": "SF",
    "status": "ACTIVE",
    "value": 27.7
   },
@@ -3622,7 +3636,7 @@
     "PG"
    ],
    "return_date": null,
-   "slot": "PG",
+   "slot": "BE",
    "status": "ACTIVE",
    "value": 34.2
   },
@@ -3917,7 +3931,7 @@
     "SF"
    ],
    "return_date": null,
-   "slot": "BE",
+   "slot": "IR",
    "status": "OUT",
    "value": 31.7
   },
@@ -3990,7 +4004,7 @@
     "PF"
    ],
    "return_date": null,
-   "slot": "UT",
+   "slot": "BE",
    "status": "ACTIVE",
    "value": 40.5
   },
@@ -4019,7 +4033,7 @@
     "PF"
    ],
    "return_date": null,
-   "slot": "BE",
+   "slot": "UT",
    "status": "ACTIVE",
    "value": 27.6
   },
@@ -5500,7 +5514,7 @@
     "PF"
    ],
    "return_date": null,
-   "slot": "BE",
+   "slot": "UT",
    "status": "ACTIVE",
    "value": 22.7
   },

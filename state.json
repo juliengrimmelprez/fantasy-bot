@@ -118,11 +118,11 @@
   "4397077:20261022",
   "6585:20261020"
  ],
- "hot_status": "ok: 250 FAs, 1363 games",
- "last_activity_ms": 1794218735298,
+ "hot_status": "ok: 250 FAs, 1362 games",
+ "last_activity_ms": 1794218827929,
  "last_digest": 1794215782.1482348,
  "last_error_alert": 1794133333.591223,
- "last_hot_check": 1794217938.2706804,
+ "last_hot_check": 1794218895.3125622,
  "last_run": "2026-10-19T22:05:14+00:00",
  "matchup_periods": {
   "1": [
@@ -765,7 +765,7 @@
     "SG"
    ],
    "return_date": null,
-   "slot": "UT",
+   "slot": "BE",
    "status": "ACTIVE",
    "value": 29.6
   },
@@ -1068,6 +1068,20 @@
    "slot": "",
    "status": "ACTIVE",
    "value": 1.0
+  },
+  "3137259": {
+   "fantasy_team": null,
+   "id": "3137259",
+   "mpg": null,
+   "name": "Gabe Vincent",
+   "nba_team": "FA",
+   "positions": [
+    "PG"
+   ],
+   "return_date": null,
+   "slot": "",
+   "status": "ACTIVE",
+   "value": 0.0
   },
   "3138160": {
    "fantasy_team": null,
@@ -1386,7 +1400,7 @@
    "value": 27.7
   },
   "3907498": {
-   "fantasy_team": null,
+   "fantasy_team": "Lucky",
    "id": "3907498",
    "mpg": 24.5,
    "name": "Matisse Thybulle",
@@ -1395,7 +1409,7 @@
     "SF"
    ],
    "return_date": null,
-   "slot": "",
+   "slot": "SF",
    "status": "ACTIVE",
    "value": 20.7
   },
@@ -4078,7 +4092,7 @@
     "PF"
    ],
    "return_date": null,
-   "slot": "SF",
+   "slot": "UT",
    "status": "ACTIVE",
    "value": 21.6
   },

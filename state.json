@@ -126,7 +126,7 @@
   "4277951:20261101"
  ],
  "hot_status": "ok: 250 FAs, 1449 games",
- "last_activity_ms": 1794342488015,
+ "last_activity_ms": 1794343787745,
  "last_digest": 1794341538.0437841,
  "last_error_alert": 1794133333.591223,
  "last_hot_check": 1794343578.5002584,
@@ -2528,7 +2528,7 @@
    "value": 28.5
   },
   "4278572": {
-   "fantasy_team": null,
+   "fantasy_team": "Tiki Taka Laranja",
    "id": "4278572",
    "mpg": 19.4,
    "name": "Jamal Cain",
@@ -2537,7 +2537,7 @@
     "SF"
    ],
    "return_date": null,
-   "slot": "",
+   "slot": "UT",
    "status": "ACTIVE",
    "value": 13.4
   },
@@ -3471,7 +3471,7 @@
     "C"
    ],
    "return_date": null,
-   "slot": "UT",
+   "slot": "BE",
    "status": "ACTIVE",
    "value": 26.9
   },
@@ -5957,7 +5957,7 @@
    "value": 2.7
   },
   "5149077": {
-   "fantasy_team": "Tiki Taka Laranja",
+   "fantasy_team": null,
    "id": "5149077",
    "mpg": 21.9,
    "name": "Kingston Flemings",
@@ -5967,7 +5967,7 @@
     "PG"
    ],
    "return_date": null,
-   "slot": "BE",
+   "slot": "",
    "status": "ACTIVE",
    "value": 22.9
   },
@@ -6804,6 +6804,7 @@
   "drop:4997538:1794300159208",
   "drop:3907498:1794304227804",
   "diag:22",
-  "planday:22"
+  "planday:22",
+  "drop:5149077:1794343787745"
  ]
 }

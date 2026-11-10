@@ -1712,6 +1712,21 @@
    "status": "ACTIVE",
    "value": 17.0
   },
+  "4017844": {
+   "fantasy_team": null,
+   "id": "4017844",
+   "mpg": null,
+   "name": "Guerschon Yabusele",
+   "nba_team": "FA",
+   "positions": [
+    "PF",
+    "C"
+   ],
+   "return_date": null,
+   "slot": "",
+   "status": "ACTIVE",
+   "value": 0.0
+  },
   "4017850": {
    "fantasy_team": null,
    "id": "4017850",
@@ -3956,21 +3971,6 @@
    "slot": "PG",
    "status": "OUT",
    "value": 33.1
-  },
-  "4433629": {
-   "fantasy_team": null,
-   "id": "4433629",
-   "mpg": 3.3,
-   "name": "Ryan Nembhard",
-   "nba_team": "DEN",
-   "positions": [
-    "PG",
-    "SG"
-   ],
-   "return_date": null,
-   "slot": "",
-   "status": "ACTIVE",
-   "value": 2.9
   },
   "4437244": {
    "fantasy_team": "Lebron GOAT",

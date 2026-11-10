@@ -3957,6 +3957,21 @@
    "status": "OUT",
    "value": 33.1
   },
+  "4433629": {
+   "fantasy_team": null,
+   "id": "4433629",
+   "mpg": 3.3,
+   "name": "Ryan Nembhard",
+   "nba_team": "DEN",
+   "positions": [
+    "PG",
+    "SG"
+   ],
+   "return_date": null,
+   "slot": "",
+   "status": "ACTIVE",
+   "value": 2.9
+  },
   "4437244": {
    "fantasy_team": "Lebron GOAT",
    "id": "4437244",
@@ -3971,20 +3986,6 @@
    "slot": "SF",
    "status": "ACTIVE",
    "value": 20.8
-  },
-  "4565698": {
-   "fantasy_team": null,
-   "id": "4565698",
-   "mpg": 14.3,
-   "name": "Bryce Hopkins",
-   "nba_team": "DEN",
-   "positions": [
-    "SF"
-   ],
-   "return_date": null,
-   "slot": "",
-   "status": "ACTIVE",
-   "value": 9.9
   },
   "4566434": {
    "fantasy_team": "King Coopa",

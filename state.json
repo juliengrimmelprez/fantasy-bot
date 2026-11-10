@@ -126,7 +126,7 @@
   "4066262:20261103"
  ],
  "hot_status": "ok: 250 FAs, 1460 games",
- "last_activity_ms": 1794309360028,
+ "last_activity_ms": 1794311335193,
  "last_digest": 1794308180.593246,
  "last_error_alert": 1794133333.591223,
  "last_hot_check": 1794310938.8487947,
@@ -1246,7 +1246,7 @@
     "PF"
    ],
    "return_date": null,
-   "slot": "UT",
+   "slot": "BE",
    "status": "ACTIVE",
    "value": 35.4
   },
@@ -2528,7 +2528,7 @@
    "value": 23.0
   },
   "4278585": {
-   "fantasy_team": null,
+   "fantasy_team": "Contagem Hunters",
    "id": "4278585",
    "mpg": 24.4,
    "name": "Collin Gillespie",
@@ -2537,7 +2537,7 @@
     "PG"
    ],
    "return_date": null,
-   "slot": "",
+   "slot": "UT",
    "status": "ACTIVE",
    "value": 21.3
   },
@@ -4104,7 +4104,7 @@
    "value": 20.3
   },
   "4592691": {
-   "fantasy_team": "Contagem Hunters",
+   "fantasy_team": null,
    "id": "4592691",
    "mpg": 24.8,
    "name": "Jake LaRavia",
@@ -4114,7 +4114,7 @@
     "PF"
    ],
    "return_date": null,
-   "slot": "BE",
+   "slot": "",
    "status": "ACTIVE",
    "value": 19.0
   },

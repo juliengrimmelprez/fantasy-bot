@@ -126,7 +126,7 @@
   "4845374:20261108"
  ],
  "hot_status": "ok: 249 FAs, 1444 games",
- "last_activity_ms": 1794279611246,
+ "last_activity_ms": 1794297606500,
  "last_digest": 1794297135.532648,
  "last_error_alert": 1794133333.591223,
  "last_hot_check": 1794297496.0048442,
@@ -191,7 +191,7 @@
   ]
  },
  "matchup_periods_day": "2026-11-10",
- "plan_status": "ok: day 21, matchup 4 [21]..[27], adds left 10, opp CCCP  Баскетбол",
+ "plan_status": "ok: day 22, matchup 4 [21]..[27], adds left 9, opp CCCP  Баскетбол",
  "players": {
   "1966": {
    "fantasy_team": "Lucky",
@@ -204,7 +204,7 @@
     "PF"
    ],
    "return_date": null,
-   "slot": "UT",
+   "slot": "SF",
    "status": "ACTIVE",
    "value": 36.9
   },
@@ -234,7 +234,7 @@
     "SG"
    ],
    "return_date": null,
-   "slot": "PG",
+   "slot": "BE",
    "status": "ACTIVE",
    "value": 25.8
   },
@@ -366,7 +366,7 @@
     "SF"
    ],
    "return_date": null,
-   "slot": "BE",
+   "slot": "UT",
    "status": "DAY_TO_DAY",
    "value": 25.3
   },
@@ -540,7 +540,7 @@
     "SG"
    ],
    "return_date": null,
-   "slot": "BE",
+   "slot": "PG",
    "status": "ACTIVE",
    "value": 23.2
   },
@@ -655,7 +655,7 @@
     "C"
    ],
    "return_date": null,
-   "slot": "BE",
+   "slot": "C",
    "status": "ACTIVE",
    "value": 29.0
   },
@@ -670,7 +670,7 @@
     "PF"
    ],
    "return_date": null,
-   "slot": "BE",
+   "slot": "UT",
    "status": "ACTIVE",
    "value": 17.3
   },
@@ -685,7 +685,7 @@
     "SF"
    ],
    "return_date": null,
-   "slot": "BE",
+   "slot": "SG",
    "status": "DAY_TO_DAY",
    "value": 26.6
   },
@@ -699,7 +699,7 @@
     "PF"
    ],
    "return_date": null,
-   "slot": "PF",
+   "slot": "UT",
    "status": "ACTIVE",
    "value": 19.9
   },
@@ -772,12 +772,12 @@
     "SG"
    ],
    "return_date": null,
-   "slot": "BE",
+   "slot": "PG",
    "status": "ACTIVE",
    "value": 29.6
   },
   "3102529": {
-   "fantasy_team": "Fernando  Diniz",
+   "fantasy_team": null,
    "id": "3102529",
    "mpg": 14.2,
    "name": "Clint Capela",
@@ -786,7 +786,7 @@
     "C"
    ],
    "return_date": null,
-   "slot": "BE",
+   "slot": "",
    "status": "OUT",
    "value": 20.7
   },
@@ -943,7 +943,7 @@
     "PF"
    ],
    "return_date": null,
-   "slot": "BE",
+   "slot": "SF",
    "status": "ACTIVE",
    "value": 24.8
   },
@@ -957,7 +957,7 @@
     "C"
    ],
    "return_date": null,
-   "slot": "UT",
+   "slot": "BE",
    "status": "ACTIVE",
    "value": 24.5
   },
@@ -976,7 +976,7 @@
    "value": 7.3
   },
   "3135045": {
-   "fantasy_team": null,
+   "fantasy_team": "Fernando  Diniz",
    "id": "3135045",
    "mpg": 26.7,
    "name": "Grayson Allen",
@@ -986,7 +986,7 @@
     "SG"
    ],
    "return_date": null,
-   "slot": "",
+   "slot": "BE",
    "status": "ACTIVE",
    "value": 25.7
   },
@@ -1015,7 +1015,7 @@
     "SG"
    ],
    "return_date": null,
-   "slot": "UT",
+   "slot": "PG",
    "status": "ACTIVE",
    "value": 37.7
   },
@@ -1130,7 +1130,7 @@
     "SF"
    ],
    "return_date": null,
-   "slot": "BE",
+   "slot": "SF",
    "status": "ACTIVE",
    "value": 18.0
   },
@@ -1289,7 +1289,7 @@
     "C"
    ],
    "return_date": null,
-   "slot": "BE",
+   "slot": "C",
    "status": "ACTIVE",
    "value": 24.7
   },
@@ -1402,7 +1402,7 @@
     "SF"
    ],
    "return_date": null,
-   "slot": "SF",
+   "slot": "BE",
    "status": "ACTIVE",
    "value": 20.9
   },
@@ -1432,7 +1432,7 @@
     "SG"
    ],
    "return_date": null,
-   "slot": "PG",
+   "slot": "BE",
    "status": "ACTIVE",
    "value": 39.7
   },
@@ -1447,7 +1447,7 @@
     "C"
    ],
    "return_date": null,
-   "slot": "PF",
+   "slot": "BE",
    "status": "ACTIVE",
    "value": 23.0
   },
@@ -1533,7 +1533,7 @@
     "PG"
    ],
    "return_date": null,
-   "slot": "UT",
+   "slot": "PG",
    "status": "ACTIVE",
    "value": 41.3
   },
@@ -1563,7 +1563,7 @@
     "PF"
    ],
    "return_date": null,
-   "slot": "BE",
+   "slot": "PF",
    "status": "ACTIVE",
    "value": 27.8
   },
@@ -1592,7 +1592,7 @@
     "PF"
    ],
    "return_date": null,
-   "slot": "SF",
+   "slot": "PF",
    "status": "ACTIVE",
    "value": 24.9
   },
@@ -1606,7 +1606,7 @@
     "PG"
    ],
    "return_date": null,
-   "slot": "PG",
+   "slot": "UT",
    "status": "ACTIVE",
    "value": 49.3
   },
@@ -1679,7 +1679,7 @@
     "SG"
    ],
    "return_date": null,
-   "slot": "SG",
+   "slot": "UT",
    "status": "ACTIVE",
    "value": 29.8
   },
@@ -1708,7 +1708,7 @@
     "C"
    ],
    "return_date": null,
-   "slot": "C",
+   "slot": "BE",
    "status": "ACTIVE",
    "value": 15.4
   },
@@ -1795,7 +1795,7 @@
     "PF"
    ],
    "return_date": null,
-   "slot": "BE",
+   "slot": "UT",
    "status": "ACTIVE",
    "value": 19.7
   },
@@ -1853,7 +1853,7 @@
     "C"
    ],
    "return_date": null,
-   "slot": "BE",
+   "slot": "UT",
    "status": "ACTIVE",
    "value": 26.3
   },
@@ -1927,7 +1927,7 @@
     "SF"
    ],
    "return_date": null,
-   "slot": "UT",
+   "slot": "SG",
    "status": "ACTIVE",
    "value": 29.8
   },
@@ -1956,7 +1956,7 @@
     "PF"
    ],
    "return_date": null,
-   "slot": "UT",
+   "slot": "SF",
    "status": "DAY_TO_DAY",
    "value": 30.6
   },
@@ -1971,7 +1971,7 @@
     "SG"
    ],
    "return_date": null,
-   "slot": "BE",
+   "slot": "SG",
    "status": "ACTIVE",
    "value": 26.6
   },
@@ -1986,7 +1986,7 @@
     "SF"
    ],
    "return_date": null,
-   "slot": "SG",
+   "slot": "BE",
    "status": "ACTIVE",
    "value": 23.6
   },
@@ -2117,7 +2117,7 @@
     "C"
    ],
    "return_date": null,
-   "slot": "C",
+   "slot": "UT",
    "status": "ACTIVE",
    "value": 27.5
   },
@@ -2191,7 +2191,7 @@
     "C"
    ],
    "return_date": null,
-   "slot": "UT",
+   "slot": "C",
    "status": "ACTIVE",
    "value": 29.2
   },
@@ -2321,7 +2321,7 @@
     "SG"
    ],
    "return_date": null,
-   "slot": "PG",
+   "slot": "SG",
    "status": "ACTIVE",
    "value": 32.4
   },
@@ -2349,7 +2349,7 @@
     "PG"
    ],
    "return_date": null,
-   "slot": "UT",
+   "slot": "PG",
    "status": "ACTIVE",
    "value": 39.0
   },
@@ -2436,7 +2436,7 @@
     "PF"
    ],
    "return_date": null,
-   "slot": "BE",
+   "slot": "SF",
    "status": "ACTIVE",
    "value": 31.6
   },
@@ -2464,7 +2464,7 @@
     "PF"
    ],
    "return_date": null,
-   "slot": "UT",
+   "slot": "BE",
    "status": "ACTIVE",
    "value": 22.2
   },
@@ -2484,7 +2484,7 @@
    "value": 23.3
   },
   "4278562": {
-   "fantasy_team": "King Coopa",
+   "fantasy_team": null,
    "id": "4278562",
    "mpg": 26.0,
    "name": "Paul Reed",
@@ -2494,7 +2494,7 @@
     "C"
    ],
    "return_date": null,
-   "slot": "PF",
+   "slot": "",
    "status": "ACTIVE",
    "value": 27.7
   },
@@ -2523,7 +2523,7 @@
     "C"
    ],
    "return_date": null,
-   "slot": "C",
+   "slot": "BE",
    "status": "ACTIVE",
    "value": 22.5
   },
@@ -2552,7 +2552,7 @@
     "PF"
    ],
    "return_date": null,
-   "slot": "SF",
+   "slot": "BE",
    "status": "ACTIVE",
    "value": 22.4
   },
@@ -2624,7 +2624,7 @@
     "C"
    ],
    "return_date": null,
-   "slot": "UT",
+   "slot": "C",
    "status": "ACTIVE",
    "value": 18.7
   },
@@ -2639,7 +2639,7 @@
     "SF"
    ],
    "return_date": null,
-   "slot": "SF",
+   "slot": "UT",
    "status": "ACTIVE",
    "value": 31.6
   },
@@ -2697,7 +2697,7 @@
     "SF"
    ],
    "return_date": null,
-   "slot": "BE",
+   "slot": "SF",
    "status": "ACTIVE",
    "value": 20.5
   },
@@ -2712,7 +2712,7 @@
     "SG"
    ],
    "return_date": null,
-   "slot": "PG",
+   "slot": "BE",
    "status": "ACTIVE",
    "value": 7.2
   },
@@ -2756,7 +2756,7 @@
     "PF"
    ],
    "return_date": null,
-   "slot": "UT",
+   "slot": "BE",
    "status": "ACTIVE",
    "value": 15.3
   },
@@ -2771,7 +2771,7 @@
     "SG"
    ],
    "return_date": null,
-   "slot": "SG",
+   "slot": "UT",
    "status": "DAY_TO_DAY",
    "value": 34.5
   },
@@ -2786,7 +2786,7 @@
     "SG"
    ],
    "return_date": null,
-   "slot": "UT",
+   "slot": "SG",
    "status": "DAY_TO_DAY",
    "value": 34.6
   },
@@ -2814,7 +2814,7 @@
     "PG"
    ],
    "return_date": null,
-   "slot": "BE",
+   "slot": "UT",
    "status": "ACTIVE",
    "value": 29.3
   },
@@ -2829,7 +2829,7 @@
     "SF"
    ],
    "return_date": null,
-   "slot": "SG",
+   "slot": "BE",
    "status": "ACTIVE",
    "value": 19.8
   },
@@ -2874,7 +2874,7 @@
     "SG"
    ],
    "return_date": null,
-   "slot": "UT",
+   "slot": "SG",
    "status": "ACTIVE",
    "value": 35.3
   },
@@ -2933,7 +2933,7 @@
     "C"
    ],
    "return_date": null,
-   "slot": "BE",
+   "slot": "C",
    "status": "ACTIVE",
    "value": 23.7
   },
@@ -2962,7 +2962,7 @@
     "PF"
    ],
    "return_date": null,
-   "slot": "UT",
+   "slot": "PF",
    "status": "ACTIVE",
    "value": 27.2
   },
@@ -2992,7 +2992,7 @@
     "SF"
    ],
    "return_date": null,
-   "slot": "SG",
+   "slot": "UT",
    "status": "ACTIVE",
    "value": 26.5
   },
@@ -3007,7 +3007,7 @@
     "C"
    ],
    "return_date": null,
-   "slot": "BE",
+   "slot": "UT",
    "status": "ACTIVE",
    "value": 28.7
   },
@@ -3050,7 +3050,7 @@
     "C"
    ],
    "return_date": null,
-   "slot": "BE",
+   "slot": "C",
    "status": "ACTIVE",
    "value": 22.1
   },
@@ -3167,7 +3167,7 @@
     "SG"
    ],
    "return_date": null,
-   "slot": "UT",
+   "slot": "PG",
    "status": "ACTIVE",
    "value": 45.8
   },
@@ -3196,7 +3196,7 @@
     "C"
    ],
    "return_date": null,
-   "slot": "C",
+   "slot": "UT",
    "status": "ACTIVE",
    "value": 35.7
   },
@@ -3253,7 +3253,7 @@
     "PF"
    ],
    "return_date": null,
-   "slot": "BE",
+   "slot": "PF",
    "status": "ACTIVE",
    "value": 20.9
   },
@@ -3282,7 +3282,7 @@
     "SF"
    ],
    "return_date": null,
-   "slot": "SF",
+   "slot": "UT",
    "status": "ACTIVE",
    "value": 29.1
   },
@@ -3355,7 +3355,7 @@
     "C"
    ],
    "return_date": null,
-   "slot": "PF",
+   "slot": "UT",
    "status": "ACTIVE",
    "value": 37.3
   },
@@ -3384,7 +3384,7 @@
     "PG"
    ],
    "return_date": null,
-   "slot": "PG",
+   "slot": "UT",
    "status": "ACTIVE",
    "value": 46.3
   },
@@ -3457,7 +3457,7 @@
     "C"
    ],
    "return_date": null,
-   "slot": "BE",
+   "slot": "UT",
    "status": "ACTIVE",
    "value": 25.7
   },
@@ -3471,7 +3471,7 @@
     "PG"
    ],
    "return_date": null,
-   "slot": "PG",
+   "slot": "BE",
    "status": "ACTIVE",
    "value": 27.4
   },
@@ -3703,7 +3703,7 @@
     "SF"
    ],
    "return_date": null,
-   "slot": "BE",
+   "slot": "SF",
    "status": "ACTIVE",
    "value": 23.7
   },
@@ -3748,7 +3748,7 @@
     "SG"
    ],
    "return_date": null,
-   "slot": "SG",
+   "slot": "BE",
    "status": "ACTIVE",
    "value": 26.7
   },
@@ -3763,7 +3763,7 @@
     "SF"
    ],
    "return_date": null,
-   "slot": "SG",
+   "slot": "UT",
    "status": "DAY_TO_DAY",
    "value": 41.9
   },
@@ -3792,7 +3792,7 @@
     "SF"
    ],
    "return_date": null,
-   "slot": "UT",
+   "slot": "BE",
    "status": "ACTIVE",
    "value": 25.1
   },
@@ -3835,7 +3835,7 @@
     "PF"
    ],
    "return_date": null,
-   "slot": "UT",
+   "slot": "BE",
    "status": "ACTIVE",
    "value": 25.7
   },
@@ -3879,7 +3879,7 @@
     "PF"
    ],
    "return_date": null,
-   "slot": "BE",
+   "slot": "SF",
    "status": "ACTIVE",
    "value": 26.6
   },
@@ -3894,7 +3894,7 @@
     "C"
    ],
    "return_date": null,
-   "slot": "PF",
+   "slot": "UT",
    "status": "DAY_TO_DAY",
    "value": 29.4
   },
@@ -3938,7 +3938,7 @@
     "C"
    ],
    "return_date": null,
-   "slot": "C",
+   "slot": "UT",
    "status": "OUT",
    "value": 31.5
   },
@@ -3983,7 +3983,7 @@
     "SF"
    ],
    "return_date": null,
-   "slot": "UT",
+   "slot": "SF",
    "status": "ACTIVE",
    "value": 20.8
   },
@@ -4012,7 +4012,7 @@
     "PF"
    ],
    "return_date": null,
-   "slot": "BE",
+   "slot": "SF",
    "status": "ACTIVE",
    "value": 40.5
   },
@@ -4041,7 +4041,7 @@
     "PF"
    ],
    "return_date": null,
-   "slot": "UT",
+   "slot": "BE",
    "status": "ACTIVE",
    "value": 26.5
   },
@@ -4070,7 +4070,7 @@
     "SG"
    ],
    "return_date": null,
-   "slot": "BE",
+   "slot": "SG",
    "status": "ACTIVE",
    "value": 21.3
   },
@@ -4100,7 +4100,7 @@
     "PF"
    ],
    "return_date": null,
-   "slot": "UT",
+   "slot": "BE",
    "status": "ACTIVE",
    "value": 21.7
   },
@@ -4129,7 +4129,7 @@
     "PF"
    ],
    "return_date": null,
-   "slot": "PF",
+   "slot": "BE",
    "status": "ACTIVE",
    "value": 18.7
   },
@@ -4189,7 +4189,7 @@
     "PF"
    ],
    "return_date": null,
-   "slot": "UT",
+   "slot": "BE",
    "status": "ACTIVE",
    "value": 14.3
   },
@@ -4262,7 +4262,7 @@
     "PF"
    ],
    "return_date": null,
-   "slot": "BE",
+   "slot": "UT",
    "status": "DAY_TO_DAY",
    "value": 20.1
   },
@@ -4281,7 +4281,7 @@
    "value": 4.6
   },
   "4600663": {
-   "fantasy_team": null,
+   "fantasy_team": "King Coopa",
    "id": "4600663",
    "mpg": 20.9,
    "name": "Zach Edey",
@@ -4290,7 +4290,7 @@
     "C"
    ],
    "return_date": null,
-   "slot": "",
+   "slot": "C",
    "status": "ACTIVE",
    "value": 19.4
   },
@@ -4319,7 +4319,7 @@
     "SF"
    ],
    "return_date": null,
-   "slot": "BE",
+   "slot": "SG",
    "status": "ACTIVE",
    "value": 25.0
   },
@@ -4362,7 +4362,7 @@
     "PF"
    ],
    "return_date": null,
-   "slot": "UT",
+   "slot": "PF",
    "status": "ACTIVE",
    "value": 36.7
   },
@@ -4581,7 +4581,7 @@
     "PF"
    ],
    "return_date": null,
-   "slot": "SF",
+   "slot": "UT",
    "status": "ACTIVE",
    "value": 27.6
   },
@@ -4611,7 +4611,7 @@
     "PF"
    ],
    "return_date": null,
-   "slot": "UT",
+   "slot": "BE",
    "status": "ACTIVE",
    "value": 16.5
   },
@@ -4698,7 +4698,7 @@
     "PF"
    ],
    "return_date": null,
-   "slot": "BE",
+   "slot": "PF",
    "status": "ACTIVE",
    "value": 24.8
   },
@@ -4770,7 +4770,7 @@
     "SG"
    ],
    "return_date": null,
-   "slot": "SG",
+   "slot": "UT",
    "status": "ACTIVE",
    "value": 36.4
   },
@@ -4800,7 +4800,7 @@
     "PF"
    ],
    "return_date": null,
-   "slot": "UT",
+   "slot": "BE",
    "status": "ACTIVE",
    "value": 21.1
   },
@@ -4829,7 +4829,7 @@
     "SG"
    ],
    "return_date": null,
-   "slot": "UT",
+   "slot": "PG",
    "status": "ACTIVE",
    "value": 36.2
   },
@@ -4989,7 +4989,7 @@
     "C"
    ],
    "return_date": null,
-   "slot": "C",
+   "slot": "UT",
    "status": "ACTIVE",
    "value": 50.8
   },
@@ -5034,7 +5034,7 @@
     "PF"
    ],
    "return_date": null,
-   "slot": "UT",
+   "slot": "PF",
    "status": "ACTIVE",
    "value": 26.7
   },
@@ -5049,7 +5049,7 @@
     "C"
    ],
    "return_date": null,
-   "slot": "PF",
+   "slot": "BE",
    "status": "DAY_TO_DAY",
    "value": 16.9
   },
@@ -5166,7 +5166,7 @@
     "SG"
    ],
    "return_date": null,
-   "slot": "UT",
+   "slot": "PG",
    "status": "ACTIVE",
    "value": 36.0
   },
@@ -5266,7 +5266,7 @@
     "PF"
    ],
    "return_date": null,
-   "slot": "UT",
+   "slot": "BE",
    "status": "ACTIVE",
    "value": 22.2
   },
@@ -5324,9 +5324,23 @@
     "PF"
    ],
    "return_date": null,
-   "slot": "SF",
+   "slot": "UT",
    "status": "ACTIVE",
    "value": 53.5
+  },
+  "5041951": {
+   "fantasy_team": "Fernando  Diniz",
+   "id": "5041951",
+   "mpg": 23.0,
+   "name": "Meleek Thomas",
+   "nba_team": "CLE",
+   "positions": [
+    "SG"
+   ],
+   "return_date": null,
+   "slot": "BE",
+   "status": "ACTIVE",
+   "value": 24.0
   },
   "5041953": {
    "fantasy_team": null,
@@ -5410,7 +5424,7 @@
     "SF"
    ],
    "return_date": null,
-   "slot": "SF",
+   "slot": "BE",
    "status": "OUT",
    "value": 35.2
   },
@@ -5494,7 +5508,7 @@
     "SG"
    ],
    "return_date": null,
-   "slot": "UT",
+   "slot": "SG",
    "status": "ACTIVE",
    "value": 21.5
   },
@@ -5508,7 +5522,7 @@
     "PF"
    ],
    "return_date": null,
-   "slot": "UT",
+   "slot": "BE",
    "status": "DAY_TO_DAY",
    "value": 22.7
   },
@@ -5594,7 +5608,7 @@
     "C"
    ],
    "return_date": null,
-   "slot": "C",
+   "slot": "UT",
    "status": "ACTIVE",
    "value": 72.5
   },
@@ -5852,7 +5866,7 @@
     "SF"
    ],
    "return_date": null,
-   "slot": "BE",
+   "slot": "UT",
    "status": "ACTIVE",
    "value": 19.8
   },
@@ -5881,7 +5895,7 @@
     "SG"
    ],
    "return_date": null,
-   "slot": "UT",
+   "slot": "SG",
    "status": "ACTIVE",
    "value": 31.6
   },
@@ -5924,7 +5938,7 @@
     "SF"
    ],
    "return_date": null,
-   "slot": "SF",
+   "slot": "UT",
    "status": "ACTIVE",
    "value": 26.4
   },
@@ -5939,7 +5953,7 @@
     "SG"
    ],
    "return_date": null,
-   "slot": "SG",
+   "slot": "UT",
    "status": "ACTIVE",
    "value": 34.3
   },
@@ -5968,7 +5982,7 @@
     "PG"
    ],
    "return_date": null,
-   "slot": "UT",
+   "slot": "BE",
    "status": "ACTIVE",
    "value": 22.9
   },
@@ -6053,7 +6067,7 @@
     "C"
    ],
    "return_date": null,
-   "slot": "C",
+   "slot": "BE",
    "status": "ACTIVE",
    "value": 27.4
   },
@@ -6082,7 +6096,7 @@
     "SF"
    ],
    "return_date": null,
-   "slot": "SG",
+   "slot": "UT",
    "status": "ACTIVE",
    "value": 36.3
   },
@@ -6115,7 +6129,7 @@
    "value": 23.6
   },
   "5175643": {
-   "fantasy_team": "Fernando  Diniz",
+   "fantasy_team": null,
    "id": "5175643",
    "mpg": 21.8,
    "name": "Egor Demin",
@@ -6125,7 +6139,7 @@
     "SG"
    ],
    "return_date": null,
-   "slot": "BE",
+   "slot": "",
    "status": "OUT",
    "value": 8.7
   },
@@ -6154,7 +6168,7 @@
     "PF"
    ],
    "return_date": null,
-   "slot": "SF",
+   "slot": "UT",
    "status": "ACTIVE",
    "value": 38.7
   },
@@ -6168,7 +6182,7 @@
     "C"
    ],
    "return_date": null,
-   "slot": "UT",
+   "slot": "C",
    "status": "ACTIVE",
    "value": 21.2
   },
@@ -6466,7 +6480,7 @@
     "PG"
    ],
    "return_date": null,
-   "slot": "PG",
+   "slot": "UT",
    "status": "ACTIVE",
    "value": 41.1
   },
@@ -6569,7 +6583,7 @@
     "C"
    ],
    "return_date": null,
-   "slot": "PF",
+   "slot": "BE",
    "status": "ACTIVE",
    "value": 49.7
   },
@@ -6800,6 +6814,7 @@
   "inj:5093267:OUT",
   "inj:4395724:OUT",
   "inj:4433627:OUT",
-  "hot:3135045:20261110"
+  "hot:3135045:20261110",
+  "drop:3102529:1794297606500"
  ]
 }

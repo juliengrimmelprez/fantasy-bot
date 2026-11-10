@@ -1076,6 +1076,20 @@
    "status": "ACTIVE",
    "value": 1.0
   },
+  "3137259": {
+   "fantasy_team": null,
+   "id": "3137259",
+   "mpg": null,
+   "name": "Gabe Vincent",
+   "nba_team": "FA",
+   "positions": [
+    "PG"
+   ],
+   "return_date": null,
+   "slot": "",
+   "status": "ACTIVE",
+   "value": 0.0
+  },
   "3138160": {
    "fantasy_team": null,
    "id": "3138160",
@@ -3025,21 +3039,6 @@
    "slot": "UT",
    "status": "ACTIVE",
    "value": 28.7
-  },
-  "4397227": {
-   "fantasy_team": null,
-   "id": "4397227",
-   "mpg": null,
-   "name": "Vince Williams Jr.",
-   "nba_team": "FA",
-   "positions": [
-    "PG",
-    "SG"
-   ],
-   "return_date": null,
-   "slot": "",
-   "status": "OUT",
-   "value": 0.0
   },
   "4397251": {
    "fantasy_team": null,

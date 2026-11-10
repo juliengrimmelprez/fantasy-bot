@@ -126,7 +126,7 @@
   "5279130:20261103"
  ],
  "hot_status": "ok: 250 FAs, 1455 games",
- "last_activity_ms": 1794300268623,
+ "last_activity_ms": 1794304326855,
  "last_digest": 1794300860.8153126,
  "last_error_alert": 1794133333.591223,
  "last_hot_check": 1794304222.3018818,
@@ -1393,7 +1393,7 @@
    "value": 26.0
   },
   "3907498": {
-   "fantasy_team": "Lucky",
+   "fantasy_team": null,
    "id": "3907498",
    "mpg": 24.4,
    "name": "Matisse Thybulle",
@@ -1402,7 +1402,7 @@
     "SF"
    ],
    "return_date": null,
-   "slot": "BE",
+   "slot": "",
    "status": "ACTIVE",
    "value": 20.9
   },
@@ -3389,7 +3389,7 @@
    "value": 46.3
   },
   "4432170": {
-   "fantasy_team": null,
+   "fantasy_team": "Lucky",
    "id": "4432170",
    "mpg": 21.1,
    "name": "Isaiah Jackson",
@@ -3399,7 +3399,7 @@
     "C"
    ],
    "return_date": null,
-   "slot": "",
+   "slot": "PF",
    "status": "ACTIVE",
    "value": 23.5
   },
@@ -6801,6 +6801,7 @@
   "inj:4433627:OUT",
   "hot:3135045:20261110",
   "drop:3102529:1794297606500",
-  "drop:4997538:1794300159208"
+  "drop:4997538:1794300159208",
+  "drop:3907498:1794304227804"
  ]
 }

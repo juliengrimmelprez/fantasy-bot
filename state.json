@@ -123,11 +123,11 @@
   "4602025:20261110",
   "4576060:20261110"
  ],
- "hot_status": "ok: 249 FAs, 1439 games",
+ "hot_status": "ok: 249 FAs, 1440 games",
  "last_activity_ms": 1794279611246,
  "last_digest": 1794282259.1131876,
  "last_error_alert": 1794133333.591223,
- "last_hot_check": 1794282137.840458,
+ "last_hot_check": 1794283097.3535225,
  "last_run": "2026-10-19T22:05:14+00:00",
  "matchup_periods": {
   "1": [
@@ -413,7 +413,7 @@
   "2990969": {
    "fantasy_team": null,
    "id": "2990969",
-   "mpg": 19.4,
+   "mpg": 19.5,
    "name": "Georges Niang",
    "nba_team": "GSW",
    "positions": [
@@ -1466,7 +1466,7 @@
   "3913174": {
    "fantasy_team": null,
    "id": "3913174",
-   "mpg": 15.5,
+   "mpg": 15.6,
    "name": "Luke Kennard",
    "nba_team": "PHO",
    "positions": [
@@ -1872,7 +1872,7 @@
   "4066259": {
    "fantasy_team": "Hospital do Gansola",
    "id": "4066259",
-   "mpg": 29.2,
+   "mpg": 29.3,
    "name": "De'Aaron Fox",
    "nba_team": "SAS",
    "positions": [
@@ -1882,7 +1882,7 @@
    "return_date": null,
    "slot": "UT",
    "status": "ACTIVE",
-   "value": 29.8
+   "value": 30.1
   },
   "4066261": {
    "fantasy_team": "BL0CK BY ZION",
@@ -2528,7 +2528,7 @@
   "4278585": {
    "fantasy_team": null,
    "id": "4278585",
-   "mpg": 23.8,
+   "mpg": 23.9,
    "name": "Collin Gillespie",
    "nba_team": "PHO",
    "positions": [
@@ -2746,7 +2746,7 @@
   "4395723": {
    "fantasy_team": "CCCP  Баскетбол",
    "id": "4395723",
-   "mpg": 23.3,
+   "mpg": 23.4,
    "name": "Keldon Johnson",
    "nba_team": "SAS",
    "positions": [
@@ -3084,7 +3084,7 @@
   "4397886": {
    "fantasy_team": null,
    "id": "4397886",
-   "mpg": 11.1,
+   "mpg": 11.2,
    "name": "Charles Bassey",
    "nba_team": "GSW",
    "positions": [
@@ -3973,7 +3973,7 @@
   "4437244": {
    "fantasy_team": "Lebron GOAT",
    "id": "4437244",
-   "mpg": 28.3,
+   "mpg": 28.4,
    "name": "Jalen Green",
    "nba_team": "PHO",
    "positions": [
@@ -4862,7 +4862,7 @@
   "4845367": {
    "fantasy_team": "King Coopa",
    "id": "4845367",
-   "mpg": 28.7,
+   "mpg": 28.8,
    "name": "Stephon Castle",
    "nba_team": "SAS",
    "positions": [
@@ -4935,7 +4935,7 @@
   "4869780": {
    "fantasy_team": "Lucky",
    "id": "4869780",
-   "mpg": 21.2,
+   "mpg": 21.3,
    "name": "Derik Queen",
    "nba_team": "NOP",
    "positions": [
@@ -5068,7 +5068,7 @@
   "4888725": {
    "fantasy_team": null,
    "id": "4888725",
-   "mpg": 16.1,
+   "mpg": 16.2,
    "name": "Ryan Dunn",
    "nba_team": "PHO",
    "positions": [
@@ -5585,7 +5585,7 @@
   "5104157": {
    "fantasy_team": "CCCP  Баскетбол",
    "id": "5104157",
-   "mpg": 29.6,
+   "mpg": 29.7,
    "name": "Victor Wembanyama",
    "nba_team": "SAS",
    "positions": [
@@ -5594,7 +5594,7 @@
    "return_date": null,
    "slot": "C",
    "status": "ACTIVE",
-   "value": 71.1
+   "value": 71.8
   },
   "5105550": {
    "fantasy_team": null,
@@ -6154,12 +6154,12 @@
    "return_date": null,
    "slot": "SF",
    "status": "ACTIVE",
-   "value": 35.3
+   "value": 35.9
   },
   "5203685": {
    "fantasy_team": "CCCP  Баскетбол",
    "id": "5203685",
-   "mpg": 19.0,
+   "mpg": 19.1,
    "name": "Khaman Maluach",
    "nba_team": "PHO",
    "positions": [
@@ -6529,7 +6529,7 @@
   "6578": {
    "fantasy_team": null,
    "id": "6578",
-   "mpg": 12.6,
+   "mpg": 12.7,
    "name": "Harrison Barnes",
    "nba_team": "SAS",
    "positions": [

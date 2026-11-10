@@ -126,7 +126,7 @@
   "4066262:20261103"
  ],
  "hot_status": "ok: 250 FAs, 1459 games",
- "last_activity_ms": 1794304326855,
+ "last_activity_ms": 1794309360028,
  "last_digest": 1794308180.593246,
  "last_error_alert": 1794133333.591223,
  "last_hot_check": 1794309022.1613772,
@@ -900,7 +900,7 @@
     "C"
    ],
    "return_date": null,
-   "slot": "BE",
+   "slot": "UT",
    "status": "ACTIVE",
    "value": 27.5
   },
@@ -1202,7 +1202,7 @@
     "C"
    ],
    "return_date": null,
-   "slot": "UT",
+   "slot": "PF",
    "status": "DAY_TO_DAY",
    "value": 37.9
   },
@@ -1694,7 +1694,7 @@
     "SG"
    ],
    "return_date": null,
-   "slot": "UT",
+   "slot": "SG",
    "status": "ACTIVE",
    "value": 29.1
   },
@@ -1941,7 +1941,7 @@
     "C"
    ],
    "return_date": null,
-   "slot": "C",
+   "slot": "UT",
    "status": "ACTIVE",
    "value": 30.4
   },
@@ -2031,7 +2031,7 @@
     "SG"
    ],
    "return_date": null,
-   "slot": "UT",
+   "slot": "BE",
    "status": "ACTIVE",
    "value": 22.9
   },
@@ -2377,7 +2377,7 @@
     "PG"
    ],
    "return_date": null,
-   "slot": "UT",
+   "slot": "PG",
    "status": "ACTIVE",
    "value": 46.8
   },
@@ -2421,7 +2421,7 @@
     "PF"
    ],
    "return_date": null,
-   "slot": "SF",
+   "slot": "UT",
    "status": "ACTIVE",
    "value": 28.0
   },
@@ -2844,7 +2844,7 @@
     "C"
    ],
    "return_date": null,
-   "slot": "PF",
+   "slot": "UT",
    "status": "ACTIVE",
    "value": 26.5
   },
@@ -3182,7 +3182,7 @@
     "C"
    ],
    "return_date": null,
-   "slot": "BE",
+   "slot": "C",
    "status": "ACTIVE",
    "value": 24.9
   },
@@ -4144,7 +4144,7 @@
     "SG"
    ],
    "return_date": null,
-   "slot": "PG",
+   "slot": "BE",
    "status": "ACTIVE",
    "value": 24.8
   },
@@ -5024,7 +5024,7 @@
    "value": 25.2
   },
   "4873153": {
-   "fantasy_team": "Tiki Taka Laranja",
+   "fantasy_team": null,
    "id": "4873153",
    "mpg": 17.1,
    "name": "Morez Johnson Jr.",
@@ -5034,7 +5034,7 @@
     "C"
    ],
    "return_date": null,
-   "slot": "BE",
+   "slot": "",
    "status": "DAY_TO_DAY",
    "value": 16.9
   },
@@ -5053,7 +5053,7 @@
    "value": 8.8
   },
   "4888725": {
-   "fantasy_team": null,
+   "fantasy_team": "Tiki Taka Laranja",
    "id": "4888725",
    "mpg": 16.8,
    "name": "Ryan Dunn",
@@ -5063,7 +5063,7 @@
     "PF"
    ],
    "return_date": null,
-   "slot": "",
+   "slot": "UT",
    "status": "ACTIVE",
    "value": 18.2
   },
@@ -5166,7 +5166,7 @@
     "SF"
    ],
    "return_date": null,
-   "slot": "SG",
+   "slot": "SF",
    "status": "ACTIVE",
    "value": 32.3
   },
@@ -6379,7 +6379,7 @@
     "PG"
    ],
    "return_date": null,
-   "slot": "UT",
+   "slot": "BE",
    "status": "ACTIVE",
    "value": 29.7
   },

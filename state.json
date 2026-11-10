@@ -2816,7 +2816,7 @@
    ],
    "return_date": null,
    "slot": "SG",
-   "status": "DAY_TO_DAY",
+   "status": "OUT",
    "value": 34.6
   },
   "4396818": {
@@ -5651,7 +5651,7 @@
    ],
    "return_date": null,
    "slot": "",
-   "status": "DAY_TO_DAY",
+   "status": "ACTIVE",
    "value": 16.1
   },
   "5105637": {
@@ -6807,6 +6807,7 @@
   "planday:22",
   "drop:5149077:1794343787745",
   "lineup:22",
-  "inj:4066457:ACTIVE"
+  "inj:4066457:ACTIVE",
+  "inj:4395725:OUT"
  ]
 }

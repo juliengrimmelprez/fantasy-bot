@@ -126,7 +126,7 @@
   "4845374:20261108"
  ],
  "hot_status": "ok: 250 FAs, 1444 games",
- "last_activity_ms": 1794299689548,
+ "last_activity_ms": 1794300159208,
  "last_digest": 1794297135.532648,
  "last_error_alert": 1794133333.591223,
  "last_hot_check": 1794299422.9503622,
@@ -5242,7 +5242,7 @@
    "value": 16.9
   },
   "4997538": {
-   "fantasy_team": "CCCP  Баскетбол",
+   "fantasy_team": null,
    "id": "4997538",
    "mpg": 18.5,
    "name": "Karlo Matkovic",
@@ -5251,7 +5251,7 @@
     "PF"
    ],
    "return_date": null,
-   "slot": "BE",
+   "slot": "",
    "status": "ACTIVE",
    "value": 22.2
   },
@@ -6298,7 +6298,7 @@
    "value": 6.7
   },
   "5241364": {
-   "fantasy_team": null,
+   "fantasy_team": "CCCP  Баскетбол",
    "id": "5241364",
    "mpg": 18.0,
    "name": "Bennett Stirtz",
@@ -6307,7 +6307,7 @@
     "PG"
    ],
    "return_date": null,
-   "slot": "",
+   "slot": "BE",
    "status": "ACTIVE",
    "value": 16.4
   },
@@ -6800,6 +6800,7 @@
   "inj:4395724:OUT",
   "inj:4433627:OUT",
   "hot:3135045:20261110",
-  "drop:3102529:1794297606500"
+  "drop:3102529:1794297606500",
+  "drop:4997538:1794300159208"
  ]
 }

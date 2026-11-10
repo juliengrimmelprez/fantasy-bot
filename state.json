@@ -188,7 +188,7 @@
    9
   ]
  },
- "matchup_periods_day": "2026-11-09",
+ "matchup_periods_day": "2026-11-10",
  "plan_status": "ok: day 21, matchup 4 [21]..[27], adds left 10, opp CCCP  Баскетбол",
  "players": {
   "1966": {
@@ -422,7 +422,7 @@
    "return_date": null,
    "slot": "",
    "status": "ACTIVE",
-   "value": 17.8
+   "value": 17.9
   },
   "2990984": {
    "fantasy_team": null,
@@ -1466,7 +1466,7 @@
   "3913174": {
    "fantasy_team": null,
    "id": "3913174",
-   "mpg": 15.6,
+   "mpg": 15.9,
    "name": "Luke Kennard",
    "nba_team": "PHO",
    "positions": [
@@ -1872,7 +1872,7 @@
   "4066259": {
    "fantasy_team": "Hospital do Gansola",
    "id": "4066259",
-   "mpg": 29.3,
+   "mpg": 29.5,
    "name": "De'Aaron Fox",
    "nba_team": "SAS",
    "positions": [
@@ -2021,7 +2021,7 @@
   "4066436": {
    "fantasy_team": "Polga Silva",
    "id": "4066436",
-   "mpg": 20.8,
+   "mpg": 21.0,
    "name": "De'Anthony Melton",
    "nba_team": "GSW",
    "positions": [
@@ -2152,7 +2152,7 @@
   "4277813": {
    "fantasy_team": null,
    "id": "4277813",
-   "mpg": 21.6,
+   "mpg": 21.8,
    "name": "Herbert Jones",
    "nba_team": "NOP",
    "positions": [
@@ -2528,7 +2528,7 @@
   "4278585": {
    "fantasy_team": null,
    "id": "4278585",
-   "mpg": 23.9,
+   "mpg": 24.0,
    "name": "Collin Gillespie",
    "nba_team": "PHO",
    "positions": [
@@ -2537,7 +2537,7 @@
    "return_date": null,
    "slot": "",
    "status": "ACTIVE",
-   "value": 19.7
+   "value": 20.3
   },
   "4278594": {
    "fantasy_team": "Caxias French Fries",
@@ -2746,7 +2746,7 @@
   "4395723": {
    "fantasy_team": "CCCP  Баскетбол",
    "id": "4395723",
-   "mpg": 23.4,
+   "mpg": 23.5,
    "name": "Keldon Johnson",
    "nba_team": "SAS",
    "positions": [
@@ -2952,7 +2952,7 @@
   "4397136": {
    "fantasy_team": "CCCP  Баскетбол",
    "id": "4397136",
-   "mpg": 25.5,
+   "mpg": 25.7,
    "name": "Saddiq Bey",
    "nba_team": "NOP",
    "positions": [
@@ -2962,7 +2962,7 @@
    "return_date": null,
    "slot": "UT",
    "status": "ACTIVE",
-   "value": 26.5
+   "value": 26.9
   },
   "4397140": {
    "fantasy_team": null,
@@ -3084,7 +3084,7 @@
   "4397886": {
    "fantasy_team": null,
    "id": "4397886",
-   "mpg": 11.2,
+   "mpg": 11.3,
    "name": "Charles Bassey",
    "nba_team": "GSW",
    "positions": [
@@ -3093,7 +3093,7 @@
    "return_date": null,
    "slot": "",
    "status": "ACTIVE",
-   "value": 15.5
+   "value": 15.7
   },
   "4398207": {
    "fantasy_team": null,
@@ -3973,7 +3973,7 @@
   "4437244": {
    "fantasy_team": "Lebron GOAT",
    "id": "4437244",
-   "mpg": 28.4,
+   "mpg": 28.6,
    "name": "Jalen Green",
    "nba_team": "PHO",
    "positions": [
@@ -3983,7 +3983,7 @@
    "return_date": null,
    "slot": "UT",
    "status": "ACTIVE",
-   "value": 20.7
+   "value": 20.8
   },
   "4565698": {
    "fantasy_team": null,
@@ -4862,7 +4862,7 @@
   "4845367": {
    "fantasy_team": "King Coopa",
    "id": "4845367",
-   "mpg": 28.8,
+   "mpg": 29.0,
    "name": "Stephon Castle",
    "nba_team": "SAS",
    "positions": [
@@ -4872,7 +4872,7 @@
    "return_date": null,
    "slot": "UT",
    "status": "ACTIVE",
-   "value": 26.8
+   "value": 27.7
   },
   "4845374": {
    "fantasy_team": null,
@@ -4935,7 +4935,7 @@
   "4869780": {
    "fantasy_team": "Lucky",
    "id": "4869780",
-   "mpg": 21.3,
+   "mpg": 21.4,
    "name": "Derik Queen",
    "nba_team": "NOP",
    "positions": [
@@ -4945,7 +4945,7 @@
    "return_date": null,
    "slot": "UT",
    "status": "ACTIVE",
-   "value": 22.6
+   "value": 23.2
   },
   "4870562": {
    "fantasy_team": null,
@@ -5068,7 +5068,7 @@
   "4888725": {
    "fantasy_team": null,
    "id": "4888725",
-   "mpg": 16.2,
+   "mpg": 16.3,
    "name": "Ryan Dunn",
    "nba_team": "PHO",
    "positions": [
@@ -5585,7 +5585,7 @@
   "5104157": {
    "fantasy_team": "CCCP  Баскетбол",
    "id": "5104157",
-   "mpg": 29.7,
+   "mpg": 29.8,
    "name": "Victor Wembanyama",
    "nba_team": "SAS",
    "positions": [
@@ -5594,7 +5594,7 @@
    "return_date": null,
    "slot": "C",
    "status": "ACTIVE",
-   "value": 71.8
+   "value": 72.1
   },
   "5105550": {
    "fantasy_team": null,
@@ -5929,7 +5929,7 @@
   "5144091": {
    "fantasy_team": "King Coopa",
    "id": "5144091",
-   "mpg": 27.5,
+   "mpg": 27.6,
    "name": "Jeremiah Fears",
    "nba_team": "NOP",
    "positions": [
@@ -5939,7 +5939,7 @@
    "return_date": null,
    "slot": "SG",
    "status": "ACTIVE",
-   "value": 33.2
+   "value": 33.6
   },
   "5144126": {
    "fantasy_team": null,
@@ -6144,7 +6144,7 @@
   "5175737": {
    "fantasy_team": "Fernando  Diniz",
    "id": "5175737",
-   "mpg": 30.5,
+   "mpg": 30.6,
    "name": "Yaxel Lendeborg",
    "nba_team": "GSW",
    "positions": [
@@ -6154,12 +6154,12 @@
    "return_date": null,
    "slot": "SF",
    "status": "ACTIVE",
-   "value": 35.9
+   "value": 36.5
   },
   "5203685": {
    "fantasy_team": "CCCP  Баскетбол",
    "id": "5203685",
-   "mpg": 19.1,
+   "mpg": 19.2,
    "name": "Khaman Maluach",
    "nba_team": "PHO",
    "positions": [
@@ -6529,7 +6529,7 @@
   "6578": {
    "fantasy_team": null,
    "id": "6578",
-   "mpg": 12.7,
+   "mpg": 12.9,
    "name": "Harrison Barnes",
    "nba_team": "SAS",
    "positions": [
@@ -6539,7 +6539,7 @@
    "return_date": null,
    "slot": "",
    "status": "ACTIVE",
-   "value": 8.9
+   "value": 9.7
   },
   "6580": {
    "fantasy_team": null,

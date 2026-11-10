@@ -123,11 +123,11 @@
   "4845374:20261108",
   "5254165:20261022"
  ],
- "hot_status": "ok: 249 FAs, 1443 games",
+ "hot_status": "ok: 249 FAs, 1444 games",
  "last_activity_ms": 1794279611246,
  "last_digest": 1794285975.541733,
  "last_error_alert": 1794133333.591223,
- "last_hot_check": 1794285975.5405536,
+ "last_hot_check": 1794286936.8270576,
  "last_run": "2026-10-19T22:05:14+00:00",
  "matchup_periods": {
   "1": [
@@ -413,7 +413,7 @@
   "2990969": {
    "fantasy_team": null,
    "id": "2990969",
-   "mpg": 19.9,
+   "mpg": 20.0,
    "name": "Georges Niang",
    "nba_team": "GSW",
    "positions": [
@@ -2281,7 +2281,7 @@
   "4277956": {
    "fantasy_team": null,
    "id": "4277956",
-   "mpg": 17.6,
+   "mpg": 17.8,
    "name": "Jordan Poole",
    "nba_team": "NOP",
    "positions": [
@@ -2291,7 +2291,7 @@
    "return_date": null,
    "slot": "",
    "status": "ACTIVE",
-   "value": 9.8
+   "value": 10.6
   },
   "4277961": {
    "fantasy_team": "King Coopa",
@@ -4367,7 +4367,7 @@
   "4683634": {
    "fantasy_team": null,
    "id": "4683634",
-   "mpg": 14.8,
+   "mpg": 14.9,
    "name": "Bennedict Mathurin",
    "nba_team": "NOP",
    "positions": [
@@ -4732,7 +4732,7 @@
   "4703396": {
    "fantasy_team": null,
    "id": "4703396",
-   "mpg": 8.6,
+   "mpg": 8.8,
    "name": "Graham Ike",
    "nba_team": "GSW",
    "positions": [
@@ -4741,7 +4741,7 @@
    "return_date": null,
    "slot": "",
    "status": "ACTIVE",
-   "value": 5.4
+   "value": 6.2
   },
   "4706557": {
    "fantasy_team": null,
@@ -4770,7 +4770,7 @@
    "return_date": null,
    "slot": "SG",
    "status": "ACTIVE",
-   "value": 35.5
+   "value": 36.1
   },
   "4711272": {
    "fantasy_team": null,
@@ -4935,7 +4935,7 @@
   "4869780": {
    "fantasy_team": "Lucky",
    "id": "4869780",
-   "mpg": 22.2,
+   "mpg": 22.3,
    "name": "Derik Queen",
    "nba_team": "NOP",
    "positions": [
@@ -4945,7 +4945,7 @@
    "return_date": null,
    "slot": "UT",
    "status": "ACTIVE",
-   "value": 23.5
+   "value": 23.8
   },
   "4870562": {
    "fantasy_team": null,

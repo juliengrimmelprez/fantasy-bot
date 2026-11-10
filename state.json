@@ -126,7 +126,7 @@
   "4845374:20261108"
  ],
  "hot_status": "ok: 250 FAs, 1444 games",
- "last_activity_ms": 1794297606500,
+ "last_activity_ms": 1794299689548,
  "last_digest": 1794297135.532648,
  "last_error_alert": 1794133333.591223,
  "last_hot_check": 1794299422.9503622,
@@ -1115,7 +1115,7 @@
     "C"
    ],
    "return_date": null,
-   "slot": "IR",
+   "slot": "BE",
    "status": "ACTIVE",
    "value": 13.3
   },
@@ -3957,21 +3957,6 @@
    "status": "OUT",
    "value": 34.2
   },
-  "4433629": {
-   "fantasy_team": null,
-   "id": "4433629",
-   "mpg": 3.3,
-   "name": "Ryan Nembhard",
-   "nba_team": "DEN",
-   "positions": [
-    "PG",
-    "SG"
-   ],
-   "return_date": null,
-   "slot": "",
-   "status": "ACTIVE",
-   "value": 2.9
-  },
   "4437244": {
    "fantasy_team": "Lebron GOAT",
    "id": "4437244",
@@ -4601,7 +4586,7 @@
    "value": 4.6
   },
   "4698719": {
-   "fantasy_team": "CCCP  Баскетбол",
+   "fantasy_team": null,
    "id": "4698719",
    "mpg": 20.3,
    "name": "Trevon Brazile",
@@ -4611,7 +4596,7 @@
     "PF"
    ],
    "return_date": null,
-   "slot": "BE",
+   "slot": "",
    "status": "ACTIVE",
    "value": 16.5
   },

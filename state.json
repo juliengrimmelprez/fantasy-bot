@@ -126,7 +126,7 @@
   "4277951:20261101"
  ],
  "hot_status": "ok: 250 FAs, 1455 games",
- "last_activity_ms": 1794311335193,
+ "last_activity_ms": 1794342488015,
  "last_digest": 1794341538.0437841,
  "last_error_alert": 1794133333.591223,
  "last_hot_check": 1794341658.0350533,
@@ -4164,7 +4164,7 @@
    "value": 8.4
   },
   "4593125": {
-   "fantasy_team": "Hospital do Gansola",
+   "fantasy_team": null,
    "id": "4593125",
    "mpg": 15.7,
    "name": "Santi Aldama",
@@ -4174,7 +4174,7 @@
     "PF"
    ],
    "return_date": null,
-   "slot": "BE",
+   "slot": "",
    "status": "ACTIVE",
    "value": 14.3
   },
@@ -6587,7 +6587,7 @@
    "value": 14.6
   },
   "6589": {
-   "fantasy_team": null,
+   "fantasy_team": "Hospital do Gansola",
    "id": "6589",
    "mpg": 26.9,
    "name": "Draymond Green",
@@ -6597,7 +6597,7 @@
     "C"
    ],
    "return_date": null,
-   "slot": "",
+   "slot": "BE",
    "status": "ACTIVE",
    "value": 24.1
   },

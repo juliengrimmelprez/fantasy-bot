@@ -126,7 +126,7 @@
   "5104155:20261021"
  ],
  "hot_status": "ok: 250 FAs, 1451 games",
- "last_activity_ms": 1794343787745,
+ "last_activity_ms": 1794353315398,
  "last_digest": 1794352576.2866976,
  "last_error_alert": 1794133333.591223,
  "last_hot_check": 1794353180.0902,
@@ -1260,7 +1260,7 @@
     "PF"
    ],
    "return_date": null,
-   "slot": "UT",
+   "slot": "BE",
    "status": "ACTIVE",
    "value": 35.4
   },
@@ -2005,7 +2005,7 @@
    "value": 26.6
   },
   "4066372": {
-   "fantasy_team": "Contagem Hunters",
+   "fantasy_team": null,
    "id": "4066372",
    "mpg": 23.1,
    "name": "Kevin Huerter",
@@ -2015,7 +2015,7 @@
     "SF"
    ],
    "return_date": null,
-   "slot": "BE",
+   "slot": "",
    "status": "ACTIVE",
    "value": 24.4
   },
@@ -4659,7 +4659,7 @@
    "value": 13.4
   },
   "4702352": {
-   "fantasy_team": null,
+   "fantasy_team": "Contagem Hunters",
    "id": "4702352",
    "mpg": 24.1,
    "name": "Kobe Sanders",
@@ -4668,7 +4668,7 @@
     "SG"
    ],
    "return_date": null,
-   "slot": "",
+   "slot": "UT",
    "status": "ACTIVE",
    "value": 19.2
   },
@@ -6808,6 +6808,7 @@
   "drop:5149077:1794343787745",
   "lineup:22",
   "inj:4066457:ACTIVE",
-  "inj:4395725:OUT"
+  "inj:4395725:OUT",
+  "drop:4066372:1794353315398"
  ]
 }

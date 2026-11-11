@@ -1730,21 +1730,6 @@
    "status": "ACTIVE",
    "value": 17.0
   },
-  "4017844": {
-   "fantasy_team": null,
-   "id": "4017844",
-   "mpg": null,
-   "name": "Guerschon Yabusele",
-   "nba_team": "FA",
-   "positions": [
-    "PF",
-    "C"
-   ],
-   "return_date": null,
-   "slot": "",
-   "status": "ACTIVE",
-   "value": 0.0
-  },
   "4017850": {
    "fantasy_team": null,
    "id": "4017850",
@@ -1787,6 +1772,20 @@
    "slot": "",
    "status": "OUT",
    "value": 10.9
+  },
+  "4065663": {
+   "fantasy_team": null,
+   "id": "4065663",
+   "mpg": 18.8,
+   "name": "Josh Okogie",
+   "nba_team": "UTA",
+   "positions": [
+    "SF"
+   ],
+   "return_date": null,
+   "slot": "",
+   "status": "ACTIVE",
+   "value": 11.3
   },
   "4065670": {
    "fantasy_team": null,

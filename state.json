@@ -256,7 +256,7 @@
   "2528426": {
    "fantasy_team": null,
    "id": "2528426",
-   "mpg": 9.3,
+   "mpg": 9.4,
    "name": "Jordan Clarkson",
    "nba_team": "NYK",
    "positions": [
@@ -266,7 +266,7 @@
    "return_date": null,
    "slot": "",
    "status": "ACTIVE",
-   "value": 12.7
+   "value": 12.5
   },
   "2530530": {
    "fantasy_team": null,
@@ -613,7 +613,7 @@
    ],
    "return_date": null,
    "slot": "PF",
-   "status": "DAY_TO_DAY",
+   "status": "ACTIVE",
    "value": 54.1
   },
   "3032979": {
@@ -1022,7 +1022,7 @@
   "3136195": {
    "fantasy_team": "Contagem Hunters",
    "id": "3136195",
-   "mpg": 29.3,
+   "mpg": 29.4,
    "name": "Karl-Anthony Towns",
    "nba_team": "NYK",
    "positions": [
@@ -1136,7 +1136,7 @@
   "3147657": {
    "fantasy_team": "Caxias French Fries",
    "id": "3147657",
-   "mpg": 24.3,
+   "mpg": 24.4,
    "name": "Mikal Bridges",
    "nba_team": "NYK",
    "positions": [
@@ -1146,7 +1146,7 @@
    "return_date": null,
    "slot": "SF",
    "status": "ACTIVE",
-   "value": 18.1
+   "value": 18.2
   },
   "3149673": {
    "fantasy_team": "Hospital do Gansola",
@@ -1579,7 +1579,7 @@
    "return_date": null,
    "slot": "PF",
    "status": "ACTIVE",
-   "value": 25.4
+   "value": 25.6
   },
   "3934723": {
    "fantasy_team": null,
@@ -3719,7 +3719,7 @@
    "return_date": null,
    "slot": "SF",
    "status": "ACTIVE",
-   "value": 21.1
+   "value": 21.0
   },
   "4432907": {
    "fantasy_team": null,
@@ -5486,7 +5486,7 @@
   "5082206": {
    "fantasy_team": "Bull Market",
    "id": "5082206",
-   "mpg": 19.9,
+   "mpg": 20.0,
    "name": "Brayden Burries",
    "nba_team": "MIL",
    "positions": [
@@ -5495,7 +5495,7 @@
    "return_date": null,
    "slot": "SG",
    "status": "ACTIVE",
-   "value": 19.3
+   "value": 19.4
   },
   "5093267": {
    "fantasy_team": "King Coopa",
@@ -5643,7 +5643,7 @@
   "5105623": {
    "fantasy_team": null,
    "id": "5105623",
-   "mpg": 16.2,
+   "mpg": 16.4,
    "name": "Kel'el Ware",
    "nba_team": "MIL",
    "positions": [
@@ -5652,7 +5652,7 @@
    "return_date": null,
    "slot": "",
    "status": "ACTIVE",
-   "value": 14.5
+   "value": 14.4
   },
   "5105637": {
    "fantasy_team": null,

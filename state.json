@@ -129,11 +129,11 @@
   "3133628:20261027",
   "4397189:20261029"
  ],
- "hot_status": "ok: 250 FAs, 1505 games",
+ "hot_status": "ok: 250 FAs, 1495 games",
  "last_activity_ms": 1794413943302,
  "last_digest": 1794411622.408112,
  "last_error_alert": 1794388335.8497355,
- "last_hot_check": 1794413658.368837,
+ "last_hot_check": 1794414629.2346153,
  "last_run": "2026-10-19T22:05:14+00:00",
  "matchup_periods": {
   "1": [
@@ -4367,7 +4367,7 @@
    ],
    "return_date": null,
    "slot": "",
-   "status": "ACTIVE",
+   "status": "OUT",
    "value": 7.7
   },
   "4683678": {

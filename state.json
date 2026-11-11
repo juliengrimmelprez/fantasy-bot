@@ -133,7 +133,7 @@
  "last_activity_ms": 1794413943302,
  "last_digest": 1794419056.841659,
  "last_error_alert": 1794388335.8497355,
- "last_hot_check": 1794420376.5189788,
+ "last_hot_check": 1794421335.4180524,
  "last_run": "2026-10-19T22:05:14+00:00",
  "matchup_periods": {
   "1": [
@@ -1990,7 +1990,7 @@
    ],
    "return_date": null,
    "slot": "PF",
-   "status": "DAY_TO_DAY",
+   "status": "OUT",
    "value": 34.5
   },
   "4066354": {

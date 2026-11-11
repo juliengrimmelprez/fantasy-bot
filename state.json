@@ -133,7 +133,7 @@
  "last_activity_ms": 1794353315398,
  "last_digest": 1794374775.7962742,
  "last_error_alert": 1794133333.591223,
- "last_hot_check": 1794376220.0079477,
+ "last_hot_check": 1794377178.4702005,
  "last_run": "2026-10-19T22:05:14+00:00",
  "matchup_periods": {
   "1": [
@@ -536,7 +536,7 @@
   "2991350": {
    "fantasy_team": "CCCP  Баскетбол",
    "id": "2991350",
-   "mpg": 18.1,
+   "mpg": 18.2,
    "name": "Alex Caruso",
    "nba_team": "OKC",
    "positions": [
@@ -546,7 +546,7 @@
    "return_date": null,
    "slot": "PG",
    "status": "ACTIVE",
-   "value": 16.8
+   "value": 17.4
   },
   "2993874": {
    "fantasy_team": null,
@@ -2152,7 +2152,7 @@
    "return_date": null,
    "slot": "UT",
    "status": "ACTIVE",
-   "value": 27.5
+   "value": 27.6
   },
   "4251": {
    "fantasy_team": "Bull Market",
@@ -3201,7 +3201,7 @@
    ],
    "return_date": null,
    "slot": "C",
-   "status": "ACTIVE",
+   "status": "OUT",
    "value": 24.1
   },
   "4431680": {
@@ -3263,7 +3263,7 @@
   "4431736": {
    "fantasy_team": "King Coopa",
    "id": "4431736",
-   "mpg": 27.2,
+   "mpg": 27.3,
    "name": "Toumani Camara",
    "nba_team": "POR",
    "positions": [
@@ -4343,7 +4343,7 @@
   "4683021": {
    "fantasy_team": "Contagem Hunters",
    "id": "4683021",
-   "mpg": 31.5,
+   "mpg": 31.6,
    "name": "Deni Avdija",
    "nba_team": "POR",
    "positions": [
@@ -4353,7 +4353,7 @@
    "return_date": null,
    "slot": "PF",
    "status": "ACTIVE",
-   "value": 37.3
+   "value": 37.2
   },
   "4683634": {
    "fantasy_team": null,
@@ -5476,7 +5476,7 @@
   "5081727": {
    "fantasy_team": null,
    "id": "5081727",
-   "mpg": 21.1,
+   "mpg": 21.2,
    "name": "Sidy Cissoko",
    "nba_team": "POR",
    "positions": [
@@ -5485,7 +5485,7 @@
    "return_date": null,
    "slot": "",
    "status": "ACTIVE",
-   "value": 15.0
+   "value": 14.9
   },
   "5082206": {
    "fantasy_team": "Bull Market",
@@ -6608,7 +6608,7 @@
   "6606": {
    "fantasy_team": "Bull Market",
    "id": "6606",
-   "mpg": 28.8,
+   "mpg": 28.9,
    "name": "Damian Lillard",
    "nba_team": "POR",
    "positions": [

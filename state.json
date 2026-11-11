@@ -130,7 +130,7 @@
   "5106262:20261107"
  ],
  "hot_status": "ok: 250 FAs, 1504 games",
- "last_activity_ms": 1794401026745,
+ "last_activity_ms": 1794401207273,
  "last_digest": 1794400576.9250972,
  "last_error_alert": 1794388335.8497355,
  "last_hot_check": 1794401179.104543,
@@ -500,7 +500,7 @@
     "SG"
    ],
    "return_date": null,
-   "slot": "UT",
+   "slot": "BE",
    "status": "ACTIVE",
    "value": 25.7
   },
@@ -1019,7 +1019,7 @@
     "SG"
    ],
    "return_date": null,
-   "slot": "PG",
+   "slot": "UT",
    "status": "ACTIVE",
    "value": 37.7
   },
@@ -2560,7 +2560,7 @@
    "value": 23.3
   },
   "4278594": {
-   "fantasy_team": "Caxias French Fries",
+   "fantasy_team": null,
    "id": "4278594",
    "mpg": 24.8,
    "name": "Naji Marshall",
@@ -2570,7 +2570,7 @@
     "PF"
    ],
    "return_date": null,
-   "slot": "BE",
+   "slot": "",
    "status": "ACTIVE",
    "value": 22.4
   },
@@ -5543,7 +5543,7 @@
    "value": 5.0
   },
   "5101761": {
-   "fantasy_team": null,
+   "fantasy_team": "Caxias French Fries",
    "id": "5101761",
    "mpg": 23.3,
    "name": "Mikel Brown Jr.",
@@ -5552,7 +5552,7 @@
     "PG"
    ],
    "return_date": null,
-   "slot": "",
+   "slot": "PG",
    "status": "ACTIVE",
    "value": 20.5
   },
@@ -6815,6 +6815,7 @@
   "drop:4066372:1794353315398",
   "drop:4594327:1794385997008",
   "drop:4432170:1794391679226",
-  "drop:3133628:1794394968161"
+  "drop:3133628:1794394968161",
+  "drop:4278594:1794401207273"
  ]
 }

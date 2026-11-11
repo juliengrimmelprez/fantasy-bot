@@ -1730,21 +1730,6 @@
    "status": "ACTIVE",
    "value": 17.0
   },
-  "4017844": {
-   "fantasy_team": null,
-   "id": "4017844",
-   "mpg": null,
-   "name": "Guerschon Yabusele",
-   "nba_team": "FA",
-   "positions": [
-    "PF",
-    "C"
-   ],
-   "return_date": null,
-   "slot": "",
-   "status": "ACTIVE",
-   "value": 0.0
-  },
   "4017850": {
    "fantasy_team": null,
    "id": "4017850",
@@ -4849,6 +4834,20 @@
    "slot": "",
    "status": "ACTIVE",
    "value": 10.4
+  },
+  "4781746": {
+   "fantasy_team": null,
+   "id": "4781746",
+   "mpg": 21.7,
+   "name": "Javon Small",
+   "nba_team": "MEM",
+   "positions": [
+    "PG"
+   ],
+   "return_date": null,
+   "slot": "",
+   "status": "ACTIVE",
+   "value": 16.0
   },
   "4845367": {
    "fantasy_team": "King Coopa",

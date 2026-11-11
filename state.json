@@ -3097,7 +3097,7 @@
    ],
    "return_date": null,
    "slot": "UT",
-   "status": "DAY_TO_DAY",
+   "status": "OUT",
    "value": 31.1
   },
   "4397886": {
@@ -6833,6 +6833,7 @@
   "drop:4278594:1794401207273",
   "diag:23",
   "drop:4395650:1794425880202",
-  "inj:5093267:ACTIVE"
+  "inj:5093267:ACTIVE",
+  "inj:4397688:OUT"
  ]
 }

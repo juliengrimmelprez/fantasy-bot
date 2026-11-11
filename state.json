@@ -130,7 +130,7 @@
   "2990992:20261101"
  ],
  "hot_status": "ok: 250 FAs, 1497 games",
- "last_activity_ms": 1794391679226,
+ "last_activity_ms": 1794391705154,
  "last_digest": 1794389655.7463944,
  "last_error_alert": 1794388335.8497355,
  "last_hot_check": 1794391576.656802,
@@ -208,7 +208,7 @@
     "PF"
    ],
    "return_date": null,
-   "slot": "UT",
+   "slot": "BE",
    "status": "ACTIVE",
    "value": 35.9
   },
@@ -1411,7 +1411,7 @@
    "value": 26.0
   },
   "3907498": {
-   "fantasy_team": null,
+   "fantasy_team": "Lucky",
    "id": "3907498",
    "mpg": 24.4,
    "name": "Matisse Thybulle",
@@ -1420,7 +1420,7 @@
     "SF"
    ],
    "return_date": null,
-   "slot": "",
+   "slot": "UT",
    "status": "ACTIVE",
    "value": 20.0
   },
@@ -1729,6 +1729,21 @@
    "slot": "C",
    "status": "ACTIVE",
    "value": 17.0
+  },
+  "4017844": {
+   "fantasy_team": null,
+   "id": "4017844",
+   "mpg": null,
+   "name": "Guerschon Yabusele",
+   "nba_team": "FA",
+   "positions": [
+    "PF",
+    "C"
+   ],
+   "return_date": null,
+   "slot": "",
+   "status": "ACTIVE",
+   "value": 0.0
   },
   "4017850": {
    "fantasy_team": null,

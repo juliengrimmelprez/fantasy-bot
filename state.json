@@ -125,11 +125,11 @@
   "4845374:20261108",
   "4397040:20261025"
  ],
- "hot_status": "ok: 250 FAs, 1453 games",
+ "hot_status": "ok: 250 FAs, 1461 games",
  "last_activity_ms": 1794353315398,
  "last_digest": 1794356301.2454858,
  "last_error_alert": 1794133333.591223,
- "last_hot_check": 1794357978.8064985,
+ "last_hot_check": 1794358938.0727649,
  "last_run": "2026-10-19T22:05:14+00:00",
  "matchup_periods": {
   "1": [
@@ -1511,7 +1511,7 @@
   "3914044": {
    "fantasy_team": null,
    "id": "3914044",
-   "mpg": 23.5,
+   "mpg": 23.6,
    "name": "Landry Shamet",
    "nba_team": "NYK",
    "positions": [
@@ -1520,7 +1520,7 @@
    "return_date": null,
    "slot": "",
    "status": "ACTIVE",
-   "value": 16.7
+   "value": 16.4
   },
   "3917376": {
    "fantasy_team": "BL0CK BY ZION",
@@ -5188,7 +5188,7 @@
   "4997526": {
    "fantasy_team": null,
    "id": "4997526",
-   "mpg": 9.8,
+   "mpg": 9.9,
    "name": "Ousmane Dieng",
    "nba_team": "MIL",
    "positions": [
@@ -5197,7 +5197,7 @@
    "return_date": null,
    "slot": "",
    "status": "ACTIVE",
-   "value": 4.3
+   "value": 4.2
   },
   "4997528": {
    "fantasy_team": null,
@@ -5643,7 +5643,7 @@
   "5105623": {
    "fantasy_team": null,
    "id": "5105623",
-   "mpg": 15.9,
+   "mpg": 16.0,
    "name": "Kel'el Ware",
    "nba_team": "MIL",
    "positions": [
@@ -5652,7 +5652,7 @@
    "return_date": null,
    "slot": "",
    "status": "ACTIVE",
-   "value": 14.0
+   "value": 14.1
   },
   "5105637": {
    "fantasy_team": null,
@@ -6216,7 +6216,7 @@
   "5214640": {
    "fantasy_team": null,
    "id": "5214640",
-   "mpg": 17.0,
+   "mpg": 17.1,
    "name": "Kasparas Jakucionis",
    "nba_team": "MIL",
    "positions": [
@@ -6414,7 +6414,7 @@
   "5289900": {
    "fantasy_team": null,
    "id": "5289900",
-   "mpg": 8.8,
+   "mpg": 9.0,
    "name": "Mohamed Diawara",
    "nba_team": "NYK",
    "positions": [
@@ -6423,7 +6423,7 @@
    "return_date": null,
    "slot": "",
    "status": "ACTIVE",
-   "value": 7.6
+   "value": 7.8
   },
   "6430": {
    "fantasy_team": null,
@@ -6584,7 +6584,7 @@
    "return_date": null,
    "slot": "C",
    "status": "ACTIVE",
-   "value": 13.4
+   "value": 13.5
   },
   "6589": {
    "fantasy_team": "Hospital do Gansola",

@@ -130,7 +130,7 @@
   "5106262:20261107"
  ],
  "hot_status": "ok: 250 FAs, 1498 games",
- "last_activity_ms": 1794394968161,
+ "last_activity_ms": 1794401026745,
  "last_digest": 1794400576.9250972,
  "last_error_alert": 1794388335.8497355,
  "last_hot_check": 1794400223.2345686,
@@ -664,7 +664,7 @@
    "value": 27.1
   },
   "3059319": {
-   "fantasy_team": "Bull Market",
+   "fantasy_team": null,
    "id": "3059319",
    "mpg": 25.7,
    "name": "Andrew Wiggins",
@@ -674,7 +674,7 @@
     "PF"
    ],
    "return_date": null,
-   "slot": "BE",
+   "slot": "",
    "status": "ACTIVE",
    "value": 17.5
   },
@@ -2299,7 +2299,7 @@
    "value": 15.6
   },
   "4277956": {
-   "fantasy_team": null,
+   "fantasy_team": "Bull Market",
    "id": "4277956",
    "mpg": 19.6,
    "name": "Jordan Poole",
@@ -2309,7 +2309,7 @@
     "SG"
    ],
    "return_date": null,
-   "slot": "",
+   "slot": "UT",
    "status": "ACTIVE",
    "value": 11.4
   },
@@ -6498,7 +6498,7 @@
     "SF"
    ],
    "return_date": null,
-   "slot": "UT",
+   "slot": "BE",
    "status": "ACTIVE",
    "value": 27.9
   },

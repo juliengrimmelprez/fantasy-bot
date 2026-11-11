@@ -130,7 +130,7 @@
   "5175647:20261111"
  ],
  "hot_status": "ok: 250 FAs, 1506 games",
- "last_activity_ms": 1794385997008,
+ "last_activity_ms": 1794386216732,
  "last_digest": 1794385942.0084727,
  "last_error_alert": 1794133333.591223,
  "last_hot_check": 1794385823.2150083,
@@ -1672,7 +1672,7 @@
    "value": 52.0
   },
   "3978": {
-   "fantasy_team": null,
+   "fantasy_team": "Lakers x Bortolan 23",
    "id": "3978",
    "mpg": 24.0,
    "name": "DeMar DeRozan",
@@ -1682,7 +1682,7 @@
     "PF"
    ],
    "return_date": null,
-   "slot": "",
+   "slot": "UT",
    "status": "ACTIVE",
    "value": 19.0
   },
@@ -3305,7 +3305,7 @@
    "value": 29.1
   },
   "4431785": {
-   "fantasy_team": "Lakers x Bortolan 23",
+   "fantasy_team": null,
    "id": "4431785",
    "mpg": 16.2,
    "name": "Scotty Pippen Jr.",
@@ -3315,7 +3315,7 @@
     "SG"
    ],
    "return_date": null,
-   "slot": "BE",
+   "slot": "",
    "status": "OUT",
    "value": 10.4
   },
@@ -5812,7 +5812,7 @@
     "PG"
    ],
    "return_date": null,
-   "slot": "UT",
+   "slot": "BE",
    "status": "ACTIVE",
    "value": 27.2
   },

@@ -130,7 +130,7 @@
   "2990992:20261101"
  ],
  "hot_status": "ok: 250 FAs, 1497 games",
- "last_activity_ms": 1794386664573,
+ "last_activity_ms": 1794391679226,
  "last_digest": 1794389655.7463944,
  "last_error_alert": 1794388335.8497355,
  "last_hot_check": 1794391576.656802,
@@ -1729,21 +1729,6 @@
    "slot": "C",
    "status": "ACTIVE",
    "value": 17.0
-  },
-  "4017844": {
-   "fantasy_team": null,
-   "id": "4017844",
-   "mpg": null,
-   "name": "Guerschon Yabusele",
-   "nba_team": "FA",
-   "positions": [
-    "PF",
-    "C"
-   ],
-   "return_date": null,
-   "slot": "",
-   "status": "ACTIVE",
-   "value": 0.0
   },
   "4017850": {
    "fantasy_team": null,
@@ -3407,7 +3392,7 @@
    "value": 45.3
   },
   "4432170": {
-   "fantasy_team": "Lucky",
+   "fantasy_team": null,
    "id": "4432170",
    "mpg": 20.6,
    "name": "Isaiah Jackson",
@@ -3417,7 +3402,7 @@
     "C"
    ],
    "return_date": null,
-   "slot": "BE",
+   "slot": "",
    "status": "ACTIVE",
    "value": 21.4
   },
@@ -6814,6 +6799,7 @@
   "inj:4066457:ACTIVE",
   "inj:4395725:OUT",
   "drop:4066372:1794353315398",
-  "drop:4594327:1794385997008"
+  "drop:4594327:1794385997008",
+  "drop:4432170:1794391679226"
  ]
 }

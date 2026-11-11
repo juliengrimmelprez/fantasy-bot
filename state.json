@@ -130,7 +130,7 @@
   "6475:20261031"
  ],
  "hot_status": "ok: 250 FAs, 1494 games",
- "last_activity_ms": 1794391705154,
+ "last_activity_ms": 1794394968161,
  "last_digest": 1794393259.244837,
  "last_error_alert": 1794388335.8497355,
  "last_hot_check": 1794394457.4732158,
@@ -476,7 +476,7 @@
    "value": 19.4
   },
   "2991070": {
-   "fantasy_team": null,
+   "fantasy_team": "Polga Silva",
    "id": "2991070",
    "mpg": 23.8,
    "name": "Jerami Grant",
@@ -485,7 +485,7 @@
     "PF"
    ],
    "return_date": null,
-   "slot": "",
+   "slot": "PF",
    "status": "ACTIVE",
    "value": 19.4
   },
@@ -895,7 +895,7 @@
    "value": 14.8
   },
   "3133628": {
-   "fantasy_team": "Polga Silva",
+   "fantasy_team": null,
    "id": "3133628",
    "mpg": 27.1,
    "name": "Myles Turner",
@@ -904,7 +904,7 @@
     "C"
    ],
    "return_date": null,
-   "slot": "UT",
+   "slot": "",
    "status": "ACTIVE",
    "value": 24.3
   },
@@ -1220,7 +1220,7 @@
     "C"
    ],
    "return_date": null,
-   "slot": "PF",
+   "slot": "UT",
    "status": "ACTIVE",
    "value": 34.2
   },
@@ -1712,7 +1712,7 @@
     "SG"
    ],
    "return_date": null,
-   "slot": "SG",
+   "slot": "UT",
    "status": "ACTIVE",
    "value": 27.6
   },
@@ -1974,7 +1974,7 @@
     "C"
    ],
    "return_date": null,
-   "slot": "UT",
+   "slot": "C",
    "status": "ACTIVE",
    "value": 30.0
   },
@@ -2064,7 +2064,7 @@
     "SG"
    ],
    "return_date": null,
-   "slot": "BE",
+   "slot": "PG",
    "status": "ACTIVE",
    "value": 24.1
   },
@@ -2410,7 +2410,7 @@
     "PG"
    ],
    "return_date": null,
-   "slot": "PG",
+   "slot": "UT",
    "status": "ACTIVE",
    "value": 45.8
   },
@@ -2454,7 +2454,7 @@
     "PF"
    ],
    "return_date": null,
-   "slot": "UT",
+   "slot": "BE",
    "status": "ACTIVE",
    "value": 26.9
   },
@@ -2686,7 +2686,7 @@
     "PG"
    ],
    "return_date": null,
-   "slot": "BE",
+   "slot": "UT",
    "status": "ACTIVE",
    "value": 22.4
   },
@@ -2877,7 +2877,7 @@
     "C"
    ],
    "return_date": null,
-   "slot": "UT",
+   "slot": "BE",
    "status": "ACTIVE",
    "value": 26.8
   },
@@ -3200,7 +3200,7 @@
     "C"
    ],
    "return_date": null,
-   "slot": "C",
+   "slot": "BE",
    "status": "OUT",
    "value": 24.1
   },
@@ -4148,7 +4148,7 @@
     "SG"
    ],
    "return_date": null,
-   "slot": "BE",
+   "slot": "SG",
    "status": "ACTIVE",
    "value": 26.2
   },
@@ -6815,6 +6815,7 @@
   "inj:4395725:OUT",
   "drop:4066372:1794353315398",
   "drop:4594327:1794385997008",
-  "drop:4432170:1794391679226"
+  "drop:4432170:1794391679226",
+  "drop:3133628:1794394968161"
  ]
 }

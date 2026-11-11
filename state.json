@@ -125,11 +125,11 @@
   "4278562:20261024",
   "4433225:20261029"
  ],
- "hot_status": "ok: 250 FAs, 1497 games",
+ "hot_status": "ok: 250 FAs, 1498 games",
  "last_activity_ms": 1794353315398,
  "last_digest": 1794367337.130798,
  "last_error_alert": 1794133333.591223,
- "last_hot_check": 1794368538.530486,
+ "last_hot_check": 1794369497.8510885,
  "last_run": "2026-10-19T22:05:14+00:00",
  "matchup_periods": {
   "1": [
@@ -1208,7 +1208,7 @@
   "3155942": {
    "fantasy_team": "Polga Silva",
    "id": "3155942",
-   "mpg": 32.8,
+   "mpg": 32.9,
    "name": "Domantas Sabonis",
    "nba_team": "SAC",
    "positions": [
@@ -1218,7 +1218,7 @@
    "return_date": null,
    "slot": "PF",
    "status": "ACTIVE",
-   "value": 33.5
+   "value": 33.6
   },
   "3157465": {
    "fantasy_team": "Lucky",
@@ -1826,7 +1826,7 @@
    "return_date": null,
    "slot": "UT",
    "status": "ACTIVE",
-   "value": 20.1
+   "value": 19.9
   },
   "4065733": {
    "fantasy_team": "BL0CK BY ZION",
@@ -2222,7 +2222,7 @@
    "return_date": null,
    "slot": "C",
    "status": "ACTIVE",
-   "value": 25.8
+   "value": 25.9
   },
   "4277848": {
    "fantasy_team": null,
@@ -2530,7 +2530,7 @@
   "4278572": {
    "fantasy_team": "Tiki Taka Laranja",
    "id": "4278572",
-   "mpg": 18.7,
+   "mpg": 18.8,
    "name": "Jamal Cain",
    "nba_team": "ORL",
    "positions": [
@@ -2539,7 +2539,7 @@
    "return_date": null,
    "slot": "UT",
    "status": "ACTIVE",
-   "value": 12.5
+   "value": 12.4
   },
   "4278580": {
    "fantasy_team": "Lucky",
@@ -2719,7 +2719,7 @@
   "4395650": {
    "fantasy_team": "Tiki Taka Laranja",
    "id": "4395650",
-   "mpg": 17.6,
+   "mpg": 17.7,
    "name": "Leaky Black",
    "nba_team": "SAC",
    "positions": [
@@ -3989,7 +3989,7 @@
   "4566434": {
    "fantasy_team": "King Coopa",
    "id": "4566434",
-   "mpg": 34.1,
+   "mpg": 34.2,
    "name": "Franz Wagner",
    "nba_team": "ORL",
    "positions": [
@@ -3999,7 +3999,7 @@
    "return_date": null,
    "slot": "SF",
    "status": "ACTIVE",
-   "value": 37.9
+   "value": 38.4
   },
   "4576060": {
    "fantasy_team": null,
@@ -4239,7 +4239,7 @@
   "4594327": {
    "fantasy_team": "Bull Market",
    "id": "4594327",
-   "mpg": 21.0,
+   "mpg": 21.2,
    "name": "Keegan Murray",
    "nba_team": "SAC",
    "positions": [
@@ -4249,7 +4249,7 @@
    "return_date": null,
    "slot": "UT",
    "status": "ACTIVE",
-   "value": 14.6
+   "value": 16.3
   },
   "4595400": {
    "fantasy_team": null,
@@ -4806,7 +4806,7 @@
   "4712849": {
    "fantasy_team": "Contagem Hunters",
    "id": "4712849",
-   "mpg": 27.9,
+   "mpg": 28.0,
    "name": "Anthony Black",
    "nba_team": "ORL",
    "positions": [
@@ -5887,7 +5887,7 @@
   "5142620": {
    "fantasy_team": "BL0CK BY ZION",
    "id": "5142620",
-   "mpg": 34.9,
+   "mpg": 35.0,
    "name": "Darius Acuff Jr.",
    "nba_team": "SAC",
    "positions": [

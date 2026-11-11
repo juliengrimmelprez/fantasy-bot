@@ -127,11 +127,11 @@
   "5175647:20261111",
   "4433225:20261111"
  ],
- "hot_status": "ok: 250 FAs, 1503 games",
+ "hot_status": "ok: 250 FAs, 1505 games",
  "last_activity_ms": 1794353315398,
  "last_digest": 1794371057.2272222,
  "last_error_alert": 1794133333.591223,
- "last_hot_check": 1794371431.9403439,
+ "last_hot_check": 1794372376.9820077,
  "last_run": "2026-10-19T22:05:14+00:00",
  "matchup_periods": {
   "1": [
@@ -534,7 +534,7 @@
   "2991350": {
    "fantasy_team": "CCCP  Баскетбол",
    "id": "2991350",
-   "mpg": 16.8,
+   "mpg": 16.9,
    "name": "Alex Caruso",
    "nba_team": "OKC",
    "positions": [
@@ -1960,7 +1960,7 @@
    "return_date": null,
    "slot": "SG",
    "status": "ACTIVE",
-   "value": 27.5
+   "value": 27.3
   },
   "4066328": {
    "fantasy_team": "Polga Silva",
@@ -2619,7 +2619,7 @@
   "4348700": {
    "fantasy_team": null,
    "id": "4348700",
-   "mpg": 9.0,
+   "mpg": 9.1,
    "name": "Goga Bitadze",
    "nba_team": "ORL",
    "positions": [
@@ -2721,7 +2721,7 @@
   "4395650": {
    "fantasy_team": "Tiki Taka Laranja",
    "id": "4395650",
-   "mpg": 18.0,
+   "mpg": 18.1,
    "name": "Leaky Black",
    "nba_team": "SAC",
    "positions": [
@@ -3829,7 +3829,7 @@
   "4433174": {
    "fantasy_team": null,
    "id": "4433174",
-   "mpg": 15.0,
+   "mpg": 15.2,
    "name": "Dylan Cardwell",
    "nba_team": "SAC",
    "positions": [
@@ -3991,7 +3991,7 @@
   "4566434": {
    "fantasy_team": "King Coopa",
    "id": "4566434",
-   "mpg": 35.2,
+   "mpg": 35.4,
    "name": "Franz Wagner",
    "nba_team": "ORL",
    "positions": [
@@ -4001,7 +4001,7 @@
    "return_date": null,
    "slot": "SF",
    "status": "ACTIVE",
-   "value": 40.7
+   "value": 40.9
   },
   "4576060": {
    "fantasy_team": null,
@@ -4241,7 +4241,7 @@
   "4594327": {
    "fantasy_team": "Bull Market",
    "id": "4594327",
-   "mpg": 23.2,
+   "mpg": 23.5,
    "name": "Keegan Murray",
    "nba_team": "SAC",
    "positions": [
@@ -4341,7 +4341,7 @@
   "4683021": {
    "fantasy_team": "Contagem Hunters",
    "id": "4683021",
-   "mpg": 29.8,
+   "mpg": 29.9,
    "name": "Deni Avdija",
    "nba_team": "POR",
    "positions": [
@@ -4371,7 +4371,7 @@
   "4683678": {
    "fantasy_team": null,
    "id": "4683678",
-   "mpg": 20.7,
+   "mpg": 20.8,
    "name": "Scoot Henderson",
    "nba_team": "POR",
    "positions": [
@@ -4381,7 +4381,7 @@
    "return_date": null,
    "slot": "",
    "status": "ACTIVE",
-   "value": 6.9
+   "value": 7.1
   },
   "4683688": {
    "fantasy_team": "Polga Silva",
@@ -4502,7 +4502,7 @@
   "4683778": {
    "fantasy_team": "Fernando  Diniz",
    "id": "4683778",
-   "mpg": 23.5,
+   "mpg": 23.6,
    "name": "Jared McCain",
    "nba_team": "OKC",
    "positions": [
@@ -4512,7 +4512,7 @@
    "return_date": null,
    "slot": "PG",
    "status": "ACTIVE",
-   "value": 20.6
+   "value": 20.9
   },
   "4684272": {
    "fantasy_team": null,
@@ -4692,7 +4692,7 @@
   "4702384": {
    "fantasy_team": null,
    "id": "4702384",
-   "mpg": 6.2,
+   "mpg": 5.7,
    "name": "Nique Clifford",
    "nba_team": "OKC",
    "positions": [
@@ -4702,7 +4702,7 @@
    "return_date": null,
    "slot": "",
    "status": "ACTIVE",
-   "value": 3.5
+   "value": 3.0
   },
   "4702656": {
    "fantasy_team": null,
@@ -4744,7 +4744,7 @@
    "return_date": null,
    "slot": "",
    "status": "ACTIVE",
-   "value": 7.8
+   "value": 8.7
   },
   "4709138": {
    "fantasy_team": "CCCP  Баскетбол",
@@ -4818,7 +4818,7 @@
    "return_date": null,
    "slot": "UT",
    "status": "ACTIVE",
-   "value": 34.9
+   "value": 35.0
   },
   "4712863": {
    "fantasy_team": null,
@@ -5616,7 +5616,7 @@
   "5105565": {
    "fantasy_team": "Polga Silva",
    "id": "5105565",
-   "mpg": 23.0,
+   "mpg": 23.1,
    "name": "Donovan Clingan",
    "nba_team": "POR",
    "positions": [
@@ -6274,7 +6274,7 @@
   "5239561": {
    "fantasy_team": null,
    "id": "5239561",
-   "mpg": 21.2,
+   "mpg": 21.3,
    "name": "Jase Richardson",
    "nba_team": "ORL",
    "positions": [
@@ -6518,7 +6518,7 @@
   "6478": {
    "fantasy_team": "Lakers x Bortolan 23",
    "id": "6478",
-   "mpg": 8.2,
+   "mpg": 8.4,
    "name": "Nikola Vucevic",
    "nba_team": "ORL",
    "positions": [
@@ -6527,7 +6527,7 @@
    "return_date": null,
    "slot": "UT",
    "status": "ACTIVE",
-   "value": 7.7
+   "value": 8.2
   },
   "6578": {
    "fantasy_team": null,

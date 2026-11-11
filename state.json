@@ -130,7 +130,7 @@
   "4397189:20261029"
  ],
  "hot_status": "ok: 250 FAs, 1505 games",
- "last_activity_ms": 1794401207273,
+ "last_activity_ms": 1794413943302,
  "last_digest": 1794411622.408112,
  "last_error_alert": 1794388335.8497355,
  "last_hot_check": 1794413658.368837,
@@ -1019,7 +1019,7 @@
     "SG"
    ],
    "return_date": null,
-   "slot": "UT",
+   "slot": "PG",
    "status": "ACTIVE",
    "value": 37.7
   },
@@ -1167,7 +1167,7 @@
    "value": 39.5
   },
   "3150844": {
-   "fantasy_team": null,
+   "fantasy_team": "Caxias French Fries",
    "id": "3150844",
    "mpg": 18.3,
    "name": "Moritz Wagner",
@@ -1176,7 +1176,7 @@
     "C"
    ],
    "return_date": null,
-   "slot": "",
+   "slot": "UT",
    "status": "ACTIVE",
    "value": 20.3
   },
@@ -1729,6 +1729,21 @@
    "slot": "C",
    "status": "ACTIVE",
    "value": 17.0
+  },
+  "4017844": {
+   "fantasy_team": null,
+   "id": "4017844",
+   "mpg": null,
+   "name": "Guerschon Yabusele",
+   "nba_team": "FA",
+   "positions": [
+    "PF",
+    "C"
+   ],
+   "return_date": null,
+   "slot": "",
+   "status": "ACTIVE",
+   "value": 0.0
   },
   "4017850": {
    "fantasy_team": null,
@@ -5552,7 +5567,7 @@
     "PG"
    ],
    "return_date": null,
-   "slot": "PG",
+   "slot": "IR",
    "status": "OUT",
    "value": 20.5
   },

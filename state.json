@@ -130,7 +130,7 @@
   "2995706:20261103"
  ],
  "hot_status": "ok: 250 FAs, 1505 games",
- "last_activity_ms": 1794413943302,
+ "last_activity_ms": 1794425880202,
  "last_digest": 1794422780.2966766,
  "last_error_alert": 1794388335.8497355,
  "last_hot_check": 1794425179.7476923,
@@ -1861,7 +1861,7 @@
    "value": 22.0
   },
   "4065804": {
-   "fantasy_team": null,
+   "fantasy_team": "Tiki Taka Laranja",
    "id": "4065804",
    "mpg": 20.7,
    "name": "Sam Hauser",
@@ -1871,7 +1871,7 @@
     "PF"
    ],
    "return_date": null,
-   "slot": "",
+   "slot": "PF",
    "status": "ACTIVE",
    "value": 15.9
   },
@@ -2540,7 +2540,7 @@
     "SF"
    ],
    "return_date": null,
-   "slot": "BE",
+   "slot": "UT",
    "status": "ACTIVE",
    "value": 13.2
   },
@@ -2720,7 +2720,7 @@
    "value": 29.3
   },
   "4395650": {
-   "fantasy_team": "Tiki Taka Laranja",
+   "fantasy_team": null,
    "id": "4395650",
    "mpg": 19.0,
    "name": "Leaky Black",
@@ -2729,7 +2729,7 @@
     "SF"
    ],
    "return_date": null,
-   "slot": "BE",
+   "slot": "",
    "status": "ACTIVE",
    "value": 20.6
   },
@@ -3184,7 +3184,7 @@
     "SG"
    ],
    "return_date": null,
-   "slot": "UT",
+   "slot": "BE",
    "status": "ACTIVE",
    "value": 44.0
   },
@@ -5070,7 +5070,7 @@
    "value": 10.6
   },
   "4888725": {
-   "fantasy_team": "Tiki Taka Laranja",
+   "fantasy_team": null,
    "id": "4888725",
    "mpg": 17.6,
    "name": "Ryan Dunn",
@@ -5080,7 +5080,7 @@
     "PF"
    ],
    "return_date": null,
-   "slot": "PF",
+   "slot": "",
    "status": "ACTIVE",
    "value": 19.5
   },
@@ -5487,7 +5487,7 @@
    "value": 15.0
   },
   "5081727": {
-   "fantasy_team": null,
+   "fantasy_team": "Tiki Taka Laranja",
    "id": "5081727",
    "mpg": 22.3,
    "name": "Sidy Cissoko",
@@ -5496,7 +5496,7 @@
     "SG"
    ],
    "return_date": null,
-   "slot": "",
+   "slot": "BE",
    "status": "ACTIVE",
    "value": 16.6
   },
@@ -6831,6 +6831,7 @@
   "drop:4432170:1794391679226",
   "drop:3133628:1794394968161",
   "drop:4278594:1794401207273",
-  "diag:23"
+  "diag:23",
+  "drop:4395650:1794425880202"
  ]
 }

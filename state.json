@@ -1975,7 +1975,7 @@
    ],
    "return_date": null,
    "slot": "PF",
-   "status": "OUT",
+   "status": "DAY_TO_DAY",
    "value": 34.5
   },
   "4066354": {
@@ -3186,7 +3186,7 @@
    ],
    "return_date": null,
    "slot": "BE",
-   "status": "OUT",
+   "status": "DAY_TO_DAY",
    "value": 24.1
   },
   "4431680": {

@@ -129,11 +129,11 @@
   "5105637:20261025",
   "4066436:20261025"
  ],
- "hot_status": "ok: 250 FAs, 1530 games",
+ "hot_status": "ok: 250 FAs, 1544 games",
  "last_activity_ms": 1794425880202,
  "last_digest": 1794445234.7031207,
  "last_error_alert": 1794388335.8497355,
- "last_hot_check": 1794445939.279217,
+ "last_hot_check": 1794446898.0528502,
  "last_run": "2026-10-19T22:05:14+00:00",
  "matchup_periods": {
   "1": [
@@ -478,7 +478,7 @@
   "2991070": {
    "fantasy_team": "Polga Silva",
    "id": "2991070",
-   "mpg": 21.6,
+   "mpg": 21.8,
    "name": "Jerami Grant",
    "nba_team": "MEM",
    "positions": [
@@ -487,7 +487,7 @@
    "return_date": null,
    "slot": "PF",
    "status": "ACTIVE",
-   "value": 17.0
+   "value": 17.3
   },
   "2991139": {
    "fantasy_team": "Caxias French Fries",
@@ -740,7 +740,7 @@
   "3064514": {
    "fantasy_team": "Lebron GOAT",
    "id": "3064514",
-   "mpg": 31.0,
+   "mpg": 31.1,
    "name": "Julius Randle",
    "nba_team": "BKN",
    "positions": [
@@ -754,7 +754,7 @@
   "3064560": {
    "fantasy_team": null,
    "id": "3064560",
-   "mpg": 15.0,
+   "mpg": 13.9,
    "name": "Luke Kornet",
    "nba_team": "SAS",
    "positions": [
@@ -763,7 +763,7 @@
    "return_date": null,
    "slot": "",
    "status": "ACTIVE",
-   "value": 11.6
+   "value": 10.4
   },
   "3078576": {
    "fantasy_team": "Lucky",
@@ -840,7 +840,7 @@
   "3112335": {
    "fantasy_team": "Tropa do Nikola",
    "id": "3112335",
-   "mpg": 33.4,
+   "mpg": 33.6,
    "name": "Nikola Jokic",
    "nba_team": "DEN",
    "positions": [
@@ -849,7 +849,7 @@
    "return_date": null,
    "slot": "C",
    "status": "ACTIVE",
-   "value": 53.4
+   "value": 53.9
   },
   "3133602": {
    "fantasy_team": null,
@@ -997,7 +997,7 @@
   "3135046": {
    "fantasy_team": null,
    "id": "3135046",
-   "mpg": 10.7,
+   "mpg": 9.6,
    "name": "Tyus Jones",
    "nba_team": "DEN",
    "positions": [
@@ -1006,7 +1006,7 @@
    "return_date": null,
    "slot": "",
    "status": "ACTIVE",
-   "value": 9.5
+   "value": 8.3
   },
   "3136193": {
    "fantasy_team": "Caxias French Fries",
@@ -1178,7 +1178,7 @@
    "return_date": null,
    "slot": "UT",
    "status": "ACTIVE",
-   "value": 18.0
+   "value": 18.2
   },
   "3155526": {
    "fantasy_team": "Fernando  Diniz",
@@ -1422,7 +1422,7 @@
    "return_date": null,
    "slot": "UT",
    "status": "ACTIVE",
-   "value": 18.9
+   "value": 18.5
   },
   "3907823": {
    "fantasy_team": null,
@@ -1617,7 +1617,7 @@
   "3936299": {
    "fantasy_team": "Lucky",
    "id": "3936299",
-   "mpg": 33.9,
+   "mpg": 34.0,
    "name": "Jamal Murray",
    "nba_team": "DEN",
    "positions": [
@@ -1674,7 +1674,7 @@
   "3978": {
    "fantasy_team": "Lakers x Bortolan 23",
    "id": "3978",
-   "mpg": 21.3,
+   "mpg": 21.6,
    "name": "DeMar DeRozan",
    "nba_team": "DEN",
    "positions": [
@@ -1684,7 +1684,7 @@
    "return_date": null,
    "slot": "UT",
    "status": "ACTIVE",
-   "value": 14.0
+   "value": 14.6
   },
   "3992": {
    "fantasy_team": "Tiki Taka Laranja",
@@ -2080,7 +2080,7 @@
    "return_date": null,
    "slot": "PG",
    "status": "ACTIVE",
-   "value": 33.2
+   "value": 33.6
   },
   "4066648": {
    "fantasy_team": "Lakers x Bortolan 23",
@@ -2186,7 +2186,7 @@
   "4277813": {
    "fantasy_team": null,
    "id": "4277813",
-   "mpg": 21.4,
+   "mpg": 21.5,
    "name": "Herbert Jones",
    "nba_team": "NOP",
    "positions": [
@@ -2388,7 +2388,7 @@
   "4278067": {
    "fantasy_team": "BL0CK BY ZION",
    "id": "4278067",
-   "mpg": 18.0,
+   "mpg": 10.0,
    "name": "Nic Claxton",
    "nba_team": "CHI",
    "positions": [
@@ -2397,7 +2397,7 @@
    "return_date": null,
    "slot": "UT",
    "status": "ACTIVE",
-   "value": 23.0
+   "value": 15.0
   },
   "4278073": {
    "fantasy_team": "Polga Silva",
@@ -2460,7 +2460,7 @@
   "4278104": {
    "fantasy_team": "Tropa do Nikola",
    "id": "4278104",
-   "mpg": 30.6,
+   "mpg": 30.7,
    "name": "Michael Porter Jr.",
    "nba_team": "BKN",
    "positions": [
@@ -2678,7 +2678,7 @@
   "4395626": {
    "fantasy_team": "Polga Silva",
    "id": "4395626",
-   "mpg": 16.1,
+   "mpg": 16.2,
    "name": "Tre Jones",
    "nba_team": "CHI",
    "positions": [
@@ -2687,12 +2687,12 @@
    "return_date": null,
    "slot": "UT",
    "status": "ACTIVE",
-   "value": 19.6
+   "value": 19.3
   },
   "4395628": {
    "fantasy_team": "BL0CK BY ZION",
    "id": "4395628",
-   "mpg": 30.7,
+   "mpg": 30.8,
    "name": "Zion Williamson",
    "nba_team": "NOP",
    "positions": [
@@ -2780,7 +2780,7 @@
   "4395723": {
    "fantasy_team": null,
    "id": "4395723",
-   "mpg": 21.8,
+   "mpg": 21.9,
    "name": "Keldon Johnson",
    "nba_team": "SAS",
    "positions": [
@@ -2790,7 +2790,7 @@
    "return_date": null,
    "slot": "",
    "status": "ACTIVE",
-   "value": 13.8
+   "value": 13.9
   },
   "4395724": {
    "fantasy_team": "Fernando  Diniz",
@@ -3234,7 +3234,7 @@
   "4431687": {
    "fantasy_team": null,
    "id": "4431687",
-   "mpg": 15.7,
+   "mpg": 16.0,
    "name": "Patrick Williams",
    "nba_team": "CHI",
    "positions": [
@@ -3243,7 +3243,7 @@
    "return_date": null,
    "slot": "",
    "status": "ACTIVE",
-   "value": 8.7
+   "value": 9.7
   },
   "4431714": {
    "fantasy_team": null,
@@ -3610,7 +3610,7 @@
   "4432810": {
    "fantasy_team": "Lucky",
    "id": "4432810",
-   "mpg": 16.0,
+   "mpg": 16.2,
    "name": "Isaiah Stewart",
    "nba_team": "MEM",
    "positions": [
@@ -3620,7 +3620,7 @@
    "return_date": null,
    "slot": "IR",
    "status": "ACTIVE",
-   "value": 20.0
+   "value": 19.9
   },
   "4432811": {
    "fantasy_team": null,
@@ -3757,7 +3757,7 @@
   "4433083": {
    "fantasy_team": "Hospital do Gansola",
    "id": "4433083",
-   "mpg": 17.9,
+   "mpg": 18.0,
    "name": "Cam Spencer",
    "nba_team": "MEM",
    "positions": [
@@ -3767,7 +3767,7 @@
    "return_date": null,
    "slot": "UT",
    "status": "ACTIVE",
-   "value": 24.5
+   "value": 24.4
   },
   "4433134": {
    "fantasy_team": "Lebron GOAT",
@@ -4065,7 +4065,7 @@
   "4592427": {
    "fantasy_team": null,
    "id": "4592427",
-   "mpg": 11.7,
+   "mpg": 12.3,
    "name": "Spencer Jones",
    "nba_team": "DEN",
    "positions": [
@@ -4080,7 +4080,7 @@
   "4592479": {
    "fantasy_team": "Lucky",
    "id": "4592479",
-   "mpg": 24.1,
+   "mpg": 24.2,
    "name": "Julian Champagnie",
    "nba_team": "SAS",
    "positions": [
@@ -4090,7 +4090,7 @@
    "return_date": null,
    "slot": "SF",
    "status": "ACTIVE",
-   "value": 21.2
+   "value": 21.1
   },
   "4592492": {
    "fantasy_team": null,
@@ -4445,7 +4445,7 @@
   "4683750": {
    "fantasy_team": null,
    "id": "4683750",
-   "mpg": 7.8,
+   "mpg": 6.8,
    "name": "Jordan Hawkins",
    "nba_team": "CHI",
    "positions": [
@@ -4454,7 +4454,7 @@
    "return_date": null,
    "slot": "",
    "status": "ACTIVE",
-   "value": 4.3
+   "value": 4.2
   },
   "4683766": {
    "fantasy_team": null,
@@ -4591,7 +4591,7 @@
   "4698719": {
    "fantasy_team": null,
    "id": "4698719",
-   "mpg": 18.4,
+   "mpg": 18.5,
    "name": "Trevon Brazile",
    "nba_team": "DEN",
    "positions": [
@@ -4601,7 +4601,7 @@
    "return_date": null,
    "slot": "",
    "status": "ACTIVE",
-   "value": 16.0
+   "value": 16.2
   },
   "4701230": {
    "fantasy_team": "Lakers x Bortolan 23",
@@ -4852,7 +4852,7 @@
   "4781746": {
    "fantasy_team": null,
    "id": "4781746",
-   "mpg": 17.0,
+   "mpg": 17.2,
    "name": "Javon Small",
    "nba_team": "MEM",
    "positions": [
@@ -4861,12 +4861,12 @@
    "return_date": null,
    "slot": "",
    "status": "ACTIVE",
-   "value": 11.8
+   "value": 12.8
   },
   "4845367": {
    "fantasy_team": "King Coopa",
    "id": "4845367",
-   "mpg": 27.2,
+   "mpg": 27.3,
    "name": "Stephon Castle",
    "nba_team": "SAS",
    "positions": [
@@ -4876,7 +4876,7 @@
    "return_date": null,
    "slot": "SG",
    "status": "ACTIVE",
-   "value": 24.8
+   "value": 24.7
   },
   "4845374": {
    "fantasy_team": null,
@@ -4939,7 +4939,7 @@
   "4869780": {
    "fantasy_team": "Lucky",
    "id": "4869780",
-   "mpg": 22.3,
+   "mpg": 20.4,
    "name": "Derik Queen",
    "nba_team": "NOP",
    "positions": [
@@ -4949,7 +4949,7 @@
    "return_date": null,
    "slot": "C",
    "status": "ACTIVE",
-   "value": 23.8
+   "value": 21.4
   },
   "4870562": {
    "fantasy_team": null,
@@ -5175,7 +5175,7 @@
   "4903027": {
    "fantasy_team": "Polga Silva",
    "id": "4903027",
-   "mpg": 26.1,
+   "mpg": 26.2,
    "name": "Cedric Coward",
    "nba_team": "MEM",
    "positions": [
@@ -5185,7 +5185,7 @@
    "return_date": null,
    "slot": "SF",
    "status": "ACTIVE",
-   "value": 28.5
+   "value": 29.2
   },
   "4914336": {
    "fantasy_team": null,
@@ -5289,7 +5289,7 @@
   "5037871": {
    "fantasy_team": "Tiki Taka Laranja",
    "id": "5037871",
-   "mpg": 29.3,
+   "mpg": 29.5,
    "name": "Dylan Harper",
    "nba_team": "SAS",
    "positions": [
@@ -5299,7 +5299,7 @@
    "return_date": null,
    "slot": "UT",
    "status": "ACTIVE",
-   "value": 31.3
+   "value": 31.5
   },
   "5041935": {
    "fantasy_team": "BL0CK BY ZION",
@@ -5617,7 +5617,7 @@
   "5105550": {
    "fantasy_team": null,
    "id": "5105550",
-   "mpg": 14.3,
+   "mpg": 14.4,
    "name": "GG Jackson",
    "nba_team": "MEM",
    "positions": [
@@ -5803,7 +5803,7 @@
   "5107173": {
    "fantasy_team": null,
    "id": "5107173",
-   "mpg": 20.0,
+   "mpg": 20.2,
    "name": "Danny Wolf",
    "nba_team": "BKN",
    "positions": [
@@ -5813,7 +5813,7 @@
    "return_date": null,
    "slot": "",
    "status": "ACTIVE",
-   "value": 18.1
+   "value": 19.0
   },
   "5107199": {
    "fantasy_team": "Lakers x Bortolan 23",
@@ -5947,7 +5947,7 @@
   "5144091": {
    "fantasy_team": "King Coopa",
    "id": "5144091",
-   "mpg": 27.1,
+   "mpg": 27.2,
    "name": "Jeremiah Fears",
    "nba_team": "NOP",
    "positions": [
@@ -6331,7 +6331,7 @@
   "5242496": {
    "fantasy_team": null,
    "id": "5242496",
-   "mpg": 14.0,
+   "mpg": 12.7,
    "name": "Noa Essengue",
    "nba_team": "CHI",
    "positions": [
@@ -6340,7 +6340,7 @@
    "return_date": null,
    "slot": "",
    "status": "ACTIVE",
-   "value": 9.7
+   "value": 8.4
   },
   "5254165": {
    "fantasy_team": "Lakers x Bortolan 23",

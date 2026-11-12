@@ -142,7 +142,7 @@
   "4433137:20261112"
  ],
  "hot_status": "ok: 250 FAs, 1604 games",
- "last_activity_ms": 1794474459733,
+ "last_activity_ms": 1794475772522,
  "last_digest": 1794474975.774869,
  "last_error_alert": 1794388335.8497355,
  "last_hot_check": 1794475697.739618,
@@ -1122,7 +1122,7 @@
    "value": 24.9
   },
   "3146557": {
-   "fantasy_team": "CCCP  Баскетбол",
+   "fantasy_team": null,
    "id": "3146557",
    "mpg": 15.1,
    "name": "Jock Landale",
@@ -1131,7 +1131,7 @@
     "C"
    ],
    "return_date": null,
-   "slot": "BE",
+   "slot": "",
    "status": "ACTIVE",
    "value": 11.7
   },
@@ -2992,7 +2992,7 @@
     "PF"
    ],
    "return_date": null,
-   "slot": "PF",
+   "slot": "BE",
    "status": "ACTIVE",
    "value": 26.6
   },
@@ -4165,7 +4165,7 @@
    "value": 6.5
   },
   "4593125": {
-   "fantasy_team": null,
+   "fantasy_team": "CCCP  Баскетбол",
    "id": "4593125",
    "mpg": 15.7,
    "name": "Santi Aldama",
@@ -4175,7 +4175,7 @@
     "PF"
    ],
    "return_date": null,
-   "slot": "",
+   "slot": "PF",
    "status": "ACTIVE",
    "value": 14.3
   },

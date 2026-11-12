@@ -142,7 +142,7 @@
   "5279130:20261025"
  ],
  "hot_status": "ok: 250 FAs, 1609 games",
- "last_activity_ms": 1794475772522,
+ "last_activity_ms": 1794480000942,
  "last_digest": 1794478696.605029,
  "last_error_alert": 1794388335.8497355,
  "last_hot_check": 1794479535.5913153,
@@ -1078,20 +1078,6 @@
    "status": "ACTIVE",
    "value": 0.0
   },
-  "3136777": {
-   "fantasy_team": null,
-   "id": "3136777",
-   "mpg": 2.4,
-   "name": "Jae'Sean Tate",
-   "nba_team": "HOU",
-   "positions": [
-    "SF"
-   ],
-   "return_date": null,
-   "slot": "",
-   "status": "ACTIVE",
-   "value": 1.2
-  },
   "3138160": {
    "fantasy_team": null,
    "id": "3138160",
@@ -1409,7 +1395,7 @@
    "value": 24.2
   },
   "3907498": {
-   "fantasy_team": "Lucky",
+   "fantasy_team": null,
    "id": "3907498",
    "mpg": 24.3,
    "name": "Matisse Thybulle",
@@ -1418,7 +1404,7 @@
     "SF"
    ],
    "return_date": null,
-   "slot": "BE",
+   "slot": "",
    "status": "ACTIVE",
    "value": 22.1
   },
@@ -1874,7 +1860,7 @@
    "value": 16.6
   },
   "4066211": {
-   "fantasy_team": "Lucky",
+   "fantasy_team": null,
    "id": "4066211",
    "mpg": 16.3,
    "name": "Robert Williams III",
@@ -1883,7 +1869,7 @@
     "C"
    ],
    "return_date": null,
-   "slot": "UT",
+   "slot": "",
    "status": "ACTIVE",
    "value": 21.6
   },
@@ -2819,20 +2805,6 @@
    "slot": "UT",
    "status": "ACTIVE",
    "value": 34.0
-  },
-  "4396818": {
-   "fantasy_team": null,
-   "id": "4396818",
-   "mpg": null,
-   "name": "Jordan Miller",
-   "nba_team": "LAC",
-   "positions": [
-    "SF"
-   ],
-   "return_date": null,
-   "slot": "",
-   "status": "OUT",
-   "value": 0.0
   },
   "4396907": {
    "fantasy_team": "Tropa do Nikola",
@@ -6834,6 +6806,8 @@
   "inj:5093267:ACTIVE",
   "inj:4397688:OUT",
   "hot:3138196:20261112",
-  "drop:4433137:1794474459733"
+  "drop:4433137:1794474459733",
+  "drop:4066211:1794480000942",
+  "drop:3907498:1794479973004"
  ]
 }

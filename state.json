@@ -383,7 +383,7 @@
    ],
    "return_date": null,
    "slot": "BE",
-   "status": "OUT",
+   "status": "DAY_TO_DAY",
    "value": 23.0
   },
   "2596112": {
@@ -2714,7 +2714,7 @@
    ],
    "return_date": null,
    "slot": "UT",
-   "status": "OUT",
+   "status": "DAY_TO_DAY",
    "value": 28.3
   },
   "4395650": {
@@ -4161,7 +4161,7 @@
    ],
    "return_date": null,
    "slot": "",
-   "status": "OUT",
+   "status": "DAY_TO_DAY",
    "value": 6.5
   },
   "4593125": {
@@ -4902,7 +4902,7 @@
    ],
    "return_date": null,
    "slot": "",
-   "status": "OUT",
+   "status": "DAY_TO_DAY",
    "value": 6.2
   },
   "4868423": {

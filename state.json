@@ -142,7 +142,7 @@
   "4278402:20261025"
  ],
  "hot_status": "ok: 250 FAs, 1599 games",
- "last_activity_ms": 1794513488030,
+ "last_activity_ms": 1794520076080,
  "last_digest": 1794519495.9123883,
  "last_error_alert": 1794388335.8497355,
  "last_hot_check": 1794519863.7996662,
@@ -3708,7 +3708,7 @@
    "value": 7.7
   },
   "4432847": {
-   "fantasy_team": null,
+   "fantasy_team": "Contagem Hunters",
    "id": "4432847",
    "mpg": 21.5,
    "name": "Terrence Shannon Jr.",
@@ -3717,7 +3717,7 @@
     "SG"
    ],
    "return_date": null,
-   "slot": "",
+   "slot": "SG",
    "status": "ACTIVE",
    "value": 15.4
   },
@@ -4674,7 +4674,7 @@
    "value": 14.9
   },
   "4702352": {
-   "fantasy_team": "Contagem Hunters",
+   "fantasy_team": null,
    "id": "4702352",
    "mpg": 24.3,
    "name": "Kobe Sanders",
@@ -4683,7 +4683,7 @@
     "SG"
    ],
    "return_date": null,
-   "slot": "SG",
+   "slot": "",
    "status": "ACTIVE",
    "value": 19.7
   },
@@ -6855,6 +6855,7 @@
   "diag:24",
   "planday:24",
   "drop:5149077:1794513391276",
-  "inj:5095151:OUT"
+  "inj:5095151:OUT",
+  "drop:4702352:1794520076080"
  ]
 }

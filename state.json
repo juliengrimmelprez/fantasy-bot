@@ -142,7 +142,7 @@
   "4576060:20261110"
  ],
  "hot_status": "ok: 250 FAs, 1609 games",
- "last_activity_ms": 1794513320364,
+ "last_activity_ms": 1794513488030,
  "last_digest": 1794512057.7901785,
  "last_error_alert": 1794388335.8497355,
  "last_hot_check": 1794513140.6533463,
@@ -1482,7 +1482,7 @@
    "value": 22.2
   },
   "3912848": {
-   "fantasy_team": null,
+   "fantasy_team": "Lucky",
    "id": "3912848",
    "mpg": 24.6,
    "name": "Dean Wade",
@@ -1491,7 +1491,7 @@
     "PF"
    ],
    "return_date": null,
-   "slot": "",
+   "slot": "UT",
    "status": "ACTIVE",
    "value": 15.5
   },
@@ -5986,7 +5986,7 @@
    "value": 3.1
   },
   "5149077": {
-   "fantasy_team": "Lucky",
+   "fantasy_team": null,
    "id": "5149077",
    "mpg": 21.9,
    "name": "Kingston Flemings",
@@ -5996,7 +5996,7 @@
     "PG"
    ],
    "return_date": null,
-   "slot": "UT",
+   "slot": "",
    "status": "ACTIVE",
    "value": 24.4
   },
@@ -6853,6 +6853,7 @@
   "drop:3907498:1794479973004",
   "drop:4432810:1794480061765",
   "diag:24",
-  "planday:24"
+  "planday:24",
+  "drop:5149077:1794513391276"
  ]
 }

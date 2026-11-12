@@ -142,7 +142,7 @@
   "5175647:20261111"
  ],
  "hot_status": "ok: 250 FAs, 1620 games",
- "last_activity_ms": 1794494789949,
+ "last_activity_ms": 1794495000002,
  "last_digest": 1794493575.6111486,
  "last_error_alert": 1794388335.8497355,
  "last_hot_check": 1794494896.431092,
@@ -2820,6 +2820,20 @@
    "status": "ACTIVE",
    "value": 34.0
   },
+  "4396818": {
+   "fantasy_team": null,
+   "id": "4396818",
+   "mpg": null,
+   "name": "Jordan Miller",
+   "nba_team": "LAC",
+   "positions": [
+    "SF"
+   ],
+   "return_date": null,
+   "slot": "",
+   "status": "OUT",
+   "value": 0.0
+  },
   "4396907": {
    "fantasy_team": "Tropa do Nikola",
    "id": "4396907",
@@ -5152,7 +5166,7 @@
     "SG"
    ],
    "return_date": null,
-   "slot": "SG",
+   "slot": "UT",
    "status": "OUT",
    "value": 33.0
   },
@@ -5494,7 +5508,7 @@
     "SG"
    ],
    "return_date": null,
-   "slot": "UT",
+   "slot": "BE",
    "status": "ACTIVE",
    "value": 20.8
   },
@@ -6257,7 +6271,7 @@
    "value": 3.3
   },
   "5238230": {
-   "fantasy_team": null,
+   "fantasy_team": "Bull Market",
    "id": "5238230",
    "mpg": 23.0,
    "name": "Tre Johnson",
@@ -6266,7 +6280,7 @@
     "SG"
    ],
    "return_date": null,
-   "slot": "",
+   "slot": "SG",
    "status": "ACTIVE",
    "value": 11.4
   },

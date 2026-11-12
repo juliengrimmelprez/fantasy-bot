@@ -142,7 +142,7 @@
   "4576060:20261110"
  ],
  "hot_status": "ok: 250 FAs, 1609 games",
- "last_activity_ms": 1794495000002,
+ "last_activity_ms": 1794513320364,
  "last_digest": 1794512057.7901785,
  "last_error_alert": 1794388335.8497355,
  "last_hot_check": 1794513140.6533463,
@@ -1091,6 +1091,20 @@
    "slot": "",
    "status": "ACTIVE",
    "value": 1.2
+  },
+  "3137259": {
+   "fantasy_team": null,
+   "id": "3137259",
+   "mpg": null,
+   "name": "Gabe Vincent",
+   "nba_team": "FA",
+   "positions": [
+    "PG"
+   ],
+   "return_date": null,
+   "slot": "",
+   "status": "ACTIVE",
+   "value": 0.0
   },
   "3138160": {
    "fantasy_team": null,
@@ -5972,7 +5986,7 @@
    "value": 3.1
   },
   "5149077": {
-   "fantasy_team": null,
+   "fantasy_team": "Lucky",
    "id": "5149077",
    "mpg": 21.9,
    "name": "Kingston Flemings",
@@ -5982,7 +5996,7 @@
     "PG"
    ],
    "return_date": null,
-   "slot": "",
+   "slot": "UT",
    "status": "ACTIVE",
    "value": 24.4
   },

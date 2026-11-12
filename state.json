@@ -1106,6 +1106,21 @@
    "status": "ACTIVE",
    "value": 9.7
   },
+  "3138196": {
+   "fantasy_team": "BL0CK BY ZION",
+   "id": "3138196",
+   "mpg": 28.4,
+   "name": "Cameron Johnson",
+   "nba_team": "DEN",
+   "positions": [
+    "SF",
+    "PF"
+   ],
+   "return_date": null,
+   "slot": "UT",
+   "status": "ACTIVE",
+   "value": 24.9
+  },
   "3146557": {
    "fantasy_team": null,
    "id": "3146557",
@@ -6172,7 +6187,7 @@
    "value": 21.5
   },
   "5211175": {
-   "fantasy_team": "BL0CK BY ZION",
+   "fantasy_team": null,
    "id": "5211175",
    "mpg": 24.3,
    "name": "Zaccharie Risacher",
@@ -6181,7 +6196,7 @@
     "SF"
    ],
    "return_date": null,
-   "slot": "UT",
+   "slot": "",
    "status": "ACTIVE",
    "value": 18.1
   },

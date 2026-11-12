@@ -142,7 +142,7 @@
   "5107199:20261025"
  ],
  "hot_status": "ok: 250 FAs, 1616 games",
- "last_activity_ms": 1794480283098,
+ "last_activity_ms": 1794485019757,
  "last_digest": 1794482421.6112673,
  "last_error_alert": 1794388335.8497355,
  "last_hot_check": 1794484336.2702248,
@@ -1050,7 +1050,7 @@
    "value": 43.0
   },
   "3136196": {
-   "fantasy_team": null,
+   "fantasy_team": "Bull Market",
    "id": "3136196",
    "mpg": 18.5,
    "name": "Trey Lyles",
@@ -1059,7 +1059,7 @@
     "PF"
    ],
    "return_date": null,
-   "slot": "",
+   "slot": "UT",
    "status": "ACTIVE",
    "value": 16.5
   },
@@ -1825,7 +1825,7 @@
     "PF"
    ],
    "return_date": null,
-   "slot": "UT",
+   "slot": "BE",
    "status": "ACTIVE",
    "value": 18.5
   },
@@ -2819,6 +2819,20 @@
    "slot": "UT",
    "status": "ACTIVE",
    "value": 34.0
+  },
+  "4396818": {
+   "fantasy_team": null,
+   "id": "4396818",
+   "mpg": null,
+   "name": "Jordan Miller",
+   "nba_team": "LAC",
+   "positions": [
+    "SF"
+   ],
+   "return_date": null,
+   "slot": "",
+   "status": "OUT",
+   "value": 0.0
   },
   "4396907": {
    "fantasy_team": "Tropa do Nikola",

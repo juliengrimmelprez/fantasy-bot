@@ -141,11 +141,11 @@
   "4592492:20261031",
   "5175647:20261111"
  ],
- "hot_status": "ok: 250 FAs, 1609 games",
- "last_activity_ms": 1794486855410,
+ "hot_status": "ok: 250 FAs, 1620 games",
+ "last_activity_ms": 1794494789949,
  "last_digest": 1794493575.6111486,
  "last_error_alert": 1794388335.8497355,
- "last_hot_check": 1794493935.2443006,
+ "last_hot_check": 1794494896.431092,
  "last_run": "2026-10-19T22:05:14+00:00",
  "matchup_periods": {
   "1": [
@@ -2819,20 +2819,6 @@
    "slot": "UT",
    "status": "ACTIVE",
    "value": 34.0
-  },
-  "4396818": {
-   "fantasy_team": null,
-   "id": "4396818",
-   "mpg": null,
-   "name": "Jordan Miller",
-   "nba_team": "LAC",
-   "positions": [
-    "SF"
-   ],
-   "return_date": null,
-   "slot": "",
-   "status": "OUT",
-   "value": 0.0
   },
   "4396907": {
    "fantasy_team": "Tropa do Nikola",
@@ -6588,7 +6574,7 @@
    "value": 48.3
   },
   "6585": {
-   "fantasy_team": "Bull Market",
+   "fantasy_team": null,
    "id": "6585",
    "mpg": 13.5,
    "name": "Andre Drummond",
@@ -6597,7 +6583,7 @@
     "C"
    ],
    "return_date": null,
-   "slot": "BE",
+   "slot": "",
    "status": "ACTIVE",
    "value": 14.4
   },

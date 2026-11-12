@@ -142,7 +142,7 @@
   "5279130:20261025"
  ],
  "hot_status": "ok: 250 FAs, 1609 games",
- "last_activity_ms": 1794480132071,
+ "last_activity_ms": 1794480173641,
  "last_digest": 1794478696.605029,
  "last_error_alert": 1794388335.8497355,
  "last_hot_check": 1794479535.5913153,
@@ -1742,6 +1742,20 @@
    "slot": "UT",
    "status": "ACTIVE",
    "value": 44.1
+  },
+  "4065654": {
+   "fantasy_team": null,
+   "id": "4065654",
+   "mpg": 11.3,
+   "name": "Jonathan Isaac",
+   "nba_team": "ORL",
+   "positions": [
+    "PF"
+   ],
+   "return_date": null,
+   "slot": "",
+   "status": "OUT",
+   "value": 10.9
   },
   "4065663": {
    "fantasy_team": null,
@@ -5055,7 +5069,7 @@
    "value": 16.2
   },
   "4896372": {
-   "fantasy_team": null,
+   "fantasy_team": "Lucky",
    "id": "4896372",
    "mpg": 16.6,
    "name": "Walter Clayton Jr.",
@@ -5065,7 +5079,7 @@
     "SG"
    ],
    "return_date": null,
-   "slot": "",
+   "slot": "UT",
    "status": "ACTIVE",
    "value": 19.1
   },

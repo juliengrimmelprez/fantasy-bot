@@ -141,7 +141,7 @@
   "4397040:20261102"
  ],
  "hot_status": "ok: 250 FAs, 1604 games",
- "last_activity_ms": 1794450885993,
+ "last_activity_ms": 1794474009345,
  "last_digest": 1794471260.308679,
  "last_error_alert": 1794388335.8497355,
  "last_hot_check": 1794473782.1365204,
@@ -734,7 +734,7 @@
    "value": 29.8
   },
   "3064482": {
-   "fantasy_team": "Lakers x Bortolan 23",
+   "fantasy_team": null,
    "id": "3064482",
    "mpg": 20.4,
    "name": "Bobby Portis",
@@ -744,7 +744,7 @@
     "C"
    ],
    "return_date": null,
-   "slot": "BE",
+   "slot": "",
    "status": "ACTIVE",
    "value": 16.0
   },
@@ -2005,7 +2005,7 @@
    "value": 24.9
   },
   "4066372": {
-   "fantasy_team": null,
+   "fantasy_team": "Lakers x Bortolan 23",
    "id": "4066372",
    "mpg": 23.1,
    "name": "Kevin Huerter",
@@ -2015,7 +2015,7 @@
     "SF"
    ],
    "return_date": null,
-   "slot": "",
+   "slot": "BE",
    "status": "ACTIVE",
    "value": 25.5
   },

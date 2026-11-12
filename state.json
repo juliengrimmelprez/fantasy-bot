@@ -142,7 +142,7 @@
   "5279130:20261025"
  ],
  "hot_status": "ok: 250 FAs, 1609 games",
- "last_activity_ms": 1794480173641,
+ "last_activity_ms": 1794480283098,
  "last_digest": 1794478696.605029,
  "last_error_alert": 1794388335.8497355,
  "last_hot_check": 1794479535.5913153,
@@ -207,7 +207,7 @@
   ]
  },
  "matchup_periods_day": "2026-11-12",
- "plan_status": "ok: day 24, matchup 4 [21]..[27], adds left 9, opp CCCP  Баскетбол",
+ "plan_status": "ok: day 24, matchup 4 [21]..[27], adds left 10, opp CCCP  Баскетбол",
  "players": {
   "1966": {
    "fantasy_team": "Lucky",
@@ -1078,6 +1078,20 @@
    "status": "ACTIVE",
    "value": 0.0
   },
+  "3136777": {
+   "fantasy_team": null,
+   "id": "3136777",
+   "mpg": 2.4,
+   "name": "Jae'Sean Tate",
+   "nba_team": "HOU",
+   "positions": [
+    "SF"
+   ],
+   "return_date": null,
+   "slot": "",
+   "status": "ACTIVE",
+   "value": 1.2
+  },
   "3138160": {
    "fantasy_team": null,
    "id": "3138160",
@@ -1291,7 +1305,7 @@
     "C"
    ],
    "return_date": null,
-   "slot": "C",
+   "slot": "UT",
    "status": "ACTIVE",
    "value": 22.9
   },
@@ -1651,7 +1665,7 @@
     "PG"
    ],
    "return_date": null,
-   "slot": "PG",
+   "slot": "UT",
    "status": "DAY_TO_DAY",
    "value": 46.2
   },
@@ -4917,7 +4931,7 @@
     "C"
    ],
    "return_date": null,
-   "slot": "UT",
+   "slot": "BE",
    "status": "ACTIVE",
    "value": 23.1
   },
@@ -5079,7 +5093,7 @@
     "SG"
    ],
    "return_date": null,
-   "slot": "UT",
+   "slot": "PG",
    "status": "ACTIVE",
    "value": 19.1
   },
@@ -6371,7 +6385,7 @@
    "value": 30.1
   },
   "5279133": {
-   "fantasy_team": null,
+   "fantasy_team": "Lucky",
    "id": "5279133",
    "mpg": 16.5,
    "name": "Joan Beringer",
@@ -6380,7 +6394,7 @@
     "C"
    ],
    "return_date": null,
-   "slot": "",
+   "slot": "C",
    "status": "ACTIVE",
    "value": 16.3
   },

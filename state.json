@@ -145,7 +145,7 @@
   "5107173:20261112"
  ],
  "hot_status": "ok: 250 FAs, 1616 games",
- "last_activity_ms": 1794566271148,
+ "last_activity_ms": 1794566305149,
  "last_digest": 1794563535.633784,
  "last_error_alert": 1794388335.8497355,
  "last_hot_check": 1794565937.8987904,
@@ -1095,20 +1095,6 @@
    "status": "ACTIVE",
    "value": 1.5
   },
-  "3137259": {
-   "fantasy_team": null,
-   "id": "3137259",
-   "mpg": null,
-   "name": "Gabe Vincent",
-   "nba_team": "FA",
-   "positions": [
-    "PG"
-   ],
-   "return_date": null,
-   "slot": "",
-   "status": "ACTIVE",
-   "value": 0.0
-  },
   "3138160": {
    "fantasy_team": null,
    "id": "3138160",
@@ -1485,7 +1471,7 @@
    "value": 22.9
   },
   "3912848": {
-   "fantasy_team": "Lucky",
+   "fantasy_team": null,
    "id": "3912848",
    "mpg": 25.5,
    "name": "Dean Wade",
@@ -1494,7 +1480,7 @@
     "PF"
    ],
    "return_date": null,
-   "slot": "BE",
+   "slot": "",
    "status": "ACTIVE",
    "value": 16.4
   },

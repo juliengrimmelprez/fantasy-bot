@@ -145,7 +145,7 @@
   "5107173:20261112"
  ],
  "hot_status": "ok: 250 FAs, 1616 games",
- "last_activity_ms": 1794560325963,
+ "last_activity_ms": 1794566271148,
  "last_digest": 1794563535.633784,
  "last_error_alert": 1794388335.8497355,
  "last_hot_check": 1794565937.8987904,
@@ -1744,21 +1744,6 @@
    "slot": "C",
    "status": "ACTIVE",
    "value": 22.2
-  },
-  "4017844": {
-   "fantasy_team": null,
-   "id": "4017844",
-   "mpg": null,
-   "name": "Guerschon Yabusele",
-   "nba_team": "FA",
-   "positions": [
-    "PF",
-    "C"
-   ],
-   "return_date": null,
-   "slot": "",
-   "status": "ACTIVE",
-   "value": 0.0
   },
   "4017850": {
    "fantasy_team": null,
@@ -5129,7 +5114,7 @@
    "value": 16.2
   },
   "4896372": {
-   "fantasy_team": "Lucky",
+   "fantasy_team": null,
    "id": "4896372",
    "mpg": 17.1,
    "name": "Walter Clayton Jr.",
@@ -5139,7 +5124,7 @@
     "SG"
    ],
    "return_date": null,
-   "slot": "BE",
+   "slot": "",
    "status": "ACTIVE",
    "value": 17.6
   },

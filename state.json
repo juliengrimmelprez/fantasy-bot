@@ -674,7 +674,7 @@
     "C"
    ],
    "return_date": null,
-   "slot": "UT",
+   "slot": "BE",
    "status": "ACTIVE",
    "value": 26.8
   },
@@ -919,7 +919,7 @@
     "C"
    ],
    "return_date": null,
-   "slot": "BE",
+   "slot": "C",
    "status": "ACTIVE",
    "value": 25.3
   },
@@ -1741,7 +1741,7 @@
     "C"
    ],
    "return_date": null,
-   "slot": "C",
+   "slot": "UT",
    "status": "ACTIVE",
    "value": 22.2
   },

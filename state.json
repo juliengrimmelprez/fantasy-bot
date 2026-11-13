@@ -145,7 +145,7 @@
   "4397020:20261107"
  ],
  "hot_status": "ok: 250 FAs, 1622 games",
- "last_activity_ms": 1794529587256,
+ "last_activity_ms": 1794560325963,
  "last_digest": 1794559822.636236,
  "last_error_alert": 1794388335.8497355,
  "last_hot_check": 1794560176.34842,
@@ -910,7 +910,7 @@
    "value": 15.1
   },
   "3133628": {
-   "fantasy_team": null,
+   "fantasy_team": "Caxias French Fries",
    "id": "3133628",
    "mpg": 27.1,
    "name": "Myles Turner",
@@ -919,7 +919,7 @@
     "C"
    ],
    "return_date": null,
-   "slot": "",
+   "slot": "BE",
    "status": "ACTIVE",
    "value": 24.3
   },
@@ -2764,7 +2764,7 @@
    "value": 21.8
   },
   "4395651": {
-   "fantasy_team": "Caxias French Fries",
+   "fantasy_team": null,
    "id": "4395651",
    "mpg": 18.0,
    "name": "Coby White",
@@ -2774,7 +2774,7 @@
     "SG"
    ],
    "return_date": null,
-   "slot": "BE",
+   "slot": "",
    "status": "ACTIVE",
    "value": 10.6
   },

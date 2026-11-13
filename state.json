@@ -145,7 +145,7 @@
   "5106258:20261109"
  ],
  "hot_status": "ok: 250 FAs, 1615 games",
- "last_activity_ms": 1794566506618,
+ "last_activity_ms": 1794574872920,
  "last_digest": 1794574575.6628766,
  "last_error_alert": 1794388335.8497355,
  "last_hot_check": 1794574575.6617303,
@@ -1053,7 +1053,7 @@
    "value": 43.2
   },
   "3136196": {
-   "fantasy_team": "Bull Market",
+   "fantasy_team": null,
    "id": "3136196",
    "mpg": 18.2,
    "name": "Trey Lyles",
@@ -1062,7 +1062,7 @@
     "PF"
    ],
    "return_date": null,
-   "slot": "BE",
+   "slot": "",
    "status": "ACTIVE",
    "value": 14.4
   },
@@ -1744,21 +1744,6 @@
    "slot": "UT",
    "status": "ACTIVE",
    "value": 22.2
-  },
-  "4017844": {
-   "fantasy_team": null,
-   "id": "4017844",
-   "mpg": null,
-   "name": "Guerschon Yabusele",
-   "nba_team": "FA",
-   "positions": [
-    "PF",
-    "C"
-   ],
-   "return_date": null,
-   "slot": "",
-   "status": "ACTIVE",
-   "value": 0.0
   },
   "4017850": {
    "fantasy_team": null,

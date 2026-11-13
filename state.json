@@ -144,11 +144,11 @@
   "5105550:20261101",
   "4351851:20261113"
  ],
- "hot_status": "ok: 250 FAs, 1631 games",
- "last_activity_ms": 1794588798761,
+ "hot_status": "ok: 250 FAs, 1646 games",
+ "last_activity_ms": 1794588897763,
  "last_digest": 1794585637.143863,
  "last_error_alert": 1794388335.8497355,
- "last_hot_check": 1794588032.0266504,
+ "last_hot_check": 1794588976.7311096,
  "last_run": "2026-10-19T22:05:14+00:00",
  "matchup_periods": {
   "1": [
@@ -1470,7 +1470,7 @@
    "value": 39.7
   },
   "3908845": {
-   "fantasy_team": "Lebron GOAT",
+   "fantasy_team": null,
    "id": "3908845",
    "mpg": 26.3,
    "name": "John Collins",
@@ -1480,7 +1480,7 @@
     "C"
    ],
    "return_date": null,
-   "slot": "BE",
+   "slot": "",
    "status": "ACTIVE",
    "value": 22.9
   },
@@ -2686,7 +2686,7 @@
     "SF"
    ],
    "return_date": null,
-   "slot": "UT",
+   "slot": "BE",
    "status": "ACTIVE",
    "value": 33.5
   },
@@ -3392,7 +3392,7 @@
    "value": 35.1
   },
   "4432165": {
-   "fantasy_team": null,
+   "fantasy_team": "Lebron GOAT",
    "id": "4432165",
    "mpg": 33.3,
    "name": "Jalen Suggs",
@@ -3402,7 +3402,7 @@
     "SG"
    ],
    "return_date": null,
-   "slot": "",
+   "slot": "UT",
    "status": "OUT",
    "value": 25.0
   },
@@ -3795,7 +3795,7 @@
     "SF"
    ],
    "return_date": null,
-   "slot": "UT",
+   "slot": "BE",
    "status": "OUT",
    "value": 43.5
   },
@@ -4265,7 +4265,7 @@
     "PF"
    ],
    "return_date": null,
-   "slot": "BE",
+   "slot": "UT",
    "status": "ACTIVE",
    "value": 22.5
   },
@@ -6849,6 +6849,7 @@
   "inj:4432158:OUT",
   "diag:25",
   "planday:25",
-  "drop:4278402:1794580645788"
+  "drop:4278402:1794580645788",
+  "drop:3908845:1794588897763"
  ]
 }

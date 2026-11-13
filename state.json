@@ -145,7 +145,7 @@
   "3135045:20261110"
  ],
  "hot_status": "ok: 250 FAs, 1646 games",
- "last_activity_ms": 1794588897763,
+ "last_activity_ms": 1794612298941,
  "last_digest": 1794611537.8259518,
  "last_error_alert": 1794388335.8497355,
  "last_hot_check": 1794612137.0007744,
@@ -386,7 +386,7 @@
    ],
    "return_date": null,
    "slot": "UT",
-   "status": "DAY_TO_DAY",
+   "status": "ACTIVE",
    "value": 19.4
   },
   "2596112": {
@@ -2179,7 +2179,7 @@
     "PF"
    ],
    "return_date": null,
-   "slot": "UT",
+   "slot": "BE",
    "status": "DAY_TO_DAY",
    "value": 42.3
   },
@@ -3057,6 +3057,21 @@
    "slot": "PF",
    "status": "ACTIVE",
    "value": 30.5
+  },
+  "4397227": {
+   "fantasy_team": null,
+   "id": "4397227",
+   "mpg": null,
+   "name": "Vince Williams Jr.",
+   "nba_team": "FA",
+   "positions": [
+    "PG",
+    "SG"
+   ],
+   "return_date": null,
+   "slot": "",
+   "status": "OUT",
+   "value": 0.0
   },
   "4397251": {
    "fantasy_team": null,
@@ -5288,7 +5303,7 @@
    "value": 21.4
   },
   "5023693": {
-   "fantasy_team": null,
+   "fantasy_team": "Bull Market",
    "id": "5023693",
    "mpg": 17.2,
    "name": "Tyrese Proctor",
@@ -5297,7 +5312,7 @@
     "SG"
    ],
    "return_date": null,
-   "slot": "",
+   "slot": "UT",
    "status": "ACTIVE",
    "value": 18.0
   },
@@ -6513,7 +6528,7 @@
     "SF"
    ],
    "return_date": null,
-   "slot": "BE",
+   "slot": "UT",
    "status": "OUT",
    "value": 30.0
   },

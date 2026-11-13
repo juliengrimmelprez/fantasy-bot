@@ -145,7 +145,7 @@
   "4593841:20261112"
  ],
  "hot_status": "ok: 250 FAs, 1627 games",
- "last_activity_ms": 1794574872920,
+ "last_activity_ms": 1794580555425,
  "last_digest": 1794578177.9954305,
  "last_error_alert": 1794388335.8497355,
  "last_hot_check": 1794580338.8107648,
@@ -3247,7 +3247,7 @@
    "value": 11.0
   },
   "4431687": {
-   "fantasy_team": null,
+   "fantasy_team": "Tiki Taka Laranja",
    "id": "4431687",
    "mpg": 24.3,
    "name": "Patrick Williams",
@@ -3256,7 +3256,7 @@
     "PF"
    ],
    "return_date": null,
-   "slot": "",
+   "slot": "PF",
    "status": "ACTIVE",
    "value": 19.3
   },
@@ -4020,7 +4020,7 @@
    "value": 45.3
   },
   "4576060": {
-   "fantasy_team": "Tiki Taka Laranja",
+   "fantasy_team": null,
    "id": "4576060",
    "mpg": 18.6,
    "name": "Ryan Kalkbrenner",
@@ -4029,7 +4029,7 @@
     "C"
    ],
    "return_date": null,
-   "slot": "BE",
+   "slot": "",
    "status": "ACTIVE",
    "value": 18.0
   },

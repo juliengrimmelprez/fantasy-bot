@@ -145,7 +145,7 @@
   "4351851:20261113"
  ],
  "hot_status": "ok: 250 FAs, 1631 games",
- "last_activity_ms": 1794580645788,
+ "last_activity_ms": 1794588798761,
  "last_digest": 1794585637.143863,
  "last_error_alert": 1794388335.8497355,
  "last_hot_check": 1794588032.0266504,
@@ -3990,7 +3990,7 @@
    "value": 31.4
   },
   "4437244": {
-   "fantasy_team": "Lebron GOAT",
+   "fantasy_team": null,
    "id": "4437244",
    "mpg": 27.2,
    "name": "Jalen Green",
@@ -4000,7 +4000,7 @@
     "SF"
    ],
    "return_date": null,
-   "slot": "BE",
+   "slot": "",
    "status": "ACTIVE",
    "value": 18.3
   },
@@ -4255,7 +4255,7 @@
    "value": 7.0
   },
   "4594327": {
-   "fantasy_team": null,
+   "fantasy_team": "Lebron GOAT",
    "id": "4594327",
    "mpg": 25.2,
    "name": "Keegan Murray",
@@ -4265,7 +4265,7 @@
     "PF"
    ],
    "return_date": null,
-   "slot": "",
+   "slot": "BE",
    "status": "ACTIVE",
    "value": 22.5
   },

@@ -145,7 +145,7 @@
   "5107173:20261112"
  ],
  "hot_status": "ok: 250 FAs, 1616 games",
- "last_activity_ms": 1794566305149,
+ "last_activity_ms": 1794566506618,
  "last_digest": 1794563535.633784,
  "last_error_alert": 1794388335.8497355,
  "last_hot_check": 1794565937.8987904,
@@ -1095,6 +1095,20 @@
    "status": "ACTIVE",
    "value": 1.5
   },
+  "3137259": {
+   "fantasy_team": null,
+   "id": "3137259",
+   "mpg": null,
+   "name": "Gabe Vincent",
+   "nba_team": "FA",
+   "positions": [
+    "PG"
+   ],
+   "return_date": null,
+   "slot": "",
+   "status": "ACTIVE",
+   "value": 0.0
+  },
   "3138160": {
    "fantasy_team": null,
    "id": "3138160",
@@ -1625,7 +1639,7 @@
     "PG"
    ],
    "return_date": null,
-   "slot": "UT",
+   "slot": "PG",
    "status": "ACTIVE",
    "value": 51.5
   },
@@ -1730,6 +1744,21 @@
    "slot": "C",
    "status": "ACTIVE",
    "value": 22.2
+  },
+  "4017844": {
+   "fantasy_team": null,
+   "id": "4017844",
+   "mpg": null,
+   "name": "Guerschon Yabusele",
+   "nba_team": "FA",
+   "positions": [
+    "PF",
+    "C"
+   ],
+   "return_date": null,
+   "slot": "",
+   "status": "ACTIVE",
+   "value": 0.0
   },
   "4017850": {
    "fantasy_team": null,
@@ -2556,7 +2585,7 @@
     "C"
    ],
    "return_date": null,
-   "slot": "UT",
+   "slot": "BE",
    "status": "ACTIVE",
    "value": 23.2
   },
@@ -3373,7 +3402,7 @@
     "C"
    ],
    "return_date": null,
-   "slot": "PF",
+   "slot": "UT",
    "status": "OUT",
    "value": 35.1
   },
@@ -4948,7 +4977,7 @@
     "C"
    ],
    "return_date": null,
-   "slot": "C",
+   "slot": "PF",
    "status": "ACTIVE",
    "value": 23.5
   },
@@ -5260,7 +5289,7 @@
    "value": 16.9
   },
   "4997538": {
-   "fantasy_team": null,
+   "fantasy_team": "Lucky",
    "id": "4997538",
    "mpg": 18.8,
    "name": "Karlo Matkovic",
@@ -5269,7 +5298,7 @@
     "PF"
    ],
    "return_date": null,
-   "slot": "",
+   "slot": "UT",
    "status": "ACTIVE",
    "value": 21.4
   },
@@ -5659,7 +5688,7 @@
    "value": 7.0
   },
   "5105623": {
-   "fantasy_team": null,
+   "fantasy_team": "Lucky",
    "id": "5105623",
    "mpg": 17.8,
    "name": "Kel'el Ware",
@@ -5668,7 +5697,7 @@
     "C"
    ],
    "return_date": null,
-   "slot": "",
+   "slot": "C",
    "status": "ACTIVE",
    "value": 16.4
   },

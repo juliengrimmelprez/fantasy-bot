@@ -145,7 +145,7 @@
   "4593841:20261112"
  ],
  "hot_status": "ok: 250 FAs, 1627 games",
- "last_activity_ms": 1794580555425,
+ "last_activity_ms": 1794580645788,
  "last_digest": 1794578177.9954305,
  "last_error_alert": 1794388335.8497355,
  "last_hot_check": 1794580338.8107648,
@@ -2199,7 +2199,7 @@
    "value": 17.0
   },
   "4277813": {
-   "fantasy_team": null,
+   "fantasy_team": "Tiki Taka Laranja",
    "id": "4277813",
    "mpg": 22.9,
    "name": "Herbert Jones",
@@ -2209,7 +2209,7 @@
     "PF"
    ],
    "return_date": null,
-   "slot": "",
+   "slot": "UT",
    "status": "ACTIVE",
    "value": 13.6
   },
@@ -2516,7 +2516,7 @@
    "value": 18.0
   },
   "4278402": {
-   "fantasy_team": "Tiki Taka Laranja",
+   "fantasy_team": null,
    "id": "4278402",
    "mpg": 18.9,
    "name": "Jordan Goodwin",
@@ -2526,7 +2526,7 @@
     "SG"
    ],
    "return_date": null,
-   "slot": "BE",
+   "slot": "",
    "status": "ACTIVE",
    "value": 25.3
   },
@@ -6397,7 +6397,7 @@
     "PG"
    ],
    "return_date": null,
-   "slot": "UT",
+   "slot": "BE",
    "status": "DAY_TO_DAY",
    "value": 30.1
   },
@@ -6848,6 +6848,7 @@
   "drop:4702352:1794520076080",
   "inj:4432158:OUT",
   "diag:25",
-  "planday:25"
+  "planday:25",
+  "drop:4278402:1794580645788"
  ]
 }

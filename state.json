@@ -1745,6 +1745,21 @@
    "status": "ACTIVE",
    "value": 22.2
   },
+  "4017844": {
+   "fantasy_team": null,
+   "id": "4017844",
+   "mpg": null,
+   "name": "Guerschon Yabusele",
+   "nba_team": "FA",
+   "positions": [
+    "PF",
+    "C"
+   ],
+   "return_date": null,
+   "slot": "",
+   "status": "ACTIVE",
+   "value": 0.0
+  },
   "4017850": {
    "fantasy_team": null,
    "id": "4017850",
@@ -6116,20 +6131,6 @@
    "slot": "UT",
    "status": "ACTIVE",
    "value": 35.8
-  },
-  "5174655": {
-   "fantasy_team": null,
-   "id": "5174655",
-   "mpg": 18.8,
-   "name": "Chaney Johnson",
-   "nba_team": "BKN",
-   "positions": [
-    "SF"
-   ],
-   "return_date": null,
-   "slot": "",
-   "status": "ACTIVE",
-   "value": 8.7
   },
   "5174983": {
    "fantasy_team": "Lakers x Bortolan 23",

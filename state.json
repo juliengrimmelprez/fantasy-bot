@@ -154,7 +154,7 @@
   "4683747:20261114"
  ],
  "hot_status": "ok: 250 FAs, 1734 games",
- "last_activity_ms": 1794660755038,
+ "last_activity_ms": 1794660865629,
  "last_digest": 1794659778.2960842,
  "last_error_alert": 1794388335.8497355,
  "last_hot_check": 1794660135.318299,
@@ -1186,7 +1186,7 @@
     "PF"
    ],
    "return_date": null,
-   "slot": "PF",
+   "slot": "UT",
    "status": "ACTIVE",
    "value": 36.7
   },
@@ -1924,7 +1924,7 @@
     "SG"
    ],
    "return_date": null,
-   "slot": "UT",
+   "slot": "BE",
    "status": "ACTIVE",
    "value": 30.0
   },
@@ -2013,7 +2013,7 @@
     "SG"
    ],
    "return_date": null,
-   "slot": "UT",
+   "slot": "BE",
    "status": "ACTIVE",
    "value": 24.9
   },
@@ -2966,7 +2966,7 @@
    "value": 18.0
   },
   "4397077": {
-   "fantasy_team": "Hospital do Gansola",
+   "fantasy_team": null,
    "id": "4397077",
    "mpg": 24.0,
    "name": "Jaxson Hayes",
@@ -2975,7 +2975,7 @@
     "C"
    ],
    "return_date": null,
-   "slot": "BE",
+   "slot": "",
    "status": "DAY_TO_DAY",
    "value": 22.8
   },
@@ -3775,7 +3775,7 @@
     "SG"
    ],
    "return_date": null,
-   "slot": "SG",
+   "slot": "UT",
    "status": "ACTIVE",
    "value": 26.9
   },
@@ -3906,7 +3906,7 @@
     "PF"
    ],
    "return_date": null,
-   "slot": "SF",
+   "slot": "PF",
    "status": "ACTIVE",
    "value": 25.9
   },
@@ -5123,7 +5123,7 @@
    "value": 16.2
   },
   "4896372": {
-   "fantasy_team": null,
+   "fantasy_team": "Hospital do Gansola",
    "id": "4896372",
    "mpg": 17.1,
    "name": "Walter Clayton Jr.",
@@ -5133,7 +5133,7 @@
     "SG"
    ],
    "return_date": null,
-   "slot": "",
+   "slot": "SG",
    "status": "ACTIVE",
    "value": 17.6
   },
@@ -6222,7 +6222,7 @@
     "SF"
    ],
    "return_date": null,
-   "slot": "BE",
+   "slot": "SF",
    "status": "ACTIVE",
    "value": 20.9
   },
@@ -6878,6 +6878,7 @@
   "hot:3133603:20261114",
   "drop:4592829:1794644340998",
   "hot:4431736:20261114",
-  "drop:6589:1794660755038"
+  "drop:6589:1794660755038",
+  "drop:4397077:1794660865629"
  ]
 }

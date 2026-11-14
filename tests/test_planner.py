@@ -142,3 +142,18 @@ def test_week_projection_flags_missing_score():
     ctx = {"sched": sched, "pdates": pdates, "now_ms": tip(4) - 3600_000, "roster": roster,
            "opp_roster": [], "my_score": None, "opp_score": None}
     assert "Placar atual indisponível" in bot.week_projection(ctx, [4], plan_gain=0)
+
+
+def test_short_term_injuries_ignored_long_term_kept():
+    from datetime import date
+    today = date(2026, 11, 14)
+    short = P("s", "Short", "T0", 30, status="OUT")
+    long_ = P("l", "Long", "T0", 30, status="OUT", ret="2026-12-20")
+    ir = P("i", "InIR", "T0", 30, slot="IR", status="OUT")
+    ir_back = P("j", "IRBack", "T0", 30, slot="IR", status="OUT", ret="2026-11-20")
+    assert not planner.available_on(short, today, today)            # misses today only
+    assert planner.available_on(short, date(2026, 11, 15), today)
+    assert not planner.available_on(long_, date(2026, 11, 25), today)
+    assert planner.available_on(long_, date(2026, 12, 21), today)
+    assert not planner.available_on(ir, date(2026, 11, 25), today)
+    assert planner.available_on(ir_back, date(2026, 11, 21), today)

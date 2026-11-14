@@ -58,14 +58,21 @@ def day_label(d: date) -> str:
     return f"{WEEKDAYS[d.weekday()]} {d:%d}"
 
 
-def available_on(p: dict, day: date) -> bool:
-    """Healthy enough to play that day, judging by status and expected return."""
+def available_on(p: dict, day: date, today: date | None = None) -> bool:
+    """Healthy enough to play that day.
+
+    Long-term absences count: an ESPN return date, or a player parked in IR
+    (out until his return date, or all forecast long if there is none).
+    Short-term injuries are ignored: OUT with no return date only misses today.
+    """
+    today = today or datetime.now(ET).date()
+    ret = date.fromisoformat(p["return_date"]) if p.get("return_date") else None
     if p.get("slot") == "IR":
-        return False
+        return ret is not None and day >= ret
     if p["status"] in config.OUT_STATUSES:
-        if p.get("return_date"):
-            return day >= date.fromisoformat(p["return_date"])
-        return False
+        if ret:
+            return day >= ret
+        return day > today
     return True
 
 

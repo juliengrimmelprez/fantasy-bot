@@ -152,7 +152,7 @@
  "last_activity_ms": 1794620277041,
  "last_digest": 1794630026.2265987,
  "last_error_alert": 1794388335.8497355,
- "last_hot_check": 1794631335.894112,
+ "last_hot_check": 1794632296.0012853,
  "last_run": "2026-10-19T22:05:14+00:00",
  "matchup_periods": {
   "1": [
@@ -555,7 +555,7 @@
   "2991350": {
    "fantasy_team": "CCCP  Баскетбол",
    "id": "2991350",
-   "mpg": 18.9,
+   "mpg": 19.0,
    "name": "Alex Caruso",
    "nba_team": "OKC",
    "positions": [
@@ -944,7 +944,7 @@
   "3134903": {
    "fantasy_team": null,
    "id": "3134903",
-   "mpg": 13.3,
+   "mpg": 13.4,
    "name": "Gary Payton II",
    "nba_team": "GSW",
    "positions": [
@@ -987,7 +987,7 @@
   "3134916": {
    "fantasy_team": null,
    "id": "3134916",
-   "mpg": 7.6,
+   "mpg": 7.8,
    "name": "Jordan McLaughlin",
    "nba_team": "SAS",
    "positions": [
@@ -1319,7 +1319,7 @@
   "3448": {
    "fantasy_team": "Lucky",
    "id": "3448",
-   "mpg": 22.6,
+   "mpg": 22.7,
    "name": "Brook Lopez",
    "nba_team": "LAC",
    "positions": [
@@ -2090,7 +2090,7 @@
   "4066648": {
    "fantasy_team": "Lakers x Bortolan 23",
    "id": "4066648",
-   "mpg": 28.1,
+   "mpg": 28.2,
    "name": "Rui Hachimura",
    "nba_team": "LAC",
    "positions": [
@@ -2780,7 +2780,7 @@
    "return_date": null,
    "slot": "PF",
    "status": "ACTIVE",
-   "value": 16.9
+   "value": 17.3
   },
   "4395724": {
    "fantasy_team": "Fernando  Diniz",
@@ -2829,7 +2829,7 @@
   "4396907": {
    "fantasy_team": "Tropa do Nikola",
    "id": "4396907",
-   "mpg": 31.1,
+   "mpg": 31.2,
    "name": "Darius Garland",
    "nba_team": "LAC",
    "positions": [
@@ -3108,7 +3108,7 @@
   "4397886": {
    "fantasy_team": null,
    "id": "4397886",
-   "mpg": 12.8,
+   "mpg": 13.0,
    "name": "Charles Bassey",
    "nba_team": "GSW",
    "positions": [
@@ -3117,7 +3117,7 @@
    "return_date": null,
    "slot": "",
    "status": "ACTIVE",
-   "value": 20.0
+   "value": 19.8
   },
   "4398207": {
    "fantasy_team": null,
@@ -4684,7 +4684,7 @@
   "4702352": {
    "fantasy_team": null,
    "id": "4702352",
-   "mpg": 22.6,
+   "mpg": 22.7,
    "name": "Kobe Sanders",
    "nba_team": "LAC",
    "positions": [
@@ -4742,7 +4742,7 @@
   "4703396": {
    "fantasy_team": null,
    "id": "4703396",
-   "mpg": 9.2,
+   "mpg": 9.3,
    "name": "Graham Ike",
    "nba_team": "GSW",
    "positions": [
@@ -5136,7 +5136,7 @@
   "4897262": {
    "fantasy_team": null,
    "id": "4897262",
-   "mpg": 18.1,
+   "mpg": 18.2,
    "name": "Will Richard",
    "nba_team": "GSW",
    "positions": [
@@ -5424,7 +5424,7 @@
   "5061568": {
    "fantasy_team": null,
    "id": "5061568",
-   "mpg": 11.1,
+   "mpg": 11.2,
    "name": "Carter Bryant",
    "nba_team": "SAS",
    "positions": [
@@ -5433,7 +5433,7 @@
    "return_date": null,
    "slot": "",
    "status": "ACTIVE",
-   "value": 8.6
+   "value": 9.3
   },
   "5061575": {
    "fantasy_team": "Hospital do Gansola",
@@ -5708,7 +5708,7 @@
   "5105809": {
    "fantasy_team": null,
    "id": "5105809",
-   "mpg": 5.6,
+   "mpg": 5.7,
    "name": "Tarris Reed Jr.",
    "nba_team": "SAS",
    "positions": [
@@ -5717,7 +5717,7 @@
    "return_date": null,
    "slot": "",
    "status": "ACTIVE",
-   "value": 6.1
+   "value": 6.7
   },
   "5105837": {
    "fantasy_team": null,
@@ -6538,7 +6538,7 @@
   "6578": {
    "fantasy_team": null,
    "id": "6578",
-   "mpg": 14.1,
+   "mpg": 14.3,
    "name": "Harrison Barnes",
    "nba_team": "SAS",
    "positions": [

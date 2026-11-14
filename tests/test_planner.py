@@ -157,3 +157,18 @@ def test_short_term_injuries_ignored_long_term_kept():
     assert planner.available_on(long_, date(2026, 12, 21), today)
     assert not planner.available_on(ir, date(2026, 11, 25), today)
     assert planner.available_on(ir_back, date(2026, 11, 21), today)
+
+
+def test_last_day_push():
+    import extras
+    roster, fas, periods, sched, pdates = world()
+    sched["F1"] = {7: tip(7)}
+    fas.append(P("f1", "SundayGuy", "F1", 24, None, slot=""))
+    pdates = planner.period_dates(sched, periods)
+    ctx = {"today": 7, "periods": periods, "sched": sched, "pdates": pdates, "now_ms": tip(7) - 3600_000,
+           "roster": roster, "fas": sorted(fas, key=lambda p: -p["value"]), "adds_left": 2}
+    msg = extras.last_day_push(ctx, diff=-30, total=1300)
+    assert msg and "SundayGuy" in msg and "AAA" in msg and "vaga" in msg
+    assert extras.last_day_push(ctx, diff=-300, total=1300) is None     # not close
+    ctx["adds_left"] = 0
+    assert extras.last_day_push(ctx, diff=-30, total=1300) is None

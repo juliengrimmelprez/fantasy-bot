@@ -25,6 +25,7 @@ import requests
 
 import config
 import planner
+import extras
 
 STATE_FILE = Path(__file__).with_name("state.json")
 MAX_SENT_KEYS = 500
@@ -99,6 +100,8 @@ def _to_dict(p, fantasy_team: str | None, slot: str = "") -> dict:
         "slot": slot or getattr(p, "lineupSlot", ""),
         "value": player_value(p.avg_points, p.projected_avg_points, last15),
         "mpg": _mpg(p),
+        "season_avg": round(p.avg_points or 0, 1),
+        "last15": round(last15, 1),
         "return_date": p.expected_return_date.isoformat() if getattr(p, "expected_return_date", None) else None,
     }
 
@@ -192,9 +195,21 @@ def fetch_league_snapshot() -> dict:
         except Exception as e:
             print(f"live score lookup failed: {e!r}")
 
+    teams, team_sched = [], {}
+    for t in league.teams:
+        teams.append({"name": t.team_name, "id": t.team_id, "wins": t.wins, "losses": t.losses,
+                      "ties": t.ties, "points_for": t.points_for, "standing": t.standing})
+        opps = []
+        for m in t.schedule:
+            o = m.away_team if m.home_team is t else m.home_team
+            opps.append(getattr(o, "team_name", None))
+        team_sched[t.team_name] = opps
+    n_regular = getattr(league.settings, "reg_season_count", None) or 15
+
     return {"players": players, "activity": activity, "league": league, "sched": sched,
             "today": league.scoringPeriodId, "matchup": mp, "opponent": opponent,
-            "my_score": my_score, "opp_score": opp_score}
+            "my_score": my_score, "opp_score": opp_score, "my_team_id": me.team_id,
+            "teams": teams, "team_sched": team_sched, "n_regular": n_regular}
 
 
 # ---------------------------------------------------------------------------
@@ -586,6 +601,9 @@ def build_context(snap: dict, state: dict, now: datetime) -> dict | None:
         "fas": sorted([p for p in players.values() if p["fantasy_team"] is None and p["name"] not in on_waivers
                        and p["status"] not in config.OUT_STATUSES], key=lambda p: p["value"], reverse=True)[:config.STREAM_CANDIDATES],
         "matchup": snap["matchup"],
+        "league": snap.get("league"), "teams": snap.get("teams", []), "team_sched": snap.get("team_sched", {}),
+        "n_regular": snap.get("n_regular", 15), "my_team_id": snap.get("my_team_id"),
+        "all_players": list(players.values()),
     }
 
 
@@ -616,9 +634,20 @@ def schedule_alerts(ctx: dict, now: datetime) -> list[tuple[str, str]]:
     # Diagnosis of the matchup (rosters as they are, no FAs): every morning
     out.append((f"diag:{today}", diag_message(ctx, rem)))
 
-    if today == ctx["periods"][0]:
+    first_day = today == ctx["periods"][0]
+    if first_day:
         out.append((f"week:{ctx['matchup']}", plan_message(ctx, plan)))
-    else:
+        out += weekly_extras(ctx)
+    try:
+        my_now, opp_now = ctx.get("my_score") or 0, ctx.get("opp_score") or 0
+        mr, _ = planner.projected_remaining(ctx["roster"], rem, sched, pdates, now_ms)
+        orr, _ = planner.projected_remaining(ctx["opp_roster"], rem, sched, pdates, now_ms) if ctx["opp_roster"] else (0, 0)
+        push = extras.last_day_push(ctx, (my_now + mr) - (opp_now + orr), my_now + mr)
+        if push:
+            out.append((f"lastday:{today}", push))
+    except Exception as e:
+        print(f"last-day push failed: {e!r}")
+    if not first_day:
         todays = [st for sl in plan["slots"] for st in sl["steps"] if st["period"] == today]
         if todays:
             lines = [f"📋 *Plano de FAs — hoje ({planner.day_label(pdates[today])})*"]
@@ -631,6 +660,50 @@ def schedule_alerts(ctx: dict, now: datetime) -> list[tuple[str, str]]:
     return out
 
 
+def weekly_extras(ctx: dict) -> list[tuple[str, str]]:
+    """Monday-morning messages: last week's recap, playoff race, trade ideas."""
+    out = []
+    mp = ctx["matchup"]
+    try:
+        rec = weekly_recap(ctx, mp - 1)
+        if rec:
+            out.append((f"recap:{mp - 1}", rec))
+    except Exception as e:
+        print(f"recap failed: {e!r}")
+    try:
+        race = extras.playoff_race(ctx["teams"], ctx["team_sched"], mp, ctx["n_regular"])
+        if race:
+            out.append((f"race:{mp}", race))
+    except Exception as e:
+        print(f"playoff race failed: {e!r}")
+    try:
+        players = {p["id"]: p for p in ctx.get("all_players", [])}
+        ideas = extras.trade_ideas(players, ctx["pdates"][ctx["today"]])
+        if ideas:
+            out.append((f"trades:{mp}", ideas))
+    except Exception as e:
+        print(f"trade ideas failed: {e!r}")
+    return out
+
+
+def weekly_recap(ctx: dict, matchup: int) -> str | None:
+    league = ctx.get("league")
+    if not league or matchup < 1:
+        return None
+    for bs in league.box_scores(matchup_period=matchup, matchup_total=True):
+        home_id = getattr(bs.home_team, "team_id", bs.home_team)
+        away_id = getattr(bs.away_team, "team_id", bs.away_team)
+        if ctx["my_team_id"] not in (home_id, away_id):
+            continue
+        home = home_id == ctx["my_team_id"]
+        mine_score, opp_score = (bs.home_score, bs.away_score) if home else (bs.away_score, bs.home_score)
+        lineup = bs.home_lineup if home else bs.away_lineup
+        opp = bs.away_team if home else bs.home_team
+        rows = [(pl.name, float(pl.points or 0)) for pl in lineup if (pl.points or 0) > 0]
+        return extras.recap_message(matchup, getattr(opp, "team_name", "?").strip(), mine_score, opp_score, rows, {})
+    return None
+
+
 def plan_message(ctx: dict, plan: dict) -> str:
     pdates = ctx["pdates"]
     d0, d1 = pdates.get(ctx["periods"][0]), pdates.get(ctx["periods"][-1])
@@ -640,6 +713,22 @@ def plan_message(ctx: dict, plan: dict) -> str:
     if gain >= 1:
         body += "\n\n" + week_projection(ctx, ctx["remaining"], gain).splitlines()[-1]
     return body
+
+
+def roster_table(roster: list[dict], rem: list[int], sched: dict, pdates: dict, now_ms: int) -> list[str]:
+    """Ranked lines: games left this matchup × expected average = expected points."""
+    rows = []
+    for p in roster:
+        g = sum(planner.plays(p, per, sched, pdates, after_ms=now_ms if j == 0 else None) for j, per in enumerate(rem))
+        rows.append((g * p["value"], g, p))
+    rows.sort(key=lambda r: (r[0], r[2]["value"]), reverse=True)
+    out = []
+    for n, (tot, g, p) in enumerate(rows, 1):
+        tag = " (IR)" if p.get("slot") == "IR" else (" (OUT)" if p["status"] in config.OUT_STATUSES else "")
+        out.append(f"{n}. {p['name']}{tag} — {g} × {p['value']:g} = *{tot:.0f}*")
+    total_games = sum(r[1] for r in rows)
+    out.append(f"Total: {total_games} jogos · ~{sum(r[0] for r in rows):.0f} FP antes do limite de 10 titulares/dia")
+    return out
 
 
 def diag_message(ctx: dict, rem: list[int]) -> str:
@@ -658,16 +747,10 @@ def diag_message(ctx: dict, rem: list[int]) -> str:
         per_day.append(f"{planner.day_label(pdates[per])} {mine}×{opp}")
     lines.append("Jogos por dia (você×ele): " + " · ".join(per_day))
 
-    # ranked roster: games left this week, expected average, expected total
-    rows = []
-    for i_p, p in enumerate(ctx["roster"]):
-        g = sum(planner.plays(p, per, sched, pdates, after_ms=now_ms if j == 0 else None) for j, per in enumerate(rem))
-        rows.append((g * p["value"], g, p))
-    rows.sort(key=lambda r: (r[0], r[2]["value"]), reverse=True)
     lines.append("\n*Seu elenco na semana* (jogos × média esperada = pontos):")
-    for n, (tot, g, p) in enumerate(rows, 1):
-        tag = " (IR)" if p.get("slot") == "IR" else (" (OUT)" if p["status"] in config.OUT_STATUSES else "")
-        lines.append(f"{n}. {p['name']}{tag} — {g} × {p['value']:g} = *{tot:.0f}*")
+    lines += roster_table(ctx["roster"], rem, sched, pdates, now_ms)
+    lines.append(f"\n*Elenco de {ctx['opponent'] or 'adversário'}*:")
+    lines += roster_table(ctx["opp_roster"], rem, sched, pdates, now_ms)
     lines.append(f"_{value_method_note()} Em dias com 10+ jogando, nem todos pontuam._\n")
 
     def missing(roster):
@@ -782,7 +865,10 @@ def enrich_timelines(league, old: dict, new: dict) -> None:
 def compute_alerts(state: dict, snap: dict, ctx: dict | None = None) -> list[tuple[str, str]]:
     old, new = state["players"], snap["players"]
     since = state.get("last_activity_ms", 0)
-    alerts = injury_alerts(old, new, ctx) + drop_alerts(new, snap["activity"], since) + trade_alerts(old, new)
+    w = worst_player(new)
+    alerts = extras.returning_fa_alerts(old, new, w["value"] if w else None)
+    alerts += extras.league_trade_alerts(snap["activity"], new, since)
+    alerts += injury_alerts(old, new, ctx) + drop_alerts(new, snap["activity"], since) + trade_alerts(old, new)
     sent = set(state.get("sent_keys", []))
     return [(k, m) for k, m in alerts if k not in sent]
 
@@ -947,11 +1033,16 @@ def main() -> int:
         digest_due = time.time() - state.get("last_digest", 0) >= config.DIGEST_EVERY_MINUTES * 60
         if league and (hot_due or digest_due):
             try:
-                fa_ids = [pid for pid, p in snap["players"].items() if p["fantasy_team"] is None]
+                fa_ids = [pid for pid, p in snap["players"].items()
+                          if p["fantasy_team"] is None or extras._mine(p)]
                 games = fetch_recent_games(league, fa_ids)
                 if hot_due:
                     sent_now = set(state.get("sent_keys", []))
                     alerts += [(k, m) for k, m in hot_alerts(games, snap["players"], now) if k not in sent_now]
+                    healthy_fas = sorted([p for p in snap["players"].values() if p["fantasy_team"] is None
+                                          and p["status"] not in config.OUT_STATUSES], key=lambda p: p["value"], reverse=True)
+                    best_fa = healthy_fas[0] if healthy_fas else None
+                    alerts += [(k, m) for k, m in extras.cold_alerts(games, snap["players"], now, best_fa) if k not in sent_now]
                     state["last_hot_check"] = time.time()
                 if digest_due:
                     seen = set(state.get("digest_seen", []))

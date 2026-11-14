@@ -78,6 +78,21 @@ PLAN_HOUR_ET = 10           # weekly plan / daily step reminder after this hour
 LINEUP_CHECK_MIN_BEFORE = (90, 20)   # window before the day's first tip-off
 WAIVER_HOURS = 26           # recently dropped players are on waivers this long
 
+# --- Extra alerts -----------------------------------------------------------------
+RETURN_MIN_FP = 25.0        # returning free agent must be worth at least this
+COLD_AVG_GAMES = 3          # your player's moving average window
+COLD_RATIO = 0.7            # alert when that average falls below 70% of his season average
+COLD_MIN_BASE_FP = 20.0     # ignore low-value players
+COLD_MIN_DROP = 5           # minutes drop (vs his average) worth flagging
+TRADE_DEADLINE = "2027-01-25"
+SELL_HIGH_RATIO = 1.15      # last 15 days >= 115% of season average
+SELL_HIGH_MIN_DIFF = 4.0
+BUY_LOW_MIN_FP = 30.0       # only target good players
+BUY_LOW_RATIO = 0.85        # last 15 days <= 85% of season average
+PLAYOFF_TEAMS = 8
+LAST_DAY_CLOSE_RATIO = 0.08 # "close" = projected gap within 8% on the last day
+LOPSIDED_RATIO = 1.25       # league trade flagged when one side gets 25%+ more value
+
 # --- Drop alerts ------------------------------------------------------------
 # Alert when a dropped player's value beats your worst rostered player
 # (IR slot excluded) by at least this margin.

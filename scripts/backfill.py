@@ -187,6 +187,17 @@ def main() -> None:
         print("(prévia falhou)", repr(e)); traceback.print_exc(file=sys.stdout)
     print()
 
+    print("## Prévia dos alertas semanais (não enviados)\n")
+    try:
+        st = {"players": players}
+        ctx = bot.build_context(snap, st, now)
+        for key, msg in bot.weekly_extras({**ctx, "matchup": ctx["matchup"]}):
+            print(f"--- [{key}]\n{msg}\n")
+        print("--- [diag]\n" + bot.diag_message(ctx, ctx["remaining"]) + "\n")
+    except Exception as e:
+        import traceback
+        print("(prévia semanal falhou)", repr(e)); traceback.print_exc(file=sys.stdout)
+
     if os.environ.get("SEND_FORECAST") == "true":
         try:
             st = {"players": players}

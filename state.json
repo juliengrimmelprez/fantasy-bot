@@ -144,11 +144,11 @@
   "4432107:20261022",
   "3134907:20261023"
  ],
- "hot_status": "ok: 248 FAs, 1667 games",
+ "hot_status": "ok: 248 FAs, 1668 games",
  "last_activity_ms": 1794620277041,
  "last_digest": 1794622577.972775,
  "last_error_alert": 1794388335.8497355,
- "last_hot_check": 1794623656.8667924,
+ "last_hot_check": 1794624619.061652,
  "last_run": "2026-10-19T22:05:14+00:00",
  "matchup_periods": {
   "1": [
@@ -255,7 +255,7 @@
    "return_date": null,
    "slot": "UT",
    "status": "ACTIVE",
-   "value": 25.1
+   "value": 24.9
   },
   "2528210": {
    "fantasy_team": null,
@@ -493,7 +493,7 @@
   "2991070": {
    "fantasy_team": "Polga Silva",
    "id": "2991070",
-   "mpg": 22.9,
+   "mpg": 23.0,
    "name": "Jerami Grant",
    "nba_team": "MEM",
    "positions": [
@@ -502,7 +502,7 @@
    "return_date": null,
    "slot": "UT",
    "status": "ACTIVE",
-   "value": 19.9
+   "value": 20.2
   },
   "2991139": {
    "fantasy_team": "Caxias French Fries",
@@ -633,7 +633,7 @@
    "return_date": null,
    "slot": "PF",
    "status": "ACTIVE",
-   "value": 51.1
+   "value": 51.8
   },
   "3032979": {
    "fantasy_team": null,
@@ -681,7 +681,7 @@
   "3059319": {
    "fantasy_team": null,
    "id": "3059319",
-   "mpg": 24.8,
+   "mpg": 24.9,
    "name": "Andrew Wiggins",
    "nba_team": "MIA",
    "positions": [
@@ -1603,7 +1603,7 @@
   "3934723": {
    "fantasy_team": null,
    "id": "3934723",
-   "mpg": 12.0,
+   "mpg": 12.1,
    "name": "Thomas Bryant",
    "nba_team": "CLE",
    "positions": [
@@ -1612,7 +1612,7 @@
    "return_date": null,
    "slot": "",
    "status": "ACTIVE",
-   "value": 12.7
+   "value": 12.9
   },
   "3936099": {
    "fantasy_team": "Tiki Taka Laranja",
@@ -2330,7 +2330,7 @@
   "4277956": {
    "fantasy_team": "Bull Market",
    "id": "4277956",
-   "mpg": 18.9,
+   "mpg": 19.0,
    "name": "Jordan Poole",
    "nba_team": "NOP",
    "positions": [
@@ -2340,7 +2340,7 @@
    "return_date": null,
    "slot": "UT",
    "status": "ACTIVE",
-   "value": 15.1
+   "value": 14.8
   },
   "4277961": {
    "fantasy_team": "King Coopa",
@@ -2389,7 +2389,7 @@
   "4278053": {
    "fantasy_team": "Tropa do Nikola",
    "id": "4278053",
-   "mpg": 34.7,
+   "mpg": 34.8,
    "name": "Davion Mitchell",
    "nba_team": "MIA",
    "positions": [
@@ -2398,7 +2398,7 @@
    "return_date": null,
    "slot": "PG",
    "status": "ACTIVE",
-   "value": 41.6
+   "value": 41.8
   },
   "4278067": {
    "fantasy_team": "BL0CK BY ZION",
@@ -2702,7 +2702,7 @@
    "return_date": null,
    "slot": "UT",
    "status": "ACTIVE",
-   "value": 40.5
+   "value": 40.7
   },
   "4395630": {
    "fantasy_team": "Contagem Hunters",
@@ -2717,7 +2717,7 @@
    "return_date": null,
    "slot": "SF",
    "status": "ACTIVE",
-   "value": 23.6
+   "value": 23.7
   },
   "4395650": {
    "fantasy_team": null,
@@ -3026,7 +3026,7 @@
    "return_date": null,
    "slot": "SF",
    "status": "ACTIVE",
-   "value": 26.4
+   "value": 26.5
   },
   "4397189": {
    "fantasy_team": "Contagem Hunters",
@@ -3772,7 +3772,7 @@
   "4433083": {
    "fantasy_team": "Hospital do Gansola",
    "id": "4433083",
-   "mpg": 19.1,
+   "mpg": 19.2,
    "name": "Cam Spencer",
    "nba_team": "MEM",
    "positions": [
@@ -3782,7 +3782,7 @@
    "return_date": null,
    "slot": "UT",
    "status": "ACTIVE",
-   "value": 26.4
+   "value": 26.6
   },
   "4433134": {
    "fantasy_team": "Lebron GOAT",
@@ -4445,7 +4445,7 @@
   "4683747": {
    "fantasy_team": null,
    "id": "4683747",
-   "mpg": 21.0,
+   "mpg": 21.1,
    "name": "Jaylon Tyson",
    "nba_team": "CLE",
    "positions": [
@@ -4775,7 +4775,7 @@
    "return_date": null,
    "slot": "PG",
    "status": "ACTIVE",
-   "value": 34.1
+   "value": 34.0
   },
   "4711272": {
    "fantasy_team": null,
@@ -4867,7 +4867,7 @@
   "4781746": {
    "fantasy_team": null,
    "id": "4781746",
-   "mpg": 17.4,
+   "mpg": 17.6,
    "name": "Javon Small",
    "nba_team": "MEM",
    "positions": [
@@ -4876,7 +4876,7 @@
    "return_date": null,
    "slot": "",
    "status": "ACTIVE",
-   "value": 14.4
+   "value": 14.8
   },
   "4845367": {
    "fantasy_team": "King Coopa",
@@ -4891,7 +4891,7 @@
    "return_date": null,
    "slot": "UT",
    "status": "ACTIVE",
-   "value": 23.5
+   "value": 24.0
   },
   "4845374": {
    "fantasy_team": null,
@@ -5013,7 +5013,7 @@
   "4871145": {
    "fantasy_team": "Lebron GOAT",
    "id": "4871145",
-   "mpg": 27.3,
+   "mpg": 27.4,
    "name": "Josh Giddey",
    "nba_team": "CHI",
    "positions": [
@@ -5023,7 +5023,7 @@
    "return_date": null,
    "slot": "PG",
    "status": "ACTIVE",
-   "value": 30.5
+   "value": 31.1
   },
   "4873090": {
    "fantasy_team": null,
@@ -5276,7 +5276,7 @@
   "4997538": {
    "fantasy_team": "Lucky",
    "id": "4997538",
-   "mpg": 18.1,
+   "mpg": 18.2,
    "name": "Karlo Matkovic",
    "nba_team": "NOP",
    "positions": [
@@ -5290,7 +5290,7 @@
   "5023693": {
    "fantasy_team": "Bull Market",
    "id": "5023693",
-   "mpg": 17.0,
+   "mpg": 17.1,
    "name": "Tyrese Proctor",
    "nba_team": "CLE",
    "positions": [
@@ -5314,7 +5314,7 @@
    "return_date": null,
    "slot": "PG",
    "status": "ACTIVE",
-   "value": 33.2
+   "value": 33.5
   },
   "5041935": {
    "fantasy_team": "BL0CK BY ZION",
@@ -5348,7 +5348,7 @@
   "5041951": {
    "fantasy_team": "Fernando  Diniz",
    "id": "5041951",
-   "mpg": 21.8,
+   "mpg": 21.9,
    "name": "Meleek Thomas",
    "nba_team": "CLE",
    "positions": [
@@ -5627,12 +5627,12 @@
    "return_date": null,
    "slot": "UT",
    "status": "ACTIVE",
-   "value": 64.3
+   "value": 64.7
   },
   "5105550": {
    "fantasy_team": null,
    "id": "5105550",
-   "mpg": 15.1,
+   "mpg": 15.2,
    "name": "GG Jackson",
    "nba_team": "MEM",
    "positions": [
@@ -5804,7 +5804,7 @@
   "5107157": {
    "fantasy_team": null,
    "id": "5107157",
-   "mpg": 12.8,
+   "mpg": 13.0,
    "name": "Ryan Conwell",
    "nba_team": "MIA",
    "positions": [
@@ -5962,7 +5962,7 @@
   "5144091": {
    "fantasy_team": "King Coopa",
    "id": "5144091",
-   "mpg": 28.5,
+   "mpg": 28.6,
    "name": "Jeremiah Fears",
    "nba_team": "NOP",
    "positions": [

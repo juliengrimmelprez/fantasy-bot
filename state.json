@@ -152,7 +152,7 @@
  "last_activity_ms": 1794620277041,
  "last_digest": 1794633735.891381,
  "last_error_alert": 1794388335.8497355,
- "last_hot_check": 1794633257.850302,
+ "last_hot_check": 1794634225.0178146,
  "last_run": "2026-10-19T22:05:14+00:00",
  "matchup_periods": {
   "1": [
@@ -902,7 +902,7 @@
   "3133626": {
    "fantasy_team": null,
    "id": "3133626",
-   "mpg": 19.7,
+   "mpg": 19.8,
    "name": "Kenrich Williams",
    "nba_team": "OKC",
    "positions": [
@@ -911,7 +911,7 @@
    "return_date": null,
    "slot": "",
    "status": "ACTIVE",
-   "value": 16.8
+   "value": 16.9
   },
   "3133628": {
    "fantasy_team": "Caxias French Fries",
@@ -5790,7 +5790,7 @@
    "return_date": null,
    "slot": "",
    "status": "ACTIVE",
-   "value": 14.3
+   "value": 14.2
   },
   "5106262": {
    "fantasy_team": null,
@@ -6067,7 +6067,7 @@
   "5159925": {
    "fantasy_team": null,
    "id": "5159925",
-   "mpg": 10.0,
+   "mpg": 11.0,
    "name": "Nikola Topic",
    "nba_team": "OKC",
    "positions": [

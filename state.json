@@ -153,11 +153,11 @@
   "4397040:20261102",
   "5107173:20261112"
  ],
- "hot_status": "ok: 250 FAs, 1736 games",
- "last_activity_ms": 1794670465656,
+ "hot_status": "ok: 250 FAs, 1743 games",
+ "last_activity_ms": 1794677769184,
  "last_digest": 1794674656.4892085,
  "last_error_alert": 1794388335.8497355,
- "last_hot_check": 1794676821.7536182,
+ "last_hot_check": 1794677775.846414,
  "last_run": "2026-10-19T22:05:14+00:00",
  "matchup_periods": {
   "1": [
@@ -5825,7 +5825,7 @@
    "value": 13.8
   },
   "5107173": {
-   "fantasy_team": null,
+   "fantasy_team": "CCCP  Баскетбол",
    "id": "5107173",
    "mpg": 23.7,
    "name": "Danny Wolf",
@@ -5835,7 +5835,7 @@
     "C"
    ],
    "return_date": null,
-   "slot": "",
+   "slot": "BE",
    "status": "ACTIVE",
    "value": 21.7
   },
@@ -6339,7 +6339,7 @@
    "value": 6.7
   },
   "5241364": {
-   "fantasy_team": "CCCP  Баскетбол",
+   "fantasy_team": null,
    "id": "5241364",
    "mpg": 18.1,
    "name": "Bennett Stirtz",
@@ -6348,7 +6348,7 @@
     "PG"
    ],
    "return_date": null,
-   "slot": "BE",
+   "slot": "",
    "status": "ACTIVE",
    "value": 18.4
   },
@@ -6884,6 +6884,7 @@
   "diag:26",
   "planday:26",
   "inj:4600663:DAY_TO_DAY",
-  "drop:5081727:1794670465656"
+  "drop:5081727:1794670465656",
+  "drop:5241364:1794677769184"
  ]
 }

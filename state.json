@@ -210,7 +210,7 @@
    9
   ]
  },
- "matchup_periods_day": "2026-11-13",
+ "matchup_periods_day": "2026-11-14",
  "plan_status": "ok: day 25, matchup 4 [21]..[27], adds left 10, opp CCCP  Баскетбол",
  "players": {
   "1966": {
@@ -523,7 +523,7 @@
   "2991230": {
    "fantasy_team": "Hospital do Gansola",
    "id": "2991230",
-   "mpg": 30.1,
+   "mpg": 30.3,
    "name": "Fred VanVleet",
    "nba_team": "HOU",
    "positions": [
@@ -1272,7 +1272,7 @@
   "3202": {
    "fantasy_team": "Contagem Hunters",
    "id": "3202",
-   "mpg": 33.9,
+   "mpg": 34.2,
    "name": "Kevin Durant",
    "nba_team": "HOU",
    "positions": [
@@ -1282,7 +1282,7 @@
    "return_date": null,
    "slot": "UT",
    "status": "ACTIVE",
-   "value": 32.7
+   "value": 32.8
   },
   "3213": {
    "fantasy_team": null,
@@ -1821,7 +1821,7 @@
   "4065732": {
    "fantasy_team": "Bull Market",
    "id": "4065732",
-   "mpg": 29.8,
+   "mpg": 29.9,
    "name": "De'Andre Hunter",
    "nba_team": "SAC",
    "positions": [
@@ -1860,7 +1860,7 @@
    "return_date": null,
    "slot": "UT",
    "status": "ACTIVE",
-   "value": 17.4
+   "value": 18.6
   },
   "4065804": {
    "fantasy_team": null,
@@ -1880,7 +1880,7 @@
   "4066211": {
    "fantasy_team": null,
    "id": "4066211",
-   "mpg": 15.4,
+   "mpg": 15.5,
    "name": "Robert Williams III",
    "nba_team": "POR",
    "positions": [
@@ -1938,7 +1938,7 @@
   "4066262": {
    "fantasy_team": null,
    "id": "4066262",
-   "mpg": 14.8,
+   "mpg": 14.9,
    "name": "Malik Monk",
    "nba_team": "SAC",
    "positions": [
@@ -1948,7 +1948,7 @@
    "return_date": null,
    "slot": "",
    "status": "ACTIVE",
-   "value": 14.4
+   "value": 14.7
   },
   "4066320": {
    "fantasy_team": "Fernando  Diniz",
@@ -2275,7 +2275,7 @@
   "4277919": {
    "fantasy_team": "CCCP  Баскетбол",
    "id": "4277919",
-   "mpg": 17.6,
+   "mpg": 17.8,
    "name": "Mo Bamba",
    "nba_team": "UTA",
    "positions": [
@@ -2284,7 +2284,7 @@
    "return_date": null,
    "slot": "C",
    "status": "ACTIVE",
-   "value": 21.3
+   "value": 21.5
   },
   "4277922": {
    "fantasy_team": null,
@@ -2835,7 +2835,7 @@
    "return_date": null,
    "slot": "UT",
    "status": "ACTIVE",
-   "value": 28.3
+   "value": 27.8
   },
   "4396909": {
    "fantasy_team": null,
@@ -3264,7 +3264,7 @@
   "4431736": {
    "fantasy_team": "King Coopa",
    "id": "4431736",
-   "mpg": 27.0,
+   "mpg": 27.1,
    "name": "Toumani Camara",
    "nba_team": "POR",
    "positions": [
@@ -3568,7 +3568,7 @@
   "4432639": {
    "fantasy_team": "Tropa do Nikola",
    "id": "4432639",
-   "mpg": 34.2,
+   "mpg": 34.3,
    "name": "Jabari Smith Jr.",
    "nba_team": "HOU",
    "positions": [
@@ -3578,7 +3578,7 @@
    "return_date": null,
    "slot": "C",
    "status": "ACTIVE",
-   "value": 32.4
+   "value": 32.5
   },
   "4432808": {
    "fantasy_team": null,
@@ -3769,7 +3769,7 @@
    "return_date": null,
    "slot": "UT",
    "status": "ACTIVE",
-   "value": 27.9
+   "value": 27.6
   },
   "4433134": {
    "fantasy_team": "Lebron GOAT",
@@ -3841,7 +3841,7 @@
    "return_date": null,
    "slot": "",
    "status": "ACTIVE",
-   "value": 16.0
+   "value": 16.6
   },
   "4433192": {
    "fantasy_team": "Lebron GOAT",
@@ -3964,7 +3964,7 @@
   "4433627": {
    "fantasy_team": "Lebron GOAT",
    "id": "4433627",
-   "mpg": 32.3,
+   "mpg": 32.5,
    "name": "Keyonte George",
    "nba_team": "UTA",
    "positions": [
@@ -3974,7 +3974,7 @@
    "return_date": null,
    "slot": "UT",
    "status": "ACTIVE",
-   "value": 33.2
+   "value": 33.3
   },
   "4433629": {
    "fantasy_team": null,
@@ -4259,7 +4259,7 @@
   "4594327": {
    "fantasy_team": "Lebron GOAT",
    "id": "4594327",
-   "mpg": 23.0,
+   "mpg": 23.2,
    "name": "Keegan Murray",
    "nba_team": "SAC",
    "positions": [
@@ -4359,7 +4359,7 @@
   "4683021": {
    "fantasy_team": "Contagem Hunters",
    "id": "4683021",
-   "mpg": 30.8,
+   "mpg": 30.9,
    "name": "Deni Avdija",
    "nba_team": "POR",
    "positions": [
@@ -4369,7 +4369,7 @@
    "return_date": null,
    "slot": "UT",
    "status": "ACTIVE",
-   "value": 37.8
+   "value": 38.0
   },
   "4683634": {
    "fantasy_team": null,
@@ -4399,7 +4399,7 @@
    "return_date": null,
    "slot": "",
    "status": "ACTIVE",
-   "value": 8.9
+   "value": 9.4
   },
   "4683688": {
    "fantasy_team": "Polga Silva",
@@ -4563,7 +4563,7 @@
   "4684740": {
    "fantasy_team": "King Coopa",
    "id": "4684740",
-   "mpg": 33.3,
+   "mpg": 33.5,
    "name": "Amen Thompson",
    "nba_team": "HOU",
    "positions": [
@@ -4573,7 +4573,7 @@
    "return_date": null,
    "slot": "UT",
    "status": "ACTIVE",
-   "value": 29.1
+   "value": 29.4
   },
   "4684742": {
    "fantasy_team": "Tropa do Nikola",
@@ -4710,7 +4710,7 @@
   "4702384": {
    "fantasy_team": null,
    "id": "4702384",
-   "mpg": 8.6,
+   "mpg": 7.8,
    "name": "Nique Clifford",
    "nba_team": "OKC",
    "positions": [
@@ -4720,7 +4720,7 @@
    "return_date": null,
    "slot": "",
    "status": "ACTIVE",
-   "value": 5.1
+   "value": 4.5
   },
   "4702656": {
    "fantasy_team": null,
@@ -5001,7 +5001,7 @@
   "4871144": {
    "fantasy_team": "Tiki Taka Laranja",
    "id": "4871144",
-   "mpg": 34.8,
+   "mpg": 35.0,
    "name": "Alperen Sengun",
    "nba_team": "HOU",
    "positions": [
@@ -5010,7 +5010,7 @@
    "return_date": null,
    "slot": "C",
    "status": "ACTIVE",
-   "value": 51.4
+   "value": 51.8
   },
   "4871145": {
    "fantasy_team": "Lebron GOAT",
@@ -5045,7 +5045,7 @@
   "4873138": {
    "fantasy_team": "Bull Market",
    "id": "4873138",
-   "mpg": 31.0,
+   "mpg": 31.1,
    "name": "Ace Bailey",
    "nba_team": "UTA",
    "positions": [
@@ -5378,7 +5378,7 @@
   "5041955": {
    "fantasy_team": "Hospital do Gansola",
    "id": "5041955",
-   "mpg": 30.9,
+   "mpg": 31.0,
    "name": "Darryn Peterson",
    "nba_team": "UTA",
    "positions": [
@@ -5388,7 +5388,7 @@
    "return_date": null,
    "slot": "UT",
    "status": "ACTIVE",
-   "value": 36.1
+   "value": 36.5
   },
   "5044385": {
    "fantasy_team": null,
@@ -5733,7 +5733,7 @@
   "5105839": {
    "fantasy_team": null,
    "id": "5105839",
-   "mpg": 15.5,
+   "mpg": 15.8,
    "name": "Brice Sensabaugh",
    "nba_team": "UTA",
    "positions": [
@@ -5887,7 +5887,7 @@
    "return_date": null,
    "slot": "SF",
    "status": "ACTIVE",
-   "value": 18.4
+   "value": 18.6
   },
   "5113969": {
    "fantasy_team": null,

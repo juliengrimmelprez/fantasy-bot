@@ -187,6 +187,18 @@ def main() -> None:
         print("(prévia falhou)", repr(e)); traceback.print_exc(file=sys.stdout)
     print()
 
+    if os.environ.get("SEND_FORECAST") == "true":
+        try:
+            st = {"players": players}
+            ctx = bot.build_context(snap, st, now)
+            msg = bot.forecast_message(snap, st, ctx, ahead=2)
+            print("## Forecast\n\n" + msg + "\n")
+            bot.send_alert(msg)
+            print("(forecast enviado ao Telegram)")
+        except Exception as e:
+            import traceback
+            print("(forecast falhou)", repr(e)); traceback.print_exc(file=sys.stdout)
+
     if os.environ.get("SEND_SEASON") == "true":
         try:
             outlook = bot.season_outlook(snap, {"players": players})

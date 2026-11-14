@@ -226,3 +226,9 @@ def test_single_big_game_can_lift_average():
 def test_telegram_italics_not_in_urls_or_names():
     out = bot.to_telegram_html("_nota aqui_ e https://x.com/a_b_c e snake_case_name")
     assert out.startswith("<i>nota aqui</i>") and "a_b_c" in out and "snake_case_name" in out
+
+
+def test_classify_espn_error():
+    assert bot.classify_espn_error(ConnectionResetError(104, "Connection reset by peer")) == "network"
+    assert bot.classify_espn_error(Exception("401 Client Error: Unauthorized")) == "auth"
+    assert bot.classify_espn_error(Exception("ESPNAccessDenied 403")) == "auth"

@@ -12,6 +12,9 @@ on:
       send_week:
         description: "Send this week's matchup diagnosis and FA plan to Telegram now"
         default: "false"
+      send_forecast:
+        description: "Send this week's diagnosis + next 2 matchups to Telegram now"
+        default: "false"
       send_season:
         description: "Send the season-long matchup diagnosis to Telegram now"
         default: "false"
@@ -37,6 +40,7 @@ jobs:
           BACKFILL_SEND: ${{ inputs.send }}
           SEND_WEEK: ${{ inputs.send_week }}
           SEND_SEASON: ${{ inputs.send_season }}
+          SEND_FORECAST: ${{ inputs.send_forecast }}
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
         run: |

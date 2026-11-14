@@ -106,3 +106,5 @@ STATUS_LABELS = {
 # --- Error alerts ----------------------------------------------------------
 # If ESPN fails (e.g. cookies expired), warn at most once per this many hours.
 ERROR_ALERT_HOURS = 6
+# Network errors (ESPN down, connection reset) only alert after this long.
+ESPN_DOWN_ALERT_MINUTES = 30

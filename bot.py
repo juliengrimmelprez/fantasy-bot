@@ -678,7 +678,7 @@ def diag_message(ctx: dict, rem: list[int]) -> str:
     return "\n".join(lines)
 
 
-def season_outlook(snap: dict, state: dict) -> str:
+def season_outlook(snap: dict, state: dict, only: list[int] | None = None, header: bool = True) -> str:
     """Every regular-season matchup projected with today's rosters (no FAs)."""
     league = snap["league"]
     sched = snap["sched"]
@@ -690,6 +690,8 @@ def season_outlook(snap: dict, state: dict) -> str:
     now_ms = int(datetime.now(timezone.utc).timestamp() * 1000)
     rows, wins, losses, close_n = [], 0, 0, 0
     for i, m in enumerate(me.schedule, 1):
+        if only is not None and i not in only:
+            continue
         weeks = sorted(int(x) for x in weeks_by_matchup.get(str(i), []))
         if not weeks:
             continue
@@ -710,11 +712,22 @@ def season_outlook(snap: dict, state: dict) -> str:
         close_n += close
         d0, d1 = pdates[pers[0]], pdates[pers[-1]]
         rows.append(f"{icon} *R{i}* {d0:%d/%m}–{d1:%d/%m} vs {opp_name} — jogos {mg}×{og} · ~{mine:.0f}×~{opp:.0f} ({diff:+.0f})")
+    if not header:
+        return "\n".join(rows)
     head = [f"🔭 *Diagnóstico da temporada regular* — elencos de hoje, sem FAs",
             f"Projeção: *{wins}V – {losses}D* e {close_n} apertados (🟡 = diferença < 5%)", ""]
     foot = ["", "_Assume os elencos atuais a temporada toda, sem trocas nem FAs. Jogador OUT sem data de volta conta como fora; "
             "lesões e trocas vão mudar muito as rodadas distantes. Serve para ver onde a agenda te favorece._"]
     return "\n".join(head + rows + foot)
+
+
+def forecast_message(snap: dict, state: dict, ctx: dict, ahead: int = 2) -> str:
+    """This week's diagnosis (live score) + the next `ahead` matchups."""
+    cur = ctx["matchup"]
+    nxt = season_outlook(snap, state, only=list(range(cur + 1, cur + 1 + ahead)), header=False)
+    return (diag_message(ctx, ctx["remaining"]) +
+            f"\n\n🔭 *Próximas {ahead} rodadas* — elencos de hoje, sem FAs\n" + (nxt or "(sem dados)") +
+            "\n_🟢 vitória provável · 🔴 derrota provável · 🟡 diferença < 5%_")
 
 
 def week_projection(ctx: dict, rem: list[int], plan_gain: float) -> str:
@@ -856,20 +869,50 @@ def save_state(state: dict) -> None:
     STATE_FILE.write_text(json.dumps(state, indent=1, sort_keys=True, ensure_ascii=False))
 
 
+def classify_espn_error(e: Exception | None) -> str:
+    """'auth' when ESPN refused the cookies, else 'network' (outage, reset, timeout)."""
+    text = repr(e).lower()
+    if any(k in text for k in ("401", "403", "unauthorized", "forbidden", "not authorized",
+                                "espnaccessdenied", "não encontrado")):
+        return "auth"
+    return "network"
+
+
 def main() -> int:
     state = load_state()
     now = datetime.now(timezone.utc)
 
-    try:
-        snap = fetch_league_snapshot()
-    except Exception as e:  # cookies expired, ESPN down, etc.
-        print(f"ESPN fetch failed: {e!r}")
+    snap, err = None, None
+    for attempt in range(3):                      # ride out brief network blips
+        try:
+            snap = fetch_league_snapshot()
+            break
+        except Exception as e:
+            err = e
+            print(f"ESPN fetch failed (attempt {attempt + 1}): {e!r}")
+            time.sleep(5 * (attempt + 1))
+    if snap is None:
+        kind = classify_espn_error(err)
+        state.setdefault("espn_fail_since", time.time())
+        down_min = (time.time() - state["espn_fail_since"]) / 60
         last = state.get("last_error_alert", 0)
-        if time.time() - last > config.ERROR_ALERT_HOURS * 3600:
-            send_alert(f"⚠️ Fantasy bot: não consegui ler a ESPN.\n{str(e)[:200]}\nSe persistir, renove os cookies.")
+        # network blips: only alert if ESPN stays unreachable for a while
+        due = kind == "auth" or down_min >= config.ESPN_DOWN_ALERT_MINUTES
+        if due and time.time() - last > config.ERROR_ALERT_HOURS * 3600:
+            if kind == "auth":
+                msg = ("⚠️ Fantasy bot: a ESPN recusou o login — os cookies (espn_s2/SWID) provavelmente expiraram.\n"
+                       "Pegue cookies novos e atualize os Secrets no GitHub.")
+            else:
+                msg = (f"⚠️ Fantasy bot: a ESPN está fora do ar há ~{down_min:.0f} min (problema de rede/servidor deles, "
+                       f"não dos seus cookies). Sigo tentando a cada 2 min e aviso quando voltar.\n{str(err)[:150]}")
+            send_alert(msg)
             state["last_error_alert"] = time.time()
-            save_state(state)
+            state["espn_alerted"] = True
+        save_state(state)
         return 0  # handled: avoid GitHub failure emails every run
+
+    if state.pop("espn_fail_since", None) is not None and state.pop("espn_alerted", False):
+        send_alert("✅ Fantasy bot: a ESPN voltou, alertas normalizados.")
 
     first_run = not state["players"]
     newest_ms = max([a["date"] for a in snap["activity"]] + [state.get("last_activity_ms", 0)])

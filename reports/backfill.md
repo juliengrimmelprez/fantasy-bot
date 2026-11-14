@@ -1,4 +1,4 @@
-# Backfill — últimos 1 dias (até 14/11 16:10 ET)
+# Backfill — últimos 1 dias (até 14/11 16:11 ET)
 
 Seu pior jogador hoje (referência para drops): Coby White (10.6 FP)
 
@@ -66,7 +66,7 @@ Seu pior jogador hoje (referência para drops): Coby White (10.6 FP)
 - 🔔 ALERTA | Kristaps Porzingis (GSW, 37.0 FP, livre) — OUT
     Volta: indefinido | 🗓️ Ausência indefinida → reposição pode valer por semanas
 - 🔔 ALERTA | Yves Missi (NOP, 36.0 FP, Contagem Hunters) — OUT
-    Volta: indefinido | 🗓️ Ausência indefinida → reposição pode valer por semanas
+    · 2026-11-14 Missi (knee) has been upgraded to probable for Saturday's game versus the Nuggets.
     · 2026-11-13 Missi (knee) is out for Friday's game against the Grizzlies.
 - 🔔 ALERTA | Evan Mobley (CLE, 35.5 FP, Lucky) — OUT
     Volta: ~3 semanas (pelas notícias) | 🗓️ Ausência longa → reposição vale por semanas
@@ -123,6 +123,7 @@ Seu pior jogador hoje (referência para drops): Coby White (10.6 FP)
 -   silencioso | Precious Achiuwa (SAC, 22.7 FP, Polga Silva) — Day-to-day
 -   silencioso | Pelle Larsson (MIA, 22.6 FP, Lebron GOAT) — Day-to-day
 - 🔔 ALERTA | Peyton Watson (CLE, 22.6 FP, King Coopa) — Day-to-day
+    · 2026-11-14 Watson (hamstring) is listed as questionable for Saturday's game against the Mavericks.
 -   silencioso | Moses Moody (GSW, 22.4 FP, livre) — OUT
 -   silencioso | Nic Claxton (CHI, 22.3 FP, BL0CK BY ZION) — Day-to-day
 -   silencioso | Ben Simmons (SAC, 22.0 FP, livre) — OUT
@@ -242,8 +243,7 @@ https://fantasy.espn.com/basketball/players/add?leagueId=41791233
 ---
 🚨 *Yves Missi (NOP) → OUT*
 (Contagem Hunters, 36.0 FP)
-Volta: indefinido
-🗓️ Ausência indefinida → reposição pode valer por semanas
+Volta: sem previsão
 ADD: *DeAndre Jordan* (C, 14.8 → ~18.4 FP com +4 min) — LIVRE
 Drop sugerido: *Coby White* (10.6 FP)
 https://fantasy.espn.com/basketball/players/add?leagueId=41791233

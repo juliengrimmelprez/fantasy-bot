@@ -3979,21 +3979,6 @@
    "status": "ACTIVE",
    "value": 33.0
   },
-  "4433629": {
-   "fantasy_team": null,
-   "id": "4433629",
-   "mpg": 3.3,
-   "name": "Ryan Nembhard",
-   "nba_team": "DEN",
-   "positions": [
-    "PG",
-    "SG"
-   ],
-   "return_date": null,
-   "slot": "",
-   "status": "ACTIVE",
-   "value": 4.7
-  },
   "4437244": {
    "fantasy_team": null,
    "id": "4437244",
@@ -6121,6 +6106,20 @@
    "slot": "UT",
    "status": "ACTIVE",
    "value": 36.0
+  },
+  "5174655": {
+   "fantasy_team": null,
+   "id": "5174655",
+   "mpg": 18.8,
+   "name": "Chaney Johnson",
+   "nba_team": "BKN",
+   "positions": [
+    "SF"
+   ],
+   "return_date": null,
+   "slot": "",
+   "status": "ACTIVE",
+   "value": 8.7
   },
   "5174983": {
    "fantasy_team": "Lakers x Bortolan 23",

@@ -103,6 +103,36 @@ def _to_dict(p, fantasy_team: str | None, slot: str = "") -> dict:
     }
 
 
+def live_scores(league, matchup_period: int, my_team_id: int) -> tuple[float | None, float | None]:
+    """Points scored so far in the current matchup, for you and your opponent.
+
+    ESPN's 'totalPoints' stays 0 until a matchup is final, so read the live
+    total, falling back to the sum of the per-day points.
+    """
+    data = league.espn_request.league_get(
+        params={"view": ["mMatchupScore", "mScoreboard"], "scoringPeriodId": league.scoringPeriodId},
+        headers={"x-fantasy-filter": json.dumps({"schedule": {"filterMatchupPeriodIds": {"value": [matchup_period]}}})},
+    )
+    for m in data.get("schedule", []):
+        if m.get("matchupPeriodId") != matchup_period:
+            continue
+        sides = [m.get("home", {}), m.get("away", {})]
+        if my_team_id not in [sd.get("teamId") for sd in sides]:
+            continue
+
+        def pts(sd):
+            for key in ("totalPointsLive", "totalPoints"):
+                v = sd.get(key)
+                if v:
+                    return float(v)
+            by_day = sd.get("pointsByScoringPeriod") or {}
+            return float(sum(by_day.values())) if by_day else 0.0
+        mine = next(sd for sd in sides if sd.get("teamId") == my_team_id)
+        other = next((sd for sd in sides if sd.get("teamId") != my_team_id), {})
+        return round(pts(mine), 1), round(pts(other), 1)
+    return None, None
+
+
 def fetch_league_snapshot() -> dict:
     from espn_api.basketball import League
 
@@ -157,10 +187,10 @@ def fetch_league_snapshot() -> dict:
         other = m.away_team if home else m.home_team
         opponent = getattr(other, "team_name", None)
 
-        def score(side):
-            live = getattr(m, f"{side}_team_live_score", None)
-            return live if live is not None else getattr(m, f"{side}_final_score", None)
-        my_score, opp_score = (score("home"), score("away")) if home else (score("away"), score("home"))
+        try:
+            my_score, opp_score = live_scores(league, mp, me.team_id)
+        except Exception as e:
+            print(f"live score lookup failed: {e!r}")
 
     return {"players": players, "activity": activity, "league": league, "sched": sched,
             "today": league.scoringPeriodId, "matchup": mp, "opponent": opponent,
@@ -688,9 +718,11 @@ def season_outlook(snap: dict, state: dict) -> str:
 
 
 def week_projection(ctx: dict, rem: list[int], plan_gain: float) -> str:
-    """Whole-matchup forecast: points already scored + rest of the week, rosters as they are."""
+    """Final-score forecast: points already scored + rest of the week, rosters as they are."""
     sched, pdates, now_ms = ctx["sched"], ctx["pdates"], ctx["now_ms"]
-    my_now, opp_now = ctx.get("my_score") or 0, ctx.get("opp_score") or 0
+    my_now, opp_now = ctx.get("my_score"), ctx.get("opp_score")
+    known = my_now is not None and opp_now is not None
+    my_now, opp_now = my_now or 0.0, opp_now or 0.0
     my_rest, my_g = planner.projected_remaining(ctx["roster"], rem, sched, pdates, now_ms)
     if ctx["opp_roster"]:
         opp_rest, opp_g = planner.projected_remaining(ctx["opp_roster"], rem, sched, pdates, now_ms)
@@ -701,10 +733,12 @@ def week_projection(ctx: dict, rem: list[int], plan_gain: float) -> str:
     close = abs(diff) < 0.05 * max(me_final, opp_final, 1)
     verdict = "apertado" if close else ("vitória provável" if diff > 0 else "derrota provável")
     lines = []
-    if my_now or opp_now:
-        lines.append(f"Placar até agora: você {my_now:.0f} × {opp_now:.0f}")
-    lines.append(f"Projeção da rodada inteira *sem FAs*: você ~{me_final:.0f} × ~{opp_final:.0f} → *{verdict}* ({diff:+.0f})")
-    lines.append(f"Jogos restantes: você {my_g} × {opp_g}")
+    if known:
+        lines.append(f"Placar atual: você *{my_now:.0f}* × *{opp_now:.0f}* ({my_now - opp_now:+.0f})")
+    else:
+        lines.append("⚠️ Placar atual indisponível na ESPN — projeção só dos jogos restantes")
+    lines.append(f"Ainda por vir (sem FAs): você ~{my_rest:.0f} em {my_g} jogos × ~{opp_rest:.0f} em {opp_g} jogos")
+    lines.append(f"*Placar final projetado: ~{me_final:.0f} × ~{opp_final:.0f} → {verdict} ({diff:+.0f})*")
     if plan_gain >= 1:
         with_plan = diff + plan_gain
         v2 = "vitória provável" if with_plan > 0 else "ainda atrás"
@@ -749,7 +783,9 @@ def to_telegram_html(text: str) -> str:
     import html
     import re
     safe = html.escape(text, quote=False)
-    return re.sub(r"\*([^*\n]+)\*", r"<b>\1</b>", safe)
+    safe = re.sub(r"\*([^*\n]+)\*", r"<b>\1</b>", safe)
+    # _italic_ only when the underscores wrap a phrase (not inside words/urls)
+    return re.sub(r"(?<![\w/])_([^_\n]+)_(?![\w/])", r"<i>\1</i>", safe)
 
 
 def _post_with_retry(name: str, call) -> bool:
@@ -771,11 +807,15 @@ def send_telegram(text: str) -> bool:
     url = f"https://api.telegram.org/bot{token}/sendMessage"
     payload = {
         "chat_id": chat,
-        "text": to_telegram_html(text),
+        "text": to_telegram_html(text)[:4096],
         "parse_mode": "HTML",
         "disable_web_page_preview": True,
     }
-    return _post_with_retry("Telegram", lambda: requests.post(url, json=payload, timeout=30))
+    if _post_with_retry("Telegram", lambda: requests.post(url, json=payload, timeout=30)):
+        return True
+    # Formatting problem? Send as plain text so the alert still arrives.
+    plain = {"chat_id": chat, "text": text[:4096], "disable_web_page_preview": True}
+    return _post_with_retry("Telegram (plain)", lambda: requests.post(url, json=plain, timeout=30))
 
 
 def send_callmebot(text: str) -> bool:

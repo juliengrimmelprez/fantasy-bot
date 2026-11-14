@@ -125,12 +125,20 @@ def test_week_days_mapping():
     assert planner.week_days(sched, [2]) == [7, 8, 9, 10, 11, 12, 13]
 
 
-def test_week_projection_whole_matchup_without_fas():
+def test_week_projection_builds_on_current_score():
     roster, fas, periods, sched, pdates = world()
     opp = [P(f"o{i}", f"Opp{i}", f"T{i}", 30, "Rival") for i in range(9)]
     ctx = {"sched": sched, "pdates": pdates, "now_ms": tip(4) - 3600_000, "roster": roster,
-           "opp_roster": opp, "my_score": 1000, "opp_score": 900}
+           "opp_roster": opp, "my_score": 1000, "opp_score": 1400}
     text = bot.week_projection(ctx, [4, 5, 6, 7], plan_gain=0)
-    # rest of week: me 9*35*4 + Camara on day 6 = 1283.8; opp 9*30*4 = 1080
-    assert "você ~2284 × ~1980" in text and "vitória provável" in text and "sem FAs" in text
-    assert "Placar até agora: você 1000 × 900" in text
+    # rest of week: me 9*35*4 + Camara day 6 = 1283.8; opp 9*30*4 = 1080
+    # final: 2284 vs 2480 → the 400-point deficit decides it, though I win the rest of the week
+    assert "Placar atual: você *1000* × *1400* (-400)" in text
+    assert "~2284 × ~2480 → derrota provável (-196)" in text
+
+
+def test_week_projection_flags_missing_score():
+    roster, fas, periods, sched, pdates = world()
+    ctx = {"sched": sched, "pdates": pdates, "now_ms": tip(4) - 3600_000, "roster": roster,
+           "opp_roster": [], "my_score": None, "opp_score": None}
+    assert "Placar atual indisponível" in bot.week_projection(ctx, [4], plan_gain=0)

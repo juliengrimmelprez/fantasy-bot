@@ -221,3 +221,8 @@ def test_single_big_game_can_lift_average():
     # 60 + 10 = avg 35 over 2 games: the average decides, not the streak.
     now = datetime(2026, 11, 5, 12, tzinfo=timezone.utc)
     assert len(bot.hot_alerts({"2": [_g(10, 60), _g(34, 10)]}, league(), now)) == 1
+
+
+def test_telegram_italics_not_in_urls_or_names():
+    out = bot.to_telegram_html("_nota aqui_ e https://x.com/a_b_c e snake_case_name")
+    assert out.startswith("<i>nota aqui</i>") and "a_b_c" in out and "snake_case_name" in out

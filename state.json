@@ -3383,7 +3383,7 @@
    ],
    "return_date": null,
    "slot": "C",
-   "status": "OUT",
+   "status": "DAY_TO_DAY",
    "value": 35.5
   },
   "4432165": {
@@ -4173,7 +4173,7 @@
    ],
    "return_date": null,
    "slot": "",
-   "status": "OUT",
+   "status": "DAY_TO_DAY",
    "value": 4.0
   },
   "4593125": {
@@ -4289,7 +4289,7 @@
    ],
    "return_date": null,
    "slot": "C",
-   "status": "OUT",
+   "status": "DAY_TO_DAY",
    "value": 17.7
   },
   "4601023": {
@@ -4318,7 +4318,7 @@
    ],
    "return_date": null,
    "slot": "SF",
-   "status": "OUT",
+   "status": "DAY_TO_DAY",
    "value": 22.6
   },
   "4602025": {
@@ -6537,7 +6537,7 @@
    ],
    "return_date": null,
    "slot": "SF",
-   "status": "OUT",
+   "status": "DAY_TO_DAY",
    "value": 30.0
   },
   "6477": {
@@ -6882,6 +6882,7 @@
   "drop:4397077:1794660865629",
   "drop:4702382:1794661309448",
   "diag:26",
-  "planday:26"
+  "planday:26",
+  "inj:4600663:DAY_TO_DAY"
  ]
 }

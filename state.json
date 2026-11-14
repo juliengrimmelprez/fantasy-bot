@@ -154,7 +154,7 @@
   "4683747:20261114"
  ],
  "hot_status": "ok: 250 FAs, 1734 games",
- "last_activity_ms": 1794644340998,
+ "last_activity_ms": 1794660755038,
  "last_digest": 1794659778.2960842,
  "last_error_alert": 1794388335.8497355,
  "last_hot_check": 1794660135.318299,
@@ -6213,7 +6213,7 @@
    "value": 20.6
   },
   "5211175": {
-   "fantasy_team": null,
+   "fantasy_team": "Hospital do Gansola",
    "id": "5211175",
    "mpg": 24.3,
    "name": "Zaccharie Risacher",
@@ -6222,7 +6222,7 @@
     "SF"
    ],
    "return_date": null,
-   "slot": "",
+   "slot": "BE",
    "status": "ACTIVE",
    "value": 20.9
   },
@@ -6628,7 +6628,7 @@
    "value": 13.7
   },
   "6589": {
-   "fantasy_team": "Hospital do Gansola",
+   "fantasy_team": null,
    "id": "6589",
    "mpg": 25.9,
    "name": "Draymond Green",
@@ -6638,7 +6638,7 @@
     "C"
    ],
    "return_date": null,
-   "slot": "BE",
+   "slot": "",
    "status": "ACTIVE",
    "value": 24.5
   },
@@ -6877,6 +6877,7 @@
   "lineup:25",
   "hot:3133603:20261114",
   "drop:4592829:1794644340998",
-  "hot:4431736:20261114"
+  "hot:4431736:20261114",
+  "drop:6589:1794660755038"
  ]
 }

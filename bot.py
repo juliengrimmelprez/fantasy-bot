@@ -599,6 +599,7 @@ def build_context(snap: dict, state: dict, now: datetime) -> dict | None:
         "opponent": snap.get("opponent"), "my_score": snap.get("my_score"), "opp_score": snap.get("opp_score"),
         "adds_left": max(config.MATCHUP_ADD_LIMIT - adds_used, 0),
         "fas": sorted([p for p in players.values() if p["fantasy_team"] is None and p["name"] not in on_waivers
+                       and p["nba_team"] != "FA"
                        and p["status"] not in config.OUT_STATUSES], key=lambda p: p["value"], reverse=True)[:config.STREAM_CANDIDATES],
         "matchup": snap["matchup"],
         "league": snap.get("league"), "teams": snap.get("teams", []), "team_sched": snap.get("team_sched", {}),
@@ -1040,7 +1041,7 @@ def main() -> int:
                     sent_now = set(state.get("sent_keys", []))
                     alerts += [(k, m) for k, m in hot_alerts(games, snap["players"], now) if k not in sent_now]
                     healthy_fas = sorted([p for p in snap["players"].values() if p["fantasy_team"] is None
-                                          and p["status"] not in config.OUT_STATUSES], key=lambda p: p["value"], reverse=True)
+                                          and p["nba_team"] != "FA" and p["status"] not in config.OUT_STATUSES], key=lambda p: p["value"], reverse=True)
                     best_fa = healthy_fas[0] if healthy_fas else None
                     alerts += [(k, m) for k, m in extras.cold_alerts(games, snap["players"], now, best_fa) if k not in sent_now]
                     state["last_hot_check"] = time.time()

@@ -32,8 +32,8 @@ def returning_fa_alerts(old: dict, new: dict, worst_value: float | None) -> list
     bar = max(config.RETURN_MIN_FP, worst_value or 0)
     for pid, p in new.items():
         prev = old.get(pid)
-        if not prev or p["fantasy_team"] is not None:
-            continue
+        if not prev or p["fantasy_team"] is not None or p["nba_team"] == "FA":
+            continue  # unowned, and signed with an NBA team
         if not _is_out(prev["status"]) or _is_out(p["status"]):
             continue
         ref = max(p.get("season_avg") or 0, p["value"])

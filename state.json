@@ -154,7 +154,7 @@
   "4683747:20261114"
  ],
  "hot_status": "ok: 250 FAs, 1734 games",
- "last_activity_ms": 1794660865629,
+ "last_activity_ms": 1794661309448,
  "last_digest": 1794659778.2960842,
  "last_error_alert": 1794388335.8497355,
  "last_hot_check": 1794661094.5036628,
@@ -688,7 +688,7 @@
    "value": 26.8
   },
   "3059319": {
-   "fantasy_team": null,
+   "fantasy_team": "Lebron GOAT",
    "id": "3059319",
    "mpg": 26.2,
    "name": "Andrew Wiggins",
@@ -698,7 +698,7 @@
     "PF"
    ],
    "return_date": null,
-   "slot": "",
+   "slot": "UT",
    "status": "ACTIVE",
    "value": 15.9
   },
@@ -4700,7 +4700,7 @@
    "value": 18.1
   },
   "4702382": {
-   "fantasy_team": "Lebron GOAT",
+   "fantasy_team": null,
    "id": "4702382",
    "mpg": 30.5,
    "name": "Tristan da Silva",
@@ -4710,7 +4710,7 @@
     "PF"
    ],
    "return_date": null,
-   "slot": "UT",
+   "slot": "",
    "status": "ACTIVE",
    "value": 22.2
   },
@@ -6879,6 +6879,7 @@
   "drop:4592829:1794644340998",
   "hot:4431736:20261114",
   "drop:6589:1794660755038",
-  "drop:4397077:1794660865629"
+  "drop:4397077:1794660865629",
+  "drop:4702382:1794661309448"
  ]
 }

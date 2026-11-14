@@ -3034,21 +3034,6 @@
    "status": "DAY_TO_DAY",
    "value": 31.2
   },
-  "4397227": {
-   "fantasy_team": null,
-   "id": "4397227",
-   "mpg": null,
-   "name": "Vince Williams Jr.",
-   "nba_team": "FA",
-   "positions": [
-    "PG",
-    "SG"
-   ],
-   "return_date": null,
-   "slot": "",
-   "status": "OUT",
-   "value": 0.0
-  },
   "4397251": {
    "fantasy_team": null,
    "id": "4397251",
@@ -4593,6 +4578,20 @@
    "slot": "",
    "status": "ACTIVE",
    "value": 5.9
+  },
+  "4684806": {
+   "fantasy_team": null,
+   "id": "4684806",
+   "mpg": 9.1,
+   "name": "Taylor Hendricks",
+   "nba_team": "MEM",
+   "positions": [
+    "PF"
+   ],
+   "return_date": null,
+   "slot": "",
+   "status": "ACTIVE",
+   "value": 12.6
   },
   "4698719": {
    "fantasy_team": null,

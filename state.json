@@ -150,7 +150,7 @@
   "3133626:20261114"
  ],
  "hot_status": "ok: 250 FAs, 1724 games",
- "last_activity_ms": 1794620277041,
+ "last_activity_ms": 1794644340998,
  "last_digest": 1794641177.4706445,
  "last_error_alert": 1794388335.8497355,
  "last_hot_check": 1794643820.9514825,
@@ -215,7 +215,7 @@
   ]
  },
  "matchup_periods_day": "2026-11-14",
- "plan_status": "ok: day 26, matchup 4 [21]..[27], adds left 10, opp CCCP  Баскетбол",
+ "plan_status": "ok: day 26, matchup 4 [21]..[27], adds left 9, opp CCCP  Баскетбол",
  "players": {
   "1966": {
    "fantasy_team": "Lucky",
@@ -2740,7 +2740,7 @@
    "value": 19.1
   },
   "4395651": {
-   "fantasy_team": null,
+   "fantasy_team": "King Coopa",
    "id": "4395651",
    "mpg": 18.0,
    "name": "Coby White",
@@ -2750,7 +2750,7 @@
     "SG"
    ],
    "return_date": null,
-   "slot": "",
+   "slot": "BE",
    "status": "ACTIVE",
    "value": 10.6
   },
@@ -3266,7 +3266,7 @@
    "value": 11.0
   },
   "4431736": {
-   "fantasy_team": "King Coopa",
+   "fantasy_team": null,
    "id": "4431736",
    "mpg": 29.1,
    "name": "Toumani Camara",
@@ -3276,7 +3276,7 @@
     "PF"
    ],
    "return_date": null,
-   "slot": "BE",
+   "slot": "",
    "status": "ACTIVE",
    "value": 23.2
   },
@@ -3805,7 +3805,7 @@
    "value": 42.2
   },
   "4433137": {
-   "fantasy_team": null,
+   "fantasy_team": "Polga Silva",
    "id": "4433137",
    "mpg": 24.1,
    "name": "Ziaire Williams",
@@ -3815,7 +3815,7 @@
     "SF"
    ],
    "return_date": null,
-   "slot": "",
+   "slot": "SG",
    "status": "ACTIVE",
    "value": 26.1
   },
@@ -4143,7 +4143,7 @@
    "value": 3.1
   },
   "4592829": {
-   "fantasy_team": "Polga Silva",
+   "fantasy_team": null,
    "id": "4592829",
    "mpg": 21.5,
    "name": "Quenton Jackson",
@@ -4153,7 +4153,7 @@
     "SG"
    ],
    "return_date": null,
-   "slot": "SG",
+   "slot": "",
    "status": "ACTIVE",
    "value": 24.8
   },
@@ -6871,6 +6871,7 @@
   "drop:4278402:1794580645788",
   "drop:3908845:1794588897763",
   "lineup:25",
-  "hot:3133603:20261114"
+  "hot:3133603:20261114",
+  "drop:4592829:1794644340998"
  ]
 }

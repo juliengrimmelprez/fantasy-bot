@@ -1,4 +1,4 @@
-# Backfill — últimos 1 dias (até 14/11 16:05 ET)
+# Backfill — últimos 1 dias (até 14/11 16:10 ET)
 
 Seu pior jogador hoje (referência para drops): Coby White (10.6 FP)
 
@@ -66,7 +66,7 @@ Seu pior jogador hoje (referência para drops): Coby White (10.6 FP)
 - 🔔 ALERTA | Kristaps Porzingis (GSW, 37.0 FP, livre) — OUT
     Volta: indefinido | 🗓️ Ausência indefinida → reposição pode valer por semanas
 - 🔔 ALERTA | Yves Missi (NOP, 36.0 FP, Contagem Hunters) — OUT
-    · 2026-11-14 Missi (knee) has been upgraded to probable for Saturday's game versus the Nuggets.
+    Volta: indefinido | 🗓️ Ausência indefinida → reposição pode valer por semanas
     · 2026-11-13 Missi (knee) is out for Friday's game against the Grizzlies.
 - 🔔 ALERTA | Evan Mobley (CLE, 35.5 FP, Lucky) — OUT
     Volta: ~3 semanas (pelas notícias) | 🗓️ Ausência longa → reposição vale por semanas
@@ -123,7 +123,6 @@ Seu pior jogador hoje (referência para drops): Coby White (10.6 FP)
 -   silencioso | Precious Achiuwa (SAC, 22.7 FP, Polga Silva) — Day-to-day
 -   silencioso | Pelle Larsson (MIA, 22.6 FP, Lebron GOAT) — Day-to-day
 - 🔔 ALERTA | Peyton Watson (CLE, 22.6 FP, King Coopa) — Day-to-day
-    · 2026-11-14 Watson (hamstring) is listed as questionable for Saturday's game against the Mavericks.
 -   silencioso | Moses Moody (GSW, 22.4 FP, livre) — OUT
 -   silencioso | Nic Claxton (CHI, 22.3 FP, BL0CK BY ZION) — Day-to-day
 -   silencioso | Ben Simmons (SAC, 22.0 FP, livre) — OUT
@@ -243,7 +242,8 @@ https://fantasy.espn.com/basketball/players/add?leagueId=41791233
 ---
 🚨 *Yves Missi (NOP) → OUT*
 (Contagem Hunters, 36.0 FP)
-Volta: sem previsão
+Volta: indefinido
+🗓️ Ausência indefinida → reposição pode valer por semanas
 ADD: *DeAndre Jordan* (C, 14.8 → ~18.4 FP com +4 min) — LIVRE
 Drop sugerido: *Coby White* (10.6 FP)
 https://fantasy.espn.com/basketball/players/add?leagueId=41791233
@@ -472,6 +472,41 @@ Seus jogadores jogando por dia: Sáb 14: 4, Dom 15: 9
 
 Checagem de lineup hoje: ok
 
+## Forecast
+
+🔎 *Diagnóstico do matchup — Rodada 4* (09/11–15/11)
+Você × *CCCP  Баскетбол* — elencos atuais, sem FAs
+Placar atual: você *988* × *1009* (-21)
+Ainda por vir (sem FAs): você ~388 em 13 jogos × ~354 em 13 jogos
+*Placar final projetado: ~1376 × ~1363 → apertado (+14)*
+Jogos por dia (você×ele): Sáb 14 4×6 · Dom 15 9×7
+
+*Seu elenco na semana* (jogos × média esperada = pontos):
+1. Cooper Flagg — 2 × 48.3 = *97*
+2. Dyson Daniels — 1 × 38.9 = *39*
+3. Austin Reaves — 1 × 37.6 = *38*
+4. Jeremiah Fears — 1 × 32.1 = *32*
+5. Amen Thompson — 1 × 29.4 = *29*
+6. Stephon Castle — 1 × 29.4 = *29*
+7. Alex Sarr — 1 × 27.4 = *27*
+8. Collin Murray-Boyles — 1 × 25.4 = *25*
+9. Peyton Watson — 1 × 22.6 = *23*
+10. Josh Hart — 1 × 20.7 = *21*
+11. Zach Edey — 1 × 17.7 = *18*
+12. Coby White — 1 × 10.6 = *11*
+13. Franz Wagner — 0 × 48.8 = *0*
+14. Jaren Jackson Jr. (IR) — 0 × 25.2 = *0*
+_Média esperada: 65% últimos 15 dias + 35% média real da temporada (sem projeções da ESPN). Em dias com 10+ jogando, nem todos pontuam._
+
+Seus desfalques: Jaren Jackson Jr.
+Desfalques dele: nenhum
+
+🔭 *Próximas 2 rodadas* — elencos de hoje, sem FAs
+🟡 *R5* 16/11–22/11 vs Bull Market — jogos 43×44 · ~1303×~1283 (+19)
+🔴 *R6* 23/11–29/11 vs Caxias French Fries — jogos 38×44 · ~1099×~1318 (-219)
+_🟢 vitória provável · 🔴 derrota provável · 🟡 diferença < 5%_
+
+(forecast enviado ao Telegram)
 ## Volume de alertas de drop por dia
 
 - Fri 13/11: 2

@@ -747,7 +747,7 @@
    ],
    "return_date": null,
    "season_avg": 30.0,
-   "slot": "UT",
+   "slot": "IR",
    "status": "OUT",
    "value": 26.8
   },
@@ -1157,7 +1157,7 @@
    ],
    "return_date": null,
    "season_avg": 40.6,
-   "slot": "PG",
+   "slot": "SG",
    "status": "ACTIVE",
    "value": 40.8
   },
@@ -2212,7 +2212,7 @@
    "return_date": null,
    "season_avg": 31.3,
    "slot": "C",
-   "status": "DAY_TO_DAY",
+   "status": "OUT",
    "value": 29.5
   },
   "4066336": {
@@ -6314,7 +6314,7 @@
    ],
    "return_date": null,
    "season_avg": 19.6,
-   "slot": "IR",
+   "slot": "PG",
    "status": "DAY_TO_DAY",
    "value": 19.8
   },
@@ -6920,7 +6920,7 @@
    ],
    "return_date": null,
    "season_avg": 34.1,
-   "slot": "SG",
+   "slot": "UT",
    "status": "ACTIVE",
    "value": 36.0
   },

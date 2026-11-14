@@ -154,7 +154,7 @@
   "4278355:20261022"
  ],
  "hot_status": "ok: 264 FAs, 1892 games",
- "last_activity_ms": 1794677769184,
+ "last_activity_ms": 1794696046568,
  "last_digest": 1794693138.5914516,
  "last_error_alert": 1794388335.8497355,
  "last_hot_check": 1794696023.107053,
@@ -418,7 +418,7 @@
    ],
    "return_date": null,
    "season_avg": 28.2,
-   "slot": "SF",
+   "slot": "SG",
    "status": "DAY_TO_DAY",
    "value": 25.5
   },
@@ -1173,7 +1173,7 @@
    ],
    "return_date": null,
    "season_avg": 43.8,
-   "slot": "C",
+   "slot": "UT",
    "status": "ACTIVE",
    "value": 45.1
   },
@@ -1225,22 +1225,6 @@
    "slot": "",
    "status": "ACTIVE",
    "value": 1.5
-  },
-  "3137259": {
-   "fantasy_team": null,
-   "id": "3137259",
-   "last15": 0,
-   "mpg": null,
-   "name": "Gabe Vincent",
-   "nba_team": "FA",
-   "positions": [
-    "PG"
-   ],
-   "return_date": null,
-   "season_avg": 0,
-   "slot": "",
-   "status": "ACTIVE",
-   "value": 0.0
   },
   "3138160": {
    "fantasy_team": "Tiki Taka Laranja",
@@ -4186,7 +4170,7 @@
    "value": 8.3
   },
   "4432847": {
-   "fantasy_team": "Contagem Hunters",
+   "fantasy_team": null,
    "id": "4432847",
    "last15": 12.2,
    "mpg": 21.4,
@@ -4197,7 +4181,7 @@
    ],
    "return_date": null,
    "season_avg": 17.9,
-   "slot": "SG",
+   "slot": "",
    "status": "ACTIVE",
    "value": 14.2
   },
@@ -4930,7 +4914,7 @@
    ],
    "return_date": null,
    "season_avg": 41.3,
-   "slot": "UT",
+   "slot": "SF",
    "status": "ACTIVE",
    "value": 41.0
   },
@@ -6202,7 +6186,7 @@
    ],
    "return_date": null,
    "season_avg": 36.0,
-   "slot": "IR",
+   "slot": "C",
    "status": "ACTIVE",
    "value": 36.0
   },
@@ -7776,6 +7760,7 @@
   "inj:4600663:DAY_TO_DAY",
   "drop:5081727:1794670465656",
   "drop:5241364:1794677769184",
-  "cold:4576087:20261114"
+  "cold:4576087:20261114",
+  "drop:4432847:1794696046568"
  ]
 }

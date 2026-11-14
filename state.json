@@ -4550,7 +4550,7 @@
    "return_date": null,
    "season_avg": 23.3,
    "slot": "PF",
-   "status": "DAY_TO_DAY",
+   "status": "OUT",
    "value": 22.6
   },
   "4578893": {
@@ -7763,6 +7763,7 @@
   "cold:4576087:20261114",
   "drop:4432847:1794696046568",
   "inj:3992:OUT",
-  "inj:3908809:OUT"
+  "inj:3908809:OUT",
+  "lineup:26"
  ]
 }

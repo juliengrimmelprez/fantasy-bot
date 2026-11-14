@@ -154,7 +154,7 @@
   "4066262:20261103"
  ],
  "hot_status": "ok: 250 FAs, 1732 games",
- "last_activity_ms": 1794661309448,
+ "last_activity_ms": 1794670465656,
  "last_digest": 1794667222.1738906,
  "last_error_alert": 1794388335.8497355,
  "last_hot_check": 1794669738.2742548,
@@ -1119,7 +1119,7 @@
    "value": 0.0
   },
   "3138160": {
-   "fantasy_team": null,
+   "fantasy_team": "Tiki Taka Laranja",
    "id": "3138160",
    "mpg": 18.8,
    "name": "Caleb Martin",
@@ -1128,7 +1128,7 @@
     "SG"
    ],
    "return_date": null,
-   "slot": "",
+   "slot": "UT",
    "status": "ACTIVE",
    "value": 11.2
   },
@@ -5321,7 +5321,7 @@
     "SG"
    ],
    "return_date": null,
-   "slot": "UT",
+   "slot": "BE",
    "status": "ACTIVE",
    "value": 35.9
   },
@@ -5511,7 +5511,7 @@
    "value": 14.3
   },
   "5081727": {
-   "fantasy_team": "Tiki Taka Laranja",
+   "fantasy_team": null,
    "id": "5081727",
    "mpg": 23.2,
    "name": "Sidy Cissoko",
@@ -5520,7 +5520,7 @@
     "SG"
    ],
    "return_date": null,
-   "slot": "BE",
+   "slot": "",
    "status": "ACTIVE",
    "value": 16.7
   },
@@ -6883,6 +6883,7 @@
   "drop:4702382:1794661309448",
   "diag:26",
   "planday:26",
-  "inj:4600663:DAY_TO_DAY"
+  "inj:4600663:DAY_TO_DAY",
+  "drop:5081727:1794670465656"
  ]
 }

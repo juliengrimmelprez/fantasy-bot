@@ -145,7 +145,7 @@
   "4351851:20261028"
  ],
  "hot_status": "ok: 250 FAs, 1635 games",
- "last_activity_ms": 1794612298941,
+ "last_activity_ms": 1794615361313,
  "last_digest": 1794615146.0921626,
  "last_error_alert": 1794388335.8497355,
  "last_hot_check": 1794615019.4269855,
@@ -696,7 +696,7 @@
   "3062679": {
    "fantasy_team": "King Coopa",
    "id": "3062679",
-   "mpg": 31.0,
+   "mpg": 27.8,
    "name": "Josh Hart",
    "nba_team": "NYK",
    "positions": [
@@ -706,7 +706,7 @@
    "return_date": null,
    "slot": "UT",
    "status": "ACTIVE",
-   "value": 23.5
+   "value": 19.1
   },
   "3064290": {
    "fantasy_team": "CCCP  Баскетбол",
@@ -883,7 +883,7 @@
   "3133603": {
    "fantasy_team": "Tropa do Nikola",
    "id": "3133603",
-   "mpg": 23.6,
+   "mpg": 21.6,
    "name": "Kelly Oubre Jr.",
    "nba_team": "IND",
    "positions": [
@@ -893,7 +893,7 @@
    "return_date": null,
    "slot": "UT",
    "status": "ACTIVE",
-   "value": 19.8
+   "value": 17.1
   },
   "3133626": {
    "fantasy_team": null,
@@ -964,7 +964,7 @@
    "return_date": null,
    "slot": "PF",
    "status": "ACTIVE",
-   "value": 21.0
+   "value": 20.9
   },
   "3134908": {
    "fantasy_team": null,
@@ -1041,7 +1041,7 @@
   "3136195": {
    "fantasy_team": "Contagem Hunters",
    "id": "3136195",
-   "mpg": 31.4,
+   "mpg": 28.9,
    "name": "Karl-Anthony Towns",
    "nba_team": "NYK",
    "positions": [
@@ -1050,7 +1050,7 @@
    "return_date": null,
    "slot": "C",
    "status": "ACTIVE",
-   "value": 43.2
+   "value": 38.2
   },
   "3136196": {
    "fantasy_team": null,
@@ -1155,7 +1155,7 @@
   "3147657": {
    "fantasy_team": "Caxias French Fries",
    "id": "3147657",
-   "mpg": 24.4,
+   "mpg": 22.5,
    "name": "Mikal Bridges",
    "nba_team": "NYK",
    "positions": [
@@ -1165,12 +1165,12 @@
    "return_date": null,
    "slot": "SG",
    "status": "ACTIVE",
-   "value": 18.4
+   "value": 16.6
   },
   "3149673": {
    "fantasy_team": "Hospital do Gansola",
    "id": "3149673",
-   "mpg": 32.3,
+   "mpg": 29.8,
    "name": "Pascal Siakam",
    "nba_team": "IND",
    "positions": [
@@ -1179,7 +1179,7 @@
    "return_date": null,
    "slot": "PF",
    "status": "ACTIVE",
-   "value": 39.8
+   "value": 35.0
   },
   "3150844": {
    "fantasy_team": "Caxias French Fries",
@@ -1559,7 +1559,7 @@
   "3934672": {
    "fantasy_team": "Hospital do Gansola",
    "id": "3934672",
-   "mpg": 33.5,
+   "mpg": 30.8,
    "name": "Jalen Brunson",
    "nba_team": "NYK",
    "positions": [
@@ -1568,7 +1568,7 @@
    "return_date": null,
    "slot": "PG",
    "status": "ACTIVE",
-   "value": 40.2
+   "value": 35.5
   },
   "3934673": {
    "fantasy_team": null,
@@ -1588,7 +1588,7 @@
   "3934719": {
    "fantasy_team": "Caxias French Fries",
    "id": "3934719",
-   "mpg": 32.8,
+   "mpg": 30.2,
    "name": "OG Anunoby",
    "nba_team": "NYK",
    "positions": [
@@ -1598,7 +1598,7 @@
    "return_date": null,
    "slot": "SF",
    "status": "ACTIVE",
-   "value": 27.7
+   "value": 24.2
   },
   "3934723": {
    "fantasy_team": null,
@@ -1734,7 +1734,7 @@
   "4017837": {
    "fantasy_team": "Caxias French Fries",
    "id": "4017837",
-   "mpg": 23.1,
+   "mpg": 20.5,
    "name": "Ivica Zubac",
    "nba_team": "IND",
    "positions": [
@@ -1743,7 +1743,7 @@
    "return_date": null,
    "slot": "UT",
    "status": "ACTIVE",
-   "value": 22.2
+   "value": 18.1
   },
   "4017850": {
    "fantasy_team": null,
@@ -2240,7 +2240,7 @@
    "return_date": null,
    "slot": "C",
    "status": "ACTIVE",
-   "value": 27.2
+   "value": 27.6
   },
   "4277848": {
    "fantasy_team": null,
@@ -2588,21 +2588,6 @@
    "status": "ACTIVE",
    "value": 23.1
   },
-  "4278594": {
-   "fantasy_team": null,
-   "id": "4278594",
-   "mpg": 24.6,
-   "name": "Naji Marshall",
-   "nba_team": "DAL",
-   "positions": [
-    "SF",
-    "PF"
-   ],
-   "return_date": null,
-   "slot": "",
-   "status": "ACTIVE",
-   "value": 22.9
-  },
   "4279888": {
    "fantasy_team": "BL0CK BY ZION",
    "id": "4279888",
@@ -2780,7 +2765,7 @@
   "4395712": {
    "fantasy_team": "Lakers x Bortolan 23",
    "id": "4395712",
-   "mpg": 33.3,
+   "mpg": 30.5,
    "name": "Andrew Nembhard",
    "nba_team": "IND",
    "positions": [
@@ -2790,7 +2775,7 @@
    "return_date": null,
    "slot": "UT",
    "status": "ACTIVE",
-   "value": 35.2
+   "value": 31.3
   },
   "4395723": {
    "fantasy_team": "Tropa do Nikola",
@@ -2835,7 +2820,7 @@
    "return_date": null,
    "slot": "SG",
    "status": "ACTIVE",
-   "value": 29.6
+   "value": 29.5
   },
   "4396818": {
    "fantasy_team": null,
@@ -2868,7 +2853,7 @@
   "4396909": {
    "fantasy_team": null,
    "id": "4396909",
-   "mpg": 25.1,
+   "mpg": 23.0,
    "name": "Aaron Nesmith",
    "nba_team": "IND",
    "positions": [
@@ -2878,7 +2863,7 @@
    "return_date": null,
    "slot": "",
    "status": "ACTIVE",
-   "value": 17.0
+   "value": 14.9
   },
   "4396971": {
    "fantasy_team": "Polga Silva",
@@ -4849,7 +4834,7 @@
    "return_date": null,
    "slot": "PG",
    "status": "ACTIVE",
-   "value": 36.6
+   "value": 36.8
   },
   "4712863": {
    "fantasy_team": null,

@@ -144,11 +144,11 @@
   "4432107:20261022",
   "4351851:20261028"
  ],
- "hot_status": "ok: 249 FAs, 1643 games",
+ "hot_status": "ok: 249 FAs, 1645 games",
  "last_activity_ms": 1794615361313,
  "last_digest": 1794615146.0921626,
  "last_error_alert": 1794388335.8497355,
- "last_hot_check": 1794616940.3137608,
+ "last_hot_check": 1794617897.2750041,
  "last_run": "2026-10-19T22:05:14+00:00",
  "matchup_periods": {
   "1": [
@@ -912,7 +912,7 @@
   "3133628": {
    "fantasy_team": "Caxias French Fries",
    "id": "3133628",
-   "mpg": 25.8,
+   "mpg": 25.9,
    "name": "Myles Turner",
    "nba_team": "MIL",
    "positions": [
@@ -921,7 +921,7 @@
    "return_date": null,
    "slot": "C",
    "status": "ACTIVE",
-   "value": 24.6
+   "value": 24.8
   },
   "3133635": {
    "fantasy_team": null,
@@ -1966,7 +1966,7 @@
   "4066320": {
    "fantasy_team": "Fernando  Diniz",
    "id": "4066320",
-   "mpg": 32.5,
+   "mpg": 32.7,
    "name": "Desmond Bane",
    "nba_team": "ORL",
    "positions": [
@@ -1976,7 +1976,7 @@
    "return_date": null,
    "slot": "SG",
    "status": "ACTIVE",
-   "value": 27.0
+   "value": 26.8
   },
   "4066328": {
    "fantasy_team": "Polga Silva",
@@ -2216,7 +2216,7 @@
   "4277843": {
    "fantasy_team": null,
    "id": "4277843",
-   "mpg": 5.8,
+   "mpg": 6.0,
    "name": "Gary Trent Jr.",
    "nba_team": "MIL",
    "positions": [
@@ -2226,12 +2226,12 @@
    "return_date": null,
    "slot": "",
    "status": "ACTIVE",
-   "value": 6.7
+   "value": 6.5
   },
   "4277847": {
    "fantasy_team": "Lebron GOAT",
    "id": "4277847",
-   "mpg": 31.2,
+   "mpg": 31.4,
    "name": "Wendell Carter Jr.",
    "nba_team": "ORL",
    "positions": [
@@ -2240,7 +2240,7 @@
    "return_date": null,
    "slot": "C",
    "status": "ACTIVE",
-   "value": 27.6
+   "value": 28.0
   },
   "4277848": {
    "fantasy_team": null,
@@ -3089,7 +3089,7 @@
   "4397475": {
    "fantasy_team": null,
    "id": "4397475",
-   "mpg": 17.1,
+   "mpg": 17.2,
    "name": "AJ Green",
    "nba_team": "MIL",
    "positions": [
@@ -3394,7 +3394,7 @@
   "4432165": {
    "fantasy_team": "Lebron GOAT",
    "id": "4432165",
-   "mpg": 26.5,
+   "mpg": 26.8,
    "name": "Jalen Suggs",
    "nba_team": "ORL",
    "positions": [
@@ -3727,7 +3727,7 @@
   "4432848": {
    "fantasy_team": "Contagem Hunters",
    "id": "4432848",
-   "mpg": 26.2,
+   "mpg": 26.4,
    "name": "Jaime Jaquez Jr.",
    "nba_team": "MIL",
    "positions": [
@@ -3737,7 +3737,7 @@
    "return_date": null,
    "slot": "UT",
    "status": "ACTIVE",
-   "value": 23.4
+   "value": 23.3
   },
   "4432907": {
    "fantasy_team": null,
@@ -4007,7 +4007,7 @@
   "4566434": {
    "fantasy_team": "King Coopa",
    "id": "4566434",
-   "mpg": 35.0,
+   "mpg": 35.2,
    "name": "Franz Wagner",
    "nba_team": "ORL",
    "positions": [
@@ -4017,7 +4017,7 @@
    "return_date": null,
    "slot": "SF",
    "status": "ACTIVE",
-   "value": 43.8
+   "value": 43.7
   },
   "4576060": {
    "fantasy_team": null,
@@ -4693,7 +4693,7 @@
   "4702382": {
    "fantasy_team": "Lebron GOAT",
    "id": "4702382",
-   "mpg": 28.6,
+   "mpg": 28.7,
    "name": "Tristan da Silva",
    "nba_team": "ORL",
    "positions": [
@@ -4703,7 +4703,7 @@
    "return_date": null,
    "slot": "SF",
    "status": "ACTIVE",
-   "value": 20.6
+   "value": 21.2
   },
   "4702384": {
    "fantasy_team": null,
@@ -4824,7 +4824,7 @@
   "4712849": {
    "fantasy_team": "Contagem Hunters",
    "id": "4712849",
-   "mpg": 29.7,
+   "mpg": 29.8,
    "name": "Anthony Black",
    "nba_team": "ORL",
    "positions": [
@@ -5518,7 +5518,7 @@
   "5082206": {
    "fantasy_team": "Bull Market",
    "id": "5082206",
-   "mpg": 20.8,
+   "mpg": 20.9,
    "name": "Brayden Burries",
    "nba_team": "MIL",
    "positions": [
@@ -5675,7 +5675,7 @@
   "5105623": {
    "fantasy_team": "Lucky",
    "id": "5105623",
-   "mpg": 16.9,
+   "mpg": 17.0,
    "name": "Kel'el Ware",
    "nba_team": "MIL",
    "positions": [

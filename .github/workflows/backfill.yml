@@ -15,6 +15,9 @@ on:
       send_forecast:
         description: "Send this week's diagnosis + next 2 matchups to Telegram now"
         default: "false"
+      send_samples:
+        description: "Send one test message of each alert type to Telegram"
+        default: "false"
       send_season:
         description: "Send the season-long matchup diagnosis to Telegram now"
         default: "false"
@@ -41,6 +44,7 @@ jobs:
           SEND_WEEK: ${{ inputs.send_week }}
           SEND_SEASON: ${{ inputs.send_season }}
           SEND_FORECAST: ${{ inputs.send_forecast }}
+          SEND_SAMPLES: ${{ inputs.send_samples }}
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
         run: |

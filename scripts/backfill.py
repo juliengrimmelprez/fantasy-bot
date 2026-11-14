@@ -11,6 +11,7 @@ and NBA trades can't be replayed. League transactions are exact.
 from __future__ import annotations
 
 import os
+import time
 import sys
 from collections import Counter
 from datetime import datetime, timedelta, timezone
@@ -27,6 +28,72 @@ ET = timezone(timedelta(hours=-4))
 
 def fmt_ms(ms: int) -> str:
     return datetime.fromtimestamp(ms / 1000, ET).strftime("%a %d/%m %H:%M")
+
+
+def send_samples(snap, players, now):
+    """One example of each new alert type. Event-driven ones are simulated with real players."""
+    import extras
+    st = {"players": players}
+    ctx = bot.build_context(snap, st, now)
+    msgs = []
+    T = "🧪 *TESTE — {}*\n"
+
+    msgs.append(T.format("diagnóstico diário (real)") + bot.diag_message(ctx, ctx["remaining"]))
+    for key, m in bot.weekly_extras(ctx):
+        kind = {"recap": "resumo semanal (real, rodada anterior)", "race": "corrida pelos playoffs (real)",
+                "trades": "ideias de troca (real)"}.get(key.split(":")[0], key)
+        msgs.append(T.format(kind) + m)
+
+    # 1) returning FA: best healthy free agent, pretending he was OUT
+    fas = sorted([p for p in players.values() if p["fantasy_team"] is None and p["status"] == "ACTIVE"],
+                 key=lambda p: -p["value"])
+    if fas:
+        old = {fas[0]["id"]: {**fas[0], "status": "OUT"}}
+        r = extras.returning_fa_alerts(old, {fas[0]["id"]: fas[0]}, bot.worst_player(players)["value"])
+        if r:
+            msgs.append(T.format("FA voltando de lesão (simulado)") + r[0][1])
+
+    # 2) cooling: your best non-IR player with a made-up slump
+    mine = sorted([p for p in bot.my_roster(players) if p.get("slot") != "IR"], key=lambda p: -p["value"])
+    if mine:
+        p0 = mine[0]
+        base = p0.get("season_avg") or p0["value"]
+        mpg = p0.get("mpg") or 32
+        fake = [{"date": now - timedelta(hours=h), "fp": round(base * f), "min": round(mpg - d)}
+                for h, f, d in ((10, 0.55, 8), (34, 0.6, 7), (58, 0.62, 6), (82, 1.0, 0))]
+        best = fas[0] if fas else None
+        c = extras.cold_alerts({p0["id"]: fake}, players, now, best)
+        if c:
+            msgs.append(T.format("jogador seu esfriando (simulado, números inventados)") + c[0][1])
+
+    # 7) league trade between two other teams, lopsided
+    others = {}
+    for p in players.values():
+        t = (p["fantasy_team"] or "").strip()
+        if t and t.lower() != config.MY_TEAM_NAME.lower():
+            others.setdefault(t, []).append(p)
+    teams = sorted(others)[:2]
+    if len(teams) == 2:
+        a = max(others[teams[0]], key=lambda p: p["value"])
+        b = min([p for p in others[teams[1]] if p["value"] > 0], key=lambda p: p["value"])
+        act = [{"date": 9e15, "team": teams[1], "action": "TRADED", "player": a["name"]},
+               {"date": 9e15, "team": teams[0], "action": "TRADED", "player": b["name"]}]
+        lt = extras.league_trade_alerts(act, players, since_ms=0)
+        if lt:
+            msgs.append(T.format("troca entre outros managers (simulada)") + lt[0][1])
+
+    # 6) last day push: pretend today is the last day of a close matchup
+    lctx = {**ctx, "periods": [p for p in ctx["periods"] if p <= ctx["today"]], "adds_left": max(ctx["adds_left"], 2)}
+    ld = extras.last_day_push(lctx, diff=-25, total=1350)
+    if ld:
+        msgs.append(T.format("último dia da rodada (simulado: como se hoje fosse domingo, perdendo por 25)") + ld)
+
+    bot.send_alert(f"🧪 *Testes dos alertas* — {len(msgs)} mensagens a seguir. Simulados estão marcados; nada disso é um alerta real.")
+    for m in msgs:
+        print("---\n" + m + "\n")
+        bot.send_alert(m)
+        time.sleep(1)
+    bot.send_alert("🧪 Fim dos testes.")
 
 
 def main() -> None:
@@ -197,6 +264,13 @@ def main() -> None:
     except Exception as e:
         import traceback
         print("(prévia semanal falhou)", repr(e)); traceback.print_exc(file=sys.stdout)
+
+    if os.environ.get("SEND_SAMPLES") == "true":
+        try:
+            send_samples(snap, players, now)
+        except Exception as e:
+            import traceback
+            print("(amostras falharam)", repr(e)); traceback.print_exc(file=sys.stdout)
 
     if os.environ.get("SEND_FORECAST") == "true":
         try:

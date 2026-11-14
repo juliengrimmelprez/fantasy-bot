@@ -144,11 +144,11 @@
   "4432107:20261022",
   "4351851:20261028"
  ],
- "hot_status": "ok: 249 FAs, 1634 games",
+ "hot_status": "ok: 249 FAs, 1643 games",
  "last_activity_ms": 1794615361313,
  "last_digest": 1794615146.0921626,
  "last_error_alert": 1794388335.8497355,
- "last_hot_check": 1794615977.7314796,
+ "last_hot_check": 1794616940.3137608,
  "last_run": "2026-10-19T22:05:14+00:00",
  "matchup_periods": {
   "1": [
@@ -912,7 +912,7 @@
   "3133628": {
    "fantasy_team": "Caxias French Fries",
    "id": "3133628",
-   "mpg": 25.3,
+   "mpg": 25.4,
    "name": "Myles Turner",
    "nba_team": "MIL",
    "positions": [
@@ -926,7 +926,7 @@
   "3133635": {
    "fantasy_team": null,
    "id": "3133635",
-   "mpg": 13.6,
+   "mpg": 13.8,
    "name": "Jevon Carter",
    "nba_team": "ORL",
    "positions": [
@@ -954,7 +954,7 @@
   "3134907": {
    "fantasy_team": "CCCP  Баскетбол",
    "id": "3134907",
-   "mpg": 25.4,
+   "mpg": 25.5,
    "name": "Kyle Kuzma",
    "nba_team": "MIL",
    "positions": [
@@ -1598,7 +1598,7 @@
    "return_date": null,
    "slot": "SF",
    "status": "ACTIVE",
-   "value": 25.0
+   "value": 24.8
   },
   "3934723": {
    "fantasy_team": null,
@@ -2629,7 +2629,7 @@
    "return_date": null,
    "slot": "",
    "status": "ACTIVE",
-   "value": 10.7
+   "value": 11.0
   },
   "4351851": {
    "fantasy_team": null,
@@ -3132,7 +3132,7 @@
   "4398207": {
    "fantasy_team": null,
    "id": "4398207",
-   "mpg": 14.6,
+   "mpg": 13.3,
    "name": "Jalen Slawson",
    "nba_team": "IND",
    "positions": [
@@ -3141,7 +3141,7 @@
    "return_date": null,
    "slot": "",
    "status": "ACTIVE",
-   "value": 14.1
+   "value": 12.4
   },
   "4398390": {
    "fantasy_team": null,
@@ -4007,7 +4007,7 @@
   "4566434": {
    "fantasy_team": "King Coopa",
    "id": "4566434",
-   "mpg": 34.5,
+   "mpg": 34.6,
    "name": "Franz Wagner",
    "nba_team": "ORL",
    "positions": [
@@ -4017,7 +4017,7 @@
    "return_date": null,
    "slot": "SF",
    "status": "ACTIVE",
-   "value": 42.1
+   "value": 43.2
   },
   "4576060": {
    "fantasy_team": null,
@@ -4075,7 +4075,7 @@
    "return_date": null,
    "slot": "SG",
    "status": "ACTIVE",
-   "value": 20.9
+   "value": 20.6
   },
   "4592427": {
    "fantasy_team": null,
@@ -4693,7 +4693,7 @@
   "4702382": {
    "fantasy_team": "Lebron GOAT",
    "id": "4702382",
-   "mpg": 28.4,
+   "mpg": 28.5,
    "name": "Tristan da Silva",
    "nba_team": "ORL",
    "positions": [
@@ -4824,7 +4824,7 @@
   "4712849": {
    "fantasy_team": "Contagem Hunters",
    "id": "4712849",
-   "mpg": 29.0,
+   "mpg": 29.1,
    "name": "Anthony Black",
    "nba_team": "ORL",
    "positions": [
@@ -4834,7 +4834,7 @@
    "return_date": null,
    "slot": "PG",
    "status": "ACTIVE",
-   "value": 37.4
+   "value": 37.6
   },
   "4712863": {
    "fantasy_team": null,
@@ -6091,7 +6091,7 @@
   "5164559": {
    "fantasy_team": null,
    "id": "5164559",
-   "mpg": 16.4,
+   "mpg": 16.5,
    "name": "Nate Ament",
    "nba_team": "MIL",
    "positions": [

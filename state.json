@@ -161,11 +161,11 @@
   "4592492:20261103",
   "4432241:20261028"
  ],
- "hot_status": "ok: 264 FAs, 1928 games",
+ "hot_status": "ok: 264 FAs, 1930 games",
  "last_activity_ms": 1794765301649,
  "last_digest": 1794767058.563062,
  "last_error_alert": 1794388335.8497355,
- "last_hot_check": 1794767058.562082,
+ "last_hot_check": 1794768024.6780648,
  "last_run": "2026-10-19T22:05:14+00:00",
  "matchup_periods": {
   "1": [
@@ -232,8 +232,8 @@
   "1966": {
    "fantasy_team": "Lucky",
    "id": "1966",
-   "last15": 26.2,
-   "mpg": 30.1,
+   "last15": 26.3,
+   "mpg": 30.2,
    "name": "LeBron James",
    "nba_team": "PHL",
    "positions": [
@@ -241,10 +241,10 @@
     "PF"
    ],
    "return_date": null,
-   "season_avg": 33.0,
+   "season_avg": 33.1,
    "slot": "SF",
    "status": "ACTIVE",
-   "value": 28.6
+   "value": 28.7
   },
   "2326307": {
    "fantasy_team": null,
@@ -382,7 +382,7 @@
   "2581018": {
    "fantasy_team": null,
    "id": "2581018",
-   "last15": 12.8,
+   "last15": 12.9,
    "mpg": 20.8,
    "name": "Kentavious Caldwell-Pope",
    "nba_team": "PHL",
@@ -391,10 +391,10 @@
     "SF"
    ],
    "return_date": null,
-   "season_avg": 15.5,
+   "season_avg": 15.6,
    "slot": "",
    "status": "ACTIVE",
-   "value": 13.7
+   "value": 13.8
   },
   "2583632": {
    "fantasy_team": null,
@@ -1319,8 +1319,8 @@
   "3149673": {
    "fantasy_team": "Hospital do Gansola",
    "id": "3149673",
-   "last15": 34.1,
-   "mpg": 30.2,
+   "last15": 34.0,
+   "mpg": 30.3,
    "name": "Pascal Siakam",
    "nba_team": "IND",
    "positions": [
@@ -1330,7 +1330,7 @@
    "season_avg": 34.1,
    "slot": "PF",
    "status": "ACTIVE",
-   "value": 34.1
+   "value": 34.0
   },
   "3150844": {
    "fantasy_team": "Caxias French Fries",
@@ -1745,7 +1745,7 @@
   "3917376": {
    "fantasy_team": "BL0CK BY ZION",
    "id": "3917376",
-   "last15": 35.4,
+   "last15": 35.8,
    "mpg": 33.2,
    "name": "Jaylen Brown",
    "nba_team": "PHL",
@@ -1754,10 +1754,10 @@
     "SF"
    ],
    "return_date": null,
-   "season_avg": 35.5,
+   "season_avg": 35.7,
    "slot": "SG",
    "status": "ACTIVE",
-   "value": 35.4
+   "value": 35.7
   },
   "3934672": {
    "fantasy_team": "Hospital do Gansola",
@@ -3235,8 +3235,8 @@
   "4396909": {
    "fantasy_team": null,
    "id": "4396909",
-   "last15": 17.4,
-   "mpg": 24.3,
+   "last15": 17.3,
+   "mpg": 24.5,
    "name": "Aaron Nesmith",
    "nba_team": "IND",
    "positions": [
@@ -3244,10 +3244,10 @@
     "SF"
    ],
    "return_date": null,
-   "season_avg": 17.3,
+   "season_avg": 17.2,
    "slot": "",
    "status": "ACTIVE",
-   "value": 17.4
+   "value": 17.3
   },
   "4396971": {
    "fantasy_team": "Polga Silva",
@@ -4698,7 +4698,7 @@
    "fantasy_team": "Polga Silva",
    "id": "4592829",
    "last15": 21.8,
-   "mpg": 20.4,
+   "mpg": 20.5,
    "name": "Quenton Jackson",
    "nba_team": "IND",
    "positions": [
@@ -6541,8 +6541,8 @@
   "5106060": {
    "fantasy_team": null,
    "id": "5106060",
-   "last15": 15.2,
-   "mpg": 21.1,
+   "last15": 13.0,
+   "mpg": 19.5,
    "name": "Jarace Walker",
    "nba_team": "IND",
    "positions": [
@@ -6550,10 +6550,10 @@
     "PF"
    ],
    "return_date": null,
-   "season_avg": 15.2,
+   "season_avg": 14.1,
    "slot": "",
    "status": "ACTIVE",
-   "value": 15.2
+   "value": 13.4
   },
   "5106258": {
    "fantasy_team": null,
@@ -6706,7 +6706,7 @@
   "5124612": {
    "fantasy_team": "Caxias French Fries",
    "id": "5124612",
-   "last15": 32.9,
+   "last15": 33.1,
    "mpg": 31.7,
    "name": "VJ Edgecombe",
    "nba_team": "PHL",
@@ -6714,10 +6714,10 @@
     "SG"
    ],
    "return_date": null,
-   "season_avg": 30.8,
+   "season_avg": 30.9,
    "slot": "SG",
    "status": "ACTIVE",
-   "value": 32.1
+   "value": 32.3
   },
   "5142620": {
    "fantasy_team": "BL0CK BY ZION",

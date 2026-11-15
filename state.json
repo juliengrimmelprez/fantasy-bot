@@ -232,8 +232,8 @@
   "1966": {
    "fantasy_team": "Lucky",
    "id": "1966",
-   "last15": 26.3,
-   "mpg": 30.3,
+   "last15": 26.7,
+   "mpg": 30.4,
    "name": "LeBron James",
    "nba_team": "PHL",
    "positions": [
@@ -241,10 +241,10 @@
     "PF"
    ],
    "return_date": null,
-   "season_avg": 33.1,
+   "season_avg": 33.3,
    "slot": "SF",
    "status": "ACTIVE",
-   "value": 28.7
+   "value": 29.0
   },
   "2326307": {
    "fantasy_team": null,
@@ -382,8 +382,8 @@
   "2581018": {
    "fantasy_team": null,
    "id": "2581018",
-   "last15": 12.9,
-   "mpg": 20.9,
+   "last15": 13.5,
+   "mpg": 21.0,
    "name": "Kentavious Caldwell-Pope",
    "nba_team": "PHL",
    "positions": [
@@ -391,10 +391,10 @@
     "SF"
    ],
    "return_date": null,
-   "season_avg": 15.6,
+   "season_avg": 15.9,
    "slot": "",
    "status": "ACTIVE",
-   "value": 13.8
+   "value": 14.4
   },
   "2583632": {
    "fantasy_team": null,
@@ -1319,18 +1319,18 @@
   "3149673": {
    "fantasy_team": "Hospital do Gansola",
    "id": "3149673",
-   "last15": 34.0,
-   "mpg": 30.4,
+   "last15": 34.7,
+   "mpg": 30.5,
    "name": "Pascal Siakam",
    "nba_team": "IND",
    "positions": [
     "PF"
    ],
    "return_date": null,
-   "season_avg": 34.1,
+   "season_avg": 34.5,
    "slot": "PF",
    "status": "ACTIVE",
-   "value": 34.0
+   "value": 34.6
   },
   "3150844": {
    "fantasy_team": "Caxias French Fries",
@@ -1746,7 +1746,7 @@
    "fantasy_team": "BL0CK BY ZION",
    "id": "3917376",
    "last15": 36.2,
-   "mpg": 33.4,
+   "mpg": 33.5,
    "name": "Jaylen Brown",
    "nba_team": "PHL",
    "positions": [
@@ -1962,7 +1962,7 @@
    "fantasy_team": "Caxias French Fries",
    "id": "4017837",
    "last15": 20.7,
-   "mpg": 21.8,
+   "mpg": 22.0,
    "name": "Ivica Zubac",
    "nba_team": "IND",
    "positions": [
@@ -3236,7 +3236,7 @@
    "fantasy_team": null,
    "id": "4396909",
    "last15": 17.3,
-   "mpg": 24.5,
+   "mpg": 24.6,
    "name": "Aaron Nesmith",
    "nba_team": "IND",
    "positions": [
@@ -3982,7 +3982,7 @@
    "fantasy_team": null,
    "id": "4432446",
    "last15": 11.9,
-   "mpg": 11.7,
+   "mpg": 11.8,
    "name": "Jabari Walker",
    "nba_team": "PHL",
    "positions": [
@@ -4697,7 +4697,7 @@
   "4592829": {
    "fantasy_team": "Polga Silva",
    "id": "4592829",
-   "last15": 21.9,
+   "last15": 22.1,
    "mpg": 20.6,
    "name": "Quenton Jackson",
    "nba_team": "IND",
@@ -4706,10 +4706,10 @@
     "SG"
    ],
    "return_date": null,
-   "season_avg": 21.1,
+   "season_avg": 21.2,
    "slot": "PG",
    "status": "ACTIVE",
-   "value": 21.6
+   "value": 21.8
   },
   "4593016": {
    "fantasy_team": null,
@@ -5707,8 +5707,8 @@
   "4873090": {
    "fantasy_team": null,
    "id": "4873090",
-   "last15": 1.8,
-   "mpg": 5.9,
+   "last15": 1.5,
+   "mpg": 5.3,
    "name": "Labaron Philon Jr.",
    "nba_team": "PHL",
    "positions": [
@@ -5716,10 +5716,10 @@
     "SG"
    ],
    "return_date": null,
-   "season_avg": 2.4,
+   "season_avg": 2.1,
    "slot": "",
    "status": "ACTIVE",
-   "value": 2.0
+   "value": 1.7
   },
   "4873138": {
    "fantasy_team": "Bull Market",
@@ -6542,7 +6542,7 @@
    "fantasy_team": null,
    "id": "5106060",
    "last15": 12.9,
-   "mpg": 19.6,
+   "mpg": 19.7,
    "name": "Jarace Walker",
    "nba_team": "IND",
    "positions": [

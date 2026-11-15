@@ -408,7 +408,7 @@
   "2595516": {
    "fantasy_team": "Contagem Hunters",
    "id": "2595516",
-   "last15": 27.6,
+   "last15": 27.4,
    "mpg": 29.2,
    "name": "Norman Powell",
    "nba_team": "CHI",
@@ -417,10 +417,10 @@
     "SF"
    ],
    "return_date": null,
-   "season_avg": 29.6,
+   "season_avg": 29.5,
    "slot": "SG",
    "status": "ACTIVE",
-   "value": 28.3
+   "value": 28.1
   },
   "2596112": {
    "fantasy_team": null,
@@ -688,8 +688,8 @@
   "3032977": {
    "fantasy_team": "Fernando  Diniz",
    "id": "3032977",
-   "last15": 56.6,
-   "mpg": 32.3,
+   "last15": 56.9,
+   "mpg": 32.4,
    "name": "Giannis Antetokounmpo",
    "nba_team": "MIA",
    "positions": [
@@ -697,10 +697,10 @@
     "C"
    ],
    "return_date": null,
-   "season_avg": 53.1,
+   "season_avg": 53.2,
    "slot": "C",
    "status": "ACTIVE",
-   "value": 55.4
+   "value": 55.6
   },
   "3032979": {
    "fantasy_team": null,
@@ -2136,7 +2136,7 @@
    "fantasy_team": "BL0CK BY ZION",
    "id": "4066261",
    "last15": 49.2,
-   "mpg": 33.6,
+   "mpg": 33.7,
    "name": "Bam Adebayo",
    "nba_team": "MIA",
    "positions": [
@@ -2236,8 +2236,8 @@
   "4066372": {
    "fantasy_team": "Lakers x Bortolan 23",
    "id": "4066372",
-   "last15": 30.4,
-   "mpg": 24.3,
+   "last15": 30.7,
+   "mpg": 24.4,
    "name": "Kevin Huerter",
    "nba_team": "DET",
    "positions": [
@@ -2245,10 +2245,10 @@
     "SF"
    ],
    "return_date": null,
-   "season_avg": 23.7,
+   "season_avg": 23.8,
    "slot": "BE",
    "status": "ACTIVE",
-   "value": 28.1
+   "value": 28.3
   },
   "4066383": {
    "fantasy_team": "Caxias French Fries",
@@ -2650,18 +2650,18 @@
   "4278053": {
    "fantasy_team": "Tropa do Nikola",
    "id": "4278053",
-   "last15": 45.5,
-   "mpg": 35.5,
+   "last15": 45.2,
+   "mpg": 35.6,
    "name": "Davion Mitchell",
    "nba_team": "MIA",
    "positions": [
     "PG"
    ],
    "return_date": null,
-   "season_avg": 41.7,
+   "season_avg": 41.5,
    "slot": "PG",
    "status": "ACTIVE",
-   "value": 44.2
+   "value": 44.0
   },
   "4278067": {
    "fantasy_team": "BL0CK BY ZION",
@@ -3793,18 +3793,18 @@
   "4432166": {
    "fantasy_team": "CCCP  Баскетбол",
    "id": "4432166",
-   "last15": 52.7,
-   "mpg": 34.7,
+   "last15": 53.4,
+   "mpg": 34.8,
    "name": "Cade Cunningham",
    "nba_team": "DET",
    "positions": [
     "PG"
    ],
    "return_date": null,
-   "season_avg": 49.7,
+   "season_avg": 50.1,
    "slot": "PG",
    "status": "ACTIVE",
-   "value": 51.6
+   "value": 52.3
   },
   "4432170": {
    "fantasy_team": null,
@@ -4072,7 +4072,7 @@
   "4432816": {
    "fantasy_team": "Tropa do Nikola",
    "id": "4432816",
-   "last15": 41.6,
+   "last15": 41.8,
    "mpg": 27.8,
    "name": "LaMelo Ball",
    "nba_team": "MIN",
@@ -4083,7 +4083,7 @@
    "season_avg": 36.1,
    "slot": "UT",
    "status": "ACTIVE",
-   "value": 39.7
+   "value": 39.8
   },
   "4432819": {
    "fantasy_team": null,
@@ -5120,8 +5120,8 @@
   "4684742": {
    "fantasy_team": "Tropa do Nikola",
    "id": "4684742",
-   "last15": 35.6,
-   "mpg": 27.6,
+   "last15": 36.1,
+   "mpg": 27.7,
    "name": "Ausar Thompson",
    "nba_team": "DET",
    "positions": [
@@ -5129,10 +5129,10 @@
     "PF"
    ],
    "return_date": null,
-   "season_avg": 31.7,
+   "season_avg": 32.1,
    "slot": "PF",
    "status": "ACTIVE",
-   "value": 34.2
+   "value": 34.7
   },
   "4684793": {
    "fantasy_team": null,
@@ -6568,7 +6568,7 @@
    "fantasy_team": "Lakers x Bortolan 23",
    "id": "5107199",
    "last15": 29.0,
-   "mpg": 27.8,
+   "mpg": 27.9,
    "name": "Daniss Jenkins",
    "nba_team": "DET",
    "positions": [
@@ -7349,7 +7349,7 @@
   "6475": {
    "fantasy_team": "Bull Market",
    "id": "6475",
-   "last15": 33.7,
+   "last15": 34.4,
    "mpg": 24.2,
    "name": "Klay Thompson",
    "nba_team": "MIA",
@@ -7358,10 +7358,10 @@
     "SF"
    ],
    "return_date": null,
-   "season_avg": 24.3,
+   "season_avg": 24.8,
    "slot": "SF",
    "status": "ACTIVE",
-   "value": 30.4
+   "value": 31.0
   },
   "6477": {
    "fantasy_team": null,

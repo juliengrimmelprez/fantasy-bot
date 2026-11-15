@@ -1155,7 +1155,7 @@
   "3136193": {
    "fantasy_team": "Caxias French Fries",
    "id": "3136193",
-   "last15": 37.2,
+   "last15": 37.0,
    "mpg": 31.5,
    "name": "Devin Booker",
    "nba_team": "PHO",
@@ -1164,10 +1164,10 @@
     "SG"
    ],
    "return_date": null,
-   "season_avg": 37.2,
+   "season_avg": 37.1,
    "slot": "PG",
    "status": "ACTIVE",
-   "value": 37.2
+   "value": 37.0
   },
   "3136195": {
    "fantasy_team": "Contagem Hunters",
@@ -4040,7 +4040,7 @@
    "return_date": null,
    "season_avg": 10.4,
    "slot": "",
-   "status": "DAY_TO_DAY",
+   "status": "OUT",
    "value": 5.6
   },
   "4432639": {
@@ -4863,7 +4863,7 @@
   "4601023": {
    "fantasy_team": null,
    "id": "4601023",
-   "last15": 17.1,
+   "last15": 17.4,
    "mpg": 20.5,
    "name": "Oso Ighodaro",
    "nba_team": "PHO",
@@ -4871,10 +4871,10 @@
     "PF"
    ],
    "return_date": null,
-   "season_avg": 16.5,
+   "season_avg": 16.7,
    "slot": "",
    "status": "ACTIVE",
-   "value": 16.9
+   "value": 17.1
   },
   "4601025": {
    "fantasy_team": "Lebron GOAT",

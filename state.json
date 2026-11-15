@@ -161,7 +161,7 @@
   "5105550:20261101"
  ],
  "hot_status": "ok: 264 FAs, 1921 games",
- "last_activity_ms": 1794740367098,
+ "last_activity_ms": 1794740561014,
  "last_digest": 1794737433.1561093,
  "last_error_alert": 1794388335.8497355,
  "last_hot_check": 1794740176.344277,
@@ -545,7 +545,7 @@
    "value": 19.4
   },
   "2991070": {
-   "fantasy_team": "Polga Silva",
+   "fantasy_team": null,
    "id": "2991070",
    "last15": 23.9,
    "mpg": 23.7,
@@ -556,7 +556,7 @@
    ],
    "return_date": null,
    "season_avg": 21.0,
-   "slot": "BE",
+   "slot": "",
    "status": "OUT",
    "value": 22.9
   },
@@ -1393,7 +1393,7 @@
    ],
    "return_date": null,
    "season_avg": 38.5,
-   "slot": "PF",
+   "slot": "UT",
    "status": "ACTIVE",
    "value": 33.3
   },
@@ -2234,7 +2234,7 @@
    ],
    "return_date": null,
    "season_avg": 31.3,
-   "slot": "UT",
+   "slot": "BE",
    "status": "OUT",
    "value": 29.5
   },
@@ -3149,7 +3149,7 @@
    "value": 31.0
   },
   "4395723": {
-   "fantasy_team": null,
+   "fantasy_team": "Polga Silva",
    "id": "4395723",
    "last15": 17.9,
    "mpg": 24.1,
@@ -3161,7 +3161,7 @@
    ],
    "return_date": null,
    "season_avg": 18.4,
-   "slot": "",
+   "slot": "PF",
    "status": "ACTIVE",
    "value": 18.1
   },
@@ -7775,6 +7775,7 @@
   "inj:4397189:OUT",
   "inj:4278104:OUT",
   "drop:4395626:1794731297104",
-  "drop:3908845:1794740367098"
+  "drop:3908845:1794740367098",
+  "drop:2991070:1794740561014"
  ]
 }

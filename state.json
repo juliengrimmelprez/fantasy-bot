@@ -162,7 +162,7 @@
   "2991139:20261022"
  ],
  "hot_status": "ok: 264 FAs, 1919 games",
- "last_activity_ms": 1794740561014,
+ "last_activity_ms": 1794745457105,
  "last_digest": 1794744858.7345815,
  "last_error_alert": 1794388335.8497355,
  "last_hot_check": 1794744981.756376,
@@ -1920,7 +1920,7 @@
    ],
    "return_date": null,
    "season_avg": 16.8,
-   "slot": "UT",
+   "slot": "BE",
    "status": "ACTIVE",
    "value": 15.2
   },
@@ -3698,7 +3698,7 @@
    "value": 11.0
   },
   "4431736": {
-   "fantasy_team": null,
+   "fantasy_team": "Lakers x Bortolan 23",
    "id": "4431736",
    "last15": 21.2,
    "mpg": 29.1,
@@ -3710,7 +3710,7 @@
    ],
    "return_date": null,
    "season_avg": 24.8,
-   "slot": "",
+   "slot": "UT",
    "status": "ACTIVE",
    "value": 22.5
   },
@@ -5137,7 +5137,7 @@
    ],
    "return_date": null,
    "season_avg": 22.8,
-   "slot": "BE",
+   "slot": "UT",
    "status": "ACTIVE",
    "value": 19.1
   },
@@ -7207,7 +7207,7 @@
    "value": 11.0
   },
   "5254165": {
-   "fantasy_team": "Lakers x Bortolan 23",
+   "fantasy_team": null,
    "id": "5254165",
    "last15": 19.2,
    "mpg": 22.7,
@@ -7219,7 +7219,7 @@
    ],
    "return_date": null,
    "season_avg": 20.4,
-   "slot": "UT",
+   "slot": "",
    "status": "ACTIVE",
    "value": 19.6
   },
@@ -7778,6 +7778,7 @@
   "drop:4395626:1794731297104",
   "drop:3908845:1794740367098",
   "drop:2991070:1794740561014",
-  "hot:2991070:20261114"
+  "hot:2991070:20261114",
+  "drop:5254165:1794745457105"
  ]
 }

@@ -1107,7 +1107,7 @@
   "3134916": {
    "fantasy_team": null,
    "id": "3134916",
-   "last15": 11.9,
+   "last15": 11.6,
    "mpg": 8.0,
    "name": "Jordan McLaughlin",
    "nba_team": "SAS",
@@ -1115,10 +1115,10 @@
     "PG"
    ],
    "return_date": null,
-   "season_avg": 9.9,
+   "season_avg": 9.7,
    "slot": "",
    "status": "ACTIVE",
-   "value": 11.2
+   "value": 10.9
   },
   "3135045": {
    "fantasy_team": "Fernando  Diniz",
@@ -4292,7 +4292,7 @@
    "return_date": null,
    "season_avg": 42.1,
    "slot": "SF",
-   "status": "OUT",
+   "status": "ACTIVE",
    "value": 40.5
   },
   "4433136": {
@@ -5541,8 +5541,8 @@
   "4845367": {
    "fantasy_team": "King Coopa",
    "id": "4845367",
-   "last15": 27.3,
-   "mpg": 27.4,
+   "last15": 27.2,
+   "mpg": 27.5,
    "name": "Stephon Castle",
    "nba_team": "SAS",
    "positions": [
@@ -5550,10 +5550,10 @@
     "SG"
    ],
    "return_date": null,
-   "season_avg": 30.2,
+   "season_avg": 30.1,
    "slot": "UT",
    "status": "ACTIVE",
-   "value": 28.3
+   "value": 28.2
   },
   "4845374": {
    "fantasy_team": null,
@@ -7440,7 +7440,7 @@
   "6578": {
    "fantasy_team": null,
    "id": "6578",
-   "last15": 10.5,
+   "last15": 10.8,
    "mpg": 13.9,
    "name": "Harrison Barnes",
    "nba_team": "SAS",
@@ -7449,10 +7449,10 @@
     "PF"
    ],
    "return_date": null,
-   "season_avg": 7.7,
+   "season_avg": 7.8,
    "slot": "",
    "status": "ACTIVE",
-   "value": 9.5
+   "value": 9.7
   },
   "6580": {
    "fantasy_team": null,

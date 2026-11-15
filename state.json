@@ -153,11 +153,11 @@
   "4888725:20261108",
   "4278594:20261022"
  ],
- "hot_status": "ok: 264 FAs, 1906 games",
+ "hot_status": "ok: 264 FAs, 1913 games",
  "last_activity_ms": 1794696046568,
  "last_digest": 1794704176.642566,
  "last_error_alert": 1794388335.8497355,
- "last_hot_check": 1794703696.4245791,
+ "last_hot_check": 1794704656.263344,
  "last_run": "2026-10-19T22:05:14+00:00",
  "matchup_periods": {
   "1": [
@@ -640,7 +640,7 @@
   "2995706": {
    "fantasy_team": null,
    "id": "2995706",
-   "last15": 15.4,
+   "last15": 15.7,
    "mpg": 17.4,
    "name": "Mario Hezonja",
    "nba_team": "CLE",
@@ -648,10 +648,10 @@
     "SF"
    ],
    "return_date": null,
-   "season_avg": 16.1,
+   "season_avg": 16.2,
    "slot": "",
    "status": "ACTIVE",
-   "value": 15.7
+   "value": 15.9
   },
   "3012": {
    "fantasy_team": null,
@@ -952,7 +952,7 @@
   "3112335": {
    "fantasy_team": "Tropa do Nikola",
    "id": "3112335",
-   "last15": 57.7,
+   "last15": 57.6,
    "mpg": 34.5,
    "name": "Nikola Jokic",
    "nba_team": "DEN",
@@ -960,10 +960,10 @@
     "C"
    ],
    "return_date": null,
-   "season_avg": 56.1,
+   "season_avg": 56.0,
    "slot": "C",
    "status": "ACTIVE",
-   "value": 57.1
+   "value": 57.0
   },
   "3133602": {
    "fantasy_team": null,
@@ -1245,7 +1245,7 @@
   "3138196": {
    "fantasy_team": "BL0CK BY ZION",
    "id": "3138196",
-   "last15": 23.1,
+   "last15": 23.4,
    "mpg": 26.6,
    "name": "Cameron Johnson",
    "nba_team": "DEN",
@@ -1254,10 +1254,10 @@
     "PF"
    ],
    "return_date": null,
-   "season_avg": 21.6,
+   "season_avg": 21.9,
    "slot": "UT",
    "status": "ACTIVE",
-   "value": 22.6
+   "value": 22.9
   },
   "3146557": {
    "fantasy_team": null,
@@ -7349,18 +7349,18 @@
   "6442": {
    "fantasy_team": "Hospital do Gansola",
    "id": "6442",
-   "last15": 35.7,
-   "mpg": 28.4,
+   "last15": 35.9,
+   "mpg": 28.5,
    "name": "Kyrie Irving",
    "nba_team": "DAL",
    "positions": [
     "PG"
    ],
    "return_date": null,
-   "season_avg": 35.5,
+   "season_avg": 35.6,
    "slot": "PG",
    "status": "ACTIVE",
-   "value": 35.7
+   "value": 35.8
   },
   "6450": {
    "fantasy_team": "Fernando  Diniz",

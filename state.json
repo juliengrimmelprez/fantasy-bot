@@ -993,7 +993,7 @@
    "fantasy_team": "Hospital do Gansola",
    "id": "3133603",
    "last15": 24.3,
-   "mpg": 24.5,
+   "mpg": 24.6,
    "name": "Kelly Oubre Jr.",
    "nba_team": "IND",
    "positions": [
@@ -1319,18 +1319,18 @@
   "3149673": {
    "fantasy_team": "Hospital do Gansola",
    "id": "3149673",
-   "last15": 39.7,
-   "mpg": 32.3,
+   "last15": 40.0,
+   "mpg": 32.4,
    "name": "Pascal Siakam",
    "nba_team": "IND",
    "positions": [
     "PF"
    ],
    "return_date": null,
-   "season_avg": 37.1,
+   "season_avg": 37.3,
    "slot": "PF",
    "status": "ACTIVE",
-   "value": 38.8
+   "value": 39.1
   },
   "3150844": {
    "fantasy_team": "Caxias French Fries",
@@ -1745,7 +1745,7 @@
   "3917376": {
    "fantasy_team": "BL0CK BY ZION",
    "id": "3917376",
-   "last15": 38.0,
+   "last15": 37.9,
    "mpg": 34.8,
    "name": "Jaylen Brown",
    "nba_team": "PHL",
@@ -1754,10 +1754,10 @@
     "SF"
    ],
    "return_date": null,
-   "season_avg": 37.1,
+   "season_avg": 37.0,
    "slot": "SG",
    "status": "ACTIVE",
-   "value": 37.7
+   "value": 37.6
   },
   "3934672": {
    "fantasy_team": "Hospital do Gansola",
@@ -3236,7 +3236,7 @@
    "fantasy_team": null,
    "id": "4396909",
    "last15": 19.6,
-   "mpg": 26.6,
+   "mpg": 26.7,
    "name": "Aaron Nesmith",
    "nba_team": "IND",
    "positions": [
@@ -3535,18 +3535,18 @@
   "4398207": {
    "fantasy_team": null,
    "id": "4398207",
-   "last15": 14.1,
-   "mpg": 14.1,
+   "last15": 14.9,
+   "mpg": 14.2,
    "name": "Jalen Slawson",
    "nba_team": "IND",
    "positions": [
     "SF"
    ],
    "return_date": null,
-   "season_avg": 12.5,
+   "season_avg": 12.9,
    "slot": "",
    "status": "ACTIVE",
-   "value": 13.6
+   "value": 14.2
   },
   "4398390": {
    "fantasy_team": null,
@@ -3602,8 +3602,8 @@
   "4431678": {
    "fantasy_team": "Tiki Taka Laranja",
    "id": "4431678",
-   "last15": 45.9,
-   "mpg": 36.1,
+   "last15": 46.1,
+   "mpg": 36.2,
    "name": "Tyrese Maxey",
    "nba_team": "PHL",
    "positions": [
@@ -3611,10 +3611,10 @@
     "SG"
    ],
    "return_date": null,
-   "season_avg": 46.2,
+   "season_avg": 46.4,
    "slot": "PG",
    "status": "ACTIVE",
-   "value": 46.0
+   "value": 46.2
   },
   "4431679": {
    "fantasy_team": "Polga Silva",
@@ -6707,7 +6707,7 @@
    "fantasy_team": "Caxias French Fries",
    "id": "5124612",
    "last15": 36.5,
-   "mpg": 33.3,
+   "mpg": 33.4,
    "name": "VJ Edgecombe",
    "nba_team": "PHL",
    "positions": [

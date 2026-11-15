@@ -756,7 +756,7 @@
    "return_date": null,
    "season_avg": 30.0,
    "slot": "IR",
-   "status": "OUT",
+   "status": "DAY_TO_DAY",
    "value": 26.9
   },
   "3059319": {
@@ -3146,7 +3146,7 @@
    "return_date": null,
    "season_avg": 32.2,
    "slot": "UT",
-   "status": "OUT",
+   "status": "DAY_TO_DAY",
    "value": 31.0
   },
   "4395723": {
@@ -7784,6 +7784,7 @@
   "diag:27",
   "planday:27",
   "lineup:27",
-  "drop:4896372:1794765301649"
+  "drop:4896372:1794765301649",
+  "lastday:27"
  ]
 }

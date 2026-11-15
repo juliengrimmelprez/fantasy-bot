@@ -2576,18 +2576,18 @@
   "4277919": {
    "fantasy_team": "CCCP  Баскетбол",
    "id": "4277919",
-   "last15": 19.1,
-   "mpg": 16.5,
+   "last15": 19.2,
+   "mpg": 16.6,
    "name": "Mo Bamba",
    "nba_team": "UTA",
    "positions": [
     "C"
    ],
    "return_date": null,
-   "season_avg": 21.4,
+   "season_avg": 21.5,
    "slot": "UT",
    "status": "ACTIVE",
-   "value": 19.9
+   "value": 20.0
   },
   "4277922": {
    "fantasy_team": null,
@@ -3071,7 +3071,7 @@
    "fantasy_team": "Contagem Hunters",
    "id": "4395630",
    "last15": 20.6,
-   "mpg": 27.4,
+   "mpg": 27.5,
    "name": "Devin Vassell",
    "nba_team": "SAS",
    "positions": [
@@ -3103,7 +3103,7 @@
   "4395651": {
    "fantasy_team": "King Coopa",
    "id": "4395651",
-   "last15": 7.3,
+   "last15": 7.7,
    "mpg": 16.5,
    "name": "Coby White",
    "nba_team": "CHA",
@@ -3112,10 +3112,10 @@
     "SG"
    ],
    "return_date": null,
-   "season_avg": 7.3,
+   "season_avg": 7.7,
    "slot": "UT",
    "status": "ACTIVE",
-   "value": 7.3
+   "value": 7.7
   },
   "4395702": {
    "fantasy_team": null,
@@ -4114,7 +4114,7 @@
   "4432811": {
    "fantasy_team": null,
    "id": "4432811",
-   "last15": 5.3,
+   "last15": 6.3,
    "mpg": 18.2,
    "name": "Josh Green",
    "nba_team": "UTA",
@@ -4122,10 +4122,10 @@
     "SG"
    ],
    "return_date": null,
-   "season_avg": 6.5,
+   "season_avg": 7.2,
    "slot": "",
    "status": "ACTIVE",
-   "value": 5.7
+   "value": 6.7
   },
   "4432816": {
    "fantasy_team": "Tropa do Nikola",
@@ -4497,7 +4497,7 @@
   "4433627": {
    "fantasy_team": "Lebron GOAT",
    "id": "4433627",
-   "last15": 28.4,
+   "last15": 28.6,
    "mpg": 30.5,
    "name": "Keyonte George",
    "nba_team": "UTA",
@@ -4506,10 +4506,10 @@
     "SG"
    ],
    "return_date": null,
-   "season_avg": 31.7,
+   "season_avg": 31.9,
    "slot": "PG",
    "status": "ACTIVE",
-   "value": 29.5
+   "value": 29.8
   },
   "4437244": {
    "fantasy_team": "Bull Market",
@@ -4631,7 +4631,7 @@
   "4592479": {
    "fantasy_team": "Lucky",
    "id": "4592479",
-   "last15": 18.1,
+   "last15": 18.7,
    "mpg": 24.6,
    "name": "Julian Champagnie",
    "nba_team": "SAS",
@@ -4640,10 +4640,10 @@
     "PF"
    ],
    "return_date": null,
-   "season_avg": 22.4,
+   "season_avg": 22.7,
    "slot": "UT",
    "status": "ACTIVE",
-   "value": 19.6
+   "value": 20.1
   },
   "4592492": {
    "fantasy_team": "Lucky",
@@ -5541,8 +5541,8 @@
   "4845367": {
    "fantasy_team": "King Coopa",
    "id": "4845367",
-   "last15": 26.0,
-   "mpg": 26.9,
+   "last15": 26.1,
+   "mpg": 27.0,
    "name": "Stephon Castle",
    "nba_team": "SAS",
    "positions": [
@@ -5553,7 +5553,7 @@
    "season_avg": 29.4,
    "slot": "UT",
    "status": "ACTIVE",
-   "value": 27.2
+   "value": 27.3
   },
   "4845374": {
    "fantasy_team": null,
@@ -5725,7 +5725,7 @@
   "4873138": {
    "fantasy_team": "Bull Market",
    "id": "4873138",
-   "last15": 24.8,
+   "last15": 25.2,
    "mpg": 29.4,
    "name": "Ace Bailey",
    "nba_team": "UTA",
@@ -5734,10 +5734,10 @@
     "PF"
    ],
    "return_date": null,
-   "season_avg": 27.4,
+   "season_avg": 27.6,
    "slot": "PF",
    "status": "ACTIVE",
-   "value": 25.7
+   "value": 26.1
   },
   "4873153": {
    "fantasy_team": null,
@@ -6022,8 +6022,8 @@
   "5037871": {
    "fantasy_team": "Tiki Taka Laranja",
    "id": "5037871",
-   "last15": 33.3,
-   "mpg": 29.3,
+   "last15": 33.1,
+   "mpg": 29.4,
    "name": "Dylan Harper",
    "nba_team": "SAS",
    "positions": [
@@ -6031,10 +6031,10 @@
     "SG"
    ],
    "return_date": null,
-   "season_avg": 32.9,
+   "season_avg": 32.8,
    "slot": "SG",
    "status": "ACTIVE",
-   "value": 33.2
+   "value": 33.0
   },
   "5041935": {
    "fantasy_team": "BL0CK BY ZION",
@@ -6104,8 +6104,8 @@
   "5041955": {
    "fantasy_team": "Hospital do Gansola",
    "id": "5041955",
-   "last15": 34.3,
-   "mpg": 29.2,
+   "last15": 34.9,
+   "mpg": 29.3,
    "name": "Darryn Peterson",
    "nba_team": "UTA",
    "positions": [
@@ -6113,10 +6113,10 @@
     "SG"
    ],
    "return_date": null,
-   "season_avg": 30.3,
+   "season_avg": 30.6,
    "slot": "UT",
    "status": "ACTIVE",
-   "value": 32.9
+   "value": 33.4
   },
   "5044385": {
    "fantasy_team": null,
@@ -6381,7 +6381,7 @@
    "fantasy_team": "CCCP  Баскетбол",
    "id": "5104157",
    "last15": 63.8,
-   "mpg": 27.5,
+   "mpg": 27.6,
    "name": "Victor Wembanyama",
    "nba_team": "SAS",
    "positions": [

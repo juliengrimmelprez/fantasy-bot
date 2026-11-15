@@ -232,7 +232,7 @@
   "1966": {
    "fantasy_team": "Lucky",
    "id": "1966",
-   "last15": 31.8,
+   "last15": 32.2,
    "mpg": 32.2,
    "name": "LeBron James",
    "nba_team": "PHL",
@@ -241,10 +241,10 @@
     "PF"
    ],
    "return_date": null,
-   "season_avg": 36.1,
+   "season_avg": 36.3,
    "slot": "SF",
    "status": "ACTIVE",
-   "value": 33.3
+   "value": 33.6
   },
   "2326307": {
    "fantasy_team": null,
@@ -1319,7 +1319,7 @@
   "3149673": {
    "fantasy_team": "Hospital do Gansola",
    "id": "3149673",
-   "last15": 38.3,
+   "last15": 38.4,
    "mpg": 31.8,
    "name": "Pascal Siakam",
    "nba_team": "IND",
@@ -1327,10 +1327,10 @@
     "PF"
    ],
    "return_date": null,
-   "season_avg": 36.4,
+   "season_avg": 36.5,
    "slot": "PF",
    "status": "ACTIVE",
-   "value": 37.6
+   "value": 37.7
   },
   "3150844": {
    "fantasy_team": "Caxias French Fries",
@@ -1745,8 +1745,8 @@
   "3917376": {
    "fantasy_team": "BL0CK BY ZION",
    "id": "3917376",
-   "last15": 37.5,
-   "mpg": 34.3,
+   "last15": 37.8,
+   "mpg": 34.4,
    "name": "Jaylen Brown",
    "nba_team": "PHL",
    "positions": [
@@ -1754,10 +1754,10 @@
     "SF"
    ],
    "return_date": null,
-   "season_avg": 36.8,
+   "season_avg": 36.9,
    "slot": "SG",
    "status": "ACTIVE",
-   "value": 37.2
+   "value": 37.5
   },
   "3934672": {
    "fantasy_team": "Hospital do Gansola",
@@ -3718,7 +3718,7 @@
    "fantasy_team": null,
    "id": "4431752",
    "last15": 8.5,
-   "mpg": 11.7,
+   "mpg": 11.9,
    "name": "Kobe Brown",
    "nba_team": "IND",
    "positions": [
@@ -4698,7 +4698,7 @@
    "fantasy_team": "Polga Silva",
    "id": "4592829",
    "last15": 24.6,
-   "mpg": 21.6,
+   "mpg": 21.7,
    "name": "Quenton Jackson",
    "nba_team": "IND",
    "positions": [
@@ -6706,7 +6706,7 @@
   "5124612": {
    "fantasy_team": "Caxias French Fries",
    "id": "5124612",
-   "last15": 35.9,
+   "last15": 36.2,
    "mpg": 32.8,
    "name": "VJ Edgecombe",
    "nba_team": "PHL",
@@ -6714,10 +6714,10 @@
     "SG"
    ],
    "return_date": null,
-   "season_avg": 32.6,
+   "season_avg": 32.9,
    "slot": "SG",
    "status": "ACTIVE",
-   "value": 34.7
+   "value": 35.1
   },
   "5142620": {
    "fantasy_team": "BL0CK BY ZION",

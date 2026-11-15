@@ -161,11 +161,11 @@
   "4592492:20261103",
   "4432241:20261028"
  ],
- "hot_status": "ok: 264 FAs, 1930 games",
+ "hot_status": "ok: 264 FAs, 1931 games",
  "last_activity_ms": 1794765301649,
  "last_digest": 1794767058.563062,
  "last_error_alert": 1794388335.8497355,
- "last_hot_check": 1794768024.6780648,
+ "last_hot_check": 1794768983.5539517,
  "last_run": "2026-10-19T22:05:14+00:00",
  "matchup_periods": {
   "1": [
@@ -317,18 +317,18 @@
   "2530530": {
    "fantasy_team": null,
    "id": "2530530",
-   "last15": 15.6,
-   "mpg": 10.8,
+   "last15": 16.0,
+   "mpg": 11.2,
    "name": "T.J. McConnell",
    "nba_team": "IND",
    "positions": [
     "PG"
    ],
    "return_date": null,
-   "season_avg": 15.6,
+   "season_avg": 16.0,
    "slot": "",
    "status": "ACTIVE",
-   "value": 15.6
+   "value": 16.0
   },
   "2578185": {
    "fantasy_team": null,
@@ -1681,7 +1681,7 @@
    "fantasy_team": null,
    "id": "3912848",
    "last15": 15.4,
-   "mpg": 24.1,
+   "mpg": 24.2,
    "name": "Dean Wade",
    "nba_team": "PHL",
    "positions": [
@@ -1745,8 +1745,8 @@
   "3917376": {
    "fantasy_team": "BL0CK BY ZION",
    "id": "3917376",
-   "last15": 36.4,
-   "mpg": 33.5,
+   "last15": 36.9,
+   "mpg": 33.7,
    "name": "Jaylen Brown",
    "nba_team": "PHL",
    "positions": [
@@ -1754,10 +1754,10 @@
     "SF"
    ],
    "return_date": null,
-   "season_avg": 36.1,
+   "season_avg": 36.4,
    "slot": "SG",
    "status": "ACTIVE",
-   "value": 36.3
+   "value": 36.7
   },
   "3934672": {
    "fantasy_team": "Hospital do Gansola",
@@ -1961,18 +1961,18 @@
   "4017837": {
    "fantasy_team": "Caxias French Fries",
    "id": "4017837",
-   "last15": 21.5,
-   "mpg": 22.3,
+   "last15": 22.0,
+   "mpg": 22.6,
    "name": "Ivica Zubac",
    "nba_team": "IND",
    "positions": [
     "C"
    ],
    "return_date": null,
-   "season_avg": 21.6,
+   "season_avg": 21.9,
    "slot": "C",
    "status": "ACTIVE",
-   "value": 21.5
+   "value": 22.0
   },
   "4017850": {
    "fantasy_team": null,
@@ -2822,7 +2822,7 @@
    "fantasy_team": null,
    "id": "4278355",
    "last15": 13.8,
-   "mpg": 19.4,
+   "mpg": 19.5,
    "name": "Obi Toppin",
    "nba_team": "IND",
    "positions": [
@@ -3235,8 +3235,8 @@
   "4396909": {
    "fantasy_team": null,
    "id": "4396909",
-   "last15": 17.7,
-   "mpg": 24.9,
+   "last15": 17.6,
+   "mpg": 25.0,
    "name": "Aaron Nesmith",
    "nba_team": "IND",
    "positions": [
@@ -3244,10 +3244,10 @@
     "SF"
    ],
    "return_date": null,
-   "season_avg": 17.5,
+   "season_avg": 17.4,
    "slot": "",
    "status": "ACTIVE",
-   "value": 17.6
+   "value": 17.5
   },
   "4396971": {
    "fantasy_team": "Polga Silva",
@@ -3602,8 +3602,8 @@
   "4431678": {
    "fantasy_team": "Tiki Taka Laranja",
    "id": "4431678",
-   "last15": 42.5,
-   "mpg": 34.5,
+   "last15": 42.4,
+   "mpg": 34.6,
    "name": "Tyrese Maxey",
    "nba_team": "PHL",
    "positions": [
@@ -3611,10 +3611,10 @@
     "SG"
    ],
    "return_date": null,
-   "season_avg": 44.3,
+   "season_avg": 44.2,
    "slot": "PG",
    "status": "ACTIVE",
-   "value": 43.1
+   "value": 43.0
   },
   "4431679": {
    "fantasy_team": "Polga Silva",
@@ -3981,18 +3981,18 @@
   "4432446": {
    "fantasy_team": null,
    "id": "4432446",
-   "last15": 12.1,
-   "mpg": 12.0,
+   "last15": 12.9,
+   "mpg": 12.1,
    "name": "Jabari Walker",
    "nba_team": "PHL",
    "positions": [
     "PF"
    ],
    "return_date": null,
-   "season_avg": 10.6,
+   "season_avg": 11.1,
    "slot": "",
    "status": "ACTIVE",
-   "value": 11.6
+   "value": 12.2
   },
   "4432452": {
    "fantasy_team": null,
@@ -5707,8 +5707,8 @@
   "4873090": {
    "fantasy_team": null,
    "id": "4873090",
-   "last15": 2.8,
-   "mpg": 5.7,
+   "last15": 3.0,
+   "mpg": 5.9,
    "name": "Labaron Philon Jr.",
    "nba_team": "PHL",
    "positions": [
@@ -5716,10 +5716,10 @@
     "SG"
    ],
    "return_date": null,
-   "season_avg": 3.0,
+   "season_avg": 3.1,
    "slot": "",
    "status": "ACTIVE",
-   "value": 2.9
+   "value": 3.0
   },
   "4873138": {
    "fantasy_team": "Bull Market",
@@ -6541,8 +6541,8 @@
   "5106060": {
    "fantasy_team": null,
    "id": "5106060",
-   "last15": 13.3,
-   "mpg": 19.9,
+   "last15": 13.9,
+   "mpg": 20.1,
    "name": "Jarace Walker",
    "nba_team": "IND",
    "positions": [
@@ -6550,10 +6550,10 @@
     "PF"
    ],
    "return_date": null,
-   "season_avg": 14.2,
+   "season_avg": 14.5,
    "slot": "",
    "status": "ACTIVE",
-   "value": 13.6
+   "value": 14.1
   },
   "5106258": {
    "fantasy_team": null,

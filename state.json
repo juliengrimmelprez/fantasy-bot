@@ -233,7 +233,7 @@
    "fantasy_team": "Lucky",
    "id": "1966",
    "last15": 26.3,
-   "mpg": 30.2,
+   "mpg": 30.3,
    "name": "LeBron James",
    "nba_team": "PHL",
    "positions": [
@@ -383,7 +383,7 @@
    "fantasy_team": null,
    "id": "2581018",
    "last15": 12.9,
-   "mpg": 20.8,
+   "mpg": 20.9,
    "name": "Kentavious Caldwell-Pope",
    "nba_team": "PHL",
    "positions": [
@@ -1320,7 +1320,7 @@
    "fantasy_team": "Hospital do Gansola",
    "id": "3149673",
    "last15": 34.0,
-   "mpg": 30.3,
+   "mpg": 30.4,
    "name": "Pascal Siakam",
    "nba_team": "IND",
    "positions": [
@@ -1745,8 +1745,8 @@
   "3917376": {
    "fantasy_team": "BL0CK BY ZION",
    "id": "3917376",
-   "last15": 35.8,
-   "mpg": 33.2,
+   "last15": 36.2,
+   "mpg": 33.4,
    "name": "Jaylen Brown",
    "nba_team": "PHL",
    "positions": [
@@ -1754,10 +1754,10 @@
     "SF"
    ],
    "return_date": null,
-   "season_avg": 35.7,
+   "season_avg": 36.0,
    "slot": "SG",
    "status": "ACTIVE",
-   "value": 35.7
+   "value": 36.2
   },
   "3934672": {
    "fantasy_team": "Hospital do Gansola",
@@ -1962,7 +1962,7 @@
    "fantasy_team": "Caxias French Fries",
    "id": "4017837",
    "last15": 20.7,
-   "mpg": 21.7,
+   "mpg": 21.8,
    "name": "Ivica Zubac",
    "nba_team": "IND",
    "positions": [
@@ -3981,18 +3981,18 @@
   "4432446": {
    "fantasy_team": null,
    "id": "4432446",
-   "last15": 11.7,
-   "mpg": 11.5,
+   "last15": 11.9,
+   "mpg": 11.7,
    "name": "Jabari Walker",
    "nba_team": "PHL",
    "positions": [
     "PF"
    ],
    "return_date": null,
-   "season_avg": 10.3,
+   "season_avg": 10.4,
    "slot": "",
    "status": "ACTIVE",
-   "value": 11.2
+   "value": 11.3
   },
   "4432452": {
    "fantasy_team": null,
@@ -4697,8 +4697,8 @@
   "4592829": {
    "fantasy_team": "Polga Silva",
    "id": "4592829",
-   "last15": 21.8,
-   "mpg": 20.5,
+   "last15": 21.9,
+   "mpg": 20.6,
    "name": "Quenton Jackson",
    "nba_team": "IND",
    "positions": [
@@ -4706,10 +4706,10 @@
     "SG"
    ],
    "return_date": null,
-   "season_avg": 21.0,
+   "season_avg": 21.1,
    "slot": "PG",
    "status": "ACTIVE",
-   "value": 21.5
+   "value": 21.6
   },
   "4593016": {
    "fantasy_team": null,
@@ -6541,8 +6541,8 @@
   "5106060": {
    "fantasy_team": null,
    "id": "5106060",
-   "last15": 13.0,
-   "mpg": 19.5,
+   "last15": 12.9,
+   "mpg": 19.6,
    "name": "Jarace Walker",
    "nba_team": "IND",
    "positions": [
@@ -6550,10 +6550,10 @@
     "PF"
    ],
    "return_date": null,
-   "season_avg": 14.1,
+   "season_avg": 14.0,
    "slot": "",
    "status": "ACTIVE",
-   "value": 13.4
+   "value": 13.3
   },
   "5106258": {
    "fantasy_team": null,
@@ -6707,7 +6707,7 @@
    "fantasy_team": "Caxias French Fries",
    "id": "5124612",
    "last15": 33.1,
-   "mpg": 31.7,
+   "mpg": 31.8,
    "name": "VJ Edgecombe",
    "nba_team": "PHL",
    "positions": [

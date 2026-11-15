@@ -154,7 +154,7 @@
   "4278572:20261108"
  ],
  "hot_status": "ok: 262 FAs, 1917 games",
- "last_activity_ms": 1794712156963,
+ "last_activity_ms": 1794714138585,
  "last_digest": 1794711627.8975492,
  "last_error_alert": 1794388335.8497355,
  "last_hot_check": 1794713297.1583972,
@@ -1508,7 +1508,7 @@
   "3899664": {
    "fantasy_team": null,
    "id": "3899664",
-   "last15": 3.6,
+   "last15": 3.8,
    "mpg": 5.7,
    "name": "Simone Fontecchio",
    "nba_team": "MIA",
@@ -1516,10 +1516,10 @@
     "SF"
    ],
    "return_date": null,
-   "season_avg": 2.9,
+   "season_avg": 3.0,
    "slot": "",
    "status": "ACTIVE",
-   "value": 3.3
+   "value": 3.5
   },
   "3904625": {
    "fantasy_team": null,
@@ -1569,22 +1569,6 @@
    "slot": "SG",
    "status": "OUT",
    "value": 23.7
-  },
-  "3907498": {
-   "fantasy_team": null,
-   "id": "3907498",
-   "last15": 21.1,
-   "mpg": 24.3,
-   "name": "Matisse Thybulle",
-   "nba_team": "LAL",
-   "positions": [
-    "SF"
-   ],
-   "return_date": null,
-   "season_avg": 21.9,
-   "slot": "",
-   "status": "ACTIVE",
-   "value": 21.4
   },
   "3907823": {
    "fantasy_team": null,
@@ -5020,7 +5004,7 @@
   "4683771": {
    "fantasy_team": null,
    "id": "4683771",
-   "last15": 15.7,
+   "last15": 15.6,
    "mpg": 15.8,
    "name": "Ronald Holland II",
    "nba_team": "DET",
@@ -5029,10 +5013,10 @@
     "PF"
    ],
    "return_date": null,
-   "season_avg": 14.8,
+   "season_avg": 14.7,
    "slot": "",
    "status": "ACTIVE",
-   "value": 15.4
+   "value": 15.3
   },
   "4683774": {
    "fantasy_team": null,
@@ -6534,18 +6518,18 @@
   "5107157": {
    "fantasy_team": null,
    "id": "5107157",
-   "last15": 14.2,
-   "mpg": 15.4,
+   "last15": 14.9,
+   "mpg": 15.5,
    "name": "Ryan Conwell",
    "nba_team": "MIA",
    "positions": [
     "SG"
    ],
    "return_date": null,
-   "season_avg": 11.3,
+   "season_avg": 11.7,
    "slot": "",
    "status": "ACTIVE",
-   "value": 13.2
+   "value": 13.8
   },
   "5107173": {
    "fantasy_team": "CCCP  Баскетбол",

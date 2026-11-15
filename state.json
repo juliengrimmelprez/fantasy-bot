@@ -788,18 +788,18 @@
   "3064290": {
    "fantasy_team": "CCCP  Баскетбол",
    "id": "3064290",
-   "last15": 16.6,
-   "mpg": 26.9,
+   "last15": 16.4,
+   "mpg": 27.0,
    "name": "Aaron Gordon",
    "nba_team": "DEN",
    "positions": [
     "PF"
    ],
    "return_date": null,
-   "season_avg": 20.1,
+   "season_avg": 20.0,
    "slot": "PF",
    "status": "ACTIVE",
-   "value": 17.8
+   "value": 17.7
   },
   "3064440": {
    "fantasy_team": "BL0CK BY ZION",
@@ -1132,7 +1132,7 @@
    "fantasy_team": null,
    "id": "3135046",
    "last15": 8.9,
-   "mpg": 10.1,
+   "mpg": 10.2,
    "name": "Tyus Jones",
    "nba_team": "DEN",
    "positions": [
@@ -1229,24 +1229,24 @@
   "3138160": {
    "fantasy_team": "Tiki Taka Laranja",
    "id": "3138160",
-   "last15": 10.0,
-   "mpg": 16.9,
+   "last15": 10.6,
+   "mpg": 17.0,
    "name": "Caleb Martin",
    "nba_team": "DAL",
    "positions": [
     "SG"
    ],
    "return_date": null,
-   "season_avg": 10.9,
+   "season_avg": 11.4,
    "slot": "UT",
    "status": "ACTIVE",
-   "value": 10.3
+   "value": 10.9
   },
   "3138196": {
    "fantasy_team": "BL0CK BY ZION",
    "id": "3138196",
-   "last15": 22.1,
-   "mpg": 25.8,
+   "last15": 22.9,
+   "mpg": 25.9,
    "name": "Cameron Johnson",
    "nba_team": "DEN",
    "positions": [
@@ -1254,10 +1254,10 @@
     "PF"
    ],
    "return_date": null,
-   "season_avg": 20.8,
+   "season_avg": 21.4,
    "slot": "UT",
    "status": "ACTIVE",
-   "value": 21.7
+   "value": 22.3
   },
   "3146557": {
    "fantasy_team": null,
@@ -1623,7 +1623,7 @@
    "fantasy_team": "Bull Market",
    "id": "3908809",
    "last15": 35.9,
-   "mpg": 30.6,
+   "mpg": 30.7,
    "name": "Donovan Mitchell",
    "nba_team": "CLE",
    "positions": [
@@ -1886,8 +1886,8 @@
   "3978": {
    "fantasy_team": "Lakers x Bortolan 23",
    "id": "3978",
-   "last15": 13.3,
-   "mpg": 21.8,
+   "last15": 13.7,
+   "mpg": 21.9,
    "name": "DeMar DeRozan",
    "nba_team": "DEN",
    "positions": [
@@ -1895,10 +1895,10 @@
     "PF"
    ],
    "return_date": null,
-   "season_avg": 16.0,
+   "season_avg": 16.2,
    "slot": "UT",
    "status": "ACTIVE",
-   "value": 14.3
+   "value": 14.6
   },
   "3992": {
    "fantasy_team": "Tiki Taka Laranja",
@@ -2502,8 +2502,8 @@
   "4277848": {
    "fantasy_team": null,
    "id": "4277848",
-   "last15": 10.9,
-   "mpg": 11.4,
+   "last15": 11.1,
+   "mpg": 11.5,
    "name": "Marvin Bagley III",
    "nba_team": "DEN",
    "positions": [
@@ -2511,10 +2511,10 @@
     "C"
    ],
    "return_date": null,
-   "season_avg": 11.1,
+   "season_avg": 11.3,
    "slot": "",
    "status": "ACTIVE",
-   "value": 10.9
+   "value": 11.2
   },
   "4277869": {
    "fantasy_team": null,
@@ -2599,8 +2599,8 @@
   "4277956": {
    "fantasy_team": "Bull Market",
    "id": "4277956",
-   "last15": 15.2,
-   "mpg": 18.4,
+   "last15": 15.8,
+   "mpg": 18.5,
    "name": "Jordan Poole",
    "nba_team": "NOP",
    "positions": [
@@ -2608,10 +2608,10 @@
     "SG"
    ],
    "return_date": null,
-   "season_avg": 16.0,
+   "season_avg": 16.2,
    "slot": "PG",
    "status": "ACTIVE",
-   "value": 15.5
+   "value": 15.9
   },
   "4277961": {
    "fantasy_team": "King Coopa",
@@ -2747,8 +2747,8 @@
   "4278078": {
    "fantasy_team": "Polga Silva",
    "id": "4278078",
-   "last15": 21.1,
-   "mpg": 30.0,
+   "last15": 21.0,
+   "mpg": 30.1,
    "name": "P.J. Washington",
    "nba_team": "DAL",
    "positions": [
@@ -2756,10 +2756,10 @@
     "PF"
    ],
    "return_date": null,
-   "season_avg": 24.0,
+   "season_avg": 23.9,
    "slot": "SF",
    "status": "ACTIVE",
-   "value": 22.1
+   "value": 22.0
   },
   "4278104": {
    "fantasy_team": "Tropa do Nikola",
@@ -3029,7 +3029,7 @@
    "fantasy_team": "BL0CK BY ZION",
    "id": "4395628",
    "last15": 35.8,
-   "mpg": 31.0,
+   "mpg": 31.1,
    "name": "Zion Williamson",
    "nba_team": "NOP",
    "positions": [
@@ -3363,7 +3363,7 @@
    "fantasy_team": "CCCP  Баскетбол",
    "id": "4397136",
    "last15": 28.8,
-   "mpg": 26.3,
+   "mpg": 26.4,
    "name": "Saddiq Bey",
    "nba_team": "NOP",
    "positions": [
@@ -4590,7 +4590,7 @@
    "fantasy_team": null,
    "id": "4592427",
    "last15": 10.8,
-   "mpg": 16.0,
+   "mpg": 16.2,
    "name": "Spencer Jones",
    "nba_team": "DEN",
    "positions": [
@@ -5004,8 +5004,8 @@
   "4683747": {
    "fantasy_team": null,
    "id": "4683747",
-   "last15": 13.3,
-   "mpg": 19.9,
+   "last15": 14.0,
+   "mpg": 20.0,
    "name": "Jaylon Tyson",
    "nba_team": "CLE",
    "positions": [
@@ -5013,10 +5013,10 @@
     "SF"
    ],
    "return_date": null,
-   "season_avg": 16.1,
+   "season_avg": 16.4,
    "slot": "",
    "status": "ACTIVE",
-   "value": 14.3
+   "value": 14.8
   },
   "4683750": {
    "fantasy_team": null,
@@ -5981,7 +5981,7 @@
   "5023693": {
    "fantasy_team": "Bull Market",
    "id": "5023693",
-   "last15": 20.7,
+   "last15": 20.6,
    "mpg": 16.8,
    "name": "Tyrese Proctor",
    "nba_team": "CLE",
@@ -5989,10 +5989,10 @@
     "SG"
    ],
    "return_date": null,
-   "season_avg": 17.5,
+   "season_avg": 17.4,
    "slot": "SG",
    "status": "ACTIVE",
-   "value": 19.5
+   "value": 19.4
   },
   "5037871": {
    "fantasy_team": "Tiki Taka Laranja",
@@ -6030,8 +6030,8 @@
   "5041939": {
    "fantasy_team": "King Coopa",
    "id": "5041939",
-   "last15": 41.9,
-   "mpg": 30.9,
+   "last15": 42.2,
+   "mpg": 31.0,
    "name": "Cooper Flagg",
    "nba_team": "DAL",
    "positions": [
@@ -6039,26 +6039,26 @@
     "PF"
    ],
    "return_date": null,
-   "season_avg": 46.6,
+   "season_avg": 46.8,
    "slot": "SF",
    "status": "ACTIVE",
-   "value": 43.5
+   "value": 43.9
   },
   "5041951": {
    "fantasy_team": "Fernando  Diniz",
    "id": "5041951",
-   "last15": 23.0,
-   "mpg": 20.5,
+   "last15": 23.6,
+   "mpg": 20.6,
    "name": "Meleek Thomas",
    "nba_team": "CLE",
    "positions": [
     "SG"
    ],
    "return_date": null,
-   "season_avg": 22.9,
+   "season_avg": 23.4,
    "slot": "SG",
    "status": "ACTIVE",
-   "value": 23.0
+   "value": 23.5
   },
   "5041953": {
    "fantasy_team": null,
@@ -7350,7 +7350,7 @@
    "fantasy_team": "Hospital do Gansola",
    "id": "6442",
    "last15": 34.0,
-   "mpg": 27.6,
+   "mpg": 27.7,
    "name": "Kyrie Irving",
    "nba_team": "DAL",
    "positions": [

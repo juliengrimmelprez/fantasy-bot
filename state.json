@@ -232,8 +232,8 @@
   "1966": {
    "fantasy_team": "Lucky",
    "id": "1966",
-   "last15": 28.5,
-   "mpg": 30.9,
+   "last15": 28.8,
+   "mpg": 31.0,
    "name": "LeBron James",
    "nba_team": "PHL",
    "positions": [
@@ -241,10 +241,10 @@
     "PF"
    ],
    "return_date": null,
-   "season_avg": 34.3,
+   "season_avg": 34.5,
    "slot": "SF",
    "status": "ACTIVE",
-   "value": 30.5
+   "value": 30.8
   },
   "2326307": {
    "fantasy_team": null,
@@ -3602,7 +3602,7 @@
   "4431678": {
    "fantasy_team": "Tiki Taka Laranja",
    "id": "4431678",
-   "last15": 43.5,
+   "last15": 43.2,
    "mpg": 34.9,
    "name": "Tyrese Maxey",
    "nba_team": "PHL",
@@ -3611,10 +3611,10 @@
     "SG"
    ],
    "return_date": null,
-   "season_avg": 44.9,
+   "season_avg": 44.7,
    "slot": "PG",
    "status": "ACTIVE",
-   "value": 44.0
+   "value": 43.8
   },
   "4431679": {
    "fantasy_team": "Polga Silva",
@@ -4698,7 +4698,7 @@
    "fantasy_team": "Polga Silva",
    "id": "4592829",
    "last15": 23.9,
-   "mpg": 21.0,
+   "mpg": 21.1,
    "name": "Quenton Jackson",
    "nba_team": "IND",
    "positions": [

@@ -1233,6 +1233,22 @@
    "status": "ACTIVE",
    "value": 1.5
   },
+  "3137259": {
+   "fantasy_team": null,
+   "id": "3137259",
+   "last15": 0,
+   "mpg": null,
+   "name": "Gabe Vincent",
+   "nba_team": "FA",
+   "positions": [
+    "PG"
+   ],
+   "return_date": null,
+   "season_avg": 0,
+   "slot": "",
+   "status": "ACTIVE",
+   "value": 0.0
+  },
   "3138160": {
    "fantasy_team": "Tiki Taka Laranja",
    "id": "3138160",
@@ -6930,22 +6946,6 @@
    "slot": "UT",
    "status": "ACTIVE",
    "value": 37.3
-  },
-  "5174655": {
-   "fantasy_team": null,
-   "id": "5174655",
-   "last15": 7.6,
-   "mpg": 18.2,
-   "name": "Chaney Johnson",
-   "nba_team": "BKN",
-   "positions": [
-    "SF"
-   ],
-   "return_date": null,
-   "season_avg": 9.8,
-   "slot": "",
-   "status": "ACTIVE",
-   "value": 8.3
   },
   "5174983": {
    "fantasy_team": "Lakers x Bortolan 23",

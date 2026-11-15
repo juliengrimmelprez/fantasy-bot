@@ -1092,7 +1092,7 @@
    "fantasy_team": "Tiki Taka Laranja",
    "id": "3134908",
    "last15": 26.5,
-   "mpg": 22.0,
+   "mpg": 22.1,
    "name": "Jakob Poeltl",
    "nba_team": "TOR",
    "positions": [
@@ -1730,18 +1730,18 @@
   "3914044": {
    "fantasy_team": null,
    "id": "3914044",
-   "last15": 17.0,
-   "mpg": 24.0,
+   "last15": 17.9,
+   "mpg": 24.1,
    "name": "Landry Shamet",
    "nba_team": "NYK",
    "positions": [
     "SG"
    ],
    "return_date": null,
-   "season_avg": 15.4,
+   "season_avg": 15.8,
    "slot": "",
    "status": "ACTIVE",
-   "value": 16.4
+   "value": 17.2
   },
   "3917376": {
    "fantasy_team": "BL0CK BY ZION",
@@ -2095,7 +2095,7 @@
    "fantasy_team": "BL0CK BY ZION",
    "id": "4065778",
    "last15": 23.3,
-   "mpg": 21.7,
+   "mpg": 21.8,
    "name": "Max Strus",
    "nba_team": "LAC",
    "positions": [
@@ -2144,7 +2144,7 @@
    "fantasy_team": null,
    "id": "4066218",
    "last15": 17.5,
-   "mpg": 16.5,
+   "mpg": 17.0,
    "name": "Grant Williams",
    "nba_team": "CHA",
    "positions": [
@@ -3020,7 +3020,7 @@
   "4395625": {
    "fantasy_team": "Lebron GOAT",
    "id": "4395625",
-   "last15": 31.8,
+   "last15": 31.5,
    "mpg": 31.6,
    "name": "RJ Barrett",
    "nba_team": "TOR",
@@ -3029,10 +3029,10 @@
     "SF"
    ],
    "return_date": null,
-   "season_avg": 32.3,
+   "season_avg": 32.1,
    "slot": "SG",
    "status": "ACTIVE",
-   "value": 31.9
+   "value": 31.7
   },
   "4395626": {
    "fantasy_team": null,
@@ -3170,8 +3170,8 @@
   "4395724": {
    "fantasy_team": "Fernando  Diniz",
    "id": "4395724",
-   "last15": 29.8,
-   "mpg": 28.8,
+   "last15": 29.0,
+   "mpg": 28.9,
    "name": "Immanuel Quickley",
    "nba_team": "TOR",
    "positions": [
@@ -3179,10 +3179,10 @@
     "SG"
    ],
    "return_date": null,
-   "season_avg": 32.0,
+   "season_avg": 31.6,
    "slot": "UT",
    "status": "ACTIVE",
-   "value": 30.6
+   "value": 29.9
   },
   "4395725": {
    "fantasy_team": "Contagem Hunters",
@@ -4397,18 +4397,18 @@
   "4433225": {
    "fantasy_team": null,
    "id": "4433225",
-   "last15": 13.4,
-   "mpg": 12.5,
+   "last15": 14.3,
+   "mpg": 12.6,
    "name": "Tyler Kolek",
    "nba_team": "NYK",
    "positions": [
     "PG"
    ],
    "return_date": null,
-   "season_avg": 15.4,
+   "season_avg": 15.9,
    "slot": "",
    "status": "ACTIVE",
-   "value": 14.1
+   "value": 14.9
   },
   "4433247": {
    "fantasy_team": "Hospital do Gansola",
@@ -4464,8 +4464,8 @@
   "4433287": {
    "fantasy_team": "Tropa do Nikola",
    "id": "4433287",
-   "last15": 18.0,
-   "mpg": 30.1,
+   "last15": 18.2,
+   "mpg": 30.2,
    "name": "Brandon Miller",
    "nba_team": "CHA",
    "positions": [
@@ -4473,10 +4473,10 @@
     "SF"
    ],
    "return_date": null,
-   "season_avg": 27.0,
+   "season_avg": 27.1,
    "slot": "UT",
    "status": "ACTIVE",
-   "value": 21.1
+   "value": 21.3
   },
   "4433621": {
    "fantasy_team": "Hospital do Gansola",
@@ -4632,7 +4632,7 @@
    "fantasy_team": "Lucky",
    "id": "4592479",
    "last15": 18.2,
-   "mpg": 25.6,
+   "mpg": 25.7,
    "name": "Julian Champagnie",
    "nba_team": "SAS",
    "positions": [
@@ -5311,7 +5311,7 @@
   "4702352": {
    "fantasy_team": null,
    "id": "4702352",
-   "last15": 17.0,
+   "last15": 17.3,
    "mpg": 22.8,
    "name": "Kobe Sanders",
    "nba_team": "LAC",
@@ -5319,10 +5319,10 @@
     "SG"
    ],
    "return_date": null,
-   "season_avg": 17.7,
+   "season_avg": 17.8,
    "slot": "",
    "status": "ACTIVE",
-   "value": 17.2
+   "value": 17.5
   },
   "4702382": {
    "fantasy_team": null,
@@ -6105,7 +6105,7 @@
    "fantasy_team": "Hospital do Gansola",
    "id": "5041955",
    "last15": 38.3,
-   "mpg": 30.8,
+   "mpg": 30.9,
    "name": "Darryn Peterson",
    "nba_team": "UTA",
    "positions": [
@@ -6283,7 +6283,7 @@
    "fantasy_team": "King Coopa",
    "id": "5093267",
    "last15": 24.4,
-   "mpg": 21.9,
+   "mpg": 22.0,
    "name": "Collin Murray-Boyles",
    "nba_team": "TOR",
    "positions": [
@@ -6559,7 +6559,7 @@
   "5106258": {
    "fantasy_team": null,
    "id": "5106258",
-   "last15": 17.1,
+   "last15": 17.9,
    "mpg": 15.7,
    "name": "Gradey Dick",
    "nba_team": "LAC",
@@ -6568,10 +6568,10 @@
     "SF"
    ],
    "return_date": null,
-   "season_avg": 14.7,
+   "season_avg": 15.1,
    "slot": "",
    "status": "ACTIVE",
-   "value": 16.3
+   "value": 16.9
   },
   "5106262": {
    "fantasy_team": null,

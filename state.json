@@ -153,11 +153,11 @@
   "4888725:20261108",
   "4278594:20261022"
  ],
- "hot_status": "ok: 264 FAs, 1913 games",
+ "hot_status": "ok: 264 FAs, 1919 games",
  "last_activity_ms": 1794696046568,
  "last_digest": 1794704176.642566,
  "last_error_alert": 1794388335.8497355,
- "last_hot_check": 1794704656.263344,
+ "last_hot_check": 1794705620.2696867,
  "last_run": "2026-10-19T22:05:14+00:00",
  "matchup_periods": {
   "1": [
@@ -7235,7 +7235,7 @@
   "5279129": {
    "fantasy_team": null,
    "id": "5279129",
-   "last15": 3.0,
+   "last15": 0,
    "mpg": 10.6,
    "name": "Sergio de Larrea",
    "nba_team": "DAL",
@@ -7243,10 +7243,10 @@
     "PG"
    ],
    "return_date": null,
-   "season_avg": 7.4,
+   "season_avg": 6.8,
    "slot": "",
    "status": "OUT",
-   "value": 4.5
+   "value": 6.8
   },
   "5279130": {
    "fantasy_team": "Tiki Taka Laranja",

@@ -162,11 +162,11 @@
   "2528426:20261029",
   "3912848:20261115"
  ],
- "hot_status": "ok: 264 FAs, 1938 games",
+ "hot_status": "ok: 264 FAs, 1940 games",
  "last_activity_ms": 1794765301649,
  "last_digest": 1794778227.517747,
  "last_error_alert": 1794388335.8497355,
- "last_hot_check": 1794777623.146841,
+ "last_hot_check": 1794778575.4305015,
  "last_run": "2026-10-19T22:05:14+00:00",
  "matchup_periods": {
   "1": [
@@ -1862,7 +1862,7 @@
   "3945274": {
    "fantasy_team": "Lakers x Bortolan 23",
    "id": "3945274",
-   "last15": 64.6,
+   "last15": 65.0,
    "mpg": 33.6,
    "name": "Luka Doncic",
    "nba_team": "LAL",
@@ -1870,10 +1870,10 @@
     "PG"
    ],
    "return_date": null,
-   "season_avg": 62.2,
+   "season_avg": 62.4,
    "slot": "PG",
    "status": "ACTIVE",
-   "value": 63.7
+   "value": 64.1
   },
   "3948153": {
    "fantasy_team": null,
@@ -2717,7 +2717,7 @@
    "return_date": null,
    "season_avg": 22.3,
    "slot": "BE",
-   "status": "DAY_TO_DAY",
+   "status": "ACTIVE",
    "value": 22.3
   },
   "4278073": {
@@ -5776,7 +5776,7 @@
    "fantasy_team": null,
    "id": "4888725",
    "last15": 16.6,
-   "mpg": 15.6,
+   "mpg": 15.7,
    "name": "Ryan Dunn",
    "nba_team": "PHO",
    "positions": [

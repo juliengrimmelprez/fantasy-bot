@@ -789,7 +789,7 @@
    "fantasy_team": "CCCP  Баскетбол",
    "id": "3064290",
    "last15": 15.6,
-   "mpg": 26.4,
+   "mpg": 26.5,
    "name": "Aaron Gordon",
    "nba_team": "DEN",
    "positions": [
@@ -952,18 +952,18 @@
   "3112335": {
    "fantasy_team": "Tropa do Nikola",
    "id": "3112335",
-   "last15": 62.3,
-   "mpg": 36.3,
+   "last15": 54.6,
+   "mpg": 33.2,
    "name": "Nikola Jokic",
    "nba_team": "DEN",
    "positions": [
     "C"
    ],
    "return_date": null,
-   "season_avg": 58.7,
+   "season_avg": 54.1,
    "slot": "C",
    "status": "ACTIVE",
-   "value": 61.1
+   "value": 54.4
   },
   "3133602": {
    "fantasy_team": null,
@@ -1245,8 +1245,8 @@
   "3138196": {
    "fantasy_team": "BL0CK BY ZION",
    "id": "3138196",
-   "last15": 25.7,
-   "mpg": 28.4,
+   "last15": 21.9,
+   "mpg": 25.1,
    "name": "Cameron Johnson",
    "nba_team": "DEN",
    "positions": [
@@ -1254,10 +1254,10 @@
     "PF"
    ],
    "return_date": null,
-   "season_avg": 23.6,
+   "season_avg": 20.5,
    "slot": "UT",
    "status": "ACTIVE",
-   "value": 24.9
+   "value": 21.4
   },
   "3146557": {
    "fantasy_team": null,
@@ -1821,18 +1821,18 @@
   "3936299": {
    "fantasy_team": "Lucky",
    "id": "3936299",
-   "last15": 52.8,
-   "mpg": 36.3,
+   "last15": 45.3,
+   "mpg": 33.2,
    "name": "Jamal Murray",
    "nba_team": "DEN",
    "positions": [
     "PG"
    ],
    "return_date": null,
-   "season_avg": 49.0,
+   "season_avg": 44.5,
    "slot": "PG",
    "status": "ACTIVE",
-   "value": 51.5
+   "value": 45.0
   },
   "3945274": {
    "fantasy_team": "Lakers x Bortolan 23",
@@ -2452,8 +2452,8 @@
   "4277813": {
    "fantasy_team": "Tiki Taka Laranja",
    "id": "4277813",
-   "last15": 13.6,
-   "mpg": 23.6,
+   "last15": 11.8,
+   "mpg": 22.1,
    "name": "Herbert Jones",
    "nba_team": "NOP",
    "positions": [
@@ -2461,10 +2461,10 @@
     "PF"
    ],
    "return_date": null,
-   "season_avg": 12.9,
+   "season_avg": 11.8,
    "slot": "UT",
    "status": "ACTIVE",
-   "value": 13.4
+   "value": 11.8
   },
   "4277843": {
    "fantasy_team": null,
@@ -3028,8 +3028,8 @@
   "4395628": {
    "fantasy_team": "BL0CK BY ZION",
    "id": "4395628",
-   "last15": 33.8,
-   "mpg": 30.3,
+   "last15": 34.0,
+   "mpg": 30.5,
    "name": "Zion Williamson",
    "nba_team": "NOP",
    "positions": [
@@ -3037,10 +3037,10 @@
     "C"
    ],
    "return_date": null,
-   "season_avg": 37.5,
+   "season_avg": 37.7,
    "slot": "UT",
    "status": "ACTIVE",
-   "value": 35.1
+   "value": 35.3
   },
   "4395630": {
    "fantasy_team": "Contagem Hunters",
@@ -3362,8 +3362,8 @@
   "4397136": {
    "fantasy_team": "CCCP  Баскетбол",
    "id": "4397136",
-   "last15": 31.9,
-   "mpg": 27.5,
+   "last15": 28.3,
+   "mpg": 25.6,
    "name": "Saddiq Bey",
    "nba_team": "NOP",
    "positions": [
@@ -3371,10 +3371,10 @@
     "PF"
    ],
    "return_date": null,
-   "season_avg": 27.9,
+   "season_avg": 25.9,
    "slot": "SF",
    "status": "ACTIVE",
-   "value": 30.5
+   "value": 27.5
   },
   "4397140": {
    "fantasy_team": null,
@@ -3709,8 +3709,8 @@
   "4431767": {
    "fantasy_team": "CCCP  Баскетбол",
    "id": "4431767",
-   "last15": 29.8,
-   "mpg": 34.3,
+   "last15": 25.9,
+   "mpg": 31.4,
    "name": "Christian Braun",
    "nba_team": "DEN",
    "positions": [
@@ -3718,10 +3718,10 @@
     "SF"
    ],
    "return_date": null,
-   "season_avg": 28.6,
+   "season_avg": 26.2,
    "slot": "SG",
    "status": "ACTIVE",
-   "value": 29.4
+   "value": 26.0
   },
   "4431785": {
    "fantasy_team": null,
@@ -6177,18 +6177,18 @@
   "5061589": {
    "fantasy_team": "Contagem Hunters",
    "id": "5061589",
-   "last15": 0,
-   "mpg": 19.5,
+   "last15": 1.0,
+   "mpg": 13.7,
    "name": "Yves Missi",
    "nba_team": "NOP",
    "positions": [
     "C"
    ],
    "return_date": null,
-   "season_avg": 36.0,
+   "season_avg": 24.3,
    "slot": "C",
    "status": "ACTIVE",
-   "value": 36.0
+   "value": 9.2
   },
   "5061603": {
    "fantasy_team": null,
@@ -6747,8 +6747,8 @@
   "5144091": {
    "fantasy_team": "King Coopa",
    "id": "5144091",
-   "last15": 29.8,
-   "mpg": 27.1,
+   "last15": 30.7,
+   "mpg": 27.3,
    "name": "Jeremiah Fears",
    "nba_team": "NOP",
    "positions": [
@@ -6756,10 +6756,10 @@
     "SG"
    ],
    "return_date": null,
-   "season_avg": 27.6,
+   "season_avg": 28.2,
    "slot": "PG",
    "status": "ACTIVE",
-   "value": 29.0
+   "value": 29.8
   },
   "5144126": {
    "fantasy_team": null,

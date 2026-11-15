@@ -401,7 +401,7 @@
    "fantasy_team": null,
    "id": "2583632",
    "last15": 13.3,
-   "mpg": 18.5,
+   "mpg": 18.6,
    "name": "Royce O'Neale",
    "nba_team": "CHA",
    "positions": [
@@ -1486,7 +1486,7 @@
    "fantasy_team": "Lucky",
    "id": "3448",
    "last15": 26.6,
-   "mpg": 23.5,
+   "mpg": 23.7,
    "name": "Brook Lopez",
    "nba_team": "LAC",
    "positions": [
@@ -2295,7 +2295,7 @@
    "fantasy_team": "Caxias French Fries",
    "id": "4066383",
    "last15": 32.6,
-   "mpg": 29.0,
+   "mpg": 29.1,
    "name": "Miles Bridges",
    "nba_team": "PHO",
    "positions": [
@@ -2363,7 +2363,7 @@
    "fantasy_team": "Lakers x Bortolan 23",
    "id": "4066648",
    "last15": 24.3,
-   "mpg": 28.6,
+   "mpg": 28.7,
    "name": "Rui Hachimura",
    "nba_team": "LAC",
    "positions": [
@@ -2461,7 +2461,7 @@
    "fantasy_team": null,
    "id": "4277811",
    "last15": 18.8,
-   "mpg": 17.6,
+   "mpg": 17.7,
    "name": "Collin Sexton",
    "nba_team": "LAL",
    "positions": [
@@ -2839,7 +2839,7 @@
    "fantasy_team": null,
    "id": "4278402",
    "last15": 21.8,
-   "mpg": 18.9,
+   "mpg": 19.0,
    "name": "Jordan Goodwin",
    "nba_team": "PHO",
    "positions": [
@@ -2906,7 +2906,7 @@
    "fantasy_team": "Contagem Hunters",
    "id": "4278585",
    "last15": 19.0,
-   "mpg": 23.7,
+   "mpg": 23.8,
    "name": "Collin Gillespie",
    "nba_team": "PHO",
    "positions": [
@@ -4298,24 +4298,24 @@
   "4433136": {
    "fantasy_team": "Tropa do Nikola",
    "id": "4433136",
-   "last15": 41.6,
-   "mpg": 30.2,
+   "last15": 41.4,
+   "mpg": 30.3,
    "name": "Walker Kessler",
    "nba_team": "LAL",
    "positions": [
     "C"
    ],
    "return_date": null,
-   "season_avg": 40.8,
+   "season_avg": 40.6,
    "slot": "C",
    "status": "ACTIVE",
-   "value": 41.3
+   "value": 41.1
   },
   "4433137": {
    "fantasy_team": "Polga Silva",
    "id": "4433137",
    "last15": 24.7,
-   "mpg": 23.0,
+   "mpg": 23.1,
    "name": "Ziaire Williams",
    "nba_team": "LAL",
    "positions": [
@@ -4431,7 +4431,7 @@
    "fantasy_team": "Caxias French Fries",
    "id": "4433249",
    "last15": 26.0,
-   "mpg": 28.2,
+   "mpg": 28.3,
    "name": "Moussa Diabate",
    "nba_team": "CHA",
    "positions": [
@@ -5968,7 +5968,7 @@
    "return_date": null,
    "season_avg": 12.5,
    "slot": "",
-   "status": "ACTIVE",
+   "status": "DAY_TO_DAY",
    "value": 10.0
   },
   "4997537": {

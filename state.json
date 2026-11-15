@@ -232,7 +232,7 @@
   "1966": {
    "fantasy_team": "Lucky",
    "id": "1966",
-   "last15": 32.7,
+   "last15": 32.3,
    "mpg": 32.3,
    "name": "LeBron James",
    "nba_team": "PHL",
@@ -241,10 +241,10 @@
     "PF"
    ],
    "return_date": null,
-   "season_avg": 36.5,
+   "season_avg": 36.4,
    "slot": "SF",
    "status": "ACTIVE",
-   "value": 34.0
+   "value": 33.7
   },
   "2326307": {
    "fantasy_team": null,
@@ -1746,7 +1746,7 @@
    "fantasy_team": "BL0CK BY ZION",
    "id": "3917376",
    "last15": 37.8,
-   "mpg": 34.4,
+   "mpg": 34.5,
    "name": "Jaylen Brown",
    "nba_team": "PHL",
    "positions": [
@@ -2043,18 +2043,18 @@
   "4065731": {
    "fantasy_team": null,
    "id": "4065731",
-   "last15": 14.3,
-   "mpg": 16.4,
+   "last15": 14.9,
+   "mpg": 16.5,
    "name": "Jay Huff",
    "nba_team": "IND",
    "positions": [
     "C"
    ],
    "return_date": null,
-   "season_avg": 15.1,
+   "season_avg": 15.4,
    "slot": "",
    "status": "ACTIVE",
-   "value": 14.6
+   "value": 15.1
   },
   "4065732": {
    "fantasy_team": "Bull Market",
@@ -3718,7 +3718,7 @@
    "fantasy_team": null,
    "id": "4431752",
    "last15": 8.5,
-   "mpg": 11.9,
+   "mpg": 12.0,
    "name": "Kobe Brown",
    "nba_team": "IND",
    "positions": [
@@ -4698,7 +4698,7 @@
    "fantasy_team": "Polga Silva",
    "id": "4592829",
    "last15": 24.6,
-   "mpg": 21.7,
+   "mpg": 21.8,
    "name": "Quenton Jackson",
    "nba_team": "IND",
    "positions": [

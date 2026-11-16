@@ -621,7 +621,7 @@
    "fantasy_team": "CCCP  Баскетбол",
    "id": "2991350",
    "last15": 16.4,
-   "mpg": 18.7,
+   "mpg": 18.8,
    "name": "Alex Caruso",
    "nba_team": "OKC",
    "positions": [
@@ -736,7 +736,7 @@
    "fantasy_team": null,
    "id": "3037789",
    "last15": 8.2,
-   "mpg": 11.9,
+   "mpg": 12.0,
    "name": "Bogdan Bogdanovic",
    "nba_team": "HOU",
    "positions": [
@@ -1228,7 +1228,7 @@
    "fantasy_team": null,
    "id": "3136777",
    "last15": 3.2,
-   "mpg": 3.0,
+   "mpg": 3.1,
    "name": "Jae'Sean Tate",
    "nba_team": "HOU",
    "positions": [
@@ -2182,7 +2182,7 @@
   "4066262": {
    "fantasy_team": null,
    "id": "4066262",
-   "last15": 16.2,
+   "last15": 16.5,
    "mpg": 14.8,
    "name": "Malik Monk",
    "nba_team": "SAC",
@@ -2191,10 +2191,10 @@
     "SG"
    ],
    "return_date": null,
-   "season_avg": 12.5,
+   "season_avg": 12.7,
    "slot": "",
    "status": "ACTIVE",
-   "value": 14.9
+   "value": 15.2
   },
   "4066320": {
    "fantasy_team": "Fernando  Diniz",
@@ -2712,7 +2712,7 @@
   "4278073": {
    "fantasy_team": "Polga Silva",
    "id": "4278073",
-   "last15": 43.8,
+   "last15": 44.2,
    "mpg": 31.6,
    "name": "Shai Gilgeous-Alexander",
    "nba_team": "OKC",
@@ -2720,10 +2720,10 @@
     "PG"
    ],
    "return_date": null,
-   "season_avg": 43.7,
+   "season_avg": 44.0,
    "slot": "UT",
    "status": "ACTIVE",
-   "value": 43.8
+   "value": 44.1
   },
   "4278076": {
    "fantasy_team": null,
@@ -3189,22 +3189,6 @@
    "slot": "UT",
    "status": "ACTIVE",
    "value": 29.6
-  },
-  "4396818": {
-   "fantasy_team": null,
-   "id": "4396818",
-   "last15": 0,
-   "mpg": null,
-   "name": "Jordan Miller",
-   "nba_team": "LAC",
-   "positions": [
-    "SF"
-   ],
-   "return_date": null,
-   "season_avg": 0,
-   "slot": "",
-   "status": "OUT",
-   "value": 0.0
   },
   "4396907": {
    "fantasy_team": "Tropa do Nikola",
@@ -4336,18 +4320,18 @@
   "4433174": {
    "fantasy_team": null,
    "id": "4433174",
-   "last15": 16.0,
-   "mpg": 15.2,
+   "last15": 16.5,
+   "mpg": 15.3,
    "name": "Dylan Cardwell",
    "nba_team": "SAC",
    "positions": [
     "C"
    ],
    "return_date": null,
-   "season_avg": 16.0,
+   "season_avg": 16.5,
    "slot": "",
    "status": "ACTIVE",
-   "value": 16.0
+   "value": 16.5
   },
   "4433192": {
    "fantasy_team": "Lebron GOAT",
@@ -4466,6 +4450,22 @@
    "slot": "UT",
    "status": "ACTIVE",
    "value": 21.3
+  },
+  "4433569": {
+   "fantasy_team": null,
+   "id": "4433569",
+   "last15": 0,
+   "mpg": 8.3,
+   "name": "Johni Broome",
+   "nba_team": "MIN",
+   "positions": [
+    "PF"
+   ],
+   "return_date": null,
+   "season_avg": 0,
+   "slot": "",
+   "status": "ACTIVE",
+   "value": 7.0
   },
   "4433621": {
    "fantasy_team": "Hospital do Gansola",
@@ -5334,7 +5334,7 @@
    "fantasy_team": null,
    "id": "4702384",
    "last15": 4.0,
-   "mpg": 8.3,
+   "mpg": 8.4,
    "name": "Nique Clifford",
    "nba_team": "OKC",
    "positions": [
@@ -5547,7 +5547,7 @@
   "4845374": {
    "fantasy_team": null,
    "id": "4845374",
-   "last15": 11.2,
+   "last15": 11.9,
    "mpg": 18.6,
    "name": "Bub Carrington",
    "nba_team": "WAS",
@@ -5556,10 +5556,10 @@
     "SG"
    ],
    "return_date": null,
-   "season_avg": 12.6,
+   "season_avg": 13.0,
    "slot": "",
    "status": "ACTIVE",
-   "value": 11.7
+   "value": 12.3
   },
   "4848625": {
    "fantasy_team": null,
@@ -6353,7 +6353,7 @@
    "fantasy_team": "Lakers x Bortolan 23",
    "id": "5104155",
    "last15": 17.4,
-   "mpg": 25.5,
+   "mpg": 25.6,
    "name": "Bilal Coulibaly",
    "nba_team": "WAS",
    "positions": [
@@ -6482,18 +6482,18 @@
   "5105837": {
    "fantasy_team": null,
    "id": "5105837",
-   "last15": 1.8,
-   "mpg": 3.1,
+   "last15": 1.6,
+   "mpg": 3.2,
    "name": "Bruce Thornton",
    "nba_team": "HOU",
    "positions": [
     "PG"
    ],
    "return_date": null,
-   "season_avg": 1.9,
+   "season_avg": 1.8,
    "slot": "",
    "status": "ACTIVE",
-   "value": 1.8
+   "value": 1.7
   },
   "5105839": {
    "fantasy_team": null,
@@ -6778,18 +6778,18 @@
   "5144126": {
    "fantasy_team": null,
    "id": "5144126",
-   "last15": 6.7,
-   "mpg": 7.2,
+   "last15": 6.9,
+   "mpg": 7.3,
    "name": "Will Riley",
    "nba_team": "WAS",
    "positions": [
     "SF"
    ],
    "return_date": null,
-   "season_avg": 4.2,
+   "season_avg": 4.3,
    "slot": "",
    "status": "ACTIVE",
-   "value": 5.8
+   "value": 6.0
   },
   "5149077": {
    "fantasy_team": null,
@@ -6941,18 +6941,18 @@
   "5174983": {
    "fantasy_team": "Lakers x Bortolan 23",
    "id": "5174983",
-   "last15": 25.3,
-   "mpg": 20.0,
+   "last15": 25.1,
+   "mpg": 20.1,
    "name": "Aday Mara",
    "nba_team": "OKC",
    "positions": [
     "C"
    ],
    "return_date": null,
-   "season_avg": 21.2,
+   "season_avg": 21.1,
    "slot": "C",
    "status": "ACTIVE",
-   "value": 23.9
+   "value": 23.7
   },
   "5175643": {
    "fantasy_team": null,
@@ -7168,7 +7168,7 @@
    "fantasy_team": null,
    "id": "5241364",
    "last15": 18.2,
-   "mpg": 16.9,
+   "mpg": 17.0,
    "name": "Bennett Stirtz",
    "nba_team": "OKC",
    "positions": [

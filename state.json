@@ -623,7 +623,7 @@
    "fantasy_team": "CCCP  Баскетбол",
    "id": "2991350",
    "last15": 16.9,
-   "mpg": 19.2,
+   "mpg": 19.3,
    "name": "Alex Caruso",
    "nba_team": "OKC",
    "positions": [
@@ -1017,24 +1017,24 @@
   "3133626": {
    "fantasy_team": null,
    "id": "3133626",
-   "last15": 18.2,
-   "mpg": 19.4,
+   "last15": 18.7,
+   "mpg": 19.5,
    "name": "Kenrich Williams",
    "nba_team": "OKC",
    "positions": [
     "SF"
    ],
    "return_date": null,
-   "season_avg": 14.7,
+   "season_avg": 15.0,
    "slot": "",
    "status": "ACTIVE",
-   "value": 17.0
+   "value": 17.4
   },
   "3133628": {
    "fantasy_team": "Caxias French Fries",
    "id": "3133628",
    "last15": 26.4,
-   "mpg": 26.8,
+   "mpg": 26.9,
    "name": "Myles Turner",
    "nba_team": "MIL",
    "positions": [
@@ -1377,7 +1377,7 @@
    "fantasy_team": "Polga Silva",
    "id": "3155942",
    "last15": 27.4,
-   "mpg": 32.9,
+   "mpg": 33.0,
    "name": "Domantas Sabonis",
    "nba_team": "SAC",
    "positions": [
@@ -2649,8 +2649,8 @@
   "4278039": {
    "fantasy_team": "Tropa do Nikola",
    "id": "4278039",
-   "last15": 33.4,
-   "mpg": 31.2,
+   "last15": 33.9,
+   "mpg": 31.3,
    "name": "Nickeil Alexander-Walker",
    "nba_team": "ATL",
    "positions": [
@@ -2658,10 +2658,10 @@
     "SG"
    ],
    "return_date": null,
-   "season_avg": 33.6,
+   "season_avg": 33.9,
    "slot": "SG",
    "status": "ACTIVE",
-   "value": 33.5
+   "value": 33.9
   },
   "4278049": {
    "fantasy_team": "Lakers x Bortolan 23",
@@ -2714,7 +2714,7 @@
   "4278073": {
    "fantasy_team": "Polga Silva",
    "id": "4278073",
-   "last15": 44.3,
+   "last15": 44.6,
    "mpg": 32.0,
    "name": "Shai Gilgeous-Alexander",
    "nba_team": "OKC",
@@ -2722,10 +2722,10 @@
     "PG"
    ],
    "return_date": null,
-   "season_avg": 44.1,
+   "season_avg": 44.2,
    "slot": "UT",
    "status": "ACTIVE",
-   "value": 44.2
+   "value": 44.4
   },
   "4278076": {
    "fantasy_team": null,
@@ -3079,7 +3079,7 @@
    "fantasy_team": null,
    "id": "4395650",
    "last15": 20.0,
-   "mpg": 17.3,
+   "mpg": 17.4,
    "name": "Leaky Black",
    "nba_team": "SAC",
    "positions": [
@@ -5236,18 +5236,18 @@
   "4701230": {
    "fantasy_team": "Lakers x Bortolan 23",
    "id": "4701230",
-   "last15": 34.4,
-   "mpg": 33.6,
+   "last15": 34.0,
+   "mpg": 33.7,
    "name": "Jalen Johnson",
    "nba_team": "ATL",
    "positions": [
     "PF"
    ],
    "return_date": null,
-   "season_avg": 39.5,
+   "season_avg": 39.3,
    "slot": "PF",
    "status": "ACTIVE",
-   "value": 36.2
+   "value": 35.8
   },
   "4701232": {
    "fantasy_team": null,
@@ -6257,18 +6257,18 @@
   "5082206": {
    "fantasy_team": "Bull Market",
    "id": "5082206",
-   "last15": 20.8,
-   "mpg": 21.4,
+   "last15": 21.3,
+   "mpg": 21.5,
    "name": "Brayden Burries",
    "nba_team": "MIL",
    "positions": [
     "SG"
    ],
    "return_date": null,
-   "season_avg": 18.4,
+   "season_avg": 18.7,
    "slot": "UT",
    "status": "ACTIVE",
-   "value": 19.9
+   "value": 20.4
   },
   "5093267": {
    "fantasy_team": "King Coopa",
@@ -6714,18 +6714,18 @@
   "5142620": {
    "fantasy_team": "BL0CK BY ZION",
    "id": "5142620",
-   "last15": 39.9,
-   "mpg": 35.3,
+   "last15": 40.2,
+   "mpg": 35.4,
    "name": "Darius Acuff Jr.",
    "nba_team": "SAC",
    "positions": [
     "PG"
    ],
    "return_date": null,
-   "season_avg": 37.0,
+   "season_avg": 37.2,
    "slot": "PG",
    "status": "ACTIVE",
-   "value": 38.9
+   "value": 39.2
   },
   "5142621": {
    "fantasy_team": null,
@@ -7073,7 +7073,7 @@
   "5214640": {
    "fantasy_team": null,
    "id": "5214640",
-   "last15": 13.0,
+   "last15": 13.5,
    "mpg": 17.8,
    "name": "Kasparas Jakucionis",
    "nba_team": "MIL",
@@ -7081,10 +7081,10 @@
     "PG"
    ],
    "return_date": null,
-   "season_avg": 15.8,
+   "season_avg": 16.1,
    "slot": "",
    "status": "ACTIVE",
-   "value": 14.0
+   "value": 14.4
   },
   "5217746": {
    "fantasy_team": null,
@@ -7169,8 +7169,8 @@
   "5241364": {
    "fantasy_team": null,
    "id": "5241364",
-   "last15": 18.3,
-   "mpg": 17.3,
+   "last15": 18.2,
+   "mpg": 17.4,
    "name": "Bennett Stirtz",
    "nba_team": "OKC",
    "positions": [
@@ -7180,7 +7180,7 @@
    "season_avg": 13.4,
    "slot": "",
    "status": "ACTIVE",
-   "value": 16.6
+   "value": 16.5
   },
   "5242496": {
    "fantasy_team": null,

@@ -604,18 +604,18 @@
   "2991235": {
    "fantasy_team": null,
    "id": "2991235",
-   "last15": 10.0,
-   "mpg": 9.0,
+   "last15": 14.0,
+   "mpg": 9.5,
    "name": "Steven Adams",
    "nba_team": "HOU",
    "positions": [
     "C"
    ],
    "return_date": null,
-   "season_avg": 10.0,
+   "season_avg": 12.0,
    "slot": "",
    "status": "ACTIVE",
-   "value": 10.0
+   "value": 13.3
   },
   "2991350": {
    "fantasy_team": "CCCP  Баскетбол",
@@ -1178,7 +1178,7 @@
   "3136195": {
    "fantasy_team": "Contagem Hunters",
    "id": "3136195",
-   "last15": 43.6,
+   "last15": 43.9,
    "mpg": 31.7,
    "name": "Karl-Anthony Towns",
    "nba_team": "NYK",
@@ -1186,10 +1186,10 @@
     "C"
    ],
    "return_date": null,
-   "season_avg": 42.5,
+   "season_avg": 42.7,
    "slot": "C",
    "status": "ACTIVE",
-   "value": 43.2
+   "value": 43.5
   },
   "3136196": {
    "fantasy_team": null,
@@ -1786,7 +1786,7 @@
    "fantasy_team": "Caxias French Fries",
    "id": "3934719",
    "last15": 28.4,
-   "mpg": 32.9,
+   "mpg": 33.0,
    "name": "OG Anunoby",
    "nba_team": "NYK",
    "positions": [
@@ -2550,7 +2550,7 @@
    "fantasy_team": "BL0CK BY ZION",
    "id": "4277905",
    "last15": 30.5,
-   "mpg": 34.7,
+   "mpg": 34.8,
    "name": "Trae Young",
    "nba_team": "WAS",
    "positions": [
@@ -4037,7 +4037,7 @@
    "fantasy_team": "Tropa do Nikola",
    "id": "4432639",
    "last15": 30.9,
-   "mpg": 33.2,
+   "mpg": 33.3,
    "name": "Jabari Smith Jr.",
    "nba_team": "HOU",
    "positions": [
@@ -5151,7 +5151,7 @@
    "fantasy_team": "King Coopa",
    "id": "4684740",
    "last15": 28.6,
-   "mpg": 32.7,
+   "mpg": 32.8,
    "name": "Amen Thompson",
    "nba_team": "HOU",
    "positions": [
@@ -5596,7 +5596,7 @@
   "4869342": {
    "fantasy_team": "King Coopa",
    "id": "4869342",
-   "last15": 34.8,
+   "last15": 35.0,
    "mpg": 28.9,
    "name": "Dyson Daniels",
    "nba_team": "ATL",
@@ -5605,10 +5605,10 @@
     "SG"
    ],
    "return_date": null,
-   "season_avg": 35.1,
+   "season_avg": 35.2,
    "slot": "UT",
    "status": "ACTIVE",
-   "value": 34.9
+   "value": 35.1
   },
   "4869780": {
    "fantasy_team": "Lucky",
@@ -6746,7 +6746,7 @@
    "fantasy_team": "Contagem Hunters",
    "id": "5142718",
    "last15": 21.8,
-   "mpg": 32.0,
+   "mpg": 32.1,
    "name": "AJ Dybantsa",
    "nba_team": "WAS",
    "positions": [
@@ -6925,7 +6925,7 @@
    "fantasy_team": "Caxias French Fries",
    "id": "5174563",
    "last15": 37.9,
-   "mpg": 32.0,
+   "mpg": 32.1,
    "name": "Kyshawn George",
    "nba_team": "WAS",
    "positions": [
@@ -7464,7 +7464,7 @@
    "fantasy_team": "Bull Market",
    "id": "6583",
    "last15": 47.7,
-   "mpg": 33.0,
+   "mpg": 33.1,
    "name": "Anthony Davis",
    "nba_team": "WAS",
    "positions": [

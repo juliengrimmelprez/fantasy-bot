@@ -174,7 +174,7 @@
  "last_activity_ms": 1794790893390,
  "last_digest": 1794800422.624581,
  "last_error_alert": 1794388335.8497355,
- "last_hot_check": 1794801737.1719294,
+ "last_hot_check": 1794802700.0330007,
  "last_run": "2026-10-19T22:05:14+00:00",
  "matchup_periods": {
   "1": [
@@ -3079,18 +3079,18 @@
   "4395650": {
    "fantasy_team": null,
    "id": "4395650",
-   "last15": 24.3,
-   "mpg": 19.0,
+   "last15": 24.4,
+   "mpg": 19.2,
    "name": "Leaky Black",
    "nba_team": "SAC",
    "positions": [
     "SF"
    ],
    "return_date": null,
-   "season_avg": 20.2,
+   "season_avg": 20.3,
    "slot": "",
    "status": "ACTIVE",
-   "value": 22.9
+   "value": 23.0
   },
   "4395651": {
    "fantasy_team": "King Coopa",
@@ -4324,7 +4324,7 @@
    "fantasy_team": null,
    "id": "4433174",
    "last15": 18.7,
-   "mpg": 17.5,
+   "mpg": 17.7,
    "name": "Dylan Cardwell",
    "nba_team": "SAC",
    "positions": [
@@ -5336,8 +5336,8 @@
   "4702384": {
    "fantasy_team": null,
    "id": "4702384",
-   "last15": 5.4,
-   "mpg": 9.8,
+   "last15": 5.9,
+   "mpg": 10.0,
    "name": "Nique Clifford",
    "nba_team": "OKC",
    "positions": [
@@ -5345,10 +5345,10 @@
     "SF"
    ],
    "return_date": null,
-   "season_avg": 4.7,
+   "season_avg": 5.0,
    "slot": "",
    "status": "ACTIVE",
-   "value": 5.1
+   "value": 5.6
   },
   "4702656": {
    "fantasy_team": null,
@@ -6878,18 +6878,18 @@
   "5159925": {
    "fantasy_team": null,
    "id": "5159925",
-   "last15": 7.0,
-   "mpg": 13.0,
+   "last15": 8.0,
+   "mpg": 14.0,
    "name": "Nikola Topic",
    "nba_team": "OKC",
    "positions": [
     "PG"
    ],
    "return_date": null,
-   "season_avg": 7.0,
+   "season_avg": 8.0,
    "slot": "",
    "status": "ACTIVE",
-   "value": 7.0
+   "value": 8.0
   },
   "5160992": {
    "fantasy_team": "King Coopa",
@@ -7170,18 +7170,18 @@
   "5241364": {
    "fantasy_team": null,
    "id": "5241364",
-   "last15": 18.9,
-   "mpg": 17.8,
+   "last15": 19.3,
+   "mpg": 17.9,
    "name": "Bennett Stirtz",
    "nba_team": "OKC",
    "positions": [
     "PG"
    ],
    "return_date": null,
-   "season_avg": 13.8,
+   "season_avg": 14.1,
    "slot": "",
    "status": "ACTIVE",
-   "value": 17.1
+   "value": 17.5
   },
   "5242496": {
    "fantasy_team": null,

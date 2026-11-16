@@ -175,7 +175,7 @@
   "3934723:20261115"
  ],
  "hot_status": "ok: 264 FAs, 2044 games",
- "last_activity_ms": 1794817684948,
+ "last_activity_ms": 1794818278410,
  "last_digest": 1794815055.335051,
  "last_error_alert": 1794388335.8497355,
  "last_hot_check": 1794818056.960282,
@@ -1917,7 +1917,7 @@
    ],
    "return_date": null,
    "season_avg": 16.8,
-   "slot": "BE",
+   "slot": "UT",
    "status": "ACTIVE",
    "value": 15.2
   },
@@ -3142,7 +3142,7 @@
    ],
    "return_date": null,
    "season_avg": 32.2,
-   "slot": "UT",
+   "slot": "BE",
    "status": "DAY_TO_DAY",
    "value": 31.0
   },
@@ -3196,6 +3196,22 @@
    "slot": "BE",
    "status": "ACTIVE",
    "value": 29.6
+  },
+  "4396818": {
+   "fantasy_team": null,
+   "id": "4396818",
+   "last15": 0,
+   "mpg": null,
+   "name": "Jordan Miller",
+   "nba_team": "LAC",
+   "positions": [
+    "SF"
+   ],
+   "return_date": null,
+   "season_avg": 0,
+   "slot": "",
+   "status": "OUT",
+   "value": 0.0
   },
   "4396907": {
    "fantasy_team": "Tropa do Nikola",
@@ -5206,7 +5222,7 @@
    "value": 5.9
   },
   "4684806": {
-   "fantasy_team": null,
+   "fantasy_team": "Tropa do Nikola",
    "id": "4684806",
    "last15": 19.0,
    "mpg": 11.6,
@@ -5217,7 +5233,7 @@
    ],
    "return_date": null,
    "season_avg": 14.1,
-   "slot": "",
+   "slot": "UT",
    "status": "ACTIVE",
    "value": 17.3
   },

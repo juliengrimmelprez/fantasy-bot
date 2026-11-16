@@ -1247,22 +1247,6 @@
    "status": "ACTIVE",
    "value": 1.7
   },
-  "3137259": {
-   "fantasy_team": null,
-   "id": "3137259",
-   "last15": 0,
-   "mpg": null,
-   "name": "Gabe Vincent",
-   "nba_team": "FA",
-   "positions": [
-    "PG"
-   ],
-   "return_date": null,
-   "season_avg": 0,
-   "slot": "",
-   "status": "ACTIVE",
-   "value": 0.0
-  },
   "3138160": {
    "fantasy_team": "Tiki Taka Laranja",
    "id": "3138160",
@@ -4355,6 +4339,22 @@
    "slot": "",
    "status": "ACTIVE",
    "value": 0.0
+  },
+  "4433149": {
+   "fantasy_team": null,
+   "id": "4433149",
+   "last15": 12.0,
+   "mpg": 9.2,
+   "name": "LJ Cryer",
+   "nba_team": "GSW",
+   "positions": [
+    "PG"
+   ],
+   "return_date": null,
+   "season_avg": 10.6,
+   "slot": "",
+   "status": "ACTIVE",
+   "value": 11.5
   },
   "4433174": {
    "fantasy_team": null,

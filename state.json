@@ -864,7 +864,7 @@
    "fantasy_team": null,
    "id": "3064560",
    "last15": 13.8,
-   "mpg": 14.7,
+   "mpg": 14.9,
    "name": "Luke Kornet",
    "nba_team": "SAS",
    "positions": [
@@ -1796,8 +1796,8 @@
   "3934719": {
    "fantasy_team": "Caxias French Fries",
    "id": "3934719",
-   "last15": 25.6,
-   "mpg": 31.6,
+   "last15": 25.4,
+   "mpg": 31.7,
    "name": "OG Anunoby",
    "nba_team": "NYK",
    "positions": [
@@ -1808,7 +1808,7 @@
    "season_avg": 25.9,
    "slot": "UT",
    "status": "ACTIVE",
-   "value": 25.7
+   "value": 25.6
   },
   "3934723": {
    "fantasy_team": null,
@@ -2544,7 +2544,7 @@
   "4277869": {
    "fantasy_team": null,
    "id": "4277869",
-   "last15": 0,
+   "last15": -0.2,
    "mpg": 8.8,
    "name": "Jose Alvarado",
    "nba_team": "NYK",
@@ -2552,10 +2552,10 @@
     "PG"
    ],
    "return_date": null,
-   "season_avg": 5.0,
+   "season_avg": 4.8,
    "slot": "",
    "status": "ACTIVE",
-   "value": 5.0
+   "value": 4.8
   },
   "4277905": {
    "fantasy_team": "BL0CK BY ZION",
@@ -3020,8 +3020,8 @@
   "4395625": {
    "fantasy_team": "Lebron GOAT",
    "id": "4395625",
-   "last15": 31.8,
-   "mpg": 32.0,
+   "last15": 31.5,
+   "mpg": 32.1,
    "name": "RJ Barrett",
    "nba_team": "TOR",
    "positions": [
@@ -3029,10 +3029,10 @@
     "SF"
    ],
    "return_date": null,
-   "season_avg": 32.3,
+   "season_avg": 32.1,
    "slot": "SG",
    "status": "ACTIVE",
-   "value": 31.9
+   "value": 31.7
   },
   "4395626": {
    "fantasy_team": null,
@@ -3070,8 +3070,8 @@
   "4395630": {
    "fantasy_team": "Contagem Hunters",
    "id": "4395630",
-   "last15": 23.1,
-   "mpg": 29.2,
+   "last15": 23.0,
+   "mpg": 29.4,
    "name": "Devin Vassell",
    "nba_team": "SAS",
    "positions": [
@@ -3079,10 +3079,10 @@
     "SF"
    ],
    "return_date": null,
-   "season_avg": 25.4,
+   "season_avg": 25.3,
    "slot": "SG",
    "status": "ACTIVE",
-   "value": 23.9
+   "value": 23.8
   },
   "4395650": {
    "fantasy_team": null,
@@ -4281,8 +4281,8 @@
   "4433134": {
    "fantasy_team": "Lebron GOAT",
    "id": "4433134",
-   "last15": 35.8,
-   "mpg": 31.0,
+   "last15": 35.5,
+   "mpg": 31.1,
    "name": "Scottie Barnes",
    "nba_team": "TOR",
    "positions": [
@@ -4290,10 +4290,10 @@
     "SF"
    ],
    "return_date": null,
-   "season_avg": 40.1,
+   "season_avg": 40.0,
    "slot": "SF",
    "status": "ACTIVE",
-   "value": 37.3
+   "value": 37.1
   },
   "4433136": {
    "fantasy_team": "Tropa do Nikola",
@@ -4497,8 +4497,8 @@
   "4433627": {
    "fantasy_team": "Lebron GOAT",
    "id": "4433627",
-   "last15": 30.5,
-   "mpg": 32.4,
+   "last15": 30.6,
+   "mpg": 32.5,
    "name": "Keyonte George",
    "nba_team": "UTA",
    "positions": [
@@ -4506,10 +4506,10 @@
     "SG"
    ],
    "return_date": null,
-   "season_avg": 33.0,
+   "season_avg": 33.1,
    "slot": "PG",
    "status": "ACTIVE",
-   "value": 31.4
+   "value": 31.5
   },
   "4437244": {
    "fantasy_team": "Bull Market",
@@ -6282,7 +6282,7 @@
   "5093267": {
    "fantasy_team": "King Coopa",
    "id": "5093267",
-   "last15": 25.6,
+   "last15": 25.7,
    "mpg": 22.5,
    "name": "Collin Murray-Boyles",
    "nba_team": "TOR",
@@ -6293,7 +6293,7 @@
    "season_avg": 22.8,
    "slot": "PF",
    "status": "ACTIVE",
-   "value": 24.6
+   "value": 24.7
   },
   "5095151": {
    "fantasy_team": "BL0CK BY ZION",

@@ -1376,8 +1376,8 @@
   "3155942": {
    "fantasy_team": "Polga Silva",
    "id": "3155942",
-   "last15": 27.4,
-   "mpg": 32.6,
+   "last15": 27.6,
+   "mpg": 32.7,
    "name": "Domantas Sabonis",
    "nba_team": "SAC",
    "positions": [
@@ -1385,10 +1385,10 @@
     "C"
    ],
    "return_date": null,
-   "season_avg": 36.0,
+   "season_avg": 36.1,
    "slot": "UT",
    "status": "ACTIVE",
-   "value": 30.4
+   "value": 30.5
   },
   "3157465": {
    "fantasy_team": "Lucky",
@@ -2418,7 +2418,7 @@
   "4222252": {
    "fantasy_team": "Fernando  Diniz",
    "id": "4222252",
-   "last15": 30.2,
+   "last15": 30.3,
    "mpg": 24.3,
    "name": "Isaiah Hartenstein",
    "nba_team": "OKC",
@@ -2429,7 +2429,7 @@
    "season_avg": 28.1,
    "slot": "UT",
    "status": "ACTIVE",
-   "value": 29.5
+   "value": 29.6
   },
   "4251": {
    "fantasy_team": "Bull Market",
@@ -2485,7 +2485,7 @@
   "4277843": {
    "fantasy_team": null,
    "id": "4277843",
-   "last15": 9.8,
+   "last15": 10.6,
    "mpg": 9.8,
    "name": "Gary Trent Jr.",
    "nba_team": "MIL",
@@ -2494,10 +2494,10 @@
     "SF"
    ],
    "return_date": null,
-   "season_avg": 8.7,
+   "season_avg": 9.3,
    "slot": "",
    "status": "ACTIVE",
-   "value": 9.4
+   "value": 10.2
   },
   "4277847": {
    "fantasy_team": "Lebron GOAT",
@@ -3462,18 +3462,18 @@
   "4397475": {
    "fantasy_team": null,
    "id": "4397475",
-   "last15": 10.0,
-   "mpg": 17.3,
+   "last15": 8.9,
+   "mpg": 16.1,
    "name": "AJ Green",
    "nba_team": "MIL",
    "positions": [
     "SG"
    ],
    "return_date": null,
-   "season_avg": 11.4,
+   "season_avg": 10.6,
    "slot": "",
    "status": "ACTIVE",
-   "value": 10.5
+   "value": 9.5
   },
   "4397688": {
    "fantasy_team": "Lebron GOAT",
@@ -4188,7 +4188,7 @@
   "4432848": {
    "fantasy_team": "Contagem Hunters",
    "id": "4432848",
-   "last15": 26.0,
+   "last15": 26.1,
    "mpg": 27.3,
    "name": "Jaime Jaquez Jr.",
    "nba_team": "MIL",
@@ -4197,10 +4197,10 @@
     "SF"
    ],
    "return_date": null,
-   "season_avg": 26.9,
+   "season_avg": 27.0,
    "slot": "UT",
    "status": "ACTIVE",
-   "value": 26.3
+   "value": 26.4
   },
   "4432907": {
    "fantasy_team": null,
@@ -5103,7 +5103,7 @@
   "4683778": {
    "fantasy_team": "Fernando  Diniz",
    "id": "4683778",
-   "last15": 23.3,
+   "last15": 23.2,
    "mpg": 25.6,
    "name": "Jared McCain",
    "nba_team": "OKC",
@@ -5112,10 +5112,10 @@
     "SG"
    ],
    "return_date": null,
-   "season_avg": 20.6,
+   "season_avg": 20.5,
    "slot": "PG",
    "status": "ACTIVE",
-   "value": 22.4
+   "value": 22.3
   },
   "4684272": {
    "fantasy_team": "Lakers x Bortolan 23",
@@ -5866,7 +5866,7 @@
   "4900671": {
    "fantasy_team": "Bull Market",
    "id": "4900671",
-   "last15": 27.0,
+   "last15": 27.4,
    "mpg": 26.1,
    "name": "Ajay Mitchell",
    "nba_team": "OKC",
@@ -5875,10 +5875,10 @@
     "SG"
    ],
    "return_date": null,
-   "season_avg": 31.4,
+   "season_avg": 31.7,
    "slot": "PG",
    "status": "ACTIVE",
-   "value": 28.5
+   "value": 28.9
   },
   "4903027": {
    "fantasy_team": "Polga Silva",
@@ -6714,18 +6714,18 @@
   "5142620": {
    "fantasy_team": "BL0CK BY ZION",
    "id": "5142620",
-   "last15": 39.6,
-   "mpg": 35.0,
+   "last15": 39.5,
+   "mpg": 35.1,
    "name": "Darius Acuff Jr.",
    "nba_team": "SAC",
    "positions": [
     "PG"
    ],
    "return_date": null,
-   "season_avg": 36.9,
+   "season_avg": 36.8,
    "slot": "PG",
    "status": "ACTIVE",
-   "value": 38.7
+   "value": 38.5
   },
   "5142621": {
    "fantasy_team": null,
@@ -7073,18 +7073,18 @@
   "5214640": {
    "fantasy_team": null,
    "id": "5214640",
-   "last15": 11.8,
-   "mpg": 17.6,
+   "last15": 11.9,
+   "mpg": 17.7,
    "name": "Kasparas Jakucionis",
    "nba_team": "MIL",
    "positions": [
     "PG"
    ],
    "return_date": null,
-   "season_avg": 15.1,
+   "season_avg": 15.2,
    "slot": "",
    "status": "ACTIVE",
-   "value": 12.9
+   "value": 13.0
   },
   "5217746": {
    "fantasy_team": null,

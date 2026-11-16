@@ -176,7 +176,7 @@
   "5105839:20261112"
  ],
  "hot_status": "ok: 264 FAs, 2057 games",
- "last_activity_ms": 1794839446159,
+ "last_activity_ms": 1794845377812,
  "last_digest": 1794844461.6836336,
  "last_error_alert": 1794388335.8497355,
  "last_hot_check": 1794845057.8869023,
@@ -638,7 +638,7 @@
    ],
    "return_date": null,
    "season_avg": 23.4,
-   "slot": "PG",
+   "slot": "BE",
    "status": "ACTIVE",
    "value": 21.1
   },
@@ -819,7 +819,7 @@
    ],
    "return_date": null,
    "season_avg": 22.0,
-   "slot": "BE",
+   "slot": "UT",
    "status": "ACTIVE",
    "value": 19.9
   },
@@ -1097,7 +1097,7 @@
    ],
    "return_date": null,
    "season_avg": 22.9,
-   "slot": "SF",
+   "slot": "BE",
    "status": "ACTIVE",
    "value": 22.1
   },
@@ -3394,7 +3394,7 @@
    ],
    "return_date": null,
    "season_avg": 28.0,
-   "slot": "BE",
+   "slot": "SF",
    "status": "ACTIVE",
    "value": 29.0
   },
@@ -3741,7 +3741,7 @@
    ],
    "return_date": null,
    "season_avg": 30.0,
-   "slot": "UT",
+   "slot": "SG",
    "status": "ACTIVE",
    "value": 28.3
   },
@@ -4620,7 +4620,7 @@
    ],
    "return_date": null,
    "season_avg": 22.1,
-   "slot": "SG",
+   "slot": "BE",
    "status": "DAY_TO_DAY",
    "value": 21.7
   },
@@ -4743,7 +4743,7 @@
    "value": 4.0
   },
   "4593125": {
-   "fantasy_team": "CCCP  Баскетбол",
+   "fantasy_team": null,
    "id": "4593125",
    "last15": 13.2,
    "mpg": 14.6,
@@ -4755,7 +4755,7 @@
    ],
    "return_date": null,
    "season_avg": 13.2,
-   "slot": "PF",
+   "slot": "",
    "status": "DAY_TO_DAY",
    "value": 13.2
   },
@@ -5338,7 +5338,7 @@
    "value": 17.8
   },
   "4702382": {
-   "fantasy_team": null,
+   "fantasy_team": "CCCP  Баскетбол",
    "id": "4702382",
    "last15": 23.2,
    "mpg": 30.5,
@@ -5350,7 +5350,7 @@
    ],
    "return_date": null,
    "season_avg": 23.5,
-   "slot": "",
+   "slot": "PF",
    "status": "ACTIVE",
    "value": 23.3
   },
@@ -5432,7 +5432,7 @@
    ],
    "return_date": null,
    "season_avg": 34.5,
-   "slot": "UT",
+   "slot": "PG",
    "status": "ACTIVE",
    "value": 34.3
   },
@@ -6631,7 +6631,7 @@
    ],
    "return_date": null,
    "season_avg": 21.0,
-   "slot": "BE",
+   "slot": "C",
    "status": "ACTIVE",
    "value": 22.7
   },
@@ -7040,7 +7040,7 @@
    ],
    "return_date": null,
    "season_avg": 20.4,
-   "slot": "C",
+   "slot": "UT",
    "status": "ACTIVE",
    "value": 20.7
   },
@@ -7813,6 +7813,7 @@
   "trades:5",
   "drop:5211175:1794839092177",
   "hot:5211175:20261115",
-  "drop:5082206:1794839446159"
+  "drop:5082206:1794839446159",
+  "drop:4593125:1794845377812"
  ]
 }

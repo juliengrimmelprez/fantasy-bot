@@ -735,8 +735,8 @@
   "3037789": {
    "fantasy_team": null,
    "id": "3037789",
-   "last15": 7.9,
-   "mpg": 11.7,
+   "last15": 7.6,
+   "mpg": 11.9,
    "name": "Bogdan Bogdanovic",
    "nba_team": "HOU",
    "positions": [
@@ -744,10 +744,10 @@
     "SF"
    ],
    "return_date": null,
-   "season_avg": 10.8,
+   "season_avg": 10.6,
    "slot": "",
    "status": "ACTIVE",
-   "value": 8.9
+   "value": 8.7
   },
   "3059318": {
    "fantasy_team": "Caxias French Fries",
@@ -1016,7 +1016,7 @@
    "fantasy_team": null,
    "id": "3133626",
    "last15": 18.1,
-   "mpg": 19.2,
+   "mpg": 19.4,
    "name": "Kenrich Williams",
    "nba_team": "OKC",
    "positions": [
@@ -1227,18 +1227,18 @@
   "3136777": {
    "fantasy_team": null,
    "id": "3136777",
-   "last15": 2.2,
-   "mpg": 2.6,
+   "last15": 3.2,
+   "mpg": 2.9,
    "name": "Jae'Sean Tate",
    "nba_team": "HOU",
    "positions": [
     "SF"
    ],
    "return_date": null,
-   "season_avg": 0.9,
+   "season_avg": 1.4,
    "slot": "",
    "status": "ACTIVE",
-   "value": 1.8
+   "value": 2.6
   },
   "3138160": {
    "fantasy_team": "Tiki Taka Laranja",
@@ -1374,8 +1374,8 @@
   "3155942": {
    "fantasy_team": "Polga Silva",
    "id": "3155942",
-   "last15": 25.9,
-   "mpg": 32.0,
+   "last15": 26.7,
+   "mpg": 32.2,
    "name": "Domantas Sabonis",
    "nba_team": "SAC",
    "positions": [
@@ -1383,10 +1383,10 @@
     "C"
    ],
    "return_date": null,
-   "season_avg": 35.1,
+   "season_avg": 35.6,
    "slot": "UT",
    "status": "ACTIVE",
-   "value": 29.1
+   "value": 29.8
   },
   "3157465": {
    "fantasy_team": "Lucky",
@@ -2417,7 +2417,7 @@
    "fantasy_team": "Fernando  Diniz",
    "id": "4222252",
    "last15": 30.3,
-   "mpg": 23.9,
+   "mpg": 24.1,
    "name": "Isaiah Hartenstein",
    "nba_team": "OKC",
    "positions": [
@@ -2713,7 +2713,7 @@
    "fantasy_team": "Polga Silva",
    "id": "4278073",
    "last15": 43.4,
-   "mpg": 31.3,
+   "mpg": 31.4,
    "name": "Shai Gilgeous-Alexander",
    "nba_team": "OKC",
    "positions": [
@@ -3076,18 +3076,18 @@
   "4395650": {
    "fantasy_team": null,
    "id": "4395650",
-   "last15": 17.4,
-   "mpg": 16.3,
+   "last15": 18.1,
+   "mpg": 16.4,
    "name": "Leaky Black",
    "nba_team": "SAC",
    "positions": [
     "SF"
    ],
    "return_date": null,
-   "season_avg": 14.9,
+   "season_avg": 15.4,
    "slot": "",
    "status": "ACTIVE",
-   "value": 16.5
+   "value": 17.2
   },
   "4395651": {
    "fantasy_team": "King Coopa",
@@ -4136,7 +4136,7 @@
    "fantasy_team": null,
    "id": "4432819",
    "last15": 6.5,
-   "mpg": 5.3,
+   "mpg": 5.7,
    "name": "Tre Mann",
    "nba_team": "WAS",
    "positions": [
@@ -5101,7 +5101,7 @@
   "4683778": {
    "fantasy_team": "Fernando  Diniz",
    "id": "4683778",
-   "last15": 22.6,
+   "last15": 22.4,
    "mpg": 25.1,
    "name": "Jared McCain",
    "nba_team": "OKC",
@@ -5110,10 +5110,10 @@
     "SG"
    ],
    "return_date": null,
-   "season_avg": 20.1,
+   "season_avg": 20.0,
    "slot": "PG",
    "status": "ACTIVE",
-   "value": 21.7
+   "value": 21.6
   },
   "4684272": {
    "fantasy_team": "Lakers x Bortolan 23",
@@ -5547,7 +5547,7 @@
   "4845374": {
    "fantasy_team": null,
    "id": "4845374",
-   "last15": 11.2,
+   "last15": 11.1,
    "mpg": 18.4,
    "name": "Bub Carrington",
    "nba_team": "WAS",
@@ -5559,7 +5559,7 @@
    "season_avg": 12.6,
    "slot": "",
    "status": "ACTIVE",
-   "value": 11.7
+   "value": 11.6
   },
   "4848625": {
    "fantasy_team": null,
@@ -5865,7 +5865,7 @@
    "fantasy_team": "Bull Market",
    "id": "4900671",
    "last15": 27.3,
-   "mpg": 25.4,
+   "mpg": 25.6,
    "name": "Ajay Mitchell",
    "nba_team": "OKC",
    "positions": [
@@ -6353,7 +6353,7 @@
    "fantasy_team": "Lakers x Bortolan 23",
    "id": "5104155",
    "last15": 16.9,
-   "mpg": 25.3,
+   "mpg": 25.5,
    "name": "Bilal Coulibaly",
    "nba_team": "WAS",
    "positions": [
@@ -6483,7 +6483,7 @@
    "fantasy_team": null,
    "id": "5105837",
    "last15": 1.6,
-   "mpg": 2.8,
+   "mpg": 2.9,
    "name": "Bruce Thornton",
    "nba_team": "HOU",
    "positions": [
@@ -6712,18 +6712,18 @@
   "5142620": {
    "fantasy_team": "BL0CK BY ZION",
    "id": "5142620",
-   "last15": 38.8,
-   "mpg": 34.6,
+   "last15": 39.0,
+   "mpg": 34.8,
    "name": "Darius Acuff Jr.",
    "nba_team": "SAC",
    "positions": [
     "PG"
    ],
    "return_date": null,
-   "season_avg": 36.3,
+   "season_avg": 36.5,
    "slot": "PG",
    "status": "ACTIVE",
-   "value": 37.9
+   "value": 38.1
   },
   "5142621": {
    "fantasy_team": null,
@@ -6778,18 +6778,18 @@
   "5144126": {
    "fantasy_team": null,
    "id": "5144126",
-   "last15": 4.9,
-   "mpg": 6.9,
+   "last15": 5.3,
+   "mpg": 7.0,
    "name": "Will Riley",
    "nba_team": "WAS",
    "positions": [
     "SF"
    ],
    "return_date": null,
-   "season_avg": 3.0,
+   "season_avg": 3.3,
    "slot": "",
    "status": "ACTIVE",
-   "value": 4.2
+   "value": 4.6
   },
   "5149077": {
    "fantasy_team": null,

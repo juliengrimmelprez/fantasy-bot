@@ -174,11 +174,11 @@
   "4066262:20261116",
   "5254165:20261022"
  ],
- "hot_status": "ok: 264 FAs, 2054 games",
+ "hot_status": "ok: 264 FAs, 2057 games",
  "last_activity_ms": 1794839446159,
  "last_digest": 1794837037.207437,
  "last_error_alert": 1794388335.8497355,
- "last_hot_check": 1794839181.6161437,
+ "last_hot_check": 1794840281.4569776,
  "last_run": "2026-10-19T22:05:14+00:00",
  "matchup_periods": {
   "1": [
@@ -2352,7 +2352,7 @@
    "return_date": null,
    "season_avg": 38.6,
    "slot": "PG",
-   "status": "OUT",
+   "status": "DAY_TO_DAY",
    "value": 38.6
   },
   "4066648": {

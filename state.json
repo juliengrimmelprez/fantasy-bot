@@ -3478,7 +3478,7 @@
    "return_date": null,
    "season_avg": 22.9,
    "slot": "C",
-   "status": "ACTIVE",
+   "status": "DAY_TO_DAY",
    "value": 23.9
   },
   "4397475": {
@@ -5185,7 +5185,7 @@
    "return_date": null,
    "season_avg": 33.2,
    "slot": "SG",
-   "status": "ACTIVE",
+   "status": "DAY_TO_DAY",
    "value": 32.8
   },
   "4684742": {
@@ -7814,6 +7814,7 @@
   "drop:5211175:1794839092177",
   "hot:5211175:20261115",
   "drop:5082206:1794839446159",
-  "drop:4593125:1794845377812"
+  "drop:4593125:1794845377812",
+  "inj:4684740:DAY_TO_DAY"
  ]
 }

@@ -174,11 +174,11 @@
   "4066262:20261116",
   "5254165:20261022"
  ],
- "hot_status": "ok: 264 FAs, 2051 games",
- "last_activity_ms": 1794818659847,
+ "hot_status": "ok: 264 FAs, 2054 games",
+ "last_activity_ms": 1794839092177,
  "last_digest": 1794837037.207437,
  "last_error_alert": 1794388335.8497355,
- "last_hot_check": 1794838229.3026297,
+ "last_hot_check": 1794839181.6161437,
  "last_run": "2026-10-19T22:05:14+00:00",
  "matchup_periods": {
   "1": [
@@ -7044,7 +7044,7 @@
    "value": 20.7
   },
   "5211175": {
-   "fantasy_team": "Hospital do Gansola",
+   "fantasy_team": null,
    "id": "5211175",
    "last15": 17.4,
    "mpg": 23.8,
@@ -7055,7 +7055,7 @@
    ],
    "return_date": null,
    "season_avg": 22.8,
-   "slot": "BE",
+   "slot": "",
    "status": "ACTIVE",
    "value": 19.3
   },
@@ -7517,7 +7517,7 @@
    "value": 13.7
   },
   "6589": {
-   "fantasy_team": null,
+   "fantasy_team": "Hospital do Gansola",
    "id": "6589",
    "last15": 23.5,
    "mpg": 25.9,
@@ -7529,7 +7529,7 @@
    ],
    "return_date": null,
    "season_avg": 22.8,
-   "slot": "",
+   "slot": "BE",
    "status": "ACTIVE",
    "value": 23.3
   },
@@ -7809,6 +7809,8 @@
   "week:5",
   "recap:4",
   "race:5",
-  "trades:5"
+  "trades:5",
+  "drop:5211175:1794839092177",
+  "hot:5211175:20261115"
  ]
 }

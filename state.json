@@ -183,7 +183,7 @@
   "4683747:20261114"
  ],
  "hot_status": "ok: 264 FAs, 2127 games",
- "last_activity_ms": 1794938658335,
+ "last_activity_ms": 1794950196750,
  "last_digest": 1794947426.6868062,
  "last_error_alert": 1794388335.8497355,
  "last_hot_check": 1794949821.323844,
@@ -297,7 +297,7 @@
    ],
    "return_date": null,
    "season_avg": 28.0,
-   "slot": "UT",
+   "slot": "IR",
    "status": "OUT",
    "value": 30.3
   },
@@ -1238,6 +1238,22 @@
    "slot": "",
    "status": "ACTIVE",
    "value": 0.0
+  },
+  "3136777": {
+   "fantasy_team": null,
+   "id": "3136777",
+   "last15": 4.2,
+   "mpg": 4.1,
+   "name": "Jae'Sean Tate",
+   "nba_team": "HOU",
+   "positions": [
+    "SF"
+   ],
+   "return_date": null,
+   "season_avg": 2.3,
+   "slot": "",
+   "status": "ACTIVE",
+   "value": 3.6
   },
   "3138160": {
    "fantasy_team": "Tiki Taka Laranja",
@@ -7212,7 +7228,7 @@
    "value": 10.1
   },
   "5254165": {
-   "fantasy_team": null,
+   "fantasy_team": "Contagem Hunters",
    "id": "5254165",
    "last15": 22.0,
    "mpg": 23.2,
@@ -7224,7 +7240,7 @@
    ],
    "return_date": null,
    "season_avg": 21.2,
-   "slot": "",
+   "slot": "UT",
    "status": "ACTIVE",
    "value": 21.7
   },

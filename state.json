@@ -183,7 +183,7 @@
   "3150844:20261027"
  ],
  "hot_status": "ok: 264 FAs, 2134 games",
- "last_activity_ms": 1794886465650,
+ "last_activity_ms": 1794904148598,
  "last_digest": 1794903255.24087,
  "last_error_alert": 1794388335.8497355,
  "last_hot_check": 1794903736.9545054,
@@ -2857,7 +2857,7 @@
    "value": 24.5
   },
   "4278562": {
-   "fantasy_team": null,
+   "fantasy_team": "Tiki Taka Laranja",
    "id": "4278562",
    "last15": 23.5,
    "mpg": 26.8,
@@ -2869,7 +2869,7 @@
    ],
    "return_date": null,
    "season_avg": 27.0,
-   "slot": "",
+   "slot": "PF",
    "status": "ACTIVE",
    "value": 24.7
   },
@@ -3655,7 +3655,7 @@
    "value": 12.7
   },
   "4431687": {
-   "fantasy_team": "Tiki Taka Laranja",
+   "fantasy_team": null,
    "id": "4431687",
    "last15": 19.2,
    "mpg": 22.7,
@@ -3666,7 +3666,7 @@
    ],
    "return_date": null,
    "season_avg": 19.2,
-   "slot": "PF",
+   "slot": "",
    "status": "DAY_TO_DAY",
    "value": 19.2
   },
@@ -5131,7 +5131,7 @@
    "value": 24.1
   },
   "4684272": {
-   "fantasy_team": null,
+   "fantasy_team": "Bull Market",
    "id": "4684272",
    "last15": 15.8,
    "mpg": 30.7,
@@ -5142,7 +5142,7 @@
    ],
    "return_date": null,
    "season_avg": 21.5,
-   "slot": "",
+   "slot": "BE",
    "status": "ACTIVE",
    "value": 17.8
   },
@@ -7132,7 +7132,7 @@
    "value": 1.7
   },
   "5238230": {
-   "fantasy_team": "Bull Market",
+   "fantasy_team": null,
    "id": "5238230",
    "last15": 12.9,
    "mpg": 23.4,
@@ -7143,7 +7143,7 @@
    ],
    "return_date": null,
    "season_avg": 13.8,
-   "slot": "BE",
+   "slot": "",
    "status": "ACTIVE",
    "value": 13.2
   },
@@ -7813,6 +7813,8 @@
   "inj:4684740:OUT",
   "inj:4433136:OUT",
   "cold:4600663:20261112",
-  "hot:4712896:20261117"
+  "hot:4712896:20261117",
+  "drop:5238230:1794904148598",
+  "drop:4431687:1794904148598"
  ]
 }

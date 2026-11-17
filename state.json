@@ -183,7 +183,7 @@
   "5044385:20261023"
  ],
  "hot_status": "ok: 264 FAs, 2123 games",
- "last_activity_ms": 1794956101149,
+ "last_activity_ms": 1794956660349,
  "last_digest": 1794954738.3049462,
  "last_error_alert": 1794388335.8497355,
  "last_hot_check": 1794956538.3695037,
@@ -2145,7 +2145,7 @@
    "value": 18.3
   },
   "4066211": {
-   "fantasy_team": null,
+   "fantasy_team": "BL0CK BY ZION",
    "id": "4066211",
    "last15": 20.9,
    "mpg": 16.3,
@@ -2156,7 +2156,7 @@
    ],
    "return_date": null,
    "season_avg": 22.0,
-   "slot": "",
+   "slot": "BE",
    "status": "ACTIVE",
    "value": 21.3
   },
@@ -3220,6 +3220,22 @@
    "slot": "UT",
    "status": "ACTIVE",
    "value": 30.6
+  },
+  "4396818": {
+   "fantasy_team": null,
+   "id": "4396818",
+   "last15": 0,
+   "mpg": null,
+   "name": "Jordan Miller",
+   "nba_team": "LAC",
+   "positions": [
+    "SF"
+   ],
+   "return_date": null,
+   "season_avg": 0,
+   "slot": "",
+   "status": "OUT",
+   "value": 0.0
   },
   "4396907": {
    "fantasy_team": "Tropa do Nikola",

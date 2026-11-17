@@ -815,7 +815,7 @@
    "fantasy_team": "CCCP  Баскетбол",
    "id": "3064290",
    "last15": 17.0,
-   "mpg": 28.4,
+   "mpg": 28.5,
    "name": "Aaron Gordon",
    "nba_team": "DEN",
    "positions": [
@@ -978,18 +978,18 @@
   "3112335": {
    "fantasy_team": "Tropa do Nikola",
    "id": "3112335",
-   "last15": 61.0,
-   "mpg": 35.1,
+   "last15": 61.3,
+   "mpg": 35.2,
    "name": "Nikola Jokic",
    "nba_team": "DEN",
    "positions": [
     "C"
    ],
    "return_date": null,
-   "season_avg": 57.5,
+   "season_avg": 57.7,
    "slot": "C",
    "status": "ACTIVE",
-   "value": 59.8
+   "value": 60.0
   },
   "3133602": {
    "fantasy_team": null,
@@ -1174,7 +1174,7 @@
    "fantasy_team": "Caxias French Fries",
    "id": "3136193",
    "last15": 38.1,
-   "mpg": 32.4,
+   "mpg": 32.5,
    "name": "Devin Booker",
    "nba_team": "PHO",
    "positions": [
@@ -1256,7 +1256,7 @@
    "fantasy_team": "Lakers x Bortolan 23",
    "id": "3138196",
    "last15": 23.0,
-   "mpg": 26.9,
+   "mpg": 27.0,
    "name": "Cameron Johnson",
    "nba_team": "DEN",
    "positions": [
@@ -1338,7 +1338,7 @@
    "fantasy_team": "Fernando  Diniz",
    "id": "3155526",
    "last15": 16.6,
-   "mpg": 28.0,
+   "mpg": 28.1,
    "name": "Dillon Brooks",
    "nba_team": "PHO",
    "positions": [
@@ -2072,7 +2072,7 @@
    "return_date": null,
    "season_avg": 39.5,
    "slot": "PG",
-   "status": "OUT",
+   "status": "DAY_TO_DAY",
    "value": 38.2
   },
   "4065778": {
@@ -2279,7 +2279,7 @@
    "fantasy_team": "Caxias French Fries",
    "id": "4066383",
    "last15": 32.0,
-   "mpg": 28.3,
+   "mpg": 28.4,
    "name": "Miles Bridges",
    "nba_team": "PHO",
    "positions": [
@@ -3702,8 +3702,8 @@
   "4431767": {
    "fantasy_team": "CCCP  Баскетбол",
    "id": "4431767",
-   "last15": 27.4,
-   "mpg": 32.4,
+   "last15": 27.7,
+   "mpg": 32.5,
    "name": "Christian Braun",
    "nba_team": "DEN",
    "positions": [
@@ -3711,10 +3711,10 @@
     "SF"
    ],
    "return_date": null,
-   "season_avg": 29.8,
+   "season_avg": 30.0,
    "slot": "SG",
    "status": "ACTIVE",
-   "value": 28.3
+   "value": 28.5
   },
   "4431785": {
    "fantasy_team": null,
@@ -4076,7 +4076,7 @@
    "return_date": null,
    "season_avg": 20.5,
    "slot": "",
-   "status": "OUT",
+   "status": "DAY_TO_DAY",
    "value": 19.4
   },
   "4432811": {
@@ -4498,8 +4498,8 @@
   "4437244": {
    "fantasy_team": "Bull Market",
    "id": "4437244",
-   "last15": 19.0,
-   "mpg": 25.8,
+   "last15": 20.2,
+   "mpg": 25.9,
    "name": "Jalen Green",
    "nba_team": "PHO",
    "positions": [
@@ -4507,10 +4507,10 @@
     "SF"
    ],
    "return_date": null,
-   "season_avg": 18.4,
+   "season_avg": 19.2,
    "slot": "SF",
    "status": "ACTIVE",
-   "value": 18.8
+   "value": 19.9
   },
   "4566434": {
    "fantasy_team": "King Coopa",
@@ -4598,8 +4598,8 @@
   "4592427": {
    "fantasy_team": null,
    "id": "4592427",
-   "last15": 10.0,
-   "mpg": 16.0,
+   "last15": 9.6,
+   "mpg": 16.2,
    "name": "Spencer Jones",
    "nba_team": "DEN",
    "positions": [
@@ -4607,10 +4607,10 @@
     "PF"
    ],
    "return_date": null,
-   "season_avg": 10.0,
+   "season_avg": 9.6,
    "slot": "",
    "status": "ACTIVE",
-   "value": 10.0
+   "value": 9.6
   },
   "4592479": {
    "fantasy_team": "Lucky",
@@ -4832,7 +4832,7 @@
    "fantasy_team": null,
    "id": "4601023",
    "last15": 18.1,
-   "mpg": 21.5,
+   "mpg": 21.6,
    "name": "Oso Ighodaro",
    "nba_team": "PHO",
    "positions": [

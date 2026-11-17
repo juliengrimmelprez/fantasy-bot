@@ -183,7 +183,7 @@
   "4687718:20261025"
  ],
  "hot_status": "ok: 264 FAs, 2142 games",
- "last_activity_ms": 1794931200556,
+ "last_activity_ms": 1794936404830,
  "last_digest": 1794936375.6561198,
  "last_error_alert": 1794388335.8497355,
  "last_hot_check": 1794936375.6553102,
@@ -4167,7 +4167,7 @@
    "value": 9.0
   },
   "4432847": {
-   "fantasy_team": null,
+   "fantasy_team": "CCCP  Баскетбол",
    "id": "4432847",
    "last15": 22.5,
    "mpg": 22.7,
@@ -4178,7 +4178,7 @@
    ],
    "return_date": null,
    "season_avg": 20.6,
-   "slot": "",
+   "slot": "SG",
    "status": "ACTIVE",
    "value": 21.8
   },
@@ -5407,7 +5407,7 @@
    ],
    "return_date": null,
    "season_avg": 34.2,
-   "slot": "SG",
+   "slot": "BE",
    "status": "ACTIVE",
    "value": 33.2
   },
@@ -6594,7 +6594,7 @@
    "value": 15.2
   },
   "5107173": {
-   "fantasy_team": "CCCP  Баскетбол",
+   "fantasy_team": null,
    "id": "5107173",
    "last15": 20.3,
    "mpg": 22.6,
@@ -6606,7 +6606,7 @@
    ],
    "return_date": null,
    "season_avg": 18.9,
-   "slot": "BE",
+   "slot": "",
    "status": "ACTIVE",
    "value": 19.8
   },
@@ -7802,6 +7802,7 @@
   "drop:4431687:1794904148598",
   "diag:29",
   "planday:29",
-  "ltrade:1794931200556"
+  "ltrade:1794931200556",
+  "drop:5107173:1794936404830"
  ]
 }

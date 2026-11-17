@@ -180,7 +180,7 @@
   "4395626:20261117"
  ],
  "hot_status": "ok: 262 FAs, 2125 games",
- "last_activity_ms": 1794886236745,
+ "last_activity_ms": 1794886465650,
  "last_digest": 1794884902.074403,
  "last_error_alert": 1794388335.8497355,
  "last_hot_check": 1794886457.211961,
@@ -1646,23 +1646,6 @@
    "status": "ACTIVE",
    "value": 44.0
   },
-  "3908845": {
-   "fantasy_team": null,
-   "id": "3908845",
-   "last15": 22.2,
-   "mpg": 26.2,
-   "name": "John Collins",
-   "nba_team": "DET",
-   "positions": [
-    "PF",
-    "C"
-   ],
-   "return_date": null,
-   "season_avg": 21.3,
-   "slot": "",
-   "status": "ACTIVE",
-   "value": 21.9
-  },
   "3912848": {
    "fantasy_team": null,
    "id": "3912848",
@@ -1992,6 +1975,22 @@
    "slot": "SF",
    "status": "ACTIVE",
    "value": 45.5
+  },
+  "4065654": {
+   "fantasy_team": null,
+   "id": "4065654",
+   "last15": 0,
+   "mpg": 11.3,
+   "name": "Jonathan Isaac",
+   "nba_team": "ORL",
+   "positions": [
+    "PF"
+   ],
+   "return_date": null,
+   "season_avg": 0,
+   "slot": "",
+   "status": "OUT",
+   "value": 10.9
   },
   "4065663": {
    "fantasy_team": null,

@@ -298,7 +298,7 @@
    "return_date": null,
    "season_avg": 28.0,
    "slot": "UT",
-   "status": "ACTIVE",
+   "status": "OUT",
    "value": 30.3
   },
   "2528210": {
@@ -7819,6 +7819,7 @@
   "diag:29",
   "planday:29",
   "ltrade:1794931200556",
-  "drop:5107173:1794936404830"
+  "drop:5107173:1794936404830",
+  "inj:2490149:OUT"
  ]
 }

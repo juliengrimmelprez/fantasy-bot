@@ -179,7 +179,7 @@
  "last_activity_ms": 1794871206493,
  "last_digest": 1794877593.5602481,
  "last_error_alert": 1794388335.8497355,
- "last_hot_check": 1794876867.0260348,
+ "last_hot_check": 1794877821.1884286,
  "last_run": "2026-10-19T22:05:14+00:00",
  "matchup_periods": {
   "1": [
@@ -744,7 +744,7 @@
    "fantasy_team": null,
    "id": "3037789",
    "last15": 8.1,
-   "mpg": 11.5,
+   "mpg": 11.7,
    "name": "Bogdan Bogdanovic",
    "nba_team": "HOU",
    "positions": [
@@ -892,8 +892,8 @@
   "3078576": {
    "fantasy_team": "Lucky",
    "id": "3078576",
-   "last15": 29.1,
-   "mpg": 28.1,
+   "last15": 29.2,
+   "mpg": 28.2,
    "name": "Derrick White",
    "nba_team": "BOS",
    "positions": [
@@ -904,7 +904,7 @@
    "season_avg": 28.9,
    "slot": "SG",
    "status": "ACTIVE",
-   "value": 29.0
+   "value": 29.1
   },
   "3102529": {
    "fantasy_team": null,
@@ -2557,7 +2557,7 @@
   "4277905": {
    "fantasy_team": "BL0CK BY ZION",
    "id": "4277905",
-   "last15": 30.8,
+   "last15": 30.7,
    "mpg": 34.1,
    "name": "Trae Young",
    "nba_team": "WAS",
@@ -2568,7 +2568,7 @@
    "season_avg": 34.9,
    "slot": "UT",
    "status": "ACTIVE",
-   "value": 32.2
+   "value": 32.1
   },
   "4277919": {
    "fantasy_team": "CCCP  Баскетбол",
@@ -4028,8 +4028,8 @@
   "4432639": {
    "fantasy_team": "Tropa do Nikola",
    "id": "4432639",
-   "last15": 24.8,
-   "mpg": 32.3,
+   "last15": 25.0,
+   "mpg": 32.4,
    "name": "Jabari Smith Jr.",
    "nba_team": "HOU",
    "positions": [
@@ -4037,10 +4037,10 @@
     "C"
    ],
    "return_date": null,
-   "season_avg": 30.8,
+   "season_avg": 30.9,
    "slot": "UT",
    "status": "ACTIVE",
-   "value": 26.9
+   "value": 27.1
   },
   "4432808": {
    "fantasy_team": null,
@@ -4528,7 +4528,7 @@
   "4566434": {
    "fantasy_team": "King Coopa",
    "id": "4566434",
-   "last15": 47.6,
+   "last15": 47.5,
    "mpg": 35.2,
    "name": "Franz Wagner",
    "nba_team": "ORL",
@@ -4537,10 +4537,10 @@
     "PF"
    ],
    "return_date": null,
-   "season_avg": 42.2,
+   "season_avg": 42.1,
    "slot": "SF",
    "status": "ACTIVE",
-   "value": 45.7
+   "value": 45.6
   },
   "4576060": {
    "fantasy_team": null,
@@ -4712,8 +4712,8 @@
   "4593016": {
    "fantasy_team": null,
    "id": "4593016",
-   "last15": 1.8,
-   "mpg": 12.0,
+   "last15": 1.5,
+   "mpg": 12.1,
    "name": "Quinten Post",
    "nba_team": "MEM",
    "positions": [
@@ -4721,10 +4721,10 @@
     "C"
    ],
    "return_date": null,
-   "season_avg": 8.2,
+   "season_avg": 8.1,
    "slot": "",
    "status": "ACTIVE",
-   "value": 4.0
+   "value": 3.8
   },
   "4593125": {
    "fantasy_team": null,
@@ -6589,7 +6589,7 @@
   "5107157": {
    "fantasy_team": null,
    "id": "5107157",
-   "last15": 15.0,
+   "last15": 15.2,
    "mpg": 14.7,
    "name": "Ryan Conwell",
    "nba_team": "MIA",
@@ -6597,10 +6597,10 @@
     "SG"
    ],
    "return_date": null,
-   "season_avg": 11.5,
+   "season_avg": 11.7,
    "slot": "",
    "status": "ACTIVE",
-   "value": 13.8
+   "value": 14.0
   },
   "5107173": {
    "fantasy_team": "CCCP  Баскетбол",
@@ -6753,18 +6753,18 @@
   "5142718": {
    "fantasy_team": "Contagem Hunters",
    "id": "5142718",
-   "last15": 23.3,
-   "mpg": 31.8,
+   "last15": 23.4,
+   "mpg": 31.9,
    "name": "AJ Dybantsa",
    "nba_team": "WAS",
    "positions": [
     "SF"
    ],
    "return_date": null,
-   "season_avg": 23.9,
+   "season_avg": 24.0,
    "slot": "SF",
    "status": "ACTIVE",
-   "value": 23.5
+   "value": 23.6
   },
   "5144091": {
    "fantasy_team": "King Coopa",

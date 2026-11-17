@@ -183,7 +183,7 @@
   "4683766:20261111"
  ],
  "hot_status": "ok: 264 FAs, 2137 games",
- "last_activity_ms": 1794904148598,
+ "last_activity_ms": 1794931200556,
  "last_digest": 1794928936.824262,
  "last_error_alert": 1794388335.8497355,
  "last_hot_check": 1794930619.3313825,
@@ -1239,22 +1239,6 @@
    "status": "ACTIVE",
    "value": 0.0
   },
-  "3136777": {
-   "fantasy_team": null,
-   "id": "3136777",
-   "last15": 4.2,
-   "mpg": 4.1,
-   "name": "Jae'Sean Tate",
-   "nba_team": "HOU",
-   "positions": [
-    "SF"
-   ],
-   "return_date": null,
-   "season_avg": 2.3,
-   "slot": "",
-   "status": "ACTIVE",
-   "value": 3.6
-  },
   "3138160": {
    "fantasy_team": "Tiki Taka Laranja",
    "id": "3138160",
@@ -1848,7 +1832,7 @@
    "value": 27.8
   },
   "3936299": {
-   "fantasy_team": "Lucky",
+   "fantasy_team": "Hospital do Gansola",
    "id": "3936299",
    "last15": 49.6,
    "mpg": 36.3,
@@ -1859,7 +1843,7 @@
    ],
    "return_date": null,
    "season_avg": 48.4,
-   "slot": "UT",
+   "slot": "BE",
    "status": "ACTIVE",
    "value": 49.2
   },
@@ -2177,7 +2161,7 @@
    "value": 18.5
   },
   "4066259": {
-   "fantasy_team": "Hospital do Gansola",
+   "fantasy_team": "Lucky",
    "id": "4066259",
    "last15": 26.6,
    "mpg": 28.6,
@@ -2189,7 +2173,7 @@
    ],
    "return_date": null,
    "season_avg": 32.1,
-   "slot": "SG",
+   "slot": "UT",
    "status": "ACTIVE",
    "value": 28.5
   },
@@ -4000,7 +3984,7 @@
    "value": 0.0
   },
   "4432573": {
-   "fantasy_team": "Hospital do Gansola",
+   "fantasy_team": "Lucky",
    "id": "4432573",
    "last15": 0,
    "mpg": 33.5,
@@ -4012,7 +3996,7 @@
    ],
    "return_date": null,
    "season_avg": 45.0,
-   "slot": "IR",
+   "slot": "BE",
    "status": "OUT",
    "value": 45.0
   },
@@ -6447,7 +6431,7 @@
    "value": 7.0
   },
   "5105623": {
-   "fantasy_team": "Lucky",
+   "fantasy_team": null,
    "id": "5105623",
    "last15": 16.1,
    "mpg": 18.2,
@@ -6458,7 +6442,7 @@
    ],
    "return_date": null,
    "season_avg": 19.7,
-   "slot": "BE",
+   "slot": "",
    "status": "ACTIVE",
    "value": 17.4
   },
@@ -7817,6 +7801,7 @@
   "drop:5238230:1794904148598",
   "drop:4431687:1794904148598",
   "diag:29",
-  "planday:29"
+  "planday:29",
+  "ltrade:1794931200556"
  ]
 }

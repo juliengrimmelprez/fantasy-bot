@@ -1728,7 +1728,7 @@
    "return_date": null,
    "season_avg": 38.4,
    "slot": "SG",
-   "status": "ACTIVE",
+   "status": "DAY_TO_DAY",
    "value": 40.8
   },
   "3934672": {
@@ -3705,7 +3705,7 @@
   "4431767": {
    "fantasy_team": "CCCP  Баскетбол",
    "id": "4431767",
-   "last15": 28.0,
+   "last15": 27.7,
    "mpg": 33.7,
    "name": "Christian Braun",
    "nba_team": "DEN",
@@ -3714,10 +3714,10 @@
     "SF"
    ],
    "return_date": null,
-   "season_avg": 30.2,
+   "season_avg": 30.0,
    "slot": "SG",
    "status": "ACTIVE",
-   "value": 28.8
+   "value": 28.5
   },
   "4431785": {
    "fantasy_team": null,

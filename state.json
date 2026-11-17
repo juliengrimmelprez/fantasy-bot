@@ -1075,18 +1075,18 @@
   "3134903": {
    "fantasy_team": null,
    "id": "3134903",
-   "last15": 8.5,
-   "mpg": 12.8,
+   "last15": 7.8,
+   "mpg": 12.9,
    "name": "Gary Payton II",
    "nba_team": "GSW",
    "positions": [
     "SG"
    ],
    "return_date": null,
-   "season_avg": 8.2,
+   "season_avg": 7.9,
    "slot": "",
    "status": "ACTIVE",
-   "value": 8.4
+   "value": 7.9
   },
   "3134907": {
    "fantasy_team": "CCCP  Баскетбол",
@@ -2626,7 +2626,7 @@
    "fantasy_team": "Bull Market",
    "id": "4277956",
    "last15": 19.4,
-   "mpg": 21.6,
+   "mpg": 21.7,
    "name": "Jordan Poole",
    "nba_team": "NOP",
    "positions": [
@@ -4332,7 +4332,7 @@
   "4433149": {
    "fantasy_team": null,
    "id": "4433149",
-   "last15": 11.0,
+   "last15": 11.3,
    "mpg": 10.5,
    "name": "LJ Cryer",
    "nba_team": "GSW",
@@ -4340,10 +4340,10 @@
     "PG"
    ],
    "return_date": null,
-   "season_avg": 10.1,
+   "season_avg": 10.3,
    "slot": "",
    "status": "ACTIVE",
-   "value": 10.7
+   "value": 10.9
   },
   "4433174": {
    "fantasy_team": null,
@@ -4425,7 +4425,7 @@
    "return_date": null,
    "season_avg": 26.9,
    "slot": "SF",
-   "status": "ACTIVE",
+   "status": "DAY_TO_DAY",
    "value": 25.2
   },
   "4433249": {
@@ -5361,18 +5361,18 @@
   "4703396": {
    "fantasy_team": null,
    "id": "4703396",
-   "last15": 7.3,
-   "mpg": 9.4,
+   "last15": 7.7,
+   "mpg": 9.5,
    "name": "Graham Ike",
    "nba_team": "GSW",
    "positions": [
     "PF"
    ],
    "return_date": null,
-   "season_avg": 11.2,
+   "season_avg": 11.4,
    "slot": "",
    "status": "ACTIVE",
-   "value": 8.7
+   "value": 9.0
   },
   "4706557": {
    "fantasy_team": null,
@@ -5810,7 +5810,7 @@
    "fantasy_team": null,
    "id": "4897262",
    "last15": 13.6,
-   "mpg": 18.6,
+   "mpg": 18.7,
    "name": "Will Richard",
    "nba_team": "GSW",
    "positions": [
@@ -7261,7 +7261,7 @@
    "fantasy_team": "Lucky",
    "id": "5279133",
    "last15": 14.7,
-   "mpg": 16.5,
+   "mpg": 16.6,
    "name": "Joan Beringer",
    "nba_team": "MIN",
    "positions": [

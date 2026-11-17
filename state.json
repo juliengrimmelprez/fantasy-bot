@@ -183,7 +183,7 @@
   "4687718:20261025"
  ],
  "hot_status": "ok: 264 FAs, 2139 games",
- "last_activity_ms": 1794936404830,
+ "last_activity_ms": 1794938658335,
  "last_digest": 1794936375.6561198,
  "last_error_alert": 1794388335.8497355,
  "last_hot_check": 1794938296.317151,
@@ -1239,6 +1239,22 @@
    "status": "ACTIVE",
    "value": 0.0
   },
+  "3136777": {
+   "fantasy_team": null,
+   "id": "3136777",
+   "last15": 4.2,
+   "mpg": 4.1,
+   "name": "Jae'Sean Tate",
+   "nba_team": "HOU",
+   "positions": [
+    "SF"
+   ],
+   "return_date": null,
+   "season_avg": 2.3,
+   "slot": "",
+   "status": "ACTIVE",
+   "value": 3.6
+  },
   "3138160": {
    "fantasy_team": "Tiki Taka Laranja",
    "id": "3138160",
@@ -2274,7 +2290,7 @@
    ],
    "return_date": null,
    "season_avg": 25.8,
-   "slot": "UT",
+   "slot": "BE",
    "status": "ACTIVE",
    "value": 25.2
   },
@@ -6123,7 +6139,7 @@
    "value": 11.6
   },
   "5060701": {
-   "fantasy_team": null,
+   "fantasy_team": "Hospital do Gansola",
    "id": "5060701",
    "last15": 16.2,
    "mpg": 13.3,
@@ -6134,7 +6150,7 @@
    ],
    "return_date": null,
    "season_avg": 9.1,
-   "slot": "",
+   "slot": "UT",
    "status": "ACTIVE",
    "value": 13.7
   },

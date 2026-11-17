@@ -1843,7 +1843,7 @@
    ],
    "return_date": null,
    "season_avg": 48.4,
-   "slot": "BE",
+   "slot": "UT",
    "status": "ACTIVE",
    "value": 49.2
   },
@@ -2274,7 +2274,7 @@
    ],
    "return_date": null,
    "season_avg": 25.8,
-   "slot": "BE",
+   "slot": "UT",
    "status": "ACTIVE",
    "value": 25.2
   },
@@ -6167,7 +6167,7 @@
    ],
    "return_date": null,
    "season_avg": -2.0,
-   "slot": "UT",
+   "slot": "IR",
    "status": "OUT",
    "value": 35.2
   },

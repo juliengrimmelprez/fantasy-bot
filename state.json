@@ -1239,6 +1239,22 @@
    "status": "ACTIVE",
    "value": 0.0
   },
+  "3136777": {
+   "fantasy_team": null,
+   "id": "3136777",
+   "last15": 4.2,
+   "mpg": 4.1,
+   "name": "Jae'Sean Tate",
+   "nba_team": "HOU",
+   "positions": [
+    "SF"
+   ],
+   "return_date": null,
+   "season_avg": 2.3,
+   "slot": "",
+   "status": "ACTIVE",
+   "value": 3.6
+  },
   "3138160": {
    "fantasy_team": "Tiki Taka Laranja",
    "id": "3138160",
@@ -2395,22 +2411,6 @@
    "slot": "",
    "status": "ACTIVE",
    "value": 8.6
-  },
-  "4066731": {
-   "fantasy_team": null,
-   "id": "4066731",
-   "last15": 0,
-   "mpg": null,
-   "name": "Jalen McDaniels",
-   "nba_team": "FA",
-   "positions": [
-    "PF"
-   ],
-   "return_date": null,
-   "season_avg": 0,
-   "slot": "",
-   "status": "ACTIVE",
-   "value": 0.0
   },
   "4066757": {
    "fantasy_team": null,

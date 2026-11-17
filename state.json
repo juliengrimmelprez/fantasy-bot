@@ -4280,7 +4280,7 @@
    "return_date": null,
    "season_avg": 44.0,
    "slot": "SG",
-   "status": "DAY_TO_DAY",
+   "status": "ACTIVE",
    "value": 45.5
   },
   "4433136": {
@@ -7821,6 +7821,7 @@
   "ltrade:1794931200556",
   "drop:5107173:1794936404830",
   "inj:2490149:OUT",
-  "ltrade:1794956101149"
+  "ltrade:1794956101149",
+  "lineup:29"
  ]
 }

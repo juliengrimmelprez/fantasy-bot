@@ -183,7 +183,7 @@
   "5044385:20261023"
  ],
  "hot_status": "ok: 264 FAs, 2112 games",
- "last_activity_ms": 1794950196750,
+ "last_activity_ms": 1794956101149,
  "last_digest": 1794954738.3049462,
  "last_error_alert": 1794388335.8497355,
  "last_hot_check": 1794955576.6424546,
@@ -1599,7 +1599,7 @@
    "value": 22.0
   },
   "3907497": {
-   "fantasy_team": "Lakers x Bortolan 23",
+   "fantasy_team": "BL0CK BY ZION",
    "id": "3907497",
    "last15": 20.4,
    "mpg": 31.4,
@@ -1611,7 +1611,7 @@
    ],
    "return_date": null,
    "season_avg": 29.8,
-   "slot": "BE",
+   "slot": "SG",
    "status": "OUT",
    "value": 23.7
   },
@@ -1748,7 +1748,7 @@
    "value": 20.0
   },
   "3917376": {
-   "fantasy_team": "BL0CK BY ZION",
+   "fantasy_team": "Lakers x Bortolan 23",
    "id": "3917376",
    "last15": 42.0,
    "mpg": 34.7,
@@ -1760,7 +1760,7 @@
    ],
    "return_date": null,
    "season_avg": 38.4,
-   "slot": "SG",
+   "slot": "BE",
    "status": "OUT",
    "value": 40.8
   },
@@ -1864,7 +1864,7 @@
    "value": 49.2
   },
   "3945274": {
-   "fantasy_team": "Lakers x Bortolan 23",
+   "fantasy_team": "BL0CK BY ZION",
    "id": "3945274",
    "last15": 67.3,
    "mpg": 35.8,
@@ -1875,7 +1875,7 @@
    ],
    "return_date": null,
    "season_avg": 65.8,
-   "slot": "PG",
+   "slot": "BE",
    "status": "ACTIVE",
    "value": 66.8
   },
@@ -1913,7 +1913,7 @@
    "value": 42.0
   },
   "3978": {
-   "fantasy_team": "Lakers x Bortolan 23",
+   "fantasy_team": null,
    "id": "3978",
    "last15": 11.8,
    "mpg": 22.7,
@@ -1925,7 +1925,7 @@
    ],
    "return_date": null,
    "season_avg": 15.2,
-   "slot": "UT",
+   "slot": "",
    "status": "ACTIVE",
    "value": 13.0
   },
@@ -2194,7 +2194,7 @@
    "value": 28.5
   },
   "4066261": {
-   "fantasy_team": "BL0CK BY ZION",
+   "fantasy_team": "Lakers x Bortolan 23",
    "id": "4066261",
    "last15": 43.5,
    "mpg": 32.5,
@@ -2206,7 +2206,7 @@
    ],
    "return_date": null,
    "season_avg": 40.6,
-   "slot": "C",
+   "slot": "BE",
    "status": "DAY_TO_DAY",
    "value": 42.5
   },
@@ -3221,22 +3221,6 @@
    "status": "ACTIVE",
    "value": 30.6
   },
-  "4396818": {
-   "fantasy_team": null,
-   "id": "4396818",
-   "last15": 0,
-   "mpg": null,
-   "name": "Jordan Miller",
-   "nba_team": "LAC",
-   "positions": [
-    "SF"
-   ],
-   "return_date": null,
-   "season_avg": 0,
-   "slot": "",
-   "status": "OUT",
-   "value": 0.0
-  },
   "4396907": {
    "fantasy_team": "Tropa do Nikola",
    "id": "4396907",
@@ -3571,7 +3555,7 @@
    "value": 4.8
   },
   "4431671": {
-   "fantasy_team": "BL0CK BY ZION",
+   "fantasy_team": "Lakers x Bortolan 23",
    "id": "4431671",
    "last15": 34.4,
    "mpg": 33.3,
@@ -3583,7 +3567,7 @@
    ],
    "return_date": null,
    "season_avg": 35.3,
-   "slot": "SF",
+   "slot": "UT",
    "status": "ACTIVE",
    "value": 34.7
   },
@@ -7836,6 +7820,7 @@
   "planday:29",
   "ltrade:1794931200556",
   "drop:5107173:1794936404830",
-  "inj:2490149:OUT"
+  "inj:2490149:OUT",
+  "ltrade:1794956101149"
  ]
 }

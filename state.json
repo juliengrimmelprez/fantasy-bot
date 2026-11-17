@@ -179,11 +179,11 @@
   "2991070:20261117",
   "4395626:20261117"
  ],
- "hot_status": "ok: 263 FAs, 2120 games",
+ "hot_status": "ok: 263 FAs, 2123 games",
  "last_activity_ms": 1794878548761,
  "last_digest": 1794884902.074403,
  "last_error_alert": 1794388335.8497355,
- "last_hot_check": 1794884537.885889,
+ "last_hot_check": 1794885499.8250036,
  "last_run": "2026-10-19T22:05:14+00:00",
  "matchup_periods": {
   "1": [
@@ -699,7 +699,7 @@
    "fantasy_team": "Tropa do Nikola",
    "id": "3032976",
    "last15": 26.3,
-   "mpg": 29.3,
+   "mpg": 29.4,
    "name": "Rudy Gobert",
    "nba_team": "MIN",
    "positions": [
@@ -1076,7 +1076,7 @@
    "fantasy_team": null,
    "id": "3134903",
    "last15": 7.3,
-   "mpg": 12.3,
+   "mpg": 12.5,
    "name": "Gary Payton II",
    "nba_team": "GSW",
    "positions": [
@@ -1206,8 +1206,8 @@
   "3136196": {
    "fantasy_team": null,
    "id": "3136196",
-   "last15": 16.1,
-   "mpg": 18.1,
+   "last15": 16.3,
+   "mpg": 18.3,
    "name": "Trey Lyles",
    "nba_team": "MIN",
    "positions": [
@@ -1217,7 +1217,7 @@
    "season_avg": 13.6,
    "slot": "",
    "status": "ACTIVE",
-   "value": 15.2
+   "value": 15.4
   },
   "3136776": {
    "fantasy_team": null,
@@ -2626,7 +2626,7 @@
    "fantasy_team": "Bull Market",
    "id": "4277956",
    "last15": 19.2,
-   "mpg": 20.9,
+   "mpg": 21.1,
    "name": "Jordan Poole",
    "nba_team": "NOP",
    "positions": [
@@ -3555,7 +3555,7 @@
    "fantasy_team": "BL0CK BY ZION",
    "id": "4431671",
    "last15": 33.9,
-   "mpg": 33.1,
+   "mpg": 33.2,
    "name": "Jaden McDaniels",
    "nba_team": "MIN",
    "positions": [
@@ -4333,7 +4333,7 @@
    "fantasy_team": null,
    "id": "4433149",
    "last15": 9.4,
-   "mpg": 10.0,
+   "mpg": 10.1,
    "name": "LJ Cryer",
    "nba_team": "GSW",
    "positions": [
@@ -5362,7 +5362,7 @@
    "fantasy_team": null,
    "id": "4703396",
    "last15": 6.7,
-   "mpg": 8.8,
+   "mpg": 9.0,
    "name": "Graham Ike",
    "nba_team": "GSW",
    "positions": [
@@ -7082,18 +7082,18 @@
   "5217746": {
    "fantasy_team": null,
    "id": "5217746",
-   "last15": 4.0,
-   "mpg": 8.5,
+   "last15": 4.8,
+   "mpg": 8.6,
    "name": "Yang Hansen",
    "nba_team": "POR",
    "positions": [
     "C"
    ],
    "return_date": null,
-   "season_avg": 6.8,
+   "season_avg": 7.2,
    "slot": "",
    "status": "ACTIVE",
-   "value": 5.0
+   "value": 5.7
   },
   "5231919": {
    "fantasy_team": null,

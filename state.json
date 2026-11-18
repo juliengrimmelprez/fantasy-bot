@@ -186,7 +186,7 @@
  "last_activity_ms": 1794960549360,
  "last_digest": 1794980778.3020325,
  "last_error_alert": 1794388335.8497355,
- "last_hot_check": 1794982455.576163,
+ "last_hot_check": 1794983424.1664102,
  "last_run": "2026-10-19T22:05:14+00:00",
  "matchup_periods": {
   "1": [
@@ -420,7 +420,7 @@
   "2583632": {
    "fantasy_team": null,
    "id": "2583632",
-   "last15": 12.4,
+   "last15": 13.1,
    "mpg": 19.9,
    "name": "Royce O'Neale",
    "nba_team": "CHA",
@@ -429,10 +429,10 @@
     "PF"
    ],
    "return_date": null,
-   "season_avg": 12.1,
+   "season_avg": 12.4,
    "slot": "",
    "status": "ACTIVE",
-   "value": 12.3
+   "value": 12.9
   },
   "2595516": {
    "fantasy_team": "Contagem Hunters",
@@ -1618,18 +1618,18 @@
   "3907498": {
    "fantasy_team": "BL0CK BY ZION",
    "id": "3907498",
-   "last15": 22.1,
-   "mpg": 24.3,
+   "last15": 22.0,
+   "mpg": 24.4,
    "name": "Matisse Thybulle",
    "nba_team": "LAL",
    "positions": [
     "SF"
    ],
    "return_date": null,
-   "season_avg": 22.8,
+   "season_avg": 22.7,
    "slot": "UT",
    "status": "ACTIVE",
-   "value": 22.4
+   "value": 22.3
   },
   "3907823": {
    "fantasy_team": null,
@@ -1866,18 +1866,18 @@
   "3945274": {
    "fantasy_team": "BL0CK BY ZION",
    "id": "3945274",
-   "last15": 61.9,
-   "mpg": 35.7,
+   "last15": 63.3,
+   "mpg": 35.8,
    "name": "Luka Doncic",
    "nba_team": "LAL",
    "positions": [
     "PG"
    ],
    "return_date": null,
-   "season_avg": 62.9,
+   "season_avg": 63.7,
    "slot": "PG",
    "status": "ACTIVE",
-   "value": 62.2
+   "value": 63.4
   },
   "3948153": {
    "fantasy_team": null,
@@ -3123,8 +3123,8 @@
   "4395651": {
    "fantasy_team": "King Coopa",
    "id": "4395651",
-   "last15": 15.0,
-   "mpg": 18.9,
+   "last15": 15.1,
+   "mpg": 19.0,
    "name": "Coby White",
    "nba_team": "CHA",
    "positions": [
@@ -3132,10 +3132,10 @@
     "SG"
    ],
    "return_date": null,
-   "season_avg": 15.0,
+   "season_avg": 15.1,
    "slot": "UT",
    "status": "ACTIVE",
-   "value": 15.0
+   "value": 15.1
   },
   "4395702": {
    "fantasy_team": null,
@@ -3258,7 +3258,7 @@
    "fantasy_team": "Polga Silva",
    "id": "4396971",
    "last15": 33.0,
-   "mpg": 29.9,
+   "mpg": 30.1,
    "name": "Naz Reid",
    "nba_team": "CHA",
    "positions": [
@@ -3308,8 +3308,8 @@
   "4397014": {
    "fantasy_team": "Tropa do Nikola",
    "id": "4397014",
-   "last15": 26.8,
-   "mpg": 27.5,
+   "last15": 27.0,
+   "mpg": 27.6,
    "name": "Quentin Grimes",
    "nba_team": "LAL",
    "positions": [
@@ -3317,10 +3317,10 @@
     "SF"
    ],
    "return_date": null,
-   "season_avg": 21.8,
+   "season_avg": 21.9,
    "slot": "SG",
    "status": "ACTIVE",
-   "value": 25.1
+   "value": 25.2
   },
   "4397020": {
    "fantasy_team": null,
@@ -4451,7 +4451,7 @@
    "fantasy_team": "Caxias French Fries",
    "id": "4433249",
    "last15": 25.0,
-   "mpg": 28.9,
+   "mpg": 29.0,
    "name": "Moussa Diabate",
    "nba_team": "CHA",
    "positions": [
@@ -4484,8 +4484,8 @@
   "4433287": {
    "fantasy_team": "Tropa do Nikola",
    "id": "4433287",
-   "last15": 16.4,
-   "mpg": 30.2,
+   "last15": 16.6,
+   "mpg": 30.4,
    "name": "Brandon Miller",
    "nba_team": "CHA",
    "positions": [
@@ -4493,10 +4493,10 @@
     "SF"
    ],
    "return_date": null,
-   "season_avg": 28.0,
+   "season_avg": 28.1,
    "slot": "UT",
    "status": "ACTIVE",
-   "value": 20.5
+   "value": 20.6
   },
   "4433621": {
    "fantasy_team": "Hospital do Gansola",
@@ -7841,6 +7841,7 @@
   "lineup:29",
   "ltrade:1794960421395",
   "inj:4683021:OUT",
-  "inj:5037871:OUT"
+  "inj:5037871:OUT",
+  "hot:5105839:20261118"
  ]
 }

@@ -455,7 +455,7 @@
    "fantasy_team": null,
    "id": "2596112",
    "last15": 11.3,
-   "mpg": 17.3,
+   "mpg": 17.4,
    "name": "Javonte Green",
    "nba_team": "DET",
    "positions": [
@@ -702,7 +702,7 @@
    "fantasy_team": "Tropa do Nikola",
    "id": "3032976",
    "last15": 22.5,
-   "mpg": 28.5,
+   "mpg": 28.6,
    "name": "Rudy Gobert",
    "nba_team": "MIN",
    "positions": [
@@ -1210,7 +1210,7 @@
    "fantasy_team": null,
    "id": "3136196",
    "last15": 16.2,
-   "mpg": 18.8,
+   "mpg": 18.9,
    "name": "Trey Lyles",
    "nba_team": "MIN",
    "positions": [
@@ -1668,8 +1668,8 @@
   "3908845": {
    "fantasy_team": "Bull Market",
    "id": "3908845",
-   "last15": 21.7,
-   "mpg": 25.9,
+   "last15": 22.0,
+   "mpg": 26.0,
    "name": "John Collins",
    "nba_team": "DET",
    "positions": [
@@ -1677,10 +1677,10 @@
     "C"
    ],
    "return_date": null,
-   "season_avg": 21.1,
+   "season_avg": 21.3,
    "slot": "PF",
    "status": "ACTIVE",
-   "value": 21.5
+   "value": 21.8
   },
   "3912848": {
    "fantasy_team": null,
@@ -1949,8 +1949,8 @@
   "3995": {
    "fantasy_team": "Polga Silva",
    "id": "3995",
-   "last15": 26.1,
-   "mpg": 26.1,
+   "last15": 26.0,
+   "mpg": 26.2,
    "name": "Jrue Holiday",
    "nba_team": "POR",
    "positions": [
@@ -1958,7 +1958,7 @@
     "SG"
    ],
    "return_date": null,
-   "season_avg": 27.1,
+   "season_avg": 27.0,
    "slot": "PG",
    "status": "ACTIVE",
    "value": 26.4
@@ -2147,18 +2147,18 @@
   "4066211": {
    "fantasy_team": "BL0CK BY ZION",
    "id": "4066211",
-   "last15": 20.1,
-   "mpg": 16.0,
+   "last15": 20.8,
+   "mpg": 16.2,
    "name": "Robert Williams III",
    "nba_team": "POR",
    "positions": [
     "C"
    ],
    "return_date": null,
-   "season_avg": 21.4,
+   "season_avg": 21.8,
    "slot": "C",
    "status": "ACTIVE",
-   "value": 20.6
+   "value": 21.1
   },
   "4066218": {
    "fantasy_team": null,
@@ -2179,8 +2179,8 @@
   "4066259": {
    "fantasy_team": "Lucky",
    "id": "4066259",
-   "last15": 24.2,
-   "mpg": 28.6,
+   "last15": 24.5,
+   "mpg": 28.7,
    "name": "De'Aaron Fox",
    "nba_team": "SAS",
    "positions": [
@@ -2188,10 +2188,10 @@
     "SG"
    ],
    "return_date": null,
-   "season_avg": 30.4,
+   "season_avg": 30.6,
    "slot": "UT",
    "status": "ACTIVE",
-   "value": 26.4
+   "value": 26.6
   },
   "4066261": {
    "fantasy_team": "Lakers x Bortolan 23",
@@ -3574,7 +3574,7 @@
    "fantasy_team": "Lakers x Bortolan 23",
    "id": "4431671",
    "last15": 35.5,
-   "mpg": 33.2,
+   "mpg": 33.3,
    "name": "Jaden McDaniels",
    "nba_team": "MIN",
    "positions": [
@@ -3705,8 +3705,8 @@
   "4431736": {
    "fantasy_team": "Lakers x Bortolan 23",
    "id": "4431736",
-   "last15": 18.1,
-   "mpg": 28.7,
+   "last15": 18.0,
+   "mpg": 28.9,
    "name": "Toumani Camara",
    "nba_team": "POR",
    "positions": [
@@ -3717,7 +3717,7 @@
    "season_avg": 22.6,
    "slot": "UT",
    "status": "ACTIVE",
-   "value": 19.7
+   "value": 19.6
   },
   "4431752": {
    "fantasy_team": null,
@@ -3855,18 +3855,18 @@
   "4432166": {
    "fantasy_team": "CCCP  Баскетбол",
    "id": "4432166",
-   "last15": 55.3,
-   "mpg": 34.6,
+   "last15": 55.1,
+   "mpg": 34.7,
    "name": "Cade Cunningham",
    "nba_team": "DET",
    "positions": [
     "PG"
    ],
    "return_date": null,
-   "season_avg": 49.3,
+   "season_avg": 49.2,
    "slot": "PG",
    "status": "ACTIVE",
-   "value": 53.2
+   "value": 53.1
   },
   "4432170": {
    "fantasy_team": "Lakers x Bortolan 23",
@@ -4134,18 +4134,18 @@
   "4432816": {
    "fantasy_team": "Tropa do Nikola",
    "id": "4432816",
-   "last15": 36.1,
-   "mpg": 27.3,
+   "last15": 36.0,
+   "mpg": 27.5,
    "name": "LaMelo Ball",
    "nba_team": "MIN",
    "positions": [
     "PG"
    ],
    "return_date": null,
-   "season_avg": 33.2,
+   "season_avg": 33.1,
    "slot": "UT",
    "status": "ACTIVE",
-   "value": 35.1
+   "value": 35.0
   },
   "4432819": {
    "fantasy_team": null,
@@ -4984,7 +4984,7 @@
    "fantasy_team": null,
    "id": "4683678",
    "last15": 8.7,
-   "mpg": 22.1,
+   "mpg": 22.2,
    "name": "Scoot Henderson",
    "nba_team": "POR",
    "positions": [
@@ -5199,7 +5199,7 @@
    "fantasy_team": "Tropa do Nikola",
    "id": "4684742",
    "last15": 37.1,
-   "mpg": 27.4,
+   "mpg": 27.5,
    "name": "Ausar Thompson",
    "nba_team": "DET",
    "positions": [
@@ -5562,7 +5562,7 @@
    "fantasy_team": "King Coopa",
    "id": "4845367",
    "last15": 32.1,
-   "mpg": 28.9,
+   "mpg": 29.0,
    "name": "Stephon Castle",
    "nba_team": "SAS",
    "positions": [

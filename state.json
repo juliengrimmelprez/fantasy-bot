@@ -185,7 +185,7 @@
   "3037789:20261029"
  ],
  "hot_status": "ok: 264 FAs, 2159 games",
- "last_activity_ms": 1794991359786,
+ "last_activity_ms": 1794994090703,
  "last_digest": 1794991936.3511567,
  "last_error_alert": 1794388335.8497355,
  "last_hot_check": 1794993977.9921145,
@@ -2941,7 +2941,7 @@
    "value": 22.6
   },
   "4278594": {
-   "fantasy_team": null,
+   "fantasy_team": "Contagem Hunters",
    "id": "4278594",
    "last15": 21.2,
    "mpg": 24.9,
@@ -2953,7 +2953,7 @@
    ],
    "return_date": null,
    "season_avg": 23.8,
-   "slot": "",
+   "slot": "BE",
    "status": "ACTIVE",
    "value": 22.1
   },
@@ -7230,7 +7230,7 @@
    "value": 10.1
   },
   "5254165": {
-   "fantasy_team": "Contagem Hunters",
+   "fantasy_team": null,
    "id": "5254165",
    "last15": 21.1,
    "mpg": 22.8,
@@ -7242,7 +7242,7 @@
    ],
    "return_date": null,
    "season_avg": 20.8,
-   "slot": "BE",
+   "slot": "",
    "status": "ACTIVE",
    "value": 21.0
   },
@@ -7846,6 +7846,7 @@
   "inj:5037871:OUT",
   "hot:5105839:20261118",
   "drop:4592691:1794989795826",
-  "drop:4432170:1794991359786"
+  "drop:4432170:1794991359786",
+  "drop:5254165:1794994090703"
  ]
 }

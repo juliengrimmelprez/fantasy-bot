@@ -420,8 +420,8 @@
   "2583632": {
    "fantasy_team": null,
    "id": "2583632",
-   "last15": 12.0,
-   "mpg": 19.4,
+   "last15": 10.3,
+   "mpg": 18.0,
    "name": "Royce O'Neale",
    "nba_team": "CHA",
    "positions": [
@@ -429,10 +429,10 @@
     "PF"
    ],
    "return_date": null,
-   "season_avg": 11.8,
+   "season_avg": 11.0,
    "slot": "",
    "status": "ACTIVE",
-   "value": 11.9
+   "value": 10.5
   },
   "2595516": {
    "fantasy_team": "Contagem Hunters",
@@ -586,7 +586,7 @@
    "fantasy_team": "Caxias French Fries",
    "id": "2991139",
    "last15": 17.1,
-   "mpg": 25.5,
+   "mpg": 25.6,
    "name": "Kris Dunn",
    "nba_team": "LAC",
    "positions": [
@@ -1490,7 +1490,7 @@
    "fantasy_team": "Lucky",
    "id": "3448",
    "last15": 28.0,
-   "mpg": 23.2,
+   "mpg": 23.3,
    "name": "Brook Lopez",
    "nba_team": "LAC",
    "positions": [
@@ -1834,7 +1834,7 @@
    "fantasy_team": "Tiki Taka Laranja",
    "id": "3936099",
    "last15": 23.8,
-   "mpg": 27.4,
+   "mpg": 27.5,
    "name": "Derrick Jones Jr.",
    "nba_team": "LAC",
    "positions": [
@@ -1866,7 +1866,7 @@
   "3945274": {
    "fantasy_team": "BL0CK BY ZION",
    "id": "3945274",
-   "last15": 57.9,
+   "last15": 57.7,
    "mpg": 33.5,
    "name": "Luka Doncic",
    "nba_team": "LAL",
@@ -1874,10 +1874,10 @@
     "PG"
    ],
    "return_date": null,
-   "season_avg": 60.8,
+   "season_avg": 60.7,
    "slot": "PG",
    "status": "ACTIVE",
-   "value": 58.9
+   "value": 58.8
   },
   "3948153": {
    "fantasy_team": null,
@@ -2382,8 +2382,8 @@
   "4066648": {
    "fantasy_team": null,
    "id": "4066648",
-   "last15": 20.0,
-   "mpg": 27.1,
+   "last15": 21.0,
+   "mpg": 27.2,
    "name": "Rui Hachimura",
    "nba_team": "LAC",
    "positions": [
@@ -2391,10 +2391,10 @@
     "PF"
    ],
    "return_date": null,
-   "season_avg": 19.4,
+   "season_avg": 19.9,
    "slot": "",
    "status": "ACTIVE",
-   "value": 19.8
+   "value": 20.6
   },
   "4066650": {
    "fantasy_team": null,
@@ -2596,18 +2596,18 @@
   "4277919": {
    "fantasy_team": "CCCP  Баскетбол",
    "id": "4277919",
-   "last15": 25.1,
-   "mpg": 18.9,
+   "last15": 25.0,
+   "mpg": 19.0,
    "name": "Mo Bamba",
    "nba_team": "UTA",
    "positions": [
     "C"
    ],
    "return_date": null,
-   "season_avg": 25.3,
+   "season_avg": 25.2,
    "slot": "UT",
    "status": "ACTIVE",
-   "value": 25.2
+   "value": 25.1
   },
   "4277922": {
    "fantasy_team": null,
@@ -2775,8 +2775,8 @@
   "4278077": {
    "fantasy_team": null,
    "id": "4278077",
-   "last15": 9.1,
-   "mpg": 10.8,
+   "last15": 9.7,
+   "mpg": 10.9,
    "name": "Jarred Vanderbilt",
    "nba_team": "LAL",
    "positions": [
@@ -2784,10 +2784,10 @@
     "PF"
    ],
    "return_date": null,
-   "season_avg": 9.2,
+   "season_avg": 9.6,
    "slot": "",
    "status": "ACTIVE",
-   "value": 9.2
+   "value": 9.7
   },
   "4278078": {
    "fantasy_team": "Polga Silva",
@@ -3225,7 +3225,7 @@
    "fantasy_team": "Tropa do Nikola",
    "id": "4396907",
    "last15": 33.3,
-   "mpg": 31.5,
+   "mpg": 31.6,
    "name": "Darius Garland",
    "nba_team": "LAC",
    "positions": [
@@ -3258,7 +3258,7 @@
    "fantasy_team": "Polga Silva",
    "id": "4396971",
    "last15": 28.0,
-   "mpg": 27.9,
+   "mpg": 28.0,
    "name": "Naz Reid",
    "nba_team": "CHA",
    "positions": [
@@ -4118,18 +4118,18 @@
   "4432811": {
    "fantasy_team": null,
    "id": "4432811",
-   "last15": 7.0,
-   "mpg": 17.9,
+   "last15": 7.6,
+   "mpg": 18.1,
    "name": "Josh Green",
    "nba_team": "UTA",
    "positions": [
     "SG"
    ],
    "return_date": null,
-   "season_avg": 7.2,
+   "season_avg": 7.5,
    "slot": "",
    "status": "ACTIVE",
-   "value": 7.1
+   "value": 7.6
   },
   "4432816": {
    "fantasy_team": "Tropa do Nikola",
@@ -4451,7 +4451,7 @@
    "fantasy_team": "Caxias French Fries",
    "id": "4433249",
    "last15": 21.2,
-   "mpg": 26.8,
+   "mpg": 26.9,
    "name": "Moussa Diabate",
    "nba_team": "CHA",
    "positions": [
@@ -4484,7 +4484,7 @@
   "4433287": {
    "fantasy_team": "Tropa do Nikola",
    "id": "4433287",
-   "last15": 10.0,
+   "last15": 10.4,
    "mpg": 28.3,
    "name": "Brandon Miller",
    "nba_team": "CHA",
@@ -4493,10 +4493,10 @@
     "SF"
    ],
    "return_date": null,
-   "season_avg": 25.3,
+   "season_avg": 25.5,
    "slot": "UT",
    "status": "ACTIVE",
-   "value": 15.4
+   "value": 15.7
   },
   "4433621": {
    "fantasy_team": "Hospital do Gansola",
@@ -4517,8 +4517,8 @@
   "4433627": {
    "fantasy_team": "Lebron GOAT",
    "id": "4433627",
-   "last15": 32.6,
-   "mpg": 31.4,
+   "last15": 32.8,
+   "mpg": 31.5,
    "name": "Keyonte George",
    "nba_team": "UTA",
    "positions": [
@@ -4526,10 +4526,10 @@
     "SG"
    ],
    "return_date": null,
-   "season_avg": 32.6,
+   "season_avg": 32.7,
    "slot": "PG",
    "status": "ACTIVE",
-   "value": 32.6
+   "value": 32.7
   },
   "4437244": {
    "fantasy_team": "Bull Market",
@@ -4918,7 +4918,7 @@
    "fantasy_team": null,
    "id": "4602025",
    "last15": 17.6,
-   "mpg": 25.0,
+   "mpg": 25.1,
    "name": "Sion James",
    "nba_team": "CHA",
    "positions": [
@@ -6530,7 +6530,7 @@
    "fantasy_team": null,
    "id": "5105839",
    "last15": 14.1,
-   "mpg": 16.4,
+   "mpg": 16.5,
    "name": "Brice Sensabaugh",
    "nba_team": "UTA",
    "positions": [

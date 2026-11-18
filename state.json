@@ -186,7 +186,7 @@
  "last_activity_ms": 1794960549360,
  "last_digest": 1794980778.3020325,
  "last_error_alert": 1794388335.8497355,
- "last_hot_check": 1794980549.4555676,
+ "last_hot_check": 1794981495.401005,
  "last_run": "2026-10-19T22:05:14+00:00",
  "matchup_periods": {
   "1": [
@@ -421,7 +421,7 @@
    "fantasy_team": null,
    "id": "2583632",
    "last15": 11.7,
-   "mpg": 19.0,
+   "mpg": 19.1,
    "name": "Royce O'Neale",
    "nba_team": "CHA",
    "positions": [
@@ -1866,18 +1866,18 @@
   "3945274": {
    "fantasy_team": "BL0CK BY ZION",
    "id": "3945274",
-   "last15": 61.6,
-   "mpg": 35.2,
+   "last15": 61.4,
+   "mpg": 35.3,
    "name": "Luka Doncic",
    "nba_team": "LAL",
    "positions": [
     "PG"
    ],
    "return_date": null,
-   "season_avg": 62.8,
+   "season_avg": 62.7,
    "slot": "PG",
    "status": "ACTIVE",
-   "value": 62.0
+   "value": 61.9
   },
   "3948153": {
    "fantasy_team": null,
@@ -2481,7 +2481,7 @@
    "fantasy_team": null,
    "id": "4277811",
    "last15": 15.9,
-   "mpg": 17.6,
+   "mpg": 17.7,
    "name": "Collin Sexton",
    "nba_team": "LAL",
    "positions": [
@@ -2908,7 +2908,7 @@
   "4278580": {
    "fantasy_team": "Lucky",
    "id": "4278580",
-   "last15": 20.8,
+   "last15": 20.6,
    "mpg": 23.1,
    "name": "Sandro Mamukelashvili",
    "nba_team": "LAL",
@@ -2917,10 +2917,10 @@
     "C"
    ],
    "return_date": null,
-   "season_avg": 21.1,
+   "season_avg": 21.0,
    "slot": "PF",
    "status": "ACTIVE",
-   "value": 20.9
+   "value": 20.8
   },
   "4278585": {
    "fantasy_team": "Contagem Hunters",
@@ -3123,8 +3123,8 @@
   "4395651": {
    "fantasy_team": "King Coopa",
    "id": "4395651",
-   "last15": 13.4,
-   "mpg": 18.1,
+   "last15": 14.3,
+   "mpg": 18.3,
    "name": "Coby White",
    "nba_team": "CHA",
    "positions": [
@@ -3132,10 +3132,10 @@
     "SG"
    ],
    "return_date": null,
-   "season_avg": 13.4,
+   "season_avg": 14.3,
    "slot": "UT",
    "status": "ACTIVE",
-   "value": 13.4
+   "value": 14.3
   },
   "4395702": {
    "fantasy_team": null,
@@ -3257,8 +3257,8 @@
   "4396971": {
    "fantasy_team": "Polga Silva",
    "id": "4396971",
-   "last15": 33.0,
-   "mpg": 29.5,
+   "last15": 33.1,
+   "mpg": 29.6,
    "name": "Naz Reid",
    "nba_team": "CHA",
    "positions": [
@@ -3266,10 +3266,10 @@
     "C"
    ],
    "return_date": null,
-   "season_avg": 29.5,
+   "season_avg": 29.6,
    "slot": "PF",
    "status": "ACTIVE",
-   "value": 31.8
+   "value": 31.9
   },
   "4396993": {
    "fantasy_team": "Lebron GOAT",
@@ -4319,7 +4319,7 @@
    "fantasy_team": "Polga Silva",
    "id": "4433137",
    "last15": 22.1,
-   "mpg": 22.6,
+   "mpg": 22.7,
    "name": "Ziaire Williams",
    "nba_team": "LAL",
    "positions": [
@@ -4918,7 +4918,7 @@
    "fantasy_team": null,
    "id": "4602025",
    "last15": 19.0,
-   "mpg": 26.1,
+   "mpg": 26.2,
    "name": "Sion James",
    "nba_team": "CHA",
    "positions": [

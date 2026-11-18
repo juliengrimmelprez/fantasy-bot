@@ -586,7 +586,7 @@
    "fantasy_team": "Caxias French Fries",
    "id": "2991139",
    "last15": 17.3,
-   "mpg": 25.2,
+   "mpg": 25.3,
    "name": "Kris Dunn",
    "nba_team": "LAC",
    "positions": [
@@ -1489,18 +1489,18 @@
   "3448": {
    "fantasy_team": "Lucky",
    "id": "3448",
-   "last15": 27.9,
-   "mpg": 22.8,
+   "last15": 27.4,
+   "mpg": 22.9,
    "name": "Brook Lopez",
    "nba_team": "LAC",
    "positions": [
     "C"
    ],
    "return_date": null,
-   "season_avg": 26.0,
+   "season_avg": 25.8,
    "slot": "UT",
    "status": "ACTIVE",
-   "value": 27.2
+   "value": 26.8
   },
   "3449": {
    "fantasy_team": null,
@@ -2383,7 +2383,7 @@
    "fantasy_team": null,
    "id": "4066648",
    "last15": 19.5,
-   "mpg": 26.6,
+   "mpg": 26.7,
    "name": "Rui Hachimura",
    "nba_team": "LAC",
    "positions": [
@@ -2597,7 +2597,7 @@
    "fantasy_team": "CCCP  Баскетбол",
    "id": "4277919",
    "last15": 24.0,
-   "mpg": 18.2,
+   "mpg": 18.3,
    "name": "Mo Bamba",
    "nba_team": "UTA",
    "positions": [
@@ -3225,7 +3225,7 @@
    "fantasy_team": "Tropa do Nikola",
    "id": "4396907",
    "last15": 31.3,
-   "mpg": 30.9,
+   "mpg": 31.0,
    "name": "Darius Garland",
    "nba_team": "LAC",
    "positions": [
@@ -4119,7 +4119,7 @@
    "fantasy_team": null,
    "id": "4432811",
    "last15": 7.2,
-   "mpg": 17.8,
+   "mpg": 17.9,
    "name": "Josh Green",
    "nba_team": "UTA",
    "positions": [
@@ -4517,8 +4517,8 @@
   "4433627": {
    "fantasy_team": "Lebron GOAT",
    "id": "4433627",
-   "last15": 29.2,
-   "mpg": 30.6,
+   "last15": 29.9,
+   "mpg": 30.7,
    "name": "Keyonte George",
    "nba_team": "UTA",
    "positions": [
@@ -4526,10 +4526,10 @@
     "SG"
    ],
    "return_date": null,
-   "season_avg": 30.7,
+   "season_avg": 31.1,
    "slot": "PG",
    "status": "ACTIVE",
-   "value": 29.8
+   "value": 30.3
   },
   "4437244": {
    "fantasy_team": "Bull Market",
@@ -5745,8 +5745,8 @@
   "4873138": {
    "fantasy_team": "Bull Market",
    "id": "4873138",
-   "last15": 22.6,
-   "mpg": 29.3,
+   "last15": 23.1,
+   "mpg": 29.4,
    "name": "Ace Bailey",
    "nba_team": "UTA",
    "positions": [
@@ -5754,10 +5754,10 @@
     "PF"
    ],
    "return_date": null,
-   "season_avg": 26.3,
+   "season_avg": 26.6,
    "slot": "SF",
    "status": "ACTIVE",
-   "value": 23.9
+   "value": 24.3
   },
   "4873153": {
    "fantasy_team": null,
@@ -6053,7 +6053,7 @@
    "return_date": null,
    "season_avg": 35.1,
    "slot": "UT",
-   "status": "ACTIVE",
+   "status": "OUT",
    "value": 35.4
   },
   "5041935": {
@@ -7840,6 +7840,7 @@
   "ltrade:1794956101149",
   "lineup:29",
   "ltrade:1794960421395",
-  "inj:4683021:OUT"
+  "inj:4683021:OUT",
+  "inj:5037871:OUT"
  ]
 }

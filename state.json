@@ -183,7 +183,7 @@
   "4395650:20261116"
  ],
  "hot_status": "ok: 264 FAs, 2112 games",
- "last_activity_ms": 1794956660349,
+ "last_activity_ms": 1794960421395,
  "last_digest": 1794958457.4095712,
  "last_error_alert": 1794388335.8497355,
  "last_hot_check": 1794960376.4921947,
@@ -1760,7 +1760,7 @@
    ],
    "return_date": null,
    "season_avg": 38.4,
-   "slot": "SG",
+   "slot": "SF",
    "status": "OUT",
    "value": 40.8
   },
@@ -1930,7 +1930,7 @@
    "value": 13.0
   },
   "3992": {
-   "fantasy_team": "Tiki Taka Laranja",
+   "fantasy_team": "Lakers x Bortolan 23",
    "id": "3992",
    "last15": 34.0,
    "mpg": 32.9,
@@ -1942,7 +1942,7 @@
    ],
    "return_date": null,
    "season_avg": 32.6,
-   "slot": "UT",
+   "slot": "SG",
    "status": "ACTIVE",
    "value": 33.5
   },
@@ -2307,7 +2307,7 @@
    ],
    "return_date": null,
    "season_avg": 23.8,
-   "slot": "SF",
+   "slot": "UT",
    "status": "ACTIVE",
    "value": 30.1
   },
@@ -2380,7 +2380,7 @@
    "value": 40.9
   },
   "4066648": {
-   "fantasy_team": "Lakers x Bortolan 23",
+   "fantasy_team": null,
    "id": "4066648",
    "last15": 22.2,
    "mpg": 29.0,
@@ -2392,7 +2392,7 @@
    ],
    "return_date": null,
    "season_avg": 20.4,
-   "slot": "UT",
+   "slot": "",
    "status": "ACTIVE",
    "value": 21.6
   },
@@ -3221,22 +3221,6 @@
    "status": "ACTIVE",
    "value": 30.6
   },
-  "4396818": {
-   "fantasy_team": null,
-   "id": "4396818",
-   "last15": 0,
-   "mpg": null,
-   "name": "Jordan Miller",
-   "nba_team": "LAC",
-   "positions": [
-    "SF"
-   ],
-   "return_date": null,
-   "season_avg": 0,
-   "slot": "",
-   "status": "OUT",
-   "value": 0.0
-  },
   "4396907": {
    "fantasy_team": "Tropa do Nikola",
    "id": "4396907",
@@ -3305,7 +3289,7 @@
    "value": 51.2
   },
   "4397002": {
-   "fantasy_team": "Tiki Taka Laranja",
+   "fantasy_team": "Lakers x Bortolan 23",
    "id": "4397002",
    "last15": 35.6,
    "mpg": 31.1,
@@ -3317,7 +3301,7 @@
    ],
    "return_date": null,
    "season_avg": 33.9,
-   "slot": "SG",
+   "slot": "UT",
    "status": "ACTIVE",
    "value": 35.0
   },
@@ -4465,7 +4449,7 @@
    "value": 26.7
   },
   "4433255": {
-   "fantasy_team": "Lakers x Bortolan 23",
+   "fantasy_team": "Tiki Taka Laranja",
    "id": "4433255",
    "last15": 0,
    "mpg": 30.0,
@@ -4477,7 +4461,7 @@
    ],
    "return_date": null,
    "season_avg": 34.3,
-   "slot": "IR",
+   "slot": "UT",
    "status": "OUT",
    "value": 34.3
   },
@@ -5263,7 +5247,7 @@
    "value": 14.8
   },
   "4701230": {
-   "fantasy_team": "Lakers x Bortolan 23",
+   "fantasy_team": "Tiki Taka Laranja",
    "id": "4701230",
    "last15": 36.0,
    "mpg": 34.4,
@@ -5274,7 +5258,7 @@
    ],
    "return_date": null,
    "season_avg": 39.1,
-   "slot": "UT",
+   "slot": "BE",
    "status": "ACTIVE",
    "value": 37.1
   },
@@ -7838,6 +7822,7 @@
   "drop:5107173:1794936404830",
   "inj:2490149:OUT",
   "ltrade:1794956101149",
-  "lineup:29"
+  "lineup:29",
+  "ltrade:1794960421395"
  ]
 }

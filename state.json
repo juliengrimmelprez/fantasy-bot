@@ -321,8 +321,8 @@
   "2528426": {
    "fantasy_team": null,
    "id": "2528426",
-   "last15": 6.7,
-   "mpg": 9.5,
+   "last15": 6.6,
+   "mpg": 9.6,
    "name": "Jordan Clarkson",
    "nba_team": "NYK",
    "positions": [
@@ -333,7 +333,7 @@
    "season_avg": 8.2,
    "slot": "",
    "status": "ACTIVE",
-   "value": 7.2
+   "value": 7.1
   },
   "2530530": {
    "fantasy_team": null,
@@ -800,8 +800,8 @@
   "3062679": {
    "fantasy_team": "King Coopa",
    "id": "3062679",
-   "last15": 16.6,
-   "mpg": 29.4,
+   "last15": 16.8,
+   "mpg": 29.5,
    "name": "Josh Hart",
    "nba_team": "NYK",
    "positions": [
@@ -809,10 +809,10 @@
     "SF"
    ],
    "return_date": null,
-   "season_avg": 22.7,
+   "season_avg": 22.8,
    "slot": "SF",
    "status": "ACTIVE",
-   "value": 18.7
+   "value": 18.9
   },
   "3064290": {
    "fantasy_team": "CCCP  Баскетбол",
@@ -1111,7 +1111,7 @@
   "3134908": {
    "fantasy_team": "Tiki Taka Laranja",
    "id": "3134908",
-   "last15": 26.7,
+   "last15": 27.9,
    "mpg": 22.6,
    "name": "Jakob Poeltl",
    "nba_team": "TOR",
@@ -1119,10 +1119,10 @@
     "C"
    ],
    "return_date": null,
-   "season_avg": 21.7,
+   "season_avg": 22.3,
    "slot": "C",
    "status": "ACTIVE",
-   "value": 24.9
+   "value": 25.9
   },
   "3134916": {
    "fantasy_team": null,
@@ -1193,18 +1193,18 @@
   "3136195": {
    "fantasy_team": "Contagem Hunters",
    "id": "3136195",
-   "last15": 45.5,
-   "mpg": 32.1,
+   "last15": 45.8,
+   "mpg": 32.2,
    "name": "Karl-Anthony Towns",
    "nba_team": "NYK",
    "positions": [
     "C"
    ],
    "return_date": null,
-   "season_avg": 43.7,
+   "season_avg": 43.9,
    "slot": "C",
    "status": "ACTIVE",
-   "value": 44.9
+   "value": 45.1
   },
   "3136196": {
    "fantasy_team": null,
@@ -1734,7 +1734,7 @@
   "3914044": {
    "fantasy_team": null,
    "id": "3914044",
-   "last15": 19.9,
+   "last15": 19.8,
    "mpg": 25.1,
    "name": "Landry Shamet",
    "nba_team": "NYK",
@@ -1745,7 +1745,7 @@
    "season_avg": 17.1,
    "slot": "",
    "status": "ACTIVE",
-   "value": 18.9
+   "value": 18.8
   },
   "3917376": {
    "fantasy_team": "Lakers x Bortolan 23",
@@ -3041,7 +3041,7 @@
    "fantasy_team": "Lebron GOAT",
    "id": "4395625",
    "last15": 33.4,
-   "mpg": 33.3,
+   "mpg": 33.4,
    "name": "RJ Barrett",
    "nba_team": "TOR",
    "positions": [
@@ -3190,8 +3190,8 @@
   "4395724": {
    "fantasy_team": "Fernando  Diniz",
    "id": "4395724",
-   "last15": 34.2,
-   "mpg": 31.1,
+   "last15": 34.0,
+   "mpg": 31.2,
    "name": "Immanuel Quickley",
    "nba_team": "TOR",
    "positions": [
@@ -3199,10 +3199,10 @@
     "SG"
    ],
    "return_date": null,
-   "season_avg": 34.0,
+   "season_avg": 33.9,
    "slot": "PG",
    "status": "ACTIVE",
-   "value": 34.1
+   "value": 34.0
   },
   "4395725": {
    "fantasy_team": "Contagem Hunters",
@@ -3790,7 +3790,7 @@
    "fantasy_team": null,
    "id": "4431893",
    "last15": 13.1,
-   "mpg": 17.5,
+   "mpg": 17.6,
    "name": "Jamison Battle",
    "nba_team": "TOR",
    "positions": [
@@ -3954,7 +3954,7 @@
   "4432241": {
    "fantasy_team": "Tiki Taka Laranja",
    "id": "4432241",
-   "last15": 25.1,
+   "last15": 25.0,
    "mpg": 23.4,
    "name": "Jamal Shead",
    "nba_team": "TOR",
@@ -3965,7 +3965,7 @@
    "season_avg": 22.9,
    "slot": "PG",
    "status": "ACTIVE",
-   "value": 24.4
+   "value": 24.3
   },
   "4432247": {
    "fantasy_team": null,
@@ -4417,18 +4417,18 @@
   "4433225": {
    "fantasy_team": null,
    "id": "4433225",
-   "last15": 13.2,
-   "mpg": 13.3,
+   "last15": 13.8,
+   "mpg": 13.4,
    "name": "Tyler Kolek",
    "nba_team": "NYK",
    "positions": [
     "PG"
    ],
    "return_date": null,
-   "season_avg": 15.1,
+   "season_avg": 15.4,
    "slot": "",
    "status": "ACTIVE",
-   "value": 13.9
+   "value": 14.3
   },
   "4433247": {
    "fantasy_team": "Hospital do Gansola",
@@ -6303,7 +6303,7 @@
    "fantasy_team": "King Coopa",
    "id": "5093267",
    "last15": 27.0,
-   "mpg": 24.5,
+   "mpg": 24.6,
    "name": "Collin Murray-Boyles",
    "nba_team": "TOR",
    "positions": [
@@ -7511,7 +7511,7 @@
   "6585": {
    "fantasy_team": null,
    "id": "6585",
-   "last15": 12.8,
+   "last15": 12.2,
    "mpg": 12.8,
    "name": "Andre Drummond",
    "nba_team": "NYK",
@@ -7519,10 +7519,10 @@
     "C"
    ],
    "return_date": null,
-   "season_avg": 14.5,
+   "season_avg": 14.2,
    "slot": "",
    "status": "ACTIVE",
-   "value": 13.4
+   "value": 12.9
   },
   "6589": {
    "fantasy_team": "Hospital do Gansola",

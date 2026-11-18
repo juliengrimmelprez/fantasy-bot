@@ -185,7 +185,7 @@
   "4433192:20261027"
  ],
  "hot_status": "ok: 264 FAs, 2161 games",
- "last_activity_ms": 1794960549360,
+ "last_activity_ms": 1794989795826,
  "last_digest": 1794988100.6447992,
  "last_error_alert": 1794388335.8497355,
  "last_hot_check": 1794989176.9532273,
@@ -3425,7 +3425,7 @@
    "value": 33.1
   },
   "4397183": {
-   "fantasy_team": null,
+   "fantasy_team": "Tropa do Nikola",
    "id": "4397183",
    "last15": 22.9,
    "mpg": 25.9,
@@ -3437,7 +3437,7 @@
    ],
    "return_date": null,
    "season_avg": 25.6,
-   "slot": "",
+   "slot": "UT",
    "status": "ACTIVE",
    "value": 23.8
   },
@@ -4684,7 +4684,7 @@
    "value": 22.8
   },
   "4592691": {
-   "fantasy_team": "Tropa do Nikola",
+   "fantasy_team": null,
    "id": "4592691",
    "last15": 18.6,
    "mpg": 24.9,
@@ -4696,7 +4696,7 @@
    ],
    "return_date": null,
    "season_avg": 19.6,
-   "slot": "UT",
+   "slot": "",
    "status": "ACTIVE",
    "value": 19.0
   },
@@ -7844,6 +7844,7 @@
   "ltrade:1794960421395",
   "inj:4683021:OUT",
   "inj:5037871:OUT",
-  "hot:5105839:20261118"
+  "hot:5105839:20261118",
+  "drop:4592691:1794989795826"
  ]
 }

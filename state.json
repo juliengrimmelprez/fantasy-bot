@@ -801,7 +801,7 @@
    "fantasy_team": "King Coopa",
    "id": "3062679",
    "last15": 13.8,
-   "mpg": 27.5,
+   "mpg": 27.6,
    "name": "Josh Hart",
    "nba_team": "NYK",
    "positions": [
@@ -1111,18 +1111,18 @@
   "3134908": {
    "fantasy_team": "Tiki Taka Laranja",
    "id": "3134908",
-   "last15": 25.6,
-   "mpg": 21.6,
+   "last15": 26.0,
+   "mpg": 21.7,
    "name": "Jakob Poeltl",
    "nba_team": "TOR",
    "positions": [
     "C"
    ],
    "return_date": null,
-   "season_avg": 21.0,
+   "season_avg": 21.2,
    "slot": "C",
    "status": "ACTIVE",
-   "value": 24.0
+   "value": 24.3
   },
   "3134916": {
    "fantasy_team": null,
@@ -1734,7 +1734,7 @@
   "3914044": {
    "fantasy_team": null,
    "id": "3914044",
-   "last15": 18.6,
+   "last15": 18.5,
    "mpg": 24.1,
    "name": "Landry Shamet",
    "nba_team": "NYK",
@@ -1745,7 +1745,7 @@
    "season_avg": 16.4,
    "slot": "",
    "status": "ACTIVE",
-   "value": 17.9
+   "value": 17.8
   },
   "3917376": {
    "fantasy_team": "Lakers x Bortolan 23",
@@ -3773,7 +3773,7 @@
    "fantasy_team": null,
    "id": "4431823",
    "last15": 15.8,
-   "mpg": 17.6,
+   "mpg": 17.7,
    "name": "Miles McBride",
    "nba_team": "NYK",
    "positions": [
@@ -3790,7 +3790,7 @@
    "fantasy_team": null,
    "id": "4431893",
    "last15": 13.2,
-   "mpg": 17.2,
+   "mpg": 17.3,
    "name": "Jamison Battle",
    "nba_team": "TOR",
    "positions": [
@@ -3954,7 +3954,7 @@
   "4432241": {
    "fantasy_team": "Tiki Taka Laranja",
    "id": "4432241",
-   "last15": 23.2,
+   "last15": 23.5,
    "mpg": 22.4,
    "name": "Jamal Shead",
    "nba_team": "TOR",
@@ -3962,10 +3962,10 @@
     "PG"
    ],
    "return_date": null,
-   "season_avg": 21.9,
+   "season_avg": 22.0,
    "slot": "PG",
    "status": "ACTIVE",
-   "value": 22.8
+   "value": 23.0
   },
   "4432247": {
    "fantasy_team": null,
@@ -5382,7 +5382,7 @@
    "fantasy_team": null,
    "id": "4702656",
    "last15": 14.4,
-   "mpg": 11.3,
+   "mpg": 11.4,
    "name": "Alijah Martin",
    "nba_team": "TOR",
    "positions": [
@@ -7512,7 +7512,7 @@
    "fantasy_team": null,
    "id": "6585",
    "last15": 11.6,
-   "mpg": 12.1,
+   "mpg": 12.2,
    "name": "Andre Drummond",
    "nba_team": "NYK",
    "positions": [

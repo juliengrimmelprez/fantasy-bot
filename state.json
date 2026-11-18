@@ -2163,7 +2163,7 @@
   "4066218": {
    "fantasy_team": null,
    "id": "4066218",
-   "last15": 11.7,
+   "last15": 14.0,
    "mpg": 15.0,
    "name": "Grant Williams",
    "nba_team": "CHA",
@@ -2171,10 +2171,10 @@
     "PF"
    ],
    "return_date": null,
-   "season_avg": 11.7,
+   "season_avg": 14.0,
    "slot": "",
    "status": "ACTIVE",
-   "value": 11.7
+   "value": 14.0
   },
   "4066259": {
    "fantasy_team": "Lucky",
@@ -2480,7 +2480,7 @@
   "4277811": {
    "fantasy_team": null,
    "id": "4277811",
-   "last15": 16.1,
+   "last15": 16.0,
    "mpg": 17.4,
    "name": "Collin Sexton",
    "nba_team": "LAL",
@@ -2489,10 +2489,10 @@
     "SG"
    ],
    "return_date": null,
-   "season_avg": 16.4,
+   "season_avg": 16.3,
    "slot": "",
    "status": "ACTIVE",
-   "value": 16.2
+   "value": 16.1
   },
   "4277813": {
    "fantasy_team": null,
@@ -2597,7 +2597,7 @@
    "fantasy_team": "CCCP  Баскетбол",
    "id": "4277919",
    "last15": 28.0,
-   "mpg": 19.7,
+   "mpg": 19.8,
    "name": "Mo Bamba",
    "nba_team": "UTA",
    "positions": [
@@ -3123,8 +3123,8 @@
   "4395651": {
    "fantasy_team": "King Coopa",
    "id": "4395651",
-   "last15": 11.6,
-   "mpg": 16.7,
+   "last15": 12.3,
+   "mpg": 16.9,
    "name": "Coby White",
    "nba_team": "CHA",
    "positions": [
@@ -3132,10 +3132,10 @@
     "SG"
    ],
    "return_date": null,
-   "season_avg": 11.6,
+   "season_avg": 12.3,
    "slot": "UT",
    "status": "ACTIVE",
-   "value": 11.6
+   "value": 12.3
   },
   "4395702": {
    "fantasy_team": null,
@@ -3225,7 +3225,7 @@
    "fantasy_team": "Tropa do Nikola",
    "id": "4396907",
    "last15": 34.3,
-   "mpg": 32.2,
+   "mpg": 32.3,
    "name": "Darius Garland",
    "nba_team": "LAC",
    "positions": [
@@ -4118,7 +4118,7 @@
   "4432811": {
    "fantasy_team": null,
    "id": "4432811",
-   "last15": 7.8,
+   "last15": 7.9,
    "mpg": 18.5,
    "name": "Josh Green",
    "nba_team": "UTA",
@@ -4126,10 +4126,10 @@
     "SG"
    ],
    "return_date": null,
-   "season_avg": 7.7,
+   "season_avg": 7.8,
    "slot": "",
    "status": "ACTIVE",
-   "value": 7.7
+   "value": 7.8
   },
   "4432816": {
    "fantasy_team": "Tropa do Nikola",
@@ -4450,8 +4450,8 @@
   "4433249": {
    "fantasy_team": "Caxias French Fries",
    "id": "4433249",
-   "last15": 21.8,
-   "mpg": 27.2,
+   "last15": 22.2,
+   "mpg": 27.3,
    "name": "Moussa Diabate",
    "nba_team": "CHA",
    "positions": [
@@ -4459,10 +4459,10 @@
     "C"
    ],
    "return_date": null,
-   "season_avg": 27.1,
+   "season_avg": 27.2,
    "slot": "PF",
    "status": "ACTIVE",
-   "value": 23.6
+   "value": 24.0
   },
   "4433255": {
    "fantasy_team": "Tiki Taka Laranja",
@@ -4484,8 +4484,8 @@
   "4433287": {
    "fantasy_team": "Tropa do Nikola",
    "id": "4433287",
-   "last15": 11.8,
-   "mpg": 28.5,
+   "last15": 12.2,
+   "mpg": 28.6,
    "name": "Brandon Miller",
    "nba_team": "CHA",
    "positions": [
@@ -4493,10 +4493,10 @@
     "SF"
    ],
    "return_date": null,
-   "season_avg": 26.1,
+   "season_avg": 26.2,
    "slot": "UT",
    "status": "ACTIVE",
-   "value": 16.8
+   "value": 17.1
   },
   "4433621": {
    "fantasy_team": "Hospital do Gansola",
@@ -5745,7 +5745,7 @@
   "4873138": {
    "fantasy_team": "Bull Market",
    "id": "4873138",
-   "last15": 24.4,
+   "last15": 24.7,
    "mpg": 30.3,
    "name": "Ace Bailey",
    "nba_team": "UTA",
@@ -5754,10 +5754,10 @@
     "PF"
    ],
    "return_date": null,
-   "season_avg": 27.4,
+   "season_avg": 27.5,
    "slot": "SF",
    "status": "ACTIVE",
-   "value": 25.5
+   "value": 25.7
   },
   "4873153": {
    "fantasy_team": null,
@@ -6124,7 +6124,7 @@
   "5041955": {
    "fantasy_team": "Hospital do Gansola",
    "id": "5041955",
-   "last15": 36.3,
+   "last15": 36.1,
    "mpg": 30.6,
    "name": "Darryn Peterson",
    "nba_team": "UTA",
@@ -6133,10 +6133,10 @@
     "SG"
    ],
    "return_date": null,
-   "season_avg": 31.4,
+   "season_avg": 31.3,
    "slot": "SG",
    "status": "ACTIVE",
-   "value": 34.6
+   "value": 34.4
   },
   "5044385": {
    "fantasy_team": null,
@@ -6157,18 +6157,18 @@
   "5060701": {
    "fantasy_team": "Hospital do Gansola",
    "id": "5060701",
-   "last15": 13.3,
-   "mpg": 12.5,
+   "last15": 13.7,
+   "mpg": 12.6,
    "name": "Christian Anderson",
    "nba_team": "CHA",
    "positions": [
     "PG"
    ],
    "return_date": null,
-   "season_avg": 8.3,
+   "season_avg": 8.5,
    "slot": "UT",
    "status": "ACTIVE",
-   "value": 11.6
+   "value": 11.8
   },
   "5061568": {
    "fantasy_team": null,

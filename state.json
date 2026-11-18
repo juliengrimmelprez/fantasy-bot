@@ -585,8 +585,8 @@
   "2991139": {
    "fantasy_team": "Caxias French Fries",
    "id": "2991139",
-   "last15": 19.3,
-   "mpg": 26.3,
+   "last15": 19.0,
+   "mpg": 26.4,
    "name": "Kris Dunn",
    "nba_team": "LAC",
    "positions": [
@@ -594,10 +594,10 @@
     "SG"
    ],
    "return_date": null,
-   "season_avg": 26.6,
+   "season_avg": 26.5,
    "slot": "PG",
    "status": "ACTIVE",
-   "value": 21.9
+   "value": 21.6
   },
   "2991230": {
    "fantasy_team": "Hospital do Gansola",
@@ -1489,7 +1489,7 @@
   "3448": {
    "fantasy_team": "Lucky",
    "id": "3448",
-   "last15": 30.0,
+   "last15": 30.1,
    "mpg": 24.0,
    "name": "Brook Lopez",
    "nba_team": "LAC",
@@ -1497,10 +1497,10 @@
     "C"
    ],
    "return_date": null,
-   "season_avg": 27.1,
+   "season_avg": 27.2,
    "slot": "UT",
    "status": "ACTIVE",
-   "value": 29.0
+   "value": 29.1
   },
   "3449": {
    "fantasy_team": null,
@@ -1833,7 +1833,7 @@
   "3936099": {
    "fantasy_team": "Tiki Taka Laranja",
    "id": "3936099",
-   "last15": 25.0,
+   "last15": 24.8,
    "mpg": 28.2,
    "name": "Derrick Jones Jr.",
    "nba_team": "LAC",
@@ -1842,10 +1842,10 @@
     "PF"
    ],
    "return_date": null,
-   "season_avg": 25.5,
+   "season_avg": 25.4,
    "slot": "SF",
    "status": "ACTIVE",
-   "value": 25.2
+   "value": 25.0
   },
   "3936299": {
    "fantasy_team": "Hospital do Gansola",
@@ -2908,7 +2908,7 @@
   "4278580": {
    "fantasy_team": "Lucky",
    "id": "4278580",
-   "last15": 20.1,
+   "last15": 20.5,
    "mpg": 22.5,
    "name": "Sandro Mamukelashvili",
    "nba_team": "LAL",
@@ -2917,10 +2917,10 @@
     "C"
    ],
    "return_date": null,
-   "season_avg": 20.7,
+   "season_avg": 20.9,
    "slot": "PF",
    "status": "ACTIVE",
-   "value": 20.3
+   "value": 20.7
   },
   "4278585": {
    "fantasy_team": "Contagem Hunters",
@@ -3123,7 +3123,7 @@
   "4395651": {
    "fantasy_team": "King Coopa",
    "id": "4395651",
-   "last15": 12.3,
+   "last15": 12.1,
    "mpg": 16.9,
    "name": "Coby White",
    "nba_team": "CHA",
@@ -3132,10 +3132,10 @@
     "SG"
    ],
    "return_date": null,
-   "season_avg": 12.3,
+   "season_avg": 12.1,
    "slot": "UT",
    "status": "ACTIVE",
-   "value": 12.3
+   "value": 12.1
   },
   "4395702": {
    "fantasy_team": null,
@@ -5745,7 +5745,7 @@
   "4873138": {
    "fantasy_team": "Bull Market",
    "id": "4873138",
-   "last15": 24.7,
+   "last15": 24.6,
    "mpg": 30.3,
    "name": "Ace Bailey",
    "nba_team": "UTA",
@@ -5757,7 +5757,7 @@
    "season_avg": 27.5,
    "slot": "SF",
    "status": "ACTIVE",
-   "value": 25.7
+   "value": 25.6
   },
   "4873153": {
    "fantasy_team": null,

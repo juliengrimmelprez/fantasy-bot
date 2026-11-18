@@ -186,7 +186,7 @@
  "last_activity_ms": 1794960549360,
  "last_digest": 1794980778.3020325,
  "last_error_alert": 1794388335.8497355,
- "last_hot_check": 1794981495.401005,
+ "last_hot_check": 1794982455.576163,
  "last_run": "2026-10-19T22:05:14+00:00",
  "matchup_periods": {
   "1": [
@@ -420,8 +420,8 @@
   "2583632": {
    "fantasy_team": null,
    "id": "2583632",
-   "last15": 12.3,
-   "mpg": 19.4,
+   "last15": 12.6,
+   "mpg": 19.5,
    "name": "Royce O'Neale",
    "nba_team": "CHA",
    "positions": [
@@ -429,10 +429,10 @@
     "PF"
    ],
    "return_date": null,
-   "season_avg": 12.0,
+   "season_avg": 12.1,
    "slot": "",
    "status": "ACTIVE",
-   "value": 12.2
+   "value": 12.4
   },
   "2595516": {
    "fantasy_team": "Contagem Hunters",
@@ -2164,7 +2164,7 @@
    "fantasy_team": null,
    "id": "4066218",
    "last15": 16.7,
-   "mpg": 18.7,
+   "mpg": 19.0,
    "name": "Grant Williams",
    "nba_team": "CHA",
    "positions": [
@@ -2480,8 +2480,8 @@
   "4277811": {
    "fantasy_team": null,
    "id": "4277811",
-   "last15": 16.8,
-   "mpg": 17.9,
+   "last15": 16.6,
+   "mpg": 18.1,
    "name": "Collin Sexton",
    "nba_team": "LAL",
    "positions": [
@@ -2489,10 +2489,10 @@
     "SG"
    ],
    "return_date": null,
-   "season_avg": 16.7,
+   "season_avg": 16.6,
    "slot": "",
    "status": "ACTIVE",
-   "value": 16.7
+   "value": 16.6
   },
   "4277813": {
    "fantasy_team": null,
@@ -2908,8 +2908,8 @@
   "4278580": {
    "fantasy_team": "Lucky",
    "id": "4278580",
-   "last15": 20.8,
-   "mpg": 23.3,
+   "last15": 21.0,
+   "mpg": 23.5,
    "name": "Sandro Mamukelashvili",
    "nba_team": "LAL",
    "positions": [
@@ -2917,10 +2917,10 @@
     "C"
    ],
    "return_date": null,
-   "season_avg": 21.1,
+   "season_avg": 21.2,
    "slot": "PF",
    "status": "ACTIVE",
-   "value": 20.9
+   "value": 21.1
   },
   "4278585": {
    "fantasy_team": "Contagem Hunters",
@@ -3123,7 +3123,7 @@
   "4395651": {
    "fantasy_team": "King Coopa",
    "id": "4395651",
-   "last15": 14.1,
+   "last15": 14.4,
    "mpg": 18.7,
    "name": "Coby White",
    "nba_team": "CHA",
@@ -3132,10 +3132,10 @@
     "SG"
    ],
    "return_date": null,
-   "season_avg": 14.1,
+   "season_avg": 14.4,
    "slot": "UT",
    "status": "ACTIVE",
-   "value": 14.1
+   "value": 14.4
   },
   "4395702": {
    "fantasy_team": null,
@@ -3308,8 +3308,8 @@
   "4397014": {
    "fantasy_team": "Tropa do Nikola",
    "id": "4397014",
-   "last15": 22.7,
-   "mpg": 26.9,
+   "last15": 25.0,
+   "mpg": 27.0,
    "name": "Quentin Grimes",
    "nba_team": "LAL",
    "positions": [
@@ -3317,10 +3317,10 @@
     "SF"
    ],
    "return_date": null,
-   "season_avg": 19.9,
+   "season_avg": 20.9,
    "slot": "SG",
    "status": "ACTIVE",
-   "value": 21.7
+   "value": 23.6
   },
   "4397020": {
    "fantasy_team": null,
@@ -4318,8 +4318,8 @@
   "4433137": {
    "fantasy_team": "Polga Silva",
    "id": "4433137",
-   "last15": 22.6,
-   "mpg": 23.0,
+   "last15": 22.9,
+   "mpg": 23.1,
    "name": "Ziaire Williams",
    "nba_team": "LAL",
    "positions": [
@@ -4327,10 +4327,10 @@
     "SF"
    ],
    "return_date": null,
-   "season_avg": 24.0,
+   "season_avg": 24.2,
    "slot": "SG",
    "status": "ACTIVE",
-   "value": 23.1
+   "value": 23.3
   },
   "4433144": {
    "fantasy_team": null,
@@ -4484,8 +4484,8 @@
   "4433287": {
    "fantasy_team": "Tropa do Nikola",
    "id": "4433287",
-   "last15": 16.6,
-   "mpg": 29.8,
+   "last15": 16.8,
+   "mpg": 29.9,
    "name": "Brandon Miller",
    "nba_team": "CHA",
    "positions": [
@@ -4493,10 +4493,10 @@
     "SF"
    ],
    "return_date": null,
-   "season_avg": 28.1,
+   "season_avg": 28.2,
    "slot": "UT",
    "status": "ACTIVE",
-   "value": 20.6
+   "value": 20.8
   },
   "4433621": {
    "fantasy_team": "Hospital do Gansola",
@@ -4568,18 +4568,18 @@
   "4576060": {
    "fantasy_team": null,
    "id": "4576060",
-   "last15": 17.9,
-   "mpg": 18.1,
+   "last15": 17.6,
+   "mpg": 18.2,
    "name": "Ryan Kalkbrenner",
    "nba_team": "CHA",
    "positions": [
     "C"
    ],
    "return_date": null,
-   "season_avg": 17.9,
+   "season_avg": 17.8,
    "slot": "",
    "status": "ACTIVE",
-   "value": 17.9
+   "value": 17.6
   },
   "4576087": {
    "fantasy_team": "King Coopa",
@@ -4918,7 +4918,7 @@
    "fantasy_team": null,
    "id": "4602025",
    "last15": 19.0,
-   "mpg": 26.3,
+   "mpg": 26.4,
    "name": "Sion James",
    "nba_team": "CHA",
    "positions": [

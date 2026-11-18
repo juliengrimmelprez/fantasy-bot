@@ -185,7 +185,7 @@
   "4351851:20261113"
  ],
  "hot_status": "ok: 264 FAs, 2159 games",
- "last_activity_ms": 1794996669690,
+ "last_activity_ms": 1794999499633,
  "last_digest": 1794999377.8198469,
  "last_error_alert": 1794388335.8497355,
  "last_hot_check": 1794998778.2507463,
@@ -1111,7 +1111,7 @@
    "value": 23.1
   },
   "3134908": {
-   "fantasy_team": "Tiki Taka Laranja",
+   "fantasy_team": null,
    "id": "3134908",
    "last15": 27.3,
    "mpg": 22.8,
@@ -1122,7 +1122,7 @@
    ],
    "return_date": null,
    "season_avg": 22.0,
-   "slot": "UT",
+   "slot": "",
    "status": "ACTIVE",
    "value": 25.4
   },
@@ -4167,7 +4167,7 @@
    "value": 6.1
   },
   "4432822": {
-   "fantasy_team": null,
+   "fantasy_team": "Tiki Taka Laranja",
    "id": "4432822",
    "last15": 20.2,
    "mpg": 22.7,
@@ -4179,7 +4179,7 @@
    ],
    "return_date": null,
    "season_avg": 14.0,
-   "slot": "",
+   "slot": "UT",
    "status": "ACTIVE",
    "value": 18.0
   },
@@ -7847,6 +7847,7 @@
   "hot:5105839:20261118",
   "drop:4592691:1794989795826",
   "drop:4432170:1794991359786",
-  "drop:5254165:1794994090703"
+  "drop:5254165:1794994090703",
+  "drop:3134908:1794999499633"
  ]
 }

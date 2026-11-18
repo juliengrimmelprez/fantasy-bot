@@ -420,8 +420,8 @@
   "2583632": {
    "fantasy_team": null,
    "id": "2583632",
-   "last15": 12.6,
-   "mpg": 19.5,
+   "last15": 12.4,
+   "mpg": 19.6,
    "name": "Royce O'Neale",
    "nba_team": "CHA",
    "positions": [
@@ -432,7 +432,7 @@
    "season_avg": 12.1,
    "slot": "",
    "status": "ACTIVE",
-   "value": 12.4
+   "value": 12.3
   },
   "2595516": {
    "fantasy_team": "Contagem Hunters",
@@ -1374,7 +1374,7 @@
    "fantasy_team": null,
    "id": "3155535",
    "last15": 5.0,
-   "mpg": 6.9,
+   "mpg": 7.0,
    "name": "Kevon Looney",
    "nba_team": "LAL",
    "positions": [
@@ -1618,18 +1618,18 @@
   "3907498": {
    "fantasy_team": "BL0CK BY ZION",
    "id": "3907498",
-   "last15": 22.0,
-   "mpg": 24.0,
+   "last15": 22.1,
+   "mpg": 24.1,
    "name": "Matisse Thybulle",
    "nba_team": "LAL",
    "positions": [
     "SF"
    ],
    "return_date": null,
-   "season_avg": 22.7,
+   "season_avg": 22.8,
    "slot": "UT",
    "status": "ACTIVE",
-   "value": 22.3
+   "value": 22.4
   },
   "3907823": {
    "fantasy_team": null,
@@ -2164,7 +2164,7 @@
    "fantasy_team": null,
    "id": "4066218",
    "last15": 17.7,
-   "mpg": 19.3,
+   "mpg": 19.7,
    "name": "Grant Williams",
    "nba_team": "CHA",
    "positions": [
@@ -2480,8 +2480,8 @@
   "4277811": {
    "fantasy_team": null,
    "id": "4277811",
-   "last15": 16.6,
-   "mpg": 18.1,
+   "last15": 16.5,
+   "mpg": 18.2,
    "name": "Collin Sexton",
    "nba_team": "LAL",
    "positions": [
@@ -2492,7 +2492,7 @@
    "season_avg": 16.6,
    "slot": "",
    "status": "ACTIVE",
-   "value": 16.6
+   "value": 16.5
   },
   "4277813": {
    "fantasy_team": null,
@@ -3257,8 +3257,8 @@
   "4396971": {
    "fantasy_team": "Polga Silva",
    "id": "4396971",
-   "last15": 33.1,
-   "mpg": 29.6,
+   "last15": 33.0,
+   "mpg": 29.7,
    "name": "Naz Reid",
    "nba_team": "CHA",
    "positions": [
@@ -3266,10 +3266,10 @@
     "C"
    ],
    "return_date": null,
-   "season_avg": 29.6,
+   "season_avg": 29.5,
    "slot": "PF",
    "status": "ACTIVE",
-   "value": 31.9
+   "value": 31.8
   },
   "4396993": {
    "fantasy_team": "Lebron GOAT",
@@ -3308,8 +3308,8 @@
   "4397014": {
    "fantasy_team": "Tropa do Nikola",
    "id": "4397014",
-   "last15": 25.0,
-   "mpg": 27.1,
+   "last15": 26.0,
+   "mpg": 27.2,
    "name": "Quentin Grimes",
    "nba_team": "LAL",
    "positions": [
@@ -3317,10 +3317,10 @@
     "SF"
    ],
    "return_date": null,
-   "season_avg": 20.9,
+   "season_avg": 21.4,
    "slot": "SG",
    "status": "ACTIVE",
-   "value": 23.6
+   "value": 24.4
   },
   "4397020": {
    "fantasy_team": null,
@@ -4319,7 +4319,7 @@
    "fantasy_team": "Polga Silva",
    "id": "4433137",
    "last15": 22.9,
-   "mpg": 23.1,
+   "mpg": 23.2,
    "name": "Ziaire Williams",
    "nba_team": "LAL",
    "positions": [
@@ -4451,7 +4451,7 @@
    "fantasy_team": "Caxias French Fries",
    "id": "4433249",
    "last15": 24.8,
-   "mpg": 28.5,
+   "mpg": 28.7,
    "name": "Moussa Diabate",
    "nba_team": "CHA",
    "positions": [
@@ -4918,7 +4918,7 @@
    "fantasy_team": null,
    "id": "4602025",
    "last15": 19.1,
-   "mpg": 26.4,
+   "mpg": 26.5,
    "name": "Sion James",
    "nba_team": "CHA",
    "positions": [

@@ -421,7 +421,7 @@
    "fantasy_team": null,
    "id": "2583632",
    "last15": 13.1,
-   "mpg": 19.9,
+   "mpg": 20.0,
    "name": "Royce O'Neale",
    "nba_team": "CHA",
    "positions": [
@@ -1619,7 +1619,7 @@
    "fantasy_team": "BL0CK BY ZION",
    "id": "3907498",
    "last15": 22.0,
-   "mpg": 24.4,
+   "mpg": 24.5,
    "name": "Matisse Thybulle",
    "nba_team": "LAL",
    "positions": [
@@ -1866,18 +1866,18 @@
   "3945274": {
    "fantasy_team": "BL0CK BY ZION",
    "id": "3945274",
-   "last15": 63.3,
-   "mpg": 35.8,
+   "last15": 63.4,
+   "mpg": 35.9,
    "name": "Luka Doncic",
    "nba_team": "LAL",
    "positions": [
     "PG"
    ],
    "return_date": null,
-   "season_avg": 63.7,
+   "season_avg": 63.8,
    "slot": "PG",
    "status": "ACTIVE",
-   "value": 63.4
+   "value": 63.5
   },
   "3948153": {
    "fantasy_team": null,
@@ -3123,8 +3123,8 @@
   "4395651": {
    "fantasy_team": "King Coopa",
    "id": "4395651",
-   "last15": 15.1,
-   "mpg": 19.0,
+   "last15": 15.4,
+   "mpg": 19.3,
    "name": "Coby White",
    "nba_team": "CHA",
    "positions": [
@@ -3132,10 +3132,10 @@
     "SG"
    ],
    "return_date": null,
-   "season_avg": 15.1,
+   "season_avg": 15.4,
    "slot": "UT",
    "status": "ACTIVE",
-   "value": 15.1
+   "value": 15.4
   },
   "4395702": {
    "fantasy_team": null,
@@ -3309,7 +3309,7 @@
    "fantasy_team": "Tropa do Nikola",
    "id": "4397014",
    "last15": 27.0,
-   "mpg": 27.6,
+   "mpg": 27.7,
    "name": "Quentin Grimes",
    "nba_team": "LAL",
    "positions": [
@@ -4319,7 +4319,7 @@
    "fantasy_team": "Polga Silva",
    "id": "4433137",
    "last15": 22.9,
-   "mpg": 23.4,
+   "mpg": 23.6,
    "name": "Ziaire Williams",
    "nba_team": "LAL",
    "positions": [
@@ -4451,7 +4451,7 @@
    "fantasy_team": "Caxias French Fries",
    "id": "4433249",
    "last15": 25.0,
-   "mpg": 29.0,
+   "mpg": 29.2,
    "name": "Moussa Diabate",
    "nba_team": "CHA",
    "positions": [
@@ -4484,8 +4484,8 @@
   "4433287": {
    "fantasy_team": "Tropa do Nikola",
    "id": "4433287",
-   "last15": 16.6,
-   "mpg": 30.4,
+   "last15": 16.8,
+   "mpg": 30.5,
    "name": "Brandon Miller",
    "nba_team": "CHA",
    "positions": [
@@ -4493,10 +4493,10 @@
     "SF"
    ],
    "return_date": null,
-   "season_avg": 28.1,
+   "season_avg": 28.2,
    "slot": "UT",
    "status": "ACTIVE",
-   "value": 20.6
+   "value": 20.8
   },
   "4433621": {
    "fantasy_team": "Hospital do Gansola",

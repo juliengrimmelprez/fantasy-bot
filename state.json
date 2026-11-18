@@ -4960,7 +4960,7 @@
    "return_date": null,
    "season_avg": 41.6,
    "slot": "SF",
-   "status": "DAY_TO_DAY",
+   "status": "OUT",
    "value": 42.3
   },
   "4683634": {
@@ -7839,6 +7839,7 @@
   "inj:2490149:OUT",
   "ltrade:1794956101149",
   "lineup:29",
-  "ltrade:1794960421395"
+  "ltrade:1794960421395",
+  "inj:4683021:OUT"
  ]
 }

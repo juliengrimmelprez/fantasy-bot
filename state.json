@@ -2876,7 +2876,7 @@
    "fantasy_team": "Tiki Taka Laranja",
    "id": "4278562",
    "last15": 26.3,
-   "mpg": 26.3,
+   "mpg": 26.4,
    "name": "Paul Reed",
    "nba_team": "DET",
    "positions": [
@@ -3091,7 +3091,7 @@
    "fantasy_team": "Contagem Hunters",
    "id": "4395630",
    "last15": 24.0,
-   "mpg": 29.9,
+   "mpg": 30.0,
    "name": "Devin Vassell",
    "nba_team": "SAS",
    "positions": [
@@ -3291,8 +3291,8 @@
   "4397002": {
    "fantasy_team": "Lakers x Bortolan 23",
    "id": "4397002",
-   "last15": 35.8,
-   "mpg": 31.3,
+   "last15": 35.9,
+   "mpg": 31.4,
    "name": "Ayo Dosunmu",
    "nba_team": "MIN",
    "positions": [
@@ -3303,7 +3303,7 @@
    "season_avg": 34.1,
    "slot": "UT",
    "status": "ACTIVE",
-   "value": 35.2
+   "value": 35.3
   },
   "4397014": {
    "fantasy_team": "Tropa do Nikola",
@@ -3705,7 +3705,7 @@
   "4431736": {
    "fantasy_team": "Lakers x Bortolan 23",
    "id": "4431736",
-   "last15": 18.0,
+   "last15": 17.9,
    "mpg": 28.9,
    "name": "Toumani Camara",
    "nba_team": "POR",
@@ -3714,10 +3714,10 @@
     "PF"
    ],
    "return_date": null,
-   "season_avg": 22.6,
+   "season_avg": 22.5,
    "slot": "UT",
    "status": "ACTIVE",
-   "value": 19.6
+   "value": 19.5
   },
   "4431752": {
    "fantasy_team": null,
@@ -3855,7 +3855,7 @@
   "4432166": {
    "fantasy_team": "CCCP  Баскетбол",
    "id": "4432166",
-   "last15": 55.1,
+   "last15": 55.0,
    "mpg": 34.7,
    "name": "Cade Cunningham",
    "nba_team": "DET",
@@ -3863,10 +3863,10 @@
     "PG"
    ],
    "return_date": null,
-   "season_avg": 49.2,
+   "season_avg": 49.1,
    "slot": "PG",
    "status": "ACTIVE",
-   "value": 53.1
+   "value": 53.0
   },
   "4432170": {
    "fantasy_team": "Lakers x Bortolan 23",
@@ -6042,7 +6042,7 @@
   "5037871": {
    "fantasy_team": "Tiki Taka Laranja",
    "id": "5037871",
-   "last15": 34.9,
+   "last15": 35.0,
    "mpg": 31.5,
    "name": "Dylan Harper",
    "nba_team": "SAS",
@@ -6051,10 +6051,10 @@
     "SG"
    ],
    "return_date": null,
-   "season_avg": 34.7,
+   "season_avg": 34.8,
    "slot": "UT",
    "status": "ACTIVE",
-   "value": 34.8
+   "value": 34.9
   },
   "5041935": {
    "fantasy_team": "BL0CK BY ZION",
@@ -6401,7 +6401,7 @@
    "fantasy_team": "CCCP  Баскетбол",
    "id": "5104157",
    "last15": 66.6,
-   "mpg": 29.7,
+   "mpg": 29.8,
    "name": "Victor Wembanyama",
    "nba_team": "SAS",
    "positions": [

@@ -350,7 +350,7 @@
    "return_date": null,
    "season_avg": 19.6,
    "slot": "",
-   "status": "DAY_TO_DAY",
+   "status": "ACTIVE",
    "value": 19.6
   },
   "2578185": {
@@ -3053,7 +3053,7 @@
    "return_date": null,
    "season_avg": 34.2,
    "slot": "UT",
-   "status": "DAY_TO_DAY",
+   "status": "OUT",
    "value": 33.5
   },
   "4395626": {
@@ -3685,7 +3685,7 @@
    "return_date": null,
    "season_avg": 19.2,
    "slot": "",
-   "status": "DAY_TO_DAY",
+   "status": "ACTIVE",
    "value": 19.2
   },
   "4431714": {
@@ -5194,7 +5194,7 @@
    "return_date": null,
    "season_avg": 33.2,
    "slot": "SG",
-   "status": "DAY_TO_DAY",
+   "status": "ACTIVE",
    "value": 33.8
   },
   "4684742": {
@@ -7853,6 +7853,8 @@
   "drop:4592492:1795009334343",
   "diag:30",
   "planday:30",
-  "lineup:30"
+  "lineup:30",
+  "inj:4395625:OUT",
+  "inj:4684740:ACTIVE"
  ]
 }

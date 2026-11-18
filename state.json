@@ -186,7 +186,7 @@
  "last_activity_ms": 1794960549360,
  "last_digest": 1794969620.9831078,
  "last_error_alert": 1794388335.8497355,
- "last_hot_check": 1794970936.9918952,
+ "last_hot_check": 1794971899.5193443,
  "last_run": "2026-10-19T22:05:14+00:00",
  "matchup_periods": {
   "1": [
@@ -1209,7 +1209,7 @@
   "3136196": {
    "fantasy_team": null,
    "id": "3136196",
-   "last15": 15.5,
+   "last15": 16.1,
    "mpg": 18.7,
    "name": "Trey Lyles",
    "nba_team": "MIN",
@@ -1217,10 +1217,10 @@
     "PF"
    ],
    "return_date": null,
-   "season_avg": 13.4,
+   "season_avg": 13.7,
    "slot": "",
    "status": "ACTIVE",
-   "value": 14.8
+   "value": 15.3
   },
   "3136776": {
    "fantasy_team": null,
@@ -2147,7 +2147,7 @@
   "4066211": {
    "fantasy_team": "BL0CK BY ZION",
    "id": "4066211",
-   "last15": 19.8,
+   "last15": 19.9,
    "mpg": 15.9,
    "name": "Robert Williams III",
    "nba_team": "POR",
@@ -2158,7 +2158,7 @@
    "season_avg": 21.2,
    "slot": "C",
    "status": "ACTIVE",
-   "value": 20.2
+   "value": 20.4
   },
   "4066218": {
    "fantasy_team": null,
@@ -3291,8 +3291,8 @@
   "4397002": {
    "fantasy_team": "Lakers x Bortolan 23",
    "id": "4397002",
-   "last15": 35.9,
-   "mpg": 31.1,
+   "last15": 36.0,
+   "mpg": 31.2,
    "name": "Ayo Dosunmu",
    "nba_team": "MIN",
    "positions": [
@@ -3300,10 +3300,10 @@
     "SG"
    ],
    "return_date": null,
-   "season_avg": 34.1,
+   "season_avg": 34.2,
    "slot": "UT",
    "status": "ACTIVE",
-   "value": 35.3
+   "value": 35.4
   },
   "4397014": {
    "fantasy_team": "Tropa do Nikola",
@@ -3574,7 +3574,7 @@
    "fantasy_team": "Lakers x Bortolan 23",
    "id": "4431671",
    "last15": 35.6,
-   "mpg": 33.0,
+   "mpg": 33.1,
    "name": "Jaden McDaniels",
    "nba_team": "MIN",
    "positions": [
@@ -3855,18 +3855,18 @@
   "4432166": {
    "fantasy_team": "CCCP  Баскетбол",
    "id": "4432166",
-   "last15": 55.3,
-   "mpg": 34.5,
+   "last15": 55.1,
+   "mpg": 34.6,
    "name": "Cade Cunningham",
    "nba_team": "DET",
    "positions": [
     "PG"
    ],
    "return_date": null,
-   "season_avg": 49.3,
+   "season_avg": 49.2,
    "slot": "PG",
    "status": "ACTIVE",
-   "value": 53.2
+   "value": 53.1
   },
   "4432170": {
    "fantasy_team": "Lakers x Bortolan 23",
@@ -6271,7 +6271,7 @@
    "fantasy_team": null,
    "id": "5081727",
    "last15": 17.4,
-   "mpg": 23.6,
+   "mpg": 23.7,
    "name": "Sidy Cissoko",
    "nba_team": "POR",
    "positions": [
@@ -6400,7 +6400,7 @@
   "5104157": {
    "fantasy_team": "CCCP  Баскетбол",
    "id": "5104157",
-   "last15": 66.4,
+   "last15": 66.6,
    "mpg": 29.7,
    "name": "Victor Wembanyama",
    "nba_team": "SAS",
@@ -6411,7 +6411,7 @@
    "season_avg": 64.9,
    "slot": "C",
    "status": "ACTIVE",
-   "value": 65.9
+   "value": 66.0
   },
   "5105550": {
    "fantasy_team": null,
@@ -7544,7 +7544,7 @@
   "6606": {
    "fantasy_team": "Bull Market",
    "id": "6606",
-   "last15": 30.7,
+   "last15": 30.4,
    "mpg": 28.9,
    "name": "Damian Lillard",
    "nba_team": "POR",
@@ -7552,10 +7552,10 @@
     "PG"
    ],
    "return_date": null,
-   "season_avg": 30.2,
+   "season_avg": 30.1,
    "slot": "PG",
    "status": "ACTIVE",
-   "value": 30.5
+   "value": 30.3
   },
   "6609": {
    "fantasy_team": null,

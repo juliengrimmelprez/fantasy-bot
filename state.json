@@ -185,7 +185,7 @@
   "5107199:20261024"
  ],
  "hot_status": "ok: 264 FAs, 2158 games",
- "last_activity_ms": 1794999499633,
+ "last_activity_ms": 1795004614320,
  "last_digest": 1795003096.7598808,
  "last_error_alert": 1794388335.8497355,
  "last_hot_check": 1795004535.1935804,
@@ -2147,7 +2147,7 @@
    "value": 19.5
   },
   "4066211": {
-   "fantasy_team": "BL0CK BY ZION",
+   "fantasy_team": null,
    "id": "4066211",
    "last15": 22.6,
    "mpg": 16.2,
@@ -2158,7 +2158,7 @@
    ],
    "return_date": null,
    "season_avg": 21.8,
-   "slot": "BE",
+   "slot": "",
    "status": "ACTIVE",
    "value": 22.3
   },
@@ -3475,7 +3475,7 @@
    "value": 4.3
   },
   "4397424": {
-   "fantasy_team": null,
+   "fantasy_team": "BL0CK BY ZION",
    "id": "4397424",
    "last15": 24.2,
    "mpg": 21.9,
@@ -3486,7 +3486,7 @@
    ],
    "return_date": null,
    "season_avg": 22.9,
-   "slot": "",
+   "slot": "UT",
    "status": "ACTIVE",
    "value": 23.7
   },
@@ -6329,7 +6329,7 @@
    ],
    "return_date": null,
    "season_avg": 32.9,
-   "slot": "UT",
+   "slot": "BE",
    "status": "OUT",
    "value": 22.1
   },
@@ -7848,6 +7848,7 @@
   "drop:4592691:1794989795826",
   "drop:4432170:1794991359786",
   "drop:5254165:1794994090703",
-  "drop:3134908:1794999499633"
+  "drop:3134908:1794999499633",
+  "drop:4066211:1795004614320"
  ]
 }

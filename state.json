@@ -420,8 +420,8 @@
   "2583632": {
    "fantasy_team": null,
    "id": "2583632",
-   "last15": 11.6,
-   "mpg": 18.9,
+   "last15": 11.7,
+   "mpg": 19.0,
    "name": "Royce O'Neale",
    "nba_team": "CHA",
    "positions": [
@@ -429,10 +429,10 @@
     "PF"
    ],
    "return_date": null,
-   "season_avg": 11.6,
+   "season_avg": 11.7,
    "slot": "",
    "status": "ACTIVE",
-   "value": 11.6
+   "value": 11.7
   },
   "2595516": {
    "fantasy_team": "Contagem Hunters",
@@ -1866,7 +1866,7 @@
   "3945274": {
    "fantasy_team": "BL0CK BY ZION",
    "id": "3945274",
-   "last15": 61.7,
+   "last15": 61.6,
    "mpg": 35.2,
    "name": "Luka Doncic",
    "nba_team": "LAL",
@@ -1874,10 +1874,10 @@
     "PG"
    ],
    "return_date": null,
-   "season_avg": 62.9,
+   "season_avg": 62.8,
    "slot": "PG",
    "status": "ACTIVE",
-   "value": 62.1
+   "value": 62.0
   },
   "3948153": {
    "fantasy_team": null,
@@ -2776,7 +2776,7 @@
    "fantasy_team": null,
    "id": "4278077",
    "last15": 10.6,
-   "mpg": 11.9,
+   "mpg": 12.0,
    "name": "Jarred Vanderbilt",
    "nba_team": "LAL",
    "positions": [
@@ -2909,7 +2909,7 @@
    "fantasy_team": "Lucky",
    "id": "4278580",
    "last15": 20.8,
-   "mpg": 22.9,
+   "mpg": 23.1,
    "name": "Sandro Mamukelashvili",
    "nba_team": "LAL",
    "positions": [
@@ -4319,7 +4319,7 @@
    "fantasy_team": "Polga Silva",
    "id": "4433137",
    "last15": 22.1,
-   "mpg": 22.5,
+   "mpg": 22.6,
    "name": "Ziaire Williams",
    "nba_team": "LAL",
    "positions": [
@@ -4450,7 +4450,7 @@
   "4433249": {
    "fantasy_team": "Caxias French Fries",
    "id": "4433249",
-   "last15": 23.2,
+   "last15": 23.4,
    "mpg": 28.2,
    "name": "Moussa Diabate",
    "nba_team": "CHA",
@@ -4459,10 +4459,10 @@
     "C"
    ],
    "return_date": null,
-   "season_avg": 27.7,
+   "season_avg": 27.8,
    "slot": "PF",
    "status": "ACTIVE",
-   "value": 24.8
+   "value": 24.9
   },
   "4433255": {
    "fantasy_team": "Tiki Taka Laranja",
@@ -4917,18 +4917,18 @@
   "4602025": {
    "fantasy_team": null,
    "id": "4602025",
-   "last15": 18.7,
-   "mpg": 26.0,
+   "last15": 19.0,
+   "mpg": 26.1,
    "name": "Sion James",
    "nba_team": "CHA",
    "positions": [
     "SF"
    ],
    "return_date": null,
-   "season_avg": 14.6,
+   "season_avg": 14.8,
    "slot": "",
    "status": "ACTIVE",
-   "value": 17.3
+   "value": 17.5
   },
   "4610139": {
    "fantasy_team": null,
@@ -6157,18 +6157,18 @@
   "5060701": {
    "fantasy_team": "Hospital do Gansola",
    "id": "5060701",
-   "last15": 15.3,
-   "mpg": 13.2,
+   "last15": 15.8,
+   "mpg": 13.4,
    "name": "Christian Anderson",
    "nba_team": "CHA",
    "positions": [
     "PG"
    ],
    "return_date": null,
-   "season_avg": 9.2,
+   "season_avg": 9.5,
    "slot": "UT",
    "status": "ACTIVE",
-   "value": 13.2
+   "value": 13.6
   },
   "5061568": {
    "fantasy_team": null,
@@ -7538,7 +7538,7 @@
    "return_date": null,
    "season_avg": 23.2,
    "slot": "BE",
-   "status": "ACTIVE",
+   "status": "DAY_TO_DAY",
    "value": 23.7
   },
   "6606": {

@@ -186,7 +186,7 @@
  "last_activity_ms": 1794960549360,
  "last_digest": 1794965909.4127843,
  "last_error_alert": 1794388335.8497355,
- "last_hot_check": 1794965177.9702542,
+ "last_hot_check": 1794966136.8858445,
  "last_run": "2026-10-19T22:05:14+00:00",
  "matchup_periods": {
   "1": [
@@ -4668,18 +4668,18 @@
   "4592492": {
    "fantasy_team": "Lucky",
    "id": "4592492",
-   "last15": 23.5,
-   "mpg": 13.1,
+   "last15": 23.1,
+   "mpg": 13.2,
    "name": "Bones Hyland",
    "nba_team": "MIN",
    "positions": [
     "PG"
    ],
    "return_date": null,
-   "season_avg": 20.2,
+   "season_avg": 20.0,
    "slot": "PG",
    "status": "ACTIVE",
-   "value": 22.3
+   "value": 22.0
   },
   "4592691": {
    "fantasy_team": "Tropa do Nikola",
@@ -4983,7 +4983,7 @@
   "4683678": {
    "fantasy_team": null,
    "id": "4683678",
-   "last15": 7.2,
+   "last15": 7.4,
    "mpg": 21.1,
    "name": "Scoot Henderson",
    "nba_team": "POR",
@@ -4992,10 +4992,10 @@
     "SG"
    ],
    "return_date": null,
-   "season_avg": 7.9,
+   "season_avg": 8.0,
    "slot": "",
    "status": "ACTIVE",
-   "value": 7.4
+   "value": 7.6
   },
   "4683688": {
    "fantasy_team": null,
@@ -5812,18 +5812,18 @@
   "4895758": {
    "fantasy_team": null,
    "id": "4895758",
-   "last15": 0.4,
-   "mpg": 4.4,
+   "last15": 0.6,
+   "mpg": 4.6,
    "name": "Cody Williams",
    "nba_team": "MIN",
    "positions": [
     "SG"
    ],
    "return_date": null,
-   "season_avg": 0.1,
+   "season_avg": 0.2,
    "slot": "",
    "status": "ACTIVE",
-   "value": 0.3
+   "value": 0.5
   },
   "4896372": {
    "fantasy_team": null,
@@ -6432,18 +6432,18 @@
   "5105565": {
    "fantasy_team": "Polga Silva",
    "id": "5105565",
-   "last15": 35.6,
-   "mpg": 24.1,
+   "last15": 35.8,
+   "mpg": 24.2,
    "name": "Donovan Clingan",
    "nba_team": "POR",
    "positions": [
     "C"
    ],
    "return_date": null,
-   "season_avg": 32.9,
+   "season_avg": 33.0,
    "slot": "C",
    "status": "ACTIVE",
-   "value": 34.6
+   "value": 34.8
   },
   "5105592": {
    "fantasy_team": null,

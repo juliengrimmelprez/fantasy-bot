@@ -2163,18 +2163,18 @@
   "4066218": {
    "fantasy_team": null,
    "id": "4066218",
-   "last15": 12.0,
-   "mpg": 14.0,
+   "last15": 11.7,
+   "mpg": 14.7,
    "name": "Grant Williams",
    "nba_team": "CHA",
    "positions": [
     "PF"
    ],
    "return_date": null,
-   "season_avg": 12.0,
+   "season_avg": 11.7,
    "slot": "",
    "status": "ACTIVE",
-   "value": 12.0
+   "value": 11.7
   },
   "4066259": {
    "fantasy_team": "Lucky",
@@ -2481,7 +2481,7 @@
    "fantasy_team": null,
    "id": "4277811",
    "last15": 16.1,
-   "mpg": 17.2,
+   "mpg": 17.3,
    "name": "Collin Sexton",
    "nba_team": "LAL",
    "positions": [
@@ -2909,7 +2909,7 @@
    "fantasy_team": "Lucky",
    "id": "4278580",
    "last15": 20.2,
-   "mpg": 22.3,
+   "mpg": 22.5,
    "name": "Sandro Mamukelashvili",
    "nba_team": "LAL",
    "positions": [
@@ -3123,8 +3123,8 @@
   "4395651": {
    "fantasy_team": "King Coopa",
    "id": "4395651",
-   "last15": 11.0,
-   "mpg": 16.4,
+   "last15": 10.9,
+   "mpg": 16.7,
    "name": "Coby White",
    "nba_team": "CHA",
    "positions": [
@@ -3132,10 +3132,10 @@
     "SG"
    ],
    "return_date": null,
-   "season_avg": 11.0,
+   "season_avg": 10.9,
    "slot": "UT",
    "status": "ACTIVE",
-   "value": 11.0
+   "value": 10.9
   },
   "4395702": {
    "fantasy_team": null,
@@ -3308,8 +3308,8 @@
   "4397014": {
    "fantasy_team": "Tropa do Nikola",
    "id": "4397014",
-   "last15": 18.2,
-   "mpg": 25.5,
+   "last15": 20.0,
+   "mpg": 25.6,
    "name": "Quentin Grimes",
    "nba_team": "LAL",
    "positions": [
@@ -3317,10 +3317,10 @@
     "SF"
    ],
    "return_date": null,
-   "season_avg": 17.8,
+   "season_avg": 18.6,
    "slot": "SG",
    "status": "ACTIVE",
-   "value": 18.0
+   "value": 19.5
   },
   "4397020": {
    "fantasy_team": null,
@@ -4450,8 +4450,8 @@
   "4433249": {
    "fantasy_team": "Caxias French Fries",
    "id": "4433249",
-   "last15": 21.6,
-   "mpg": 27.1,
+   "last15": 21.8,
+   "mpg": 27.2,
    "name": "Moussa Diabate",
    "nba_team": "CHA",
    "positions": [
@@ -4459,10 +4459,10 @@
     "C"
    ],
    "return_date": null,
-   "season_avg": 27.0,
+   "season_avg": 27.1,
    "slot": "PF",
    "status": "ACTIVE",
-   "value": 23.5
+   "value": 23.6
   },
   "4433255": {
    "fantasy_team": "Tiki Taka Laranja",
@@ -6158,7 +6158,7 @@
    "fantasy_team": "Hospital do Gansola",
    "id": "5060701",
    "last15": 13.3,
-   "mpg": 12.4,
+   "mpg": 12.5,
    "name": "Christian Anderson",
    "nba_team": "CHA",
    "positions": [
@@ -7071,7 +7071,7 @@
    "fantasy_team": null,
    "id": "5211176",
    "last15": 10.6,
-   "mpg": 13.6,
+   "mpg": 13.7,
    "name": "Tidjane Salaun",
    "nba_team": "CHA",
    "positions": [

@@ -420,7 +420,7 @@
   "2583632": {
    "fantasy_team": null,
    "id": "2583632",
-   "last15": 11.0,
+   "last15": 10.9,
    "mpg": 18.4,
    "name": "Royce O'Neale",
    "nba_team": "CHA",
@@ -429,10 +429,10 @@
     "PF"
    ],
    "return_date": null,
-   "season_avg": 11.4,
+   "season_avg": 11.3,
    "slot": "",
    "status": "ACTIVE",
-   "value": 11.1
+   "value": 11.0
   },
   "2595516": {
    "fantasy_team": "Contagem Hunters",
@@ -1866,18 +1866,18 @@
   "3945274": {
    "fantasy_team": "BL0CK BY ZION",
    "id": "3945274",
-   "last15": 58.9,
-   "mpg": 33.9,
+   "last15": 58.7,
+   "mpg": 34.0,
    "name": "Luka Doncic",
    "nba_team": "LAL",
    "positions": [
     "PG"
    ],
    "return_date": null,
-   "season_avg": 61.3,
+   "season_avg": 61.2,
    "slot": "PG",
    "status": "ACTIVE",
-   "value": 59.7
+   "value": 59.6
   },
   "3948153": {
    "fantasy_team": null,
@@ -2480,7 +2480,7 @@
   "4277811": {
    "fantasy_team": null,
    "id": "4277811",
-   "last15": 15.8,
+   "last15": 16.1,
    "mpg": 17.1,
    "name": "Collin Sexton",
    "nba_team": "LAL",
@@ -2489,10 +2489,10 @@
     "SG"
    ],
    "return_date": null,
-   "season_avg": 16.1,
+   "season_avg": 16.4,
    "slot": "",
    "status": "ACTIVE",
-   "value": 15.9
+   "value": 16.2
   },
   "4277813": {
    "fantasy_team": null,
@@ -2909,7 +2909,7 @@
    "fantasy_team": "Lucky",
    "id": "4278580",
    "last15": 20.2,
-   "mpg": 22.2,
+   "mpg": 22.3,
    "name": "Sandro Mamukelashvili",
    "nba_team": "LAL",
    "positions": [
@@ -3257,7 +3257,7 @@
   "4396971": {
    "fantasy_team": "Polga Silva",
    "id": "4396971",
-   "last15": 29.4,
+   "last15": 29.3,
    "mpg": 28.4,
    "name": "Naz Reid",
    "nba_team": "CHA",
@@ -3266,10 +3266,10 @@
     "C"
    ],
    "return_date": null,
-   "season_avg": 27.7,
+   "season_avg": 27.6,
    "slot": "PF",
    "status": "ACTIVE",
-   "value": 28.8
+   "value": 28.7
   },
   "4396993": {
    "fantasy_team": "Lebron GOAT",
@@ -4451,7 +4451,7 @@
    "fantasy_team": "Caxias French Fries",
    "id": "4433249",
    "last15": 21.2,
-   "mpg": 26.9,
+   "mpg": 27.0,
    "name": "Moussa Diabate",
    "nba_team": "CHA",
    "positions": [
@@ -7071,7 +7071,7 @@
    "fantasy_team": null,
    "id": "5211176",
    "last15": 10.4,
-   "mpg": 13.5,
+   "mpg": 13.6,
    "name": "Tidjane Salaun",
    "nba_team": "CHA",
    "positions": [

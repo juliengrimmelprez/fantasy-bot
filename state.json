@@ -203,7 +203,7 @@
  "last_activity_ms": 1795103969796,
  "last_digest": 1795121655.478058,
  "last_error_alert": 1794388335.8497355,
- "last_hot_check": 1795123592.9389346,
+ "last_hot_check": 1795124535.6600037,
  "last_run": "2026-10-19T22:05:14+00:00",
  "matchup_periods": {
   "1": [
@@ -5126,7 +5126,7 @@
    "return_date": null,
    "season_avg": 14.7,
    "slot": "",
-   "status": "DAY_TO_DAY",
+   "status": "OUT",
    "value": 11.8
   },
   "4683774": {

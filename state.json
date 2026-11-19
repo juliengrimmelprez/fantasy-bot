@@ -826,8 +826,8 @@
   "3064290": {
    "fantasy_team": "CCCP  Баскетбол",
    "id": "3064290",
-   "last15": 17.0,
-   "mpg": 27.8,
+   "last15": 17.1,
+   "mpg": 28.0,
    "name": "Aaron Gordon",
    "nba_team": "DEN",
    "positions": [
@@ -837,7 +837,7 @@
    "season_avg": 20.5,
    "slot": "UT",
    "status": "ACTIVE",
-   "value": 18.2
+   "value": 18.3
   },
   "3064440": {
    "fantasy_team": "BL0CK BY ZION",
@@ -909,7 +909,7 @@
    "fantasy_team": "Lucky",
    "id": "3078576",
    "last15": 32.4,
-   "mpg": 28.8,
+   "mpg": 28.9,
    "name": "Derrick White",
    "nba_team": "BOS",
    "positions": [
@@ -990,23 +990,23 @@
   "3112335": {
    "fantasy_team": "Tropa do Nikola",
    "id": "3112335",
-   "last15": 58.0,
-   "mpg": 35.2,
+   "last15": 58.7,
+   "mpg": 35.3,
    "name": "Nikola Jokic",
    "nba_team": "DEN",
    "positions": [
     "C"
    ],
    "return_date": null,
-   "season_avg": 56.6,
+   "season_avg": 57.0,
    "slot": "C",
    "status": "ACTIVE",
-   "value": 57.5
+   "value": 58.1
   },
   "3133602": {
    "fantasy_team": null,
    "id": "3133602",
-   "last15": 10.4,
+   "last15": 10.2,
    "mpg": 16.8,
    "name": "Svi Mykhailiuk",
    "nba_team": "UTA",
@@ -1014,10 +1014,10 @@
     "SG"
    ],
    "return_date": null,
-   "season_avg": 9.8,
+   "season_avg": 9.7,
    "slot": "",
    "status": "ACTIVE",
-   "value": 10.2
+   "value": 10.0
   },
   "3133603": {
    "fantasy_team": "Hospital do Gansola",
@@ -1284,7 +1284,7 @@
    "fantasy_team": "Lakers x Bortolan 23",
    "id": "3138196",
    "last15": 20.1,
-   "mpg": 26.9,
+   "mpg": 27.1,
    "name": "Cameron Johnson",
    "nba_team": "DEN",
    "positions": [
@@ -1860,7 +1860,7 @@
    "fantasy_team": "Hospital do Gansola",
    "id": "3936299",
    "last15": 44.0,
-   "mpg": 35.0,
+   "mpg": 35.2,
    "name": "Jamal Murray",
    "nba_team": "DEN",
    "positions": [
@@ -1875,18 +1875,18 @@
   "3945274": {
    "fantasy_team": "BL0CK BY ZION",
    "id": "3945274",
-   "last15": 55.3,
-   "mpg": 34.9,
+   "last15": 55.6,
+   "mpg": 35.0,
    "name": "Luka Doncic",
    "nba_team": "LAL",
    "positions": [
     "PG"
    ],
    "return_date": null,
-   "season_avg": 61.4,
+   "season_avg": 61.5,
    "slot": "PG",
    "status": "ACTIVE",
-   "value": 57.4
+   "value": 57.6
   },
   "3948153": {
    "fantasy_team": null,
@@ -2008,7 +2008,7 @@
    "fantasy_team": "Caxias French Fries",
    "id": "4065648",
    "last15": 45.3,
-   "mpg": 32.8,
+   "mpg": 32.9,
    "name": "Jayson Tatum",
    "nba_team": "BOS",
    "positions": [
@@ -2472,7 +2472,7 @@
   "4251": {
    "fantasy_team": "Bull Market",
    "id": "4251",
-   "last15": 34.3,
+   "last15": 34.9,
    "mpg": 28.8,
    "name": "Paul George",
    "nba_team": "BOS",
@@ -2481,10 +2481,10 @@
     "PF"
    ],
    "return_date": null,
-   "season_avg": 38.5,
+   "season_avg": 38.8,
    "slot": "UT",
    "status": "ACTIVE",
-   "value": 35.7
+   "value": 36.2
   },
   "4277811": {
    "fantasy_team": null,
@@ -2918,7 +2918,7 @@
    "fantasy_team": "Lucky",
    "id": "4278580",
    "last15": 17.4,
-   "mpg": 22.7,
+   "mpg": 22.8,
    "name": "Sandro Mamukelashvili",
    "nba_team": "LAL",
    "positions": [
@@ -3318,7 +3318,7 @@
    "fantasy_team": "Tropa do Nikola",
    "id": "4397014",
    "last15": 26.8,
-   "mpg": 27.2,
+   "mpg": 27.3,
    "name": "Quentin Grimes",
    "nba_team": "LAL",
    "positions": [
@@ -3485,7 +3485,7 @@
    "fantasy_team": "BL0CK BY ZION",
    "id": "4397424",
    "last15": 22.3,
-   "mpg": 21.3,
+   "mpg": 21.4,
    "name": "Neemias Queta",
    "nba_team": "BOS",
    "positions": [
@@ -3748,7 +3748,7 @@
    "fantasy_team": "CCCP  Баскетбол",
    "id": "4431767",
    "last15": 25.7,
-   "mpg": 32.5,
+   "mpg": 32.6,
    "name": "Christian Braun",
    "nba_team": "DEN",
    "positions": [
@@ -7014,8 +7014,8 @@
   "5175647": {
    "fantasy_team": null,
    "id": "5175647",
-   "last15": 8.6,
-   "mpg": 12.5,
+   "last15": 8.5,
+   "mpg": 12.7,
    "name": "Hugo Gonzalez",
    "nba_team": "BOS",
    "positions": [
@@ -7025,7 +7025,7 @@
    "season_avg": 8.9,
    "slot": "",
    "status": "ACTIVE",
-   "value": 8.7
+   "value": 8.6
   },
   "5175737": {
    "fantasy_team": "Fernando  Diniz",

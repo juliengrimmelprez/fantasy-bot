@@ -1014,7 +1014,7 @@
    "fantasy_team": null,
    "id": "3133602",
    "last15": 11.1,
-   "mpg": 17.2,
+   "mpg": 17.3,
    "name": "Svi Mykhailiuk",
    "nba_team": "UTA",
    "positions": [
@@ -1867,7 +1867,7 @@
    "fantasy_team": "Hospital do Gansola",
    "id": "3936299",
    "last15": 47.1,
-   "mpg": 36.1,
+   "mpg": 36.2,
    "name": "Jamal Murray",
    "nba_team": "DEN",
    "positions": [
@@ -3324,8 +3324,8 @@
   "4397014": {
    "fantasy_team": "Tropa do Nikola",
    "id": "4397014",
-   "last15": 29.8,
-   "mpg": 27.9,
+   "last15": 30.0,
+   "mpg": 28.1,
    "name": "Quentin Grimes",
    "nba_team": "LAL",
    "positions": [
@@ -3336,7 +3336,7 @@
    "season_avg": 22.9,
    "slot": "SG",
    "status": "ACTIVE",
-   "value": 27.4
+   "value": 27.5
   },
   "4397020": {
    "fantasy_team": null,
@@ -4318,7 +4318,7 @@
   "4433136": {
    "fantasy_team": "Tropa do Nikola",
    "id": "4433136",
-   "last15": 36.6,
+   "last15": 36.7,
    "mpg": 30.3,
    "name": "Walker Kessler",
    "nba_team": "LAL",
@@ -4326,10 +4326,10 @@
     "C"
    ],
    "return_date": null,
-   "season_avg": 38.9,
+   "season_avg": 39.0,
    "slot": "UT",
    "status": "ACTIVE",
-   "value": 37.4
+   "value": 37.5
   },
   "4433137": {
    "fantasy_team": "Polga Silva",
@@ -6140,7 +6140,7 @@
   "5041955": {
    "fantasy_team": "Hospital do Gansola",
    "id": "5041955",
-   "last15": 31.7,
+   "last15": 31.6,
    "mpg": 30.3,
    "name": "Darryn Peterson",
    "nba_team": "UTA",
@@ -6149,10 +6149,10 @@
     "SG"
    ],
    "return_date": null,
-   "season_avg": 30.0,
+   "season_avg": 29.9,
    "slot": "UT",
    "status": "ACTIVE",
-   "value": 31.1
+   "value": 31.0
   },
   "5044385": {
    "fantasy_team": null,

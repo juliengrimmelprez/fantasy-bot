@@ -3604,23 +3604,6 @@
    "status": "ACTIVE",
    "value": 38.5
   },
-  "4431675": {
-   "fantasy_team": null,
-   "id": "4431675",
-   "last15": 16.7,
-   "mpg": 17.8,
-   "name": "Trendon Watford",
-   "nba_team": "NOP",
-   "positions": [
-    "SF",
-    "PF"
-   ],
-   "return_date": null,
-   "season_avg": 16.0,
-   "slot": "",
-   "status": "OUT",
-   "value": 16.4
-  },
   "4431678": {
    "fantasy_team": "Tiki Taka Laranja",
    "id": "4431678",
@@ -4514,6 +4497,22 @@
    "slot": "BE",
    "status": "ACTIVE",
    "value": 19.4
+  },
+  "4433569": {
+   "fantasy_team": null,
+   "id": "4433569",
+   "last15": 0,
+   "mpg": 8.3,
+   "name": "Johni Broome",
+   "nba_team": "MIN",
+   "positions": [
+    "PF"
+   ],
+   "return_date": null,
+   "season_avg": 0,
+   "slot": "",
+   "status": "ACTIVE",
+   "value": 7.0
   },
   "4433621": {
    "fantasy_team": "Hospital do Gansola",

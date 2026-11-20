@@ -6074,7 +6074,7 @@
    "return_date": null,
    "season_avg": 35.7,
    "slot": "PF",
-   "status": "ACTIVE",
+   "status": "OUT",
    "value": 37.3
   },
   "5041939": {
@@ -7879,6 +7879,7 @@
   "drop:2991070:1795186131732",
   "drop:4684806:1795186279421",
   "drop:3936099:1795190386289",
-  "lineup:32"
+  "lineup:32",
+  "inj:5041935:OUT"
  ]
 }

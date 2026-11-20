@@ -2001,22 +2001,6 @@
    "status": "ACTIVE",
    "value": 21.5
   },
-  "4017850": {
-   "fantasy_team": null,
-   "id": "4017850",
-   "last15": 0,
-   "mpg": null,
-   "name": "Wang Zhelin",
-   "nba_team": "MEM",
-   "positions": [
-    "C"
-   ],
-   "return_date": null,
-   "season_avg": 0,
-   "slot": "",
-   "status": "ACTIVE",
-   "value": 0.0
-  },
   "4065648": {
    "fantasy_team": "Caxias French Fries",
    "id": "4065648",
@@ -3242,6 +3226,22 @@
    "slot": "UT",
    "status": "ACTIVE",
    "value": 28.0
+  },
+  "4396818": {
+   "fantasy_team": null,
+   "id": "4396818",
+   "last15": 0,
+   "mpg": null,
+   "name": "Jordan Miller",
+   "nba_team": "LAC",
+   "positions": [
+    "SF"
+   ],
+   "return_date": null,
+   "season_avg": 0,
+   "slot": "",
+   "status": "OUT",
+   "value": 0.0
   },
   "4396907": {
    "fantasy_team": "Tropa do Nikola",

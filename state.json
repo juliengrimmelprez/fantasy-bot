@@ -1967,7 +1967,7 @@
    "fantasy_team": "Polga Silva",
    "id": "3995",
    "last15": 24.0,
-   "mpg": 25.9,
+   "mpg": 26.0,
    "name": "Jrue Holiday",
    "nba_team": "POR",
    "positions": [
@@ -2196,8 +2196,8 @@
   "4066259": {
    "fantasy_team": "Lucky",
    "id": "4066259",
-   "last15": 21.6,
-   "mpg": 28.4,
+   "last15": 21.9,
+   "mpg": 28.5,
    "name": "De'Aaron Fox",
    "nba_team": "SAS",
    "positions": [
@@ -2205,10 +2205,10 @@
     "SG"
    ],
    "return_date": null,
-   "season_avg": 28.6,
+   "season_avg": 28.7,
    "slot": "PG",
    "status": "ACTIVE",
-   "value": 24.1
+   "value": 24.3
   },
   "4066261": {
    "fantasy_team": "Lakers x Bortolan 23",
@@ -2581,7 +2581,7 @@
   "4277869": {
    "fantasy_team": null,
    "id": "4277869",
-   "last15": 2.6,
+   "last15": 2.2,
    "mpg": 9.0,
    "name": "Jose Alvarado",
    "nba_team": "NYK",
@@ -2589,10 +2589,10 @@
     "PG"
    ],
    "return_date": null,
-   "season_avg": 5.8,
+   "season_avg": 5.5,
    "slot": "",
    "status": "ACTIVE",
-   "value": 3.7
+   "value": 3.4
   },
   "4277905": {
    "fantasy_team": "BL0CK BY ZION",
@@ -3705,7 +3705,7 @@
   "4431736": {
    "fantasy_team": "Lakers x Bortolan 23",
    "id": "4431736",
-   "last15": 19.7,
+   "last15": 20.7,
    "mpg": 28.7,
    "name": "Toumani Camara",
    "nba_team": "POR",
@@ -3714,10 +3714,10 @@
     "PF"
    ],
    "return_date": null,
-   "season_avg": 22.7,
+   "season_avg": 23.3,
    "slot": "UT",
    "status": "ACTIVE",
-   "value": 20.7
+   "value": 21.6
   },
   "4431752": {
    "fantasy_team": null,
@@ -4218,7 +4218,7 @@
    "fantasy_team": "Contagem Hunters",
    "id": "4432848",
    "last15": 22.9,
-   "mpg": 26.6,
+   "mpg": 26.7,
    "name": "Jaime Jaquez Jr.",
    "nba_team": "MIL",
    "positions": [
@@ -4999,7 +4999,7 @@
   "4683678": {
    "fantasy_team": null,
    "id": "4683678",
-   "last15": 11.1,
+   "last15": 11.3,
    "mpg": 21.9,
    "name": "Scoot Henderson",
    "nba_team": "POR",
@@ -5008,10 +5008,10 @@
     "SG"
    ],
    "return_date": null,
-   "season_avg": 10.6,
+   "season_avg": 10.7,
    "slot": "",
    "status": "ACTIVE",
-   "value": 10.9
+   "value": 11.1
   },
   "4683688": {
    "fantasy_team": null,
@@ -5561,7 +5561,7 @@
   "4781746": {
    "fantasy_team": "Tiki Taka Laranja",
    "id": "4781746",
-   "last15": 20.9,
+   "last15": 21.2,
    "mpg": 21.3,
    "name": "Javon Small",
    "nba_team": "MEM",
@@ -5569,10 +5569,10 @@
     "PG"
    ],
    "return_date": null,
-   "season_avg": 20.1,
+   "season_avg": 20.4,
    "slot": "PG",
    "status": "ACTIVE",
-   "value": 20.6
+   "value": 21.0
   },
   "4845367": {
    "fantasy_team": "King Coopa",
@@ -5861,7 +5861,7 @@
   "4897262": {
    "fantasy_team": null,
    "id": "4897262",
-   "last15": 19.3,
+   "last15": 19.0,
    "mpg": 19.1,
    "name": "Will Richard",
    "nba_team": "GSW",
@@ -5870,10 +5870,10 @@
     "SF"
    ],
    "return_date": null,
-   "season_avg": 14.7,
+   "season_avg": 14.6,
    "slot": "",
    "status": "ACTIVE",
-   "value": 17.7
+   "value": 17.5
   },
   "4897943": {
    "fantasy_team": null,
@@ -6956,7 +6956,7 @@
    "fantasy_team": null,
    "id": "5164559",
    "last15": 15.0,
-   "mpg": 18.0,
+   "mpg": 18.1,
    "name": "Nate Ament",
    "nba_team": "MIL",
    "positions": [
@@ -7118,7 +7118,7 @@
   "5214640": {
    "fantasy_team": "Bull Market",
    "id": "5214640",
-   "last15": 19.8,
+   "last15": 19.6,
    "mpg": 18.5,
    "name": "Kasparas Jakucionis",
    "nba_team": "MIL",
@@ -7126,10 +7126,10 @@
     "PG"
    ],
    "return_date": null,
-   "season_avg": 18.8,
+   "season_avg": 18.7,
    "slot": "UT",
    "status": "ACTIVE",
-   "value": 19.4
+   "value": 19.3
   },
   "5217746": {
    "fantasy_team": null,
@@ -7560,8 +7560,8 @@
   "6606": {
    "fantasy_team": "Bull Market",
    "id": "6606",
-   "last15": 30.0,
-   "mpg": 28.7,
+   "last15": 30.1,
+   "mpg": 28.8,
    "name": "Damian Lillard",
    "nba_team": "POR",
    "positions": [
@@ -7571,7 +7571,7 @@
    "season_avg": 30.3,
    "slot": "PG",
    "status": "ACTIVE",
-   "value": 30.1
+   "value": 30.2
   },
   "6609": {
    "fantasy_team": null,

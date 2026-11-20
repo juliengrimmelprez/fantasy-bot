@@ -205,7 +205,7 @@
   "5279130:20261025"
  ],
  "hot_status": "ok: 264 FAs, 2335 games",
- "last_activity_ms": 1795165707504,
+ "last_activity_ms": 1795186167178,
  "last_digest": 1795184428.676884,
  "last_error_alert": 1794388335.8497355,
  "last_hot_check": 1795185984.7287166,
@@ -589,7 +589,7 @@
    "value": 13.5
   },
   "2991070": {
-   "fantasy_team": "Lucky",
+   "fantasy_team": null,
    "id": "2991070",
    "last15": 21.4,
    "mpg": 22.1,
@@ -600,7 +600,7 @@
    ],
    "return_date": null,
    "season_avg": 19.7,
-   "slot": "BE",
+   "slot": "",
    "status": "DAY_TO_DAY",
    "value": 20.8
   },
@@ -689,7 +689,7 @@
    "value": 7.1
   },
   "2995706": {
-   "fantasy_team": null,
+   "fantasy_team": "Lucky",
    "id": "2995706",
    "last15": 19.8,
    "mpg": 19.6,
@@ -700,7 +700,7 @@
    ],
    "return_date": null,
    "season_avg": 20.1,
-   "slot": "",
+   "slot": "BE",
    "status": "ACTIVE",
    "value": 19.9
   },
@@ -870,7 +870,7 @@
    "value": 32.4
   },
   "3064482": {
-   "fantasy_team": "Lucky",
+   "fantasy_team": null,
    "id": "3064482",
    "last15": 12.0,
    "mpg": 19.8,
@@ -882,7 +882,7 @@
    ],
    "return_date": null,
    "season_avg": 17.9,
-   "slot": "BE",
+   "slot": "",
    "status": "ACTIVE",
    "value": 14.1
   },
@@ -4503,22 +4503,6 @@
    "status": "ACTIVE",
    "value": 22.6
   },
-  "4433569": {
-   "fantasy_team": null,
-   "id": "4433569",
-   "last15": 0,
-   "mpg": 8.3,
-   "name": "Johni Broome",
-   "nba_team": "MIN",
-   "positions": [
-    "PF"
-   ],
-   "return_date": null,
-   "season_avg": 0,
-   "slot": "",
-   "status": "ACTIVE",
-   "value": 7.0
-  },
   "4433621": {
    "fantasy_team": "Hospital do Gansola",
    "id": "4433621",
@@ -7891,6 +7875,7 @@
   "drop:6589:1795165691270",
   "drop:5105623:1795165707504",
   "diag:32",
-  "planday:32"
+  "planday:32",
+  "drop:2991070:1795186131732"
  ]
 }

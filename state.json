@@ -205,7 +205,7 @@
   "4431893:20261119"
  ],
  "hot_status": "ok: 264 FAs, 2345 games",
- "last_activity_ms": 1795190386289,
+ "last_activity_ms": 1795217107955,
  "last_digest": 1795214058.2472944,
  "last_error_alert": 1794388335.8497355,
  "last_hot_check": 1795216698.9092326,
@@ -667,7 +667,7 @@
    ],
    "return_date": null,
    "season_avg": 21.8,
-   "slot": "SG",
+   "slot": "IR",
    "status": "OUT",
    "value": 19.6
   },
@@ -952,7 +952,7 @@
    "value": 16.5
   },
   "3102530": {
-   "fantasy_team": null,
+   "fantasy_team": "CCCP  Баскетбол",
    "id": "3102530",
    "last15": 0,
    "mpg": 23.1,
@@ -963,7 +963,7 @@
    ],
    "return_date": null,
    "season_avg": 0,
-   "slot": "",
+   "slot": "BE",
    "status": "OUT",
    "value": 27.6
   },
@@ -4502,6 +4502,22 @@
    "slot": "UT",
    "status": "ACTIVE",
    "value": 22.6
+  },
+  "4433569": {
+   "fantasy_team": null,
+   "id": "4433569",
+   "last15": 0,
+   "mpg": 8.3,
+   "name": "Johni Broome",
+   "nba_team": "MIN",
+   "positions": [
+    "PF"
+   ],
+   "return_date": null,
+   "season_avg": 0,
+   "slot": "",
+   "status": "ACTIVE",
+   "value": 7.0
   },
   "4433621": {
    "fantasy_team": "Hospital do Gansola",

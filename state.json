@@ -210,7 +210,7 @@
   "3138196:20261112"
  ],
  "hot_status": "ok: 264 FAs, 2410 games",
- "last_activity_ms": 1795248932795,
+ "last_activity_ms": 1795256616490,
  "last_digest": 1795254974.9668832,
  "last_error_alert": 1794388335.8497355,
  "last_hot_check": 1795256057.8141978,
@@ -1376,7 +1376,7 @@
    ],
    "return_date": null,
    "season_avg": 37.6,
-   "slot": "PF",
+   "slot": "BE",
    "status": "ACTIVE",
    "value": 39.7
   },
@@ -2155,7 +2155,7 @@
    "value": 22.5
   },
   "4065804": {
-   "fantasy_team": null,
+   "fantasy_team": "Hospital do Gansola",
    "id": "4065804",
    "last15": 22.4,
    "mpg": 20.3,
@@ -2167,7 +2167,7 @@
    ],
    "return_date": null,
    "season_avg": 18.1,
-   "slot": "",
+   "slot": "PF",
    "status": "ACTIVE",
    "value": 20.9
   },
@@ -6066,7 +6066,7 @@
    "value": 10.3
   },
   "5023693": {
-   "fantasy_team": "Hospital do Gansola",
+   "fantasy_team": null,
    "id": "5023693",
    "last15": 24.9,
    "mpg": 20.6,
@@ -6077,7 +6077,7 @@
    ],
    "return_date": null,
    "season_avg": 20.4,
-   "slot": "BE",
+   "slot": "",
    "status": "ACTIVE",
    "value": 23.3
   },
@@ -7918,6 +7918,7 @@
   "drop:3936099:1795190386289",
   "lineup:32",
   "inj:5041935:OUT",
-  "cold:5160992:20261121"
+  "cold:5160992:20261121",
+  "drop:5023693:1795256616490"
  ]
 }

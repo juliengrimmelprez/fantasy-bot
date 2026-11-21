@@ -3870,7 +3870,7 @@
    "return_date": null,
    "season_avg": 49.7,
    "slot": "PG",
-   "status": "DAY_TO_DAY",
+   "status": "ACTIVE",
    "value": 51.3
   },
   "4432170": {
@@ -4455,7 +4455,7 @@
   "4433249": {
    "fantasy_team": "Caxias French Fries",
    "id": "4433249",
-   "last15": 21.2,
+   "last15": 21.5,
    "mpg": 27.8,
    "name": "Moussa Diabate",
    "nba_team": "CHA",
@@ -4464,10 +4464,10 @@
     "C"
    ],
    "return_date": null,
-   "season_avg": 26.8,
+   "season_avg": 26.9,
    "slot": "PF",
    "status": "ACTIVE",
-   "value": 23.2
+   "value": 23.4
   },
   "4433255": {
    "fantasy_team": "Tiki Taka Laranja",
@@ -5648,7 +5648,7 @@
   "4869342": {
    "fantasy_team": "King Coopa",
    "id": "4869342",
-   "last15": 38.1,
+   "last15": 38.4,
    "mpg": 29.4,
    "name": "Dyson Daniels",
    "nba_team": "ATL",
@@ -5657,10 +5657,10 @@
     "SG"
    ],
    "return_date": null,
-   "season_avg": 35.4,
+   "season_avg": 35.6,
    "slot": "SG",
    "status": "ACTIVE",
-   "value": 37.2
+   "value": 37.4
   },
   "4869780": {
    "fantasy_team": "Lucky",

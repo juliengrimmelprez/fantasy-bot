@@ -211,7 +211,7 @@
   "4278129:20261107"
  ],
  "hot_status": "ok: 264 FAs, 2414 games",
- "last_activity_ms": 1795270652553,
+ "last_activity_ms": 1795286619247,
  "last_digest": 1795284509.3791761,
  "last_error_alert": 1794388335.8497355,
  "last_hot_check": 1795285831.736398,
@@ -281,8 +281,8 @@
   "1966": {
    "fantasy_team": "Lucky",
    "id": "1966",
-   "last15": 28.5,
-   "mpg": 30.8,
+   "last15": 29.5,
+   "mpg": 30.9,
    "name": "LeBron James",
    "nba_team": "PHL",
    "positions": [
@@ -290,10 +290,10 @@
     "PF"
    ],
    "return_date": null,
-   "season_avg": 34.9,
+   "season_avg": 35.4,
    "slot": "SF",
    "status": "ACTIVE",
-   "value": 30.7
+   "value": 31.6
   },
   "2326307": {
    "fantasy_team": null,
@@ -432,7 +432,7 @@
    "fantasy_team": "Contagem Hunters",
    "id": "2581018",
    "last15": 17.5,
-   "mpg": 22.3,
+   "mpg": 22.4,
    "name": "Kentavious Caldwell-Pope",
    "nba_team": "PHL",
    "positions": [
@@ -580,8 +580,8 @@
   "2991043": {
    "fantasy_team": null,
    "id": "2991043",
-   "last15": 9.0,
-   "mpg": 7.3,
+   "last15": 10.3,
+   "mpg": 7.7,
    "name": "Caris LeVert",
    "nba_team": "MIL",
    "positions": [
@@ -589,10 +589,10 @@
     "SF"
    ],
    "return_date": null,
-   "season_avg": 9.0,
+   "season_avg": 10.3,
    "slot": "",
    "status": "ACTIVE",
-   "value": 9.0
+   "value": 10.3
   },
   "2991070": {
    "fantasy_team": null,
@@ -1122,8 +1122,8 @@
   "3134907": {
    "fantasy_team": "CCCP  Баскетбол",
    "id": "3134907",
-   "last15": 23.9,
-   "mpg": 26.0,
+   "last15": 24.0,
+   "mpg": 26.1,
    "name": "Kyle Kuzma",
    "nba_team": "MIL",
    "positions": [
@@ -1134,7 +1134,7 @@
    "season_avg": 22.8,
    "slot": "PF",
    "status": "ACTIVE",
-   "value": 23.5
+   "value": 23.6
   },
   "3134908": {
    "fantasy_team": null,
@@ -3635,7 +3635,7 @@
    "fantasy_team": "Tiki Taka Laranja",
    "id": "4431678",
    "last15": 38.4,
-   "mpg": 34.6,
+   "mpg": 34.7,
    "name": "Tyrese Maxey",
    "nba_team": "PHL",
    "positions": [
@@ -4013,18 +4013,18 @@
   "4432446": {
    "fantasy_team": null,
    "id": "4432446",
-   "last15": 16.2,
-   "mpg": 12.7,
+   "last15": 16.1,
+   "mpg": 12.8,
    "name": "Jabari Walker",
    "nba_team": "PHL",
    "positions": [
     "PF"
    ],
    "return_date": null,
-   "season_avg": 13.3,
+   "season_avg": 13.2,
    "slot": "",
    "status": "ACTIVE",
-   "value": 15.2
+   "value": 15.1
   },
   "4432452": {
    "fantasy_team": null,
@@ -6329,18 +6329,18 @@
   "5082206": {
    "fantasy_team": "Polga Silva",
    "id": "5082206",
-   "last15": 24.1,
-   "mpg": 21.5,
+   "last15": 24.3,
+   "mpg": 21.6,
    "name": "Brayden Burries",
    "nba_team": "MIL",
    "positions": [
     "SG"
    ],
    "return_date": null,
-   "season_avg": 19.9,
+   "season_avg": 20.1,
    "slot": "SG",
    "status": "ACTIVE",
-   "value": 22.7
+   "value": 22.8
   },
   "5093267": {
    "fantasy_team": "King Coopa",
@@ -6509,7 +6509,7 @@
    "fantasy_team": "Polga Silva",
    "id": "5105623",
    "last15": 18.1,
-   "mpg": 17.9,
+   "mpg": 18.0,
    "name": "Kel'el Ware",
    "nba_team": "MIL",
    "positions": [
@@ -6568,23 +6568,6 @@
    "slot": "",
    "status": "ACTIVE",
    "value": 1.2
-  },
-  "5105839": {
-   "fantasy_team": null,
-   "id": "5105839",
-   "last15": 21.6,
-   "mpg": 18.3,
-   "name": "Brice Sensabaugh",
-   "nba_team": "UTA",
-   "positions": [
-    "SG",
-    "SF"
-   ],
-   "return_date": null,
-   "season_avg": 18.0,
-   "slot": "",
-   "status": "ACTIVE",
-   "value": 20.3
   },
   "5105854": {
    "fantasy_team": null,
@@ -6770,18 +6753,18 @@
   "5124612": {
    "fantasy_team": "Caxias French Fries",
    "id": "5124612",
-   "last15": 35.6,
-   "mpg": 32.4,
+   "last15": 36.1,
+   "mpg": 32.5,
    "name": "VJ Edgecombe",
    "nba_team": "PHL",
    "positions": [
     "SG"
    ],
    "return_date": null,
-   "season_avg": 32.4,
+   "season_avg": 32.6,
    "slot": "SG",
    "status": "ACTIVE",
-   "value": 34.5
+   "value": 34.9
   },
   "5142620": {
    "fantasy_team": "BL0CK BY ZION",
@@ -6983,7 +6966,7 @@
    "fantasy_team": null,
    "id": "5164559",
    "last15": 14.2,
-   "mpg": 17.9,
+   "mpg": 18.0,
    "name": "Nate Ament",
    "nba_team": "MIL",
    "positions": [
@@ -7145,18 +7128,18 @@
   "5214640": {
    "fantasy_team": "Bull Market",
    "id": "5214640",
-   "last15": 21.1,
-   "mpg": 18.3,
+   "last15": 20.9,
+   "mpg": 18.4,
    "name": "Kasparas Jakucionis",
    "nba_team": "MIL",
    "positions": [
     "PG"
    ],
    "return_date": null,
-   "season_avg": 18.8,
+   "season_avg": 18.6,
    "slot": "PG",
    "status": "ACTIVE",
-   "value": 20.3
+   "value": 20.1
   },
   "5217746": {
    "fantasy_team": null,

@@ -938,7 +938,7 @@
    "return_date": null,
    "season_avg": 29.3,
    "slot": "SG",
-   "status": "DAY_TO_DAY",
+   "status": "OUT",
    "value": 30.3
   },
   "3102529": {
@@ -2037,7 +2037,7 @@
    "return_date": null,
    "season_avg": 44.6,
    "slot": "UT",
-   "status": "DAY_TO_DAY",
+   "status": "OUT",
    "value": 44.9
   },
   "4065654": {
@@ -3062,7 +3062,7 @@
    "return_date": null,
    "season_avg": 16.1,
    "slot": "C",
-   "status": "ACTIVE",
+   "status": "OUT",
    "value": 17.3
   },
   "4395625": {
@@ -7911,6 +7911,8 @@
   "drop:4601025:1795265190165",
   "diag:33",
   "planday:33",
-  "drop:4592691:1795270652553"
+  "drop:4592691:1795270652553",
+  "inj:3078576:OUT",
+  "inj:4065648:OUT"
  ]
 }

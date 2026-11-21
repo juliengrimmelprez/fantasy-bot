@@ -282,7 +282,7 @@
    "fantasy_team": "Lucky",
    "id": "1966",
    "last15": 35.0,
-   "mpg": 32.3,
+   "mpg": 32.4,
    "name": "LeBron James",
    "nba_team": "PHL",
    "positions": [
@@ -1074,7 +1074,7 @@
   "3133628": {
    "fantasy_team": "Caxias French Fries",
    "id": "3133628",
-   "last15": 20.9,
+   "last15": 20.6,
    "mpg": 26.4,
    "name": "Myles Turner",
    "nba_team": "MIL",
@@ -1082,10 +1082,10 @@
     "C"
    ],
    "return_date": null,
-   "season_avg": 25.1,
+   "season_avg": 25.0,
    "slot": "IR",
    "status": "ACTIVE",
-   "value": 22.4
+   "value": 22.1
   },
   "3133635": {
    "fantasy_team": null,

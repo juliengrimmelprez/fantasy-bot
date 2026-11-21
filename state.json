@@ -562,7 +562,7 @@
    "fantasy_team": null,
    "id": "2990992",
    "last15": 12.0,
-   "mpg": 20.9,
+   "mpg": 21.0,
    "name": "Marcus Smart",
    "nba_team": "HOU",
    "positions": [
@@ -1187,7 +1187,7 @@
    "fantasy_team": null,
    "id": "3135046",
    "last15": 6.7,
-   "mpg": 10.5,
+   "mpg": 10.6,
    "name": "Tyus Jones",
    "nba_team": "DEN",
    "positions": [
@@ -1416,7 +1416,7 @@
    "fantasy_team": "Polga Silva",
    "id": "3155942",
    "last15": 30.0,
-   "mpg": 33.3,
+   "mpg": 33.4,
    "name": "Domantas Sabonis",
    "nba_team": "SAC",
    "positions": [
@@ -2574,7 +2574,7 @@
    "fantasy_team": null,
    "id": "4277848",
    "last15": 14.3,
-   "mpg": 11.6,
+   "mpg": 11.7,
    "name": "Marvin Bagley III",
    "nba_team": "DEN",
    "positions": [
@@ -4060,8 +4060,8 @@
   "4432639": {
    "fantasy_team": "Tropa do Nikola",
    "id": "4432639",
-   "last15": 26.9,
-   "mpg": 32.8,
+   "last15": 27.2,
+   "mpg": 32.9,
    "name": "Jabari Smith Jr.",
    "nba_team": "HOU",
    "positions": [
@@ -4069,10 +4069,10 @@
     "C"
    ],
    "return_date": null,
-   "season_avg": 31.7,
+   "season_avg": 31.9,
    "slot": "C",
    "status": "ACTIVE",
-   "value": 28.6
+   "value": 28.9
   },
   "4432808": {
    "fantasy_team": null,
@@ -4392,8 +4392,8 @@
   "4433192": {
    "fantasy_team": "Lebron GOAT",
    "id": "4433192",
-   "last15": 20.6,
-   "mpg": 24.6,
+   "last15": 20.9,
+   "mpg": 24.7,
    "name": "Tari Eason",
    "nba_team": "HOU",
    "positions": [
@@ -4401,10 +4401,10 @@
     "PF"
    ],
    "return_date": null,
-   "season_avg": 23.4,
+   "season_avg": 23.5,
    "slot": "UT",
    "status": "ACTIVE",
-   "value": 21.6
+   "value": 21.8
   },
   "4433218": {
    "fantasy_team": null,
@@ -4660,7 +4660,7 @@
    "fantasy_team": null,
    "id": "4592427",
    "last15": 9.4,
-   "mpg": 17.3,
+   "mpg": 17.4,
    "name": "Spencer Jones",
    "nba_team": "DEN",
    "positions": [
@@ -5273,8 +5273,8 @@
   "4698719": {
    "fantasy_team": null,
    "id": "4698719",
-   "last15": 10.1,
-   "mpg": 18.2,
+   "last15": 10.9,
+   "mpg": 18.3,
    "name": "Trevon Brazile",
    "nba_team": "DEN",
    "positions": [
@@ -5282,10 +5282,10 @@
     "PF"
    ],
    "return_date": null,
-   "season_avg": 15.1,
+   "season_avg": 15.4,
    "slot": "",
    "status": "ACTIVE",
-   "value": 11.9
+   "value": 12.5
   },
   "4701230": {
    "fantasy_team": "Tiki Taka Laranja",
@@ -5472,7 +5472,7 @@
    "fantasy_team": "Tiki Taka Laranja",
    "id": "4711272",
    "last15": 16.8,
-   "mpg": 20.1,
+   "mpg": 20.2,
    "name": "Reed Sheppard",
    "nba_team": "HOU",
    "positions": [
@@ -5720,8 +5720,8 @@
   "4871144": {
    "fantasy_team": "Tiki Taka Laranja",
    "id": "4871144",
-   "last15": 45.2,
-   "mpg": 32.5,
+   "last15": 45.1,
+   "mpg": 32.6,
    "name": "Alperen Sengun",
    "nba_team": "HOU",
    "positions": [
@@ -5731,7 +5731,7 @@
    "season_avg": 48.1,
    "slot": "UT",
    "status": "ACTIVE",
-   "value": 46.3
+   "value": 46.2
   },
   "4871145": {
    "fantasy_team": "Lebron GOAT",
@@ -6769,7 +6769,7 @@
    "fantasy_team": "BL0CK BY ZION",
    "id": "5142620",
    "last15": 40.7,
-   "mpg": 36.3,
+   "mpg": 36.4,
    "name": "Darius Acuff Jr.",
    "nba_team": "SAC",
    "positions": [

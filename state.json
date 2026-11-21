@@ -1282,6 +1282,22 @@
    "status": "ACTIVE",
    "value": 3.9
   },
+  "3137259": {
+   "fantasy_team": null,
+   "id": "3137259",
+   "last15": 0,
+   "mpg": null,
+   "name": "Gabe Vincent",
+   "nba_team": "FA",
+   "positions": [
+    "PG"
+   ],
+   "return_date": null,
+   "season_avg": 0,
+   "slot": "",
+   "status": "ACTIVE",
+   "value": 0.0
+  },
   "3138160": {
    "fantasy_team": "Tiki Taka Laranja",
    "id": "3138160",
@@ -2005,22 +2021,6 @@
    "slot": "BE",
    "status": "ACTIVE",
    "value": 26.7
-  },
-  "4017850": {
-   "fantasy_team": null,
-   "id": "4017850",
-   "last15": 0,
-   "mpg": null,
-   "name": "Wang Zhelin",
-   "nba_team": "MEM",
-   "positions": [
-    "C"
-   ],
-   "return_date": null,
-   "season_avg": 0,
-   "slot": "",
-   "status": "ACTIVE",
-   "value": 0.0
   },
   "4065648": {
    "fantasy_team": "Caxias French Fries",

@@ -211,7 +211,7 @@
   "3936099:20261024"
  ],
  "hot_status": "ok: 264 FAs, 2410 games",
- "last_activity_ms": 1795265283714,
+ "last_activity_ms": 1795270652553,
  "last_digest": 1795269636.9660037,
  "last_error_alert": 1794388335.8497355,
  "last_hot_check": 1795270460.484511,
@@ -429,7 +429,7 @@
    "value": 0.0
   },
   "2581018": {
-   "fantasy_team": null,
+   "fantasy_team": "Contagem Hunters",
    "id": "2581018",
    "last15": 19.6,
    "mpg": 23.1,
@@ -441,7 +441,7 @@
    ],
    "return_date": null,
    "season_avg": 16.8,
-   "slot": "",
+   "slot": "SF",
    "status": "ACTIVE",
    "value": 18.6
   },
@@ -2979,7 +2979,7 @@
    ],
    "return_date": null,
    "season_avg": 24.1,
-   "slot": "UT",
+   "slot": "PF",
    "status": "ACTIVE",
    "value": 21.1
   },
@@ -3128,7 +3128,7 @@
    ],
    "return_date": null,
    "season_avg": 26.9,
-   "slot": "SF",
+   "slot": "UT",
    "status": "ACTIVE",
    "value": 28.3
   },
@@ -3496,7 +3496,7 @@
    ],
    "return_date": null,
    "season_avg": 32.4,
-   "slot": "UT",
+   "slot": "BE",
    "status": "OUT",
    "value": 38.8
   },
@@ -4725,7 +4725,7 @@
    "value": 19.5
   },
   "4592691": {
-   "fantasy_team": "Contagem Hunters",
+   "fantasy_team": null,
    "id": "4592691",
    "last15": 17.0,
    "mpg": 25.2,
@@ -4737,7 +4737,7 @@
    ],
    "return_date": null,
    "season_avg": 19.3,
-   "slot": "BE",
+   "slot": "",
    "status": "ACTIVE",
    "value": 17.8
   },
@@ -5002,7 +5002,7 @@
    ],
    "return_date": null,
    "season_avg": 41.6,
-   "slot": "PF",
+   "slot": "UT",
    "status": "DAY_TO_DAY",
    "value": 43.3
   },
@@ -7927,6 +7927,7 @@
   "drop:3059319:1795265283714",
   "drop:4601025:1795265190165",
   "diag:33",
-  "planday:33"
+  "planday:33",
+  "drop:4592691:1795270652553"
  ]
 }

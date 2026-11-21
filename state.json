@@ -562,7 +562,7 @@
    "fantasy_team": null,
    "id": "2990992",
    "last15": 10.6,
-   "mpg": 20.3,
+   "mpg": 20.4,
    "name": "Marcus Smart",
    "nba_team": "HOU",
    "positions": [
@@ -628,8 +628,8 @@
   "2991230": {
    "fantasy_team": "Hospital do Gansola",
    "id": "2991230",
-   "last15": 31.4,
-   "mpg": 29.4,
+   "last15": 31.9,
+   "mpg": 29.5,
    "name": "Fred VanVleet",
    "nba_team": "HOU",
    "positions": [
@@ -637,26 +637,26 @@
     "SG"
    ],
    "return_date": null,
-   "season_avg": 32.1,
+   "season_avg": 32.3,
    "slot": "UT",
    "status": "ACTIVE",
-   "value": 31.7
+   "value": 32.0
   },
   "2991235": {
    "fantasy_team": null,
    "id": "2991235",
-   "last15": 11.3,
-   "mpg": 10.8,
+   "last15": 12.0,
+   "mpg": 11.0,
    "name": "Steven Adams",
    "nba_team": "HOU",
    "positions": [
     "C"
    ],
    "return_date": null,
-   "season_avg": 11.0,
+   "season_avg": 11.5,
    "slot": "",
    "status": "ACTIVE",
-   "value": 11.2
+   "value": 11.8
   },
   "2991350": {
    "fantasy_team": "CCCP  Баскетбол",
@@ -843,18 +843,18 @@
   "3064290": {
    "fantasy_team": "CCCP  Баскетбол",
    "id": "3064290",
-   "last15": 16.7,
-   "mpg": 28.6,
+   "last15": 16.9,
+   "mpg": 28.7,
    "name": "Aaron Gordon",
    "nba_team": "DEN",
    "positions": [
     "PF"
    ],
    "return_date": null,
-   "season_avg": 21.3,
+   "season_avg": 21.4,
    "slot": "UT",
    "status": "ACTIVE",
-   "value": 18.3
+   "value": 18.4
   },
   "3064440": {
    "fantasy_team": "BL0CK BY ZION",
@@ -1007,18 +1007,18 @@
   "3112335": {
    "fantasy_team": "Tropa do Nikola",
    "id": "3112335",
-   "last15": 54.6,
-   "mpg": 35.9,
+   "last15": 55.3,
+   "mpg": 36.0,
    "name": "Nikola Jokic",
    "nba_team": "DEN",
    "positions": [
     "C"
    ],
    "return_date": null,
-   "season_avg": 56.4,
+   "season_avg": 56.8,
    "slot": "UT",
    "status": "ACTIVE",
-   "value": 55.2
+   "value": 55.8
   },
   "3133602": {
    "fantasy_team": null,
@@ -1942,7 +1942,7 @@
    "fantasy_team": null,
    "id": "3978",
    "last15": 14.1,
-   "mpg": 21.9,
+   "mpg": 22.0,
    "name": "DeMar DeRozan",
    "nba_team": "DEN",
    "positions": [
@@ -4393,7 +4393,7 @@
    "fantasy_team": "Lebron GOAT",
    "id": "4433192",
    "last15": 19.2,
-   "mpg": 24.2,
+   "mpg": 24.3,
    "name": "Tari Eason",
    "nba_team": "HOU",
    "positions": [

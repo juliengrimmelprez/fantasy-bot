@@ -281,7 +281,7 @@
   "1966": {
    "fantasy_team": "Lucky",
    "id": "1966",
-   "last15": 30.5,
+   "last15": 31.0,
    "mpg": 31.4,
    "name": "LeBron James",
    "nba_team": "PHL",
@@ -290,10 +290,10 @@
     "PF"
    ],
    "return_date": null,
-   "season_avg": 35.9,
+   "season_avg": 36.1,
    "slot": "SF",
    "status": "ACTIVE",
-   "value": 32.4
+   "value": 32.8
   },
   "2326307": {
    "fantasy_team": null,
@@ -431,7 +431,7 @@
   "2581018": {
    "fantasy_team": "Contagem Hunters",
    "id": "2581018",
-   "last15": 17.9,
+   "last15": 18.1,
    "mpg": 22.8,
    "name": "Kentavious Caldwell-Pope",
    "nba_team": "PHL",
@@ -440,10 +440,10 @@
     "SF"
    ],
    "return_date": null,
-   "season_avg": 16.2,
+   "season_avg": 16.3,
    "slot": "SF",
    "status": "ACTIVE",
-   "value": 17.3
+   "value": 17.5
   },
   "2583632": {
    "fantasy_team": null,
@@ -795,18 +795,18 @@
   "3059318": {
    "fantasy_team": "Caxias French Fries",
    "id": "3059318",
-   "last15": 32.7,
-   "mpg": 30.8,
+   "last15": 32.9,
+   "mpg": 30.9,
    "name": "Joel Embiid",
    "nba_team": "PHL",
    "positions": [
     "C"
    ],
    "return_date": null,
-   "season_avg": 33.4,
+   "season_avg": 33.5,
    "slot": "C",
    "status": "ACTIVE",
-   "value": 33.0
+   "value": 33.1
   },
   "3059319": {
    "fantasy_team": null,
@@ -1074,7 +1074,7 @@
   "3133628": {
    "fantasy_team": "Caxias French Fries",
    "id": "3133628",
-   "last15": 19.1,
+   "last15": 19.9,
    "mpg": 25.9,
    "name": "Myles Turner",
    "nba_team": "MIL",
@@ -1082,10 +1082,10 @@
     "C"
    ],
    "return_date": null,
-   "season_avg": 24.3,
+   "season_avg": 24.7,
    "slot": "IR",
    "status": "ACTIVE",
-   "value": 21.0
+   "value": 21.5
   },
   "3133635": {
    "fantasy_team": null,
@@ -3235,7 +3235,7 @@
   "4395725": {
    "fantasy_team": "Contagem Hunters",
    "id": "4395725",
-   "last15": 26.9,
+   "last15": 27.1,
    "mpg": 29.4,
    "name": "Tyler Herro",
    "nba_team": "MIL",
@@ -3244,10 +3244,10 @@
     "SG"
    ],
    "return_date": null,
-   "season_avg": 31.8,
+   "season_avg": 31.9,
    "slot": "PG",
    "status": "ACTIVE",
-   "value": 28.6
+   "value": 28.8
   },
   "4396818": {
    "fantasy_team": null,
@@ -3634,7 +3634,7 @@
   "4431678": {
    "fantasy_team": "Tiki Taka Laranja",
    "id": "4431678",
-   "last15": 39.6,
+   "last15": 39.4,
    "mpg": 35.1,
    "name": "Tyrese Maxey",
    "nba_team": "PHL",
@@ -3646,7 +3646,7 @@
    "season_avg": 44.4,
    "slot": "PG",
    "status": "ACTIVE",
-   "value": 41.3
+   "value": 41.2
   },
   "4431679": {
    "fantasy_team": null,
@@ -4244,7 +4244,7 @@
   "4432848": {
    "fantasy_team": "Contagem Hunters",
    "id": "4432848",
-   "last15": 21.6,
+   "last15": 22.1,
    "mpg": 26.6,
    "name": "Jaime Jaquez Jr.",
    "nba_team": "MIL",
@@ -4253,10 +4253,10 @@
     "SF"
    ],
    "return_date": null,
-   "season_avg": 24.2,
+   "season_avg": 24.5,
    "slot": "SG",
    "status": "ACTIVE",
-   "value": 22.5
+   "value": 23.0
   },
   "4432907": {
    "fantasy_team": null,
@@ -4661,7 +4661,7 @@
    "fantasy_team": "CCCP  Баскетбол",
    "id": "4591725",
    "last15": 22.9,
-   "mpg": 23.1,
+   "mpg": 23.2,
    "name": "Ryan Rollins",
    "nba_team": "MIL",
    "positions": [

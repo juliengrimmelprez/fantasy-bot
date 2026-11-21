@@ -281,7 +281,7 @@
   "1966": {
    "fantasy_team": "Lucky",
    "id": "1966",
-   "last15": 35.0,
+   "last15": 35.5,
    "mpg": 32.4,
    "name": "LeBron James",
    "nba_team": "PHL",
@@ -290,10 +290,10 @@
     "PF"
    ],
    "return_date": null,
-   "season_avg": 37.9,
+   "season_avg": 38.1,
    "slot": "SF",
    "status": "ACTIVE",
-   "value": 36.0
+   "value": 36.4
   },
   "2326307": {
    "fantasy_team": null,
@@ -796,7 +796,7 @@
    "fantasy_team": "Caxias French Fries",
    "id": "3059318",
    "last15": 36.0,
-   "mpg": 31.7,
+   "mpg": 31.8,
    "name": "Joel Embiid",
    "nba_team": "PHL",
    "positions": [
@@ -3235,8 +3235,8 @@
   "4395725": {
    "fantasy_team": "Contagem Hunters",
    "id": "4395725",
-   "last15": 31.4,
-   "mpg": 30.4,
+   "last15": 31.6,
+   "mpg": 30.5,
    "name": "Tyler Herro",
    "nba_team": "MIL",
    "positions": [
@@ -3244,10 +3244,10 @@
     "SG"
    ],
    "return_date": null,
-   "season_avg": 34.0,
+   "season_avg": 34.1,
    "slot": "PG",
    "status": "ACTIVE",
-   "value": 32.3
+   "value": 32.5
   },
   "4396818": {
    "fantasy_team": null,
@@ -6754,7 +6754,7 @@
    "fantasy_team": "Caxias French Fries",
    "id": "5124612",
    "last15": 39.2,
-   "mpg": 33.9,
+   "mpg": 34.0,
    "name": "VJ Edgecombe",
    "nba_team": "PHL",
    "positions": [

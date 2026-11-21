@@ -282,7 +282,7 @@
    "fantasy_team": "Lucky",
    "id": "1966",
    "last15": 32.3,
-   "mpg": 31.9,
+   "mpg": 32.0,
    "name": "LeBron James",
    "nba_team": "PHL",
    "positions": [
@@ -1122,7 +1122,7 @@
   "3134907": {
    "fantasy_team": "CCCP  Баскетбол",
    "id": "3134907",
-   "last15": 24.6,
+   "last15": 25.1,
    "mpg": 27.1,
    "name": "Kyle Kuzma",
    "nba_team": "MIL",
@@ -1131,10 +1131,10 @@
     "PF"
    ],
    "return_date": null,
-   "season_avg": 23.1,
+   "season_avg": 23.4,
    "slot": "PF",
    "status": "ACTIVE",
-   "value": 24.1
+   "value": 24.5
   },
   "3134908": {
    "fantasy_team": null,
@@ -3036,7 +3036,7 @@
    "fantasy_team": "Lebron GOAT",
    "id": "4351851",
    "last15": 19.5,
-   "mpg": 22.7,
+   "mpg": 22.8,
    "name": "Anfernee Simons",
    "nba_team": "PHL",
    "positions": [
@@ -3235,8 +3235,8 @@
   "4395725": {
    "fantasy_team": "Contagem Hunters",
    "id": "4395725",
-   "last15": 30.2,
-   "mpg": 30.1,
+   "last15": 30.5,
+   "mpg": 30.2,
    "name": "Tyler Herro",
    "nba_team": "MIL",
    "positions": [
@@ -3244,10 +3244,10 @@
     "SG"
    ],
    "return_date": null,
-   "season_avg": 33.4,
+   "season_avg": 33.6,
    "slot": "PG",
    "status": "ACTIVE",
-   "value": 31.4
+   "value": 31.6
   },
   "4396818": {
    "fantasy_team": null,
@@ -3535,18 +3535,18 @@
   "4397475": {
    "fantasy_team": null,
    "id": "4397475",
-   "last15": 7.2,
-   "mpg": 15.8,
+   "last15": 7.9,
+   "mpg": 15.9,
    "name": "AJ Green",
    "nba_team": "MIL",
    "positions": [
     "SG"
    ],
    "return_date": null,
-   "season_avg": 10.4,
+   "season_avg": 10.8,
    "slot": "",
    "status": "ACTIVE",
-   "value": 8.4
+   "value": 8.9
   },
   "4397688": {
    "fantasy_team": "Lebron GOAT",
@@ -5704,8 +5704,8 @@
   "4870562": {
    "fantasy_team": null,
    "id": "4870562",
-   "last15": 20.0,
-   "mpg": 8.0,
+   "last15": 18.0,
+   "mpg": 9.0,
    "name": "Dominick Barlow",
    "nba_team": "PHL",
    "positions": [
@@ -5713,10 +5713,10 @@
     "C"
    ],
    "return_date": null,
-   "season_avg": 20.0,
+   "season_avg": 18.0,
    "slot": "",
    "status": "ACTIVE",
-   "value": 20.0
+   "value": 18.0
   },
   "4870564": {
    "fantasy_team": null,
@@ -6508,7 +6508,7 @@
   "5105623": {
    "fantasy_team": "Polga Silva",
    "id": "5105623",
-   "last15": 19.3,
+   "last15": 19.8,
    "mpg": 18.6,
    "name": "Kel'el Ware",
    "nba_team": "MIL",
@@ -6516,10 +6516,10 @@
     "C"
    ],
    "return_date": null,
-   "season_avg": 20.1,
+   "season_avg": 20.3,
    "slot": "C",
    "status": "ACTIVE",
-   "value": 19.6
+   "value": 20.0
   },
   "5105637": {
    "fantasy_team": null,

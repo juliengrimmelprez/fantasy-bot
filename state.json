@@ -443,7 +443,7 @@
    "fantasy_team": null,
    "id": "2583632",
    "last15": 15.3,
-   "mpg": 19.6,
+   "mpg": 19.7,
    "name": "Royce O'Neale",
    "nba_team": "CHA",
    "positions": [
@@ -1346,18 +1346,18 @@
   "3149673": {
    "fantasy_team": "Hospital do Gansola",
    "id": "3149673",
-   "last15": 37.9,
-   "mpg": 30.6,
+   "last15": 37.7,
+   "mpg": 30.7,
    "name": "Pascal Siakam",
    "nba_team": "IND",
    "positions": [
     "PF"
    ],
    "return_date": null,
-   "season_avg": 36.2,
+   "season_avg": 36.1,
    "slot": "PF",
    "status": "ACTIVE",
-   "value": 37.3
+   "value": 37.2
   },
   "3150844": {
    "fantasy_team": null,
@@ -1674,7 +1674,7 @@
    "fantasy_team": "Bull Market",
    "id": "3908809",
    "last15": 40.4,
-   "mpg": 31.4,
+   "mpg": 31.5,
    "name": "Donovan Mitchell",
    "nba_team": "CLE",
    "positions": [
@@ -1954,8 +1954,8 @@
   "3992": {
    "fantasy_team": "Lakers x Bortolan 23",
    "id": "3992",
-   "last15": 29.9,
-   "mpg": 31.3,
+   "last15": 30.1,
+   "mpg": 31.4,
    "name": "James Harden",
    "nba_team": "CLE",
    "positions": [
@@ -1963,10 +1963,10 @@
     "SG"
    ],
    "return_date": null,
-   "season_avg": 31.2,
+   "season_avg": 31.3,
    "slot": "PG",
    "status": "ACTIVE",
-   "value": 30.3
+   "value": 30.5
   },
   "3995": {
    "fantasy_team": "Polga Silva",
@@ -1989,7 +1989,7 @@
    "fantasy_team": "Caxias French Fries",
    "id": "4017837",
    "last15": 23.4,
-   "mpg": 21.6,
+   "mpg": 21.8,
    "name": "Ivica Zubac",
    "nba_team": "IND",
    "positions": [
@@ -2269,18 +2269,18 @@
   "4066328": {
    "fantasy_team": "Polga Silva",
    "id": "4066328",
-   "last15": 27.7,
-   "mpg": 24.9,
+   "last15": 28.5,
+   "mpg": 25.0,
    "name": "Jarrett Allen",
    "nba_team": "CLE",
    "positions": [
     "C"
    ],
    "return_date": null,
-   "season_avg": 29.7,
+   "season_avg": 30.1,
    "slot": "C",
    "status": "ACTIVE",
-   "value": 28.4
+   "value": 29.0
   },
   "4066336": {
    "fantasy_team": "Fernando  Diniz",
@@ -2700,7 +2700,7 @@
   "4278039": {
    "fantasy_team": "Tropa do Nikola",
    "id": "4278039",
-   "last15": 30.6,
+   "last15": 30.3,
    "mpg": 30.3,
    "name": "Nickeil Alexander-Walker",
    "nba_team": "ATL",
@@ -2709,10 +2709,10 @@
     "SG"
    ],
    "return_date": null,
-   "season_avg": 32.5,
+   "season_avg": 32.4,
    "slot": "PG",
    "status": "ACTIVE",
-   "value": 31.2
+   "value": 31.0
   },
   "4278049": {
    "fantasy_team": "Lakers x Bortolan 23",
@@ -3145,7 +3145,7 @@
   "4395651": {
    "fantasy_team": "King Coopa",
    "id": "4395651",
-   "last15": 18.7,
+   "last15": 19.2,
    "mpg": 18.2,
    "name": "Coby White",
    "nba_team": "CHA",
@@ -3154,10 +3154,10 @@
     "SG"
    ],
    "return_date": null,
-   "season_avg": 15.6,
+   "season_avg": 16.0,
    "slot": "UT",
    "status": "ACTIVE",
-   "value": 17.6
+   "value": 18.1
   },
   "4395702": {
    "fantasy_team": null,
@@ -3179,7 +3179,7 @@
    "fantasy_team": "Lakers x Bortolan 23",
    "id": "4395712",
    "last15": 23.8,
-   "mpg": 31.0,
+   "mpg": 31.1,
    "name": "Andrew Nembhard",
    "nba_team": "IND",
    "positions": [
@@ -3262,8 +3262,8 @@
   "4396909": {
    "fantasy_team": null,
    "id": "4396909",
-   "last15": 14.6,
-   "mpg": 25.2,
+   "last15": 14.3,
+   "mpg": 25.4,
    "name": "Aaron Nesmith",
    "nba_team": "IND",
    "positions": [
@@ -3271,10 +3271,10 @@
     "SF"
    ],
    "return_date": null,
-   "season_avg": 17.1,
+   "season_avg": 16.9,
    "slot": "",
    "status": "ACTIVE",
-   "value": 15.4
+   "value": 15.2
   },
   "4396971": {
    "fantasy_team": "Polga Silva",
@@ -3348,7 +3348,7 @@
    "fantasy_team": null,
    "id": "4397020",
    "last15": 18.7,
-   "mpg": 23.4,
+   "mpg": 23.5,
    "name": "Luguentz Dort",
    "nba_team": "ATL",
    "positions": [
@@ -6048,7 +6048,7 @@
    "fantasy_team": "Hospital do Gansola",
    "id": "5023693",
    "last15": 24.6,
-   "mpg": 19.3,
+   "mpg": 19.4,
    "name": "Tyrese Proctor",
    "nba_team": "CLE",
    "positions": [
@@ -6863,7 +6863,7 @@
   "5149115": {
    "fantasy_team": null,
    "id": "5149115",
-   "last15": 10.6,
+   "last15": 10.8,
    "mpg": 14.2,
    "name": "Allen Graves",
    "nba_team": "TOR",
@@ -6871,10 +6871,10 @@
     "SF"
    ],
    "return_date": null,
-   "season_avg": 11.6,
+   "season_avg": 11.7,
    "slot": "",
    "status": "ACTIVE",
-   "value": 11.0
+   "value": 11.1
   },
   "5157066": {
    "fantasy_team": null,

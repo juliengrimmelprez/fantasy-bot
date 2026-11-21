@@ -211,7 +211,7 @@
   "4684806:20261115"
  ],
  "hot_status": "ok: 264 FAs, 2408 games",
- "last_activity_ms": 1795261749555,
+ "last_activity_ms": 1795265018750,
  "last_digest": 1795262182.8191636,
  "last_error_alert": 1794388335.8497355,
  "last_hot_check": 1795264704.2809405,
@@ -1710,7 +1710,7 @@
    "value": 42.5
   },
   "3908845": {
-   "fantasy_team": "Bull Market",
+   "fantasy_team": null,
    "id": "3908845",
    "last15": 23.7,
    "mpg": 25.9,
@@ -1722,7 +1722,7 @@
    ],
    "return_date": null,
    "season_avg": 21.5,
-   "slot": "BE",
+   "slot": "",
    "status": "ACTIVE",
    "value": 22.9
   },
@@ -3896,7 +3896,7 @@
    "value": 49.9
   },
   "4432170": {
-   "fantasy_team": null,
+   "fantasy_team": "Bull Market",
    "id": "4432170",
    "last15": 23.8,
    "mpg": 18.8,
@@ -3908,7 +3908,7 @@
    ],
    "return_date": null,
    "season_avg": 24.0,
-   "slot": "",
+   "slot": "BE",
    "status": "ACTIVE",
    "value": 23.9
   },
@@ -7922,6 +7922,7 @@
   "cold:5160992:20261121",
   "drop:5023693:1795256616490",
   "drop:3134908:1795256761559",
-  "drop:4433137:1795261749555"
+  "drop:4433137:1795261749555",
+  "drop:3908845:1795265018750"
  ]
 }

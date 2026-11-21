@@ -795,7 +795,7 @@
   "3059318": {
    "fantasy_team": "Caxias French Fries",
    "id": "3059318",
-   "last15": 36.3,
+   "last15": 36.4,
    "mpg": 31.9,
    "name": "Joel Embiid",
    "nba_team": "PHL",
@@ -803,10 +803,10 @@
     "C"
    ],
    "return_date": null,
-   "season_avg": 35.2,
+   "season_avg": 35.3,
    "slot": "C",
    "status": "ACTIVE",
-   "value": 35.9
+   "value": 36.0
   },
   "3059319": {
    "fantasy_team": null,
@@ -1074,7 +1074,7 @@
   "3133628": {
    "fantasy_team": "Caxias French Fries",
    "id": "3133628",
-   "last15": 20.6,
+   "last15": 21.1,
    "mpg": 26.5,
    "name": "Myles Turner",
    "nba_team": "MIL",
@@ -1082,10 +1082,10 @@
     "C"
    ],
    "return_date": null,
-   "season_avg": 25.0,
+   "season_avg": 25.3,
    "slot": "IR",
    "status": "ACTIVE",
-   "value": 22.1
+   "value": 22.6
   },
   "3133635": {
    "fantasy_team": null,
@@ -3235,7 +3235,7 @@
   "4395725": {
    "fantasy_team": "Contagem Hunters",
    "id": "4395725",
-   "last15": 32.2,
+   "last15": 32.4,
    "mpg": 30.6,
    "name": "Tyler Herro",
    "nba_team": "MIL",
@@ -3244,10 +3244,10 @@
     "SG"
    ],
    "return_date": null,
-   "season_avg": 34.4,
+   "season_avg": 34.5,
    "slot": "PG",
    "status": "ACTIVE",
-   "value": 33.0
+   "value": 33.1
   },
   "4396818": {
    "fantasy_team": null,
@@ -3634,8 +3634,8 @@
   "4431678": {
    "fantasy_team": "Tiki Taka Laranja",
    "id": "4431678",
-   "last15": 41.6,
-   "mpg": 36.0,
+   "last15": 41.4,
+   "mpg": 36.1,
    "name": "Tyrese Maxey",
    "nba_team": "PHL",
    "positions": [
@@ -3643,10 +3643,10 @@
     "SG"
    ],
    "return_date": null,
-   "season_avg": 45.3,
+   "season_avg": 45.2,
    "slot": "PG",
    "status": "ACTIVE",
-   "value": 42.9
+   "value": 42.8
   },
   "4431679": {
    "fantasy_team": null,
@@ -6753,8 +6753,8 @@
   "5124612": {
    "fantasy_team": "Caxias French Fries",
    "id": "5124612",
-   "last15": 39.6,
-   "mpg": 34.1,
+   "last15": 39.8,
+   "mpg": 34.2,
    "name": "VJ Edgecombe",
    "nba_team": "PHL",
    "positions": [
@@ -6764,7 +6764,7 @@
    "season_avg": 34.4,
    "slot": "SG",
    "status": "ACTIVE",
-   "value": 37.8
+   "value": 37.9
   },
   "5142620": {
    "fantasy_team": "BL0CK BY ZION",

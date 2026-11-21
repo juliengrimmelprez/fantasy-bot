@@ -214,7 +214,7 @@
  "last_activity_ms": 1795286619247,
  "last_digest": 1795291832.5374336,
  "last_error_alert": 1794388335.8497355,
- "last_hot_check": 1795291577.5812695,
+ "last_hot_check": 1795292536.1247306,
  "last_run": "2026-10-19T22:05:14+00:00",
  "matchup_periods": {
   "1": [
@@ -282,7 +282,7 @@
    "fantasy_team": "Lucky",
    "id": "1966",
    "last15": 35.5,
-   "mpg": 32.4,
+   "mpg": 32.5,
    "name": "LeBron James",
    "nba_team": "PHL",
    "positions": [
@@ -432,7 +432,7 @@
    "fantasy_team": "Contagem Hunters",
    "id": "2581018",
    "last15": 19.8,
-   "mpg": 23.6,
+   "mpg": 23.7,
    "name": "Kentavious Caldwell-Pope",
    "nba_team": "PHL",
    "positions": [
@@ -795,18 +795,18 @@
   "3059318": {
    "fantasy_team": "Caxias French Fries",
    "id": "3059318",
-   "last15": 36.0,
-   "mpg": 31.8,
+   "last15": 36.4,
+   "mpg": 31.9,
    "name": "Joel Embiid",
    "nba_team": "PHL",
    "positions": [
     "C"
    ],
    "return_date": null,
-   "season_avg": 35.1,
+   "season_avg": 35.3,
    "slot": "C",
    "status": "ACTIVE",
-   "value": 35.7
+   "value": 36.0
   },
   "3059319": {
    "fantasy_team": null,
@@ -1075,7 +1075,7 @@
    "fantasy_team": "Caxias French Fries",
    "id": "3133628",
    "last15": 20.6,
-   "mpg": 26.4,
+   "mpg": 26.5,
    "name": "Myles Turner",
    "nba_team": "MIL",
    "positions": [
@@ -1123,7 +1123,7 @@
    "fantasy_team": "CCCP  Баскетбол",
    "id": "3134907",
    "last15": 24.5,
-   "mpg": 27.3,
+   "mpg": 27.4,
    "name": "Kyle Kuzma",
    "nba_team": "MIL",
    "positions": [
@@ -3235,8 +3235,8 @@
   "4395725": {
    "fantasy_team": "Contagem Hunters",
    "id": "4395725",
-   "last15": 31.6,
-   "mpg": 30.5,
+   "last15": 32.2,
+   "mpg": 30.6,
    "name": "Tyler Herro",
    "nba_team": "MIL",
    "positions": [
@@ -3244,10 +3244,10 @@
     "SG"
    ],
    "return_date": null,
-   "season_avg": 34.1,
+   "season_avg": 34.4,
    "slot": "PG",
    "status": "ACTIVE",
-   "value": 32.5
+   "value": 33.0
   },
   "4396818": {
    "fantasy_team": null,
@@ -3634,8 +3634,8 @@
   "4431678": {
    "fantasy_team": "Tiki Taka Laranja",
    "id": "4431678",
-   "last15": 41.7,
-   "mpg": 35.9,
+   "last15": 41.6,
+   "mpg": 36.0,
    "name": "Tyrese Maxey",
    "nba_team": "PHL",
    "positions": [
@@ -3643,10 +3643,10 @@
     "SG"
    ],
    "return_date": null,
-   "season_avg": 45.4,
+   "season_avg": 45.3,
    "slot": "PG",
    "status": "ACTIVE",
-   "value": 43.0
+   "value": 42.9
   },
   "4431679": {
    "fantasy_team": null,
@@ -4661,7 +4661,7 @@
    "fantasy_team": "CCCP  Баскетбол",
    "id": "4591725",
    "last15": 23.0,
-   "mpg": 23.7,
+   "mpg": 23.8,
    "name": "Ryan Rollins",
    "nba_team": "MIL",
    "positions": [
@@ -6330,7 +6330,7 @@
    "fantasy_team": "Polga Silva",
    "id": "5082206",
    "last15": 27.6,
-   "mpg": 22.5,
+   "mpg": 22.6,
    "name": "Brayden Burries",
    "nba_team": "MIL",
    "positions": [
@@ -6753,18 +6753,18 @@
   "5124612": {
    "fantasy_team": "Caxias French Fries",
    "id": "5124612",
-   "last15": 39.2,
-   "mpg": 34.0,
+   "last15": 39.6,
+   "mpg": 34.1,
    "name": "VJ Edgecombe",
    "nba_team": "PHL",
    "positions": [
     "SG"
    ],
    "return_date": null,
-   "season_avg": 34.2,
+   "season_avg": 34.4,
    "slot": "SG",
    "status": "ACTIVE",
-   "value": 37.5
+   "value": 37.8
   },
   "5142620": {
    "fantasy_team": "BL0CK BY ZION",

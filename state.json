@@ -204,11 +204,11 @@
   "4396909:20261105",
   "5060701:20261115"
  ],
- "hot_status": "ok: 264 FAs, 2365 games",
+ "hot_status": "ok: 264 FAs, 2379 games",
  "last_activity_ms": 1795217107955,
  "last_digest": 1795221501.5823984,
  "last_error_alert": 1794388335.8497355,
- "last_hot_check": 1795222458.5504901,
+ "last_hot_check": 1795223420.5870435,
  "last_run": "2026-10-19T22:05:14+00:00",
  "matchup_periods": {
   "1": [
@@ -1036,7 +1036,7 @@
    "fantasy_team": "Hospital do Gansola",
    "id": "3133603",
    "last15": 23.1,
-   "mpg": 23.2,
+   "mpg": 23.3,
    "name": "Kelly Oubre Jr.",
    "nba_team": "IND",
    "positions": [
@@ -1363,7 +1363,7 @@
    "fantasy_team": null,
    "id": "3150844",
    "last15": 18.0,
-   "mpg": 16.9,
+   "mpg": 17.0,
    "name": "Moritz Wagner",
    "nba_team": "BKN",
    "positions": [
@@ -1673,8 +1673,8 @@
   "3908809": {
    "fantasy_team": "Bull Market",
    "id": "3908809",
-   "last15": 40.2,
-   "mpg": 31.8,
+   "last15": 40.5,
+   "mpg": 31.7,
    "name": "Donovan Mitchell",
    "nba_team": "CLE",
    "positions": [
@@ -1682,10 +1682,10 @@
     "SG"
    ],
    "return_date": null,
-   "season_avg": 40.1,
+   "season_avg": 40.2,
    "slot": "PG",
    "status": "ACTIVE",
-   "value": 40.2
+   "value": 40.4
   },
   "3908845": {
    "fantasy_team": "Bull Market",
@@ -1840,7 +1840,7 @@
    "fantasy_team": null,
    "id": "3934723",
    "last15": 18.5,
-   "mpg": 13.9,
+   "mpg": 14.0,
    "name": "Thomas Bryant",
    "nba_team": "CLE",
    "positions": [
@@ -2269,7 +2269,7 @@
   "4066328": {
    "fantasy_team": "Polga Silva",
    "id": "4066328",
-   "last15": 28.8,
+   "last15": 29.3,
    "mpg": 25.1,
    "name": "Jarrett Allen",
    "nba_team": "CLE",
@@ -2277,10 +2277,10 @@
     "C"
    ],
    "return_date": null,
-   "season_avg": 30.2,
+   "season_avg": 30.4,
    "slot": "C",
    "status": "ACTIVE",
-   "value": 29.3
+   "value": 29.7
   },
   "4066336": {
    "fantasy_team": "Fernando  Diniz",
@@ -2832,7 +2832,7 @@
    "fantasy_team": "Tropa do Nikola",
    "id": "4278104",
    "last15": 26.7,
-   "mpg": 31.0,
+   "mpg": 31.1,
    "name": "Michael Porter Jr.",
    "nba_team": "BKN",
    "positions": [
@@ -2864,7 +2864,7 @@
   "4278355": {
    "fantasy_team": null,
    "id": "4278355",
-   "last15": 11.9,
+   "last15": 12.6,
    "mpg": 18.8,
    "name": "Obi Toppin",
    "nba_team": "IND",
@@ -2872,10 +2872,10 @@
     "PF"
    ],
    "return_date": null,
-   "season_avg": 17.9,
+   "season_avg": 18.2,
    "slot": "",
    "status": "ACTIVE",
-   "value": 14.0
+   "value": 14.6
   },
   "4278402": {
    "fantasy_team": "Lakers x Bortolan 23",
@@ -3014,7 +3014,7 @@
    "fantasy_team": null,
    "id": "4348700",
    "last15": 16.8,
-   "mpg": 12.1,
+   "mpg": 12.2,
    "name": "Goga Bitadze",
    "nba_team": "ORL",
    "positions": [
@@ -3179,7 +3179,7 @@
    "fantasy_team": "Lakers x Bortolan 23",
    "id": "4395712",
    "last15": 23.8,
-   "mpg": 31.1,
+   "mpg": 31.2,
    "name": "Andrew Nembhard",
    "nba_team": "IND",
    "positions": [
@@ -3262,8 +3262,8 @@
   "4396909": {
    "fantasy_team": null,
    "id": "4396909",
-   "last15": 15.3,
-   "mpg": 25.5,
+   "last15": 15.6,
+   "mpg": 25.6,
    "name": "Aaron Nesmith",
    "nba_team": "IND",
    "positions": [
@@ -3271,10 +3271,10 @@
     "SF"
    ],
    "return_date": null,
-   "season_avg": 17.4,
+   "season_avg": 17.6,
    "slot": "",
    "status": "ACTIVE",
-   "value": 16.0
+   "value": 16.3
   },
   "4396971": {
    "fantasy_team": "Polga Silva",
@@ -4606,7 +4606,7 @@
    "fantasy_team": "King Coopa",
    "id": "4576087",
    "last15": 18.0,
-   "mpg": 25.9,
+   "mpg": 25.8,
    "name": "Peyton Watson",
    "nba_team": "CLE",
    "positions": [
@@ -5551,7 +5551,7 @@
    "fantasy_team": null,
    "id": "4712896",
    "last15": 15.3,
-   "mpg": 19.9,
+   "mpg": 20.0,
    "name": "Noah Clowney",
    "nba_team": "BKN",
    "positions": [
@@ -6048,7 +6048,7 @@
    "fantasy_team": "Hospital do Gansola",
    "id": "5023693",
    "last15": 24.6,
-   "mpg": 19.5,
+   "mpg": 19.4,
    "name": "Tyrese Proctor",
    "nba_team": "CLE",
    "positions": [
@@ -6114,7 +6114,7 @@
    "fantasy_team": "Fernando  Diniz",
    "id": "5041951",
    "last15": 23.4,
-   "mpg": 22.5,
+   "mpg": 22.6,
    "name": "Meleek Thomas",
    "nba_team": "CLE",
    "positions": [

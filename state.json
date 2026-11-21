@@ -281,8 +281,8 @@
   "1966": {
    "fantasy_team": "Lucky",
    "id": "1966",
-   "last15": 27.5,
-   "mpg": 30.4,
+   "last15": 27.7,
+   "mpg": 30.5,
    "name": "LeBron James",
    "nba_team": "PHL",
    "positions": [
@@ -293,7 +293,7 @@
    "season_avg": 34.5,
    "slot": "SF",
    "status": "ACTIVE",
-   "value": 29.9
+   "value": 30.1
   },
   "2326307": {
    "fantasy_team": null,
@@ -431,8 +431,8 @@
   "2581018": {
    "fantasy_team": "Contagem Hunters",
    "id": "2581018",
-   "last15": 17.1,
-   "mpg": 22.1,
+   "last15": 17.8,
+   "mpg": 22.2,
    "name": "Kentavious Caldwell-Pope",
    "nba_team": "PHL",
    "positions": [
@@ -440,10 +440,10 @@
     "SF"
    ],
    "return_date": null,
-   "season_avg": 15.8,
+   "season_avg": 16.1,
    "slot": "SF",
    "status": "ACTIVE",
-   "value": 16.7
+   "value": 17.2
   },
   "2583632": {
    "fantasy_team": null,
@@ -795,18 +795,18 @@
   "3059318": {
    "fantasy_team": "Caxias French Fries",
    "id": "3059318",
-   "last15": 29.6,
-   "mpg": 30.0,
+   "last15": 30.0,
+   "mpg": 30.1,
    "name": "Joel Embiid",
    "nba_team": "PHL",
    "positions": [
     "C"
    ],
    "return_date": null,
-   "season_avg": 31.9,
+   "season_avg": 32.1,
    "slot": "C",
    "status": "ACTIVE",
-   "value": 30.4
+   "value": 30.7
   },
   "3059319": {
    "fantasy_team": null,
@@ -3035,8 +3035,8 @@
   "4351851": {
    "fantasy_team": "Lebron GOAT",
    "id": "4351851",
-   "last15": 19.0,
-   "mpg": 22.6,
+   "last15": 16.6,
+   "mpg": 21.3,
    "name": "Anfernee Simons",
    "nba_team": "PHL",
    "positions": [
@@ -3044,10 +3044,10 @@
     "SG"
    ],
    "return_date": null,
-   "season_avg": 17.8,
+   "season_avg": 16.8,
    "slot": "PG",
    "status": "ACTIVE",
-   "value": 18.6
+   "value": 16.7
   },
   "4351852": {
    "fantasy_team": "Fernando  Diniz",
@@ -3562,7 +3562,7 @@
    "return_date": null,
    "season_avg": 30.7,
    "slot": "SG",
-   "status": "ACTIVE",
+   "status": "OUT",
    "value": 34.8
   },
   "4397886": {
@@ -4244,7 +4244,7 @@
   "4432848": {
    "fantasy_team": "Contagem Hunters",
    "id": "4432848",
-   "last15": 21.0,
+   "last15": 21.3,
    "mpg": 26.0,
    "name": "Jaime Jaquez Jr.",
    "nba_team": "MIL",
@@ -4253,10 +4253,10 @@
     "SF"
    ],
    "return_date": null,
-   "season_avg": 23.9,
+   "season_avg": 24.1,
    "slot": "SG",
    "status": "ACTIVE",
-   "value": 22.0
+   "value": 22.3
   },
   "4432907": {
    "fantasy_team": null,
@@ -6770,7 +6770,7 @@
   "5124612": {
    "fantasy_team": "Caxias French Fries",
    "id": "5124612",
-   "last15": 35.0,
+   "last15": 35.2,
    "mpg": 32.2,
    "name": "VJ Edgecombe",
    "nba_team": "PHL",
@@ -6778,10 +6778,10 @@
     "SG"
    ],
    "return_date": null,
-   "season_avg": 32.1,
+   "season_avg": 32.2,
    "slot": "SG",
    "status": "ACTIVE",
-   "value": 34.0
+   "value": 34.2
   },
   "5142620": {
    "fantasy_team": "BL0CK BY ZION",

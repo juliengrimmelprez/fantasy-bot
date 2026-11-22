@@ -1761,7 +1761,7 @@
    "return_date": null,
    "season_avg": 0,
    "slot": "BE",
-   "status": "OUT",
+   "status": "ACTIVE",
    "value": 38.5
   },
   "3914044": {
@@ -2481,7 +2481,7 @@
   "4222252": {
    "fantasy_team": "Fernando  Diniz",
    "id": "4222252",
-   "last15": 31.2,
+   "last15": 30.8,
    "mpg": 24.0,
    "name": "Isaiah Hartenstein",
    "nba_team": "OKC",
@@ -2489,10 +2489,10 @@
     "C"
    ],
    "return_date": null,
-   "season_avg": 27.9,
+   "season_avg": 27.6,
    "slot": "C",
    "status": "ACTIVE",
-   "value": 30.1
+   "value": 29.7
   },
   "4251": {
    "fantasy_team": "Bull Market",

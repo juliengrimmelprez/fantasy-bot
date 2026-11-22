@@ -1140,7 +1140,7 @@
    "fantasy_team": null,
    "id": "3134916",
    "last15": 14.1,
-   "mpg": 10.1,
+   "mpg": 10.2,
    "name": "Jordan McLaughlin",
    "nba_team": "SAS",
    "positions": [
@@ -2475,7 +2475,7 @@
   "4251": {
    "fantasy_team": "Bull Market",
    "id": "4251",
-   "last15": 30.6,
+   "last15": 30.4,
    "mpg": 27.9,
    "name": "Paul George",
    "nba_team": "BOS",
@@ -2484,10 +2484,10 @@
     "PF"
    ],
    "return_date": null,
-   "season_avg": 36.9,
+   "season_avg": 36.8,
    "slot": "SF",
    "status": "ACTIVE",
-   "value": 32.8
+   "value": 32.7
   },
   "4277811": {
    "fantasy_team": null,
@@ -2656,7 +2656,7 @@
   "4277956": {
    "fantasy_team": "Bull Market",
    "id": "4277956",
-   "last15": 22.8,
+   "last15": 22.6,
    "mpg": 22.2,
    "name": "Jordan Poole",
    "nba_team": "NOP",
@@ -2665,10 +2665,10 @@
     "SG"
    ],
    "return_date": null,
-   "season_avg": 20.8,
+   "season_avg": 20.7,
    "slot": "SG",
    "status": "ACTIVE",
-   "value": 22.0
+   "value": 21.9
   },
   "4277961": {
    "fantasy_team": "King Coopa",
@@ -3635,8 +3635,8 @@
   "4431679": {
    "fantasy_team": null,
    "id": "4431679",
-   "last15": 10.4,
-   "mpg": 22.9,
+   "last15": 10.6,
+   "mpg": 23.0,
    "name": "Precious Achiuwa",
    "nba_team": "SAC",
    "positions": [
@@ -3644,10 +3644,10 @@
     "C"
    ],
    "return_date": null,
-   "season_avg": 21.6,
+   "season_avg": 21.7,
    "slot": "",
    "status": "ACTIVE",
-   "value": 14.3
+   "value": 14.5
   },
   "4431680": {
    "fantasy_team": "Lebron GOAT",
@@ -4813,18 +4813,18 @@
   "4593841": {
    "fantasy_team": null,
    "id": "4593841",
-   "last15": 15.6,
-   "mpg": 18.1,
+   "last15": 15.8,
+   "mpg": 18.2,
    "name": "Baylor Scheierman",
    "nba_team": "BOS",
    "positions": [
     "SG"
    ],
    "return_date": null,
-   "season_avg": 15.0,
+   "season_avg": 15.1,
    "slot": "",
    "status": "ACTIVE",
-   "value": 15.4
+   "value": 15.5
   },
   "4594268": {
    "fantasy_team": "Bull Market",
@@ -4863,7 +4863,7 @@
    "fantasy_team": "Lebron GOAT",
    "id": "4594327",
    "last15": 22.3,
-   "mpg": 26.4,
+   "mpg": 26.6,
    "name": "Keegan Murray",
    "nba_team": "SAC",
    "positions": [
@@ -5672,7 +5672,7 @@
    "fantasy_team": "Lucky",
    "id": "4869780",
    "last15": 21.5,
-   "mpg": 22.1,
+   "mpg": 22.2,
    "name": "Derik Queen",
    "nba_team": "NOP",
    "positions": [
@@ -6037,7 +6037,7 @@
   "4997538": {
    "fantasy_team": null,
    "id": "4997538",
-   "last15": 7.5,
+   "last15": 7.9,
    "mpg": 17.1,
    "name": "Karlo Matkovic",
    "nba_team": "NOP",
@@ -6045,10 +6045,10 @@
     "PF"
    ],
    "return_date": null,
-   "season_avg": 13.8,
+   "season_avg": 14.1,
    "slot": "",
    "status": "ACTIVE",
-   "value": 9.7
+   "value": 10.1
   },
   "5023693": {
    "fantasy_team": null,
@@ -6102,7 +6102,7 @@
   "5041939": {
    "fantasy_team": "King Coopa",
    "id": "5041939",
-   "last15": 47.2,
+   "last15": 47.5,
    "mpg": 33.5,
    "name": "Cooper Flagg",
    "nba_team": "DAL",
@@ -6111,10 +6111,10 @@
     "PF"
    ],
    "return_date": null,
-   "season_avg": 47.5,
+   "season_avg": 47.6,
    "slot": "PF",
    "status": "ACTIVE",
-   "value": 47.3
+   "value": 47.5
   },
   "5041951": {
    "fantasy_team": "Fernando  Diniz",
@@ -6200,18 +6200,18 @@
   "5061568": {
    "fantasy_team": null,
    "id": "5061568",
-   "last15": 8.3,
-   "mpg": 10.9,
+   "last15": 8.2,
+   "mpg": 11.0,
    "name": "Carter Bryant",
    "nba_team": "SAS",
    "positions": [
     "SF"
    ],
    "return_date": null,
-   "season_avg": 6.5,
+   "season_avg": 6.4,
    "slot": "",
    "status": "ACTIVE",
-   "value": 7.7
+   "value": 7.6
   },
   "5061575": {
    "fantasy_team": "Hospital do Gansola",
@@ -6525,7 +6525,7 @@
    "fantasy_team": null,
    "id": "5105809",
    "last15": 4.7,
-   "mpg": 5.8,
+   "mpg": 5.9,
    "name": "Tarris Reed Jr.",
    "nba_team": "SAS",
    "positions": [
@@ -7241,7 +7241,7 @@
    "fantasy_team": null,
    "id": "5254165",
    "last15": 18.4,
-   "mpg": 21.9,
+   "mpg": 22.0,
    "name": "Keaton Wagler",
    "nba_team": "LAC",
    "positions": [
@@ -7470,8 +7470,8 @@
   "6578": {
    "fantasy_team": null,
    "id": "6578",
-   "last15": 9.3,
-   "mpg": 14.5,
+   "last15": 9.8,
+   "mpg": 14.6,
    "name": "Harrison Barnes",
    "nba_team": "SAS",
    "positions": [
@@ -7479,10 +7479,10 @@
     "PF"
    ],
    "return_date": null,
-   "season_avg": 7.7,
+   "season_avg": 8.0,
    "slot": "",
    "status": "ACTIVE",
-   "value": 8.8
+   "value": 9.2
   },
   "6580": {
    "fantasy_team": null,

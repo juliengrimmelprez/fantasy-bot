@@ -219,7 +219,7 @@
  "last_activity_ms": 1795383043498,
  "last_digest": 1795384335.214203,
  "last_error_alert": 1794388335.8497355,
- "last_hot_check": 1795384698.991424,
+ "last_hot_check": 1795385654.9804997,
  "last_run": "2026-10-19T22:05:14+00:00",
  "matchup_periods": {
   "1": [
@@ -3502,7 +3502,7 @@
    "return_date": null,
    "season_avg": 32.4,
    "slot": "C",
-   "status": "DAY_TO_DAY",
+   "status": "ACTIVE",
    "value": 38.8
   },
   "4397251": {
@@ -3715,7 +3715,7 @@
    "return_date": null,
    "season_avg": 17.4,
    "slot": "",
-   "status": "DAY_TO_DAY",
+   "status": "ACTIVE",
    "value": 18.2
   },
   "4431714": {

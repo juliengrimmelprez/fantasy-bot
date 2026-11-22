@@ -215,11 +215,11 @@
   "4845374:20261108",
   "3138196:20261112"
  ],
- "hot_status": "ok: 262 FAs, 2433 games",
+ "hot_status": "ok: 262 FAs, 2434 games",
  "last_activity_ms": 1795387780169,
  "last_digest": 1795387944.6078577,
  "last_error_alert": 1794388335.8497355,
- "last_hot_check": 1795390455.2072043,
+ "last_hot_check": 1795391420.794859,
  "last_run": "2026-10-19T22:05:14+00:00",
  "matchup_periods": {
   "1": [
@@ -883,7 +883,7 @@
   "3064482": {
    "fantasy_team": null,
    "id": "3064482",
-   "last15": 12.7,
+   "last15": 12.6,
    "mpg": 19.2,
    "name": "Bobby Portis",
    "nba_team": "MIA",
@@ -895,7 +895,7 @@
    "season_avg": 17.2,
    "slot": "",
    "status": "ACTIVE",
-   "value": 14.3
+   "value": 14.2
   },
   "3064514": {
    "fantasy_team": "Lebron GOAT",

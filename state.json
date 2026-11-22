@@ -488,7 +488,7 @@
    "fantasy_team": null,
    "id": "2596112",
    "last15": 16.9,
-   "mpg": 18.6,
+   "mpg": 18.7,
    "name": "Javonte Green",
    "nba_team": "DET",
    "positions": [
@@ -2347,7 +2347,7 @@
   "4066372": {
    "fantasy_team": "Lakers x Bortolan 23",
    "id": "4066372",
-   "last15": 28.0,
+   "last15": 28.5,
    "mpg": 26.4,
    "name": "Kevin Huerter",
    "nba_team": "DET",
@@ -2356,10 +2356,10 @@
     "SF"
    ],
    "return_date": null,
-   "season_avg": 21.8,
+   "season_avg": 22.1,
    "slot": "SF",
    "status": "ACTIVE",
-   "value": 25.8
+   "value": 26.2
   },
   "4066383": {
    "fantasy_team": "Caxias French Fries",
@@ -2853,7 +2853,7 @@
    "return_date": null,
    "season_avg": 26.4,
    "slot": "IR",
-   "status": "DAY_TO_DAY",
+   "status": "OUT",
    "value": 24.8
   },
   "4278104": {
@@ -3025,7 +3025,7 @@
    "fantasy_team": null,
    "id": "4280151",
    "last15": 20.8,
-   "mpg": 11.8,
+   "mpg": 11.9,
    "name": "Corey Kispert",
    "nba_team": "ATL",
    "positions": [
@@ -3474,8 +3474,8 @@
   "4397183": {
    "fantasy_team": "Tropa do Nikola",
    "id": "4397183",
-   "last15": 20.9,
-   "mpg": 25.5,
+   "last15": 20.7,
+   "mpg": 25.6,
    "name": "Aaron Wiggins",
    "nba_team": "ATL",
    "positions": [
@@ -3483,10 +3483,10 @@
     "SF"
    ],
    "return_date": null,
-   "season_avg": 24.5,
+   "season_avg": 24.4,
    "slot": "SF",
    "status": "ACTIVE",
-   "value": 22.1
+   "value": 22.0
   },
   "4397189": {
    "fantasy_team": "Contagem Hunters",
@@ -5146,7 +5146,7 @@
   "4683771": {
    "fantasy_team": null,
    "id": "4683771",
-   "last15": 9.8,
+   "last15": 9.6,
    "mpg": 15.3,
    "name": "Ronald Holland II",
    "nba_team": "DET",
@@ -5155,10 +5155,10 @@
     "PF"
    ],
    "return_date": null,
-   "season_avg": 14.1,
+   "season_avg": 14.0,
    "slot": "",
    "status": "ACTIVE",
-   "value": 11.3
+   "value": 11.1
   },
   "4683774": {
    "fantasy_team": null,
@@ -5246,7 +5246,7 @@
   "4684742": {
    "fantasy_team": "Tropa do Nikola",
    "id": "4684742",
-   "last15": 40.6,
+   "last15": 40.9,
    "mpg": 28.6,
    "name": "Ausar Thompson",
    "nba_team": "DET",
@@ -5255,10 +5255,10 @@
     "PF"
    ],
    "return_date": null,
-   "season_avg": 35.1,
+   "season_avg": 35.3,
    "slot": "PF",
    "status": "ACTIVE",
-   "value": 38.7
+   "value": 38.9
   },
   "4684793": {
    "fantasy_team": null,
@@ -5603,7 +5603,7 @@
    "return_date": null,
    "season_avg": 22.3,
    "slot": "BE",
-   "status": "DAY_TO_DAY",
+   "status": "ACTIVE",
    "value": 24.2
   },
   "4845367": {
@@ -6874,7 +6874,7 @@
    "fantasy_team": null,
    "id": "5149077",
    "last15": 15.8,
-   "mpg": 21.8,
+   "mpg": 21.9,
    "name": "Kingston Flemings",
    "nba_team": "ATL",
    "positions": [

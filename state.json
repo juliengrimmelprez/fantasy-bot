@@ -487,18 +487,18 @@
   "2596112": {
    "fantasy_team": null,
    "id": "2596112",
-   "last15": 15.6,
-   "mpg": 18.2,
+   "last15": 16.4,
+   "mpg": 18.3,
    "name": "Javonte Green",
    "nba_team": "DET",
    "positions": [
     "SF"
    ],
    "return_date": null,
-   "season_avg": 14.5,
+   "season_avg": 14.9,
    "slot": "",
    "status": "ACTIVE",
-   "value": 15.2
+   "value": 15.9
   },
   "2779": {
    "fantasy_team": null,
@@ -761,7 +761,7 @@
    "return_date": null,
    "season_avg": 54.7,
    "slot": "PF",
-   "status": "DAY_TO_DAY",
+   "status": "OUT",
    "value": 58.2
   },
   "3032979": {
@@ -1187,7 +1187,7 @@
    "return_date": null,
    "season_avg": 26.1,
    "slot": "UT",
-   "status": "DAY_TO_DAY",
+   "status": "OUT",
    "value": 31.7
   },
   "3135046": {
@@ -1717,7 +1717,7 @@
   "3908845": {
    "fantasy_team": null,
    "id": "3908845",
-   "last15": 24.5,
+   "last15": 25.1,
    "mpg": 25.2,
    "name": "John Collins",
    "nba_team": "DET",
@@ -1726,10 +1726,10 @@
     "C"
    ],
    "return_date": null,
-   "season_avg": 22.0,
+   "season_avg": 22.3,
    "slot": "",
    "status": "ACTIVE",
-   "value": 23.6
+   "value": 24.1
   },
   "3912848": {
    "fantasy_team": null,
@@ -2728,8 +2728,8 @@
   "4278039": {
    "fantasy_team": "Tropa do Nikola",
    "id": "4278039",
-   "last15": 31.3,
-   "mpg": 31.1,
+   "last15": 31.0,
+   "mpg": 31.2,
    "name": "Nickeil Alexander-Walker",
    "nba_team": "ATL",
    "positions": [
@@ -2737,10 +2737,10 @@
     "SG"
    ],
    "return_date": null,
-   "season_avg": 32.9,
+   "season_avg": 32.8,
    "slot": "SG",
    "status": "ACTIVE",
-   "value": 31.8
+   "value": 31.6
   },
   "4278049": {
    "fantasy_team": "Lakers x Bortolan 23",
@@ -3174,7 +3174,7 @@
    "fantasy_team": null,
    "id": "4395702",
    "last15": 18.7,
-   "mpg": 15.0,
+   "mpg": 15.2,
    "name": "Isaiah Joe",
    "nba_team": "DET",
    "positions": [
@@ -3375,7 +3375,7 @@
    "fantasy_team": null,
    "id": "4397020",
    "last15": 13.4,
-   "mpg": 23.6,
+   "mpg": 23.7,
    "name": "Luguentz Dort",
    "nba_team": "ATL",
    "positions": [
@@ -3674,7 +3674,7 @@
    "fantasy_team": "Lebron GOAT",
    "id": "4431680",
    "last15": 33.1,
-   "mpg": 30.4,
+   "mpg": 30.5,
    "name": "Onyeka Okongwu",
    "nba_team": "ATL",
    "positions": [
@@ -3887,7 +3887,7 @@
   "4432166": {
    "fantasy_team": "CCCP  Баскетбол",
    "id": "4432166",
-   "last15": 46.3,
+   "last15": 46.6,
    "mpg": 34.1,
    "name": "Cade Cunningham",
    "nba_team": "DET",
@@ -3895,10 +3895,10 @@
     "PG"
    ],
    "return_date": null,
-   "season_avg": 47.3,
+   "season_avg": 47.4,
    "slot": "PG",
    "status": "ACTIVE",
-   "value": 46.6
+   "value": 46.9
   },
   "4432170": {
    "fantasy_team": null,
@@ -5246,8 +5246,8 @@
   "4684742": {
    "fantasy_team": "Tropa do Nikola",
    "id": "4684742",
-   "last15": 39.4,
-   "mpg": 28.2,
+   "last15": 39.8,
+   "mpg": 28.3,
    "name": "Ausar Thompson",
    "nba_team": "DET",
    "positions": [
@@ -5255,10 +5255,10 @@
     "PF"
    ],
    "return_date": null,
-   "season_avg": 34.5,
+   "season_avg": 34.7,
    "slot": "PF",
    "status": "ACTIVE",
-   "value": 37.7
+   "value": 38.0
   },
   "4684793": {
    "fantasy_team": null,
@@ -5313,7 +5313,7 @@
   "4701230": {
    "fantasy_team": "Tiki Taka Laranja",
    "id": "4701230",
-   "last15": 37.9,
+   "last15": 38.4,
    "mpg": 33.6,
    "name": "Jalen Johnson",
    "nba_team": "ATL",
@@ -5321,10 +5321,10 @@
     "PF"
    ],
    "return_date": null,
-   "season_avg": 39.4,
+   "season_avg": 39.6,
    "slot": "PF",
    "status": "ACTIVE",
-   "value": 38.4
+   "value": 38.9
   },
   "4701232": {
    "fantasy_team": null,
@@ -5675,7 +5675,7 @@
   "4869342": {
    "fantasy_team": "King Coopa",
    "id": "4869342",
-   "last15": 41.4,
+   "last15": 41.3,
    "mpg": 30.8,
    "name": "Dyson Daniels",
    "nba_team": "ATL",
@@ -5687,7 +5687,7 @@
    "season_avg": 37.8,
    "slot": "PG",
    "status": "ACTIVE",
-   "value": 40.2
+   "value": 40.1
   },
   "4869780": {
    "fantasy_team": "Lucky",
@@ -7949,6 +7949,8 @@
   "drop:5214640:1795361153706",
   "drop:4432170:1795361121509",
   "drop:4431736:1795369056811",
-  "inj:4278073:OUT"
+  "inj:4278073:OUT",
+  "inj:3032977:OUT",
+  "inj:3135045:OUT"
  ]
 }

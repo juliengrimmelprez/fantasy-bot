@@ -219,7 +219,7 @@
  "last_activity_ms": 1795383043498,
  "last_digest": 1795384335.214203,
  "last_error_alert": 1794388335.8497355,
- "last_hot_check": 1795386628.084794,
+ "last_hot_check": 1795387579.4645846,
  "last_run": "2026-10-19T22:05:14+00:00",
  "matchup_periods": {
   "1": [
@@ -2704,7 +2704,7 @@
    ],
    "return_date": null,
    "season_avg": 20.6,
-   "slot": "BE",
+   "slot": "UT",
    "status": "ACTIVE",
    "value": 21.8
   },
@@ -2729,7 +2729,7 @@
    "fantasy_team": "Tropa do Nikola",
    "id": "4278039",
    "last15": 31.3,
-   "mpg": 31.3,
+   "mpg": 31.4,
    "name": "Nickeil Alexander-Walker",
    "nba_team": "ATL",
    "positions": [
@@ -2925,8 +2925,8 @@
   "4278562": {
    "fantasy_team": "Tiki Taka Laranja",
    "id": "4278562",
-   "last15": 26.9,
-   "mpg": 25.9,
+   "last15": 27.2,
+   "mpg": 26.0,
    "name": "Paul Reed",
    "nba_team": "DET",
    "positions": [
@@ -2934,10 +2934,10 @@
     "C"
    ],
    "return_date": null,
-   "season_avg": 28.4,
+   "season_avg": 28.6,
    "slot": "C",
    "status": "ACTIVE",
-   "value": 27.4
+   "value": 27.7
   },
   "4278572": {
    "fantasy_team": null,
@@ -3174,7 +3174,7 @@
    "fantasy_team": null,
    "id": "4395702",
    "last15": 22.7,
-   "mpg": 16.5,
+   "mpg": 16.8,
    "name": "Isaiah Joe",
    "nba_team": "DET",
    "positions": [
@@ -3374,8 +3374,8 @@
   "4397020": {
    "fantasy_team": null,
    "id": "4397020",
-   "last15": 15.1,
-   "mpg": 24.5,
+   "last15": 15.6,
+   "mpg": 24.6,
    "name": "Luguentz Dort",
    "nba_team": "ATL",
    "positions": [
@@ -3383,10 +3383,10 @@
     "SF"
    ],
    "return_date": null,
-   "season_avg": 18.2,
+   "season_avg": 18.4,
    "slot": "",
    "status": "ACTIVE",
-   "value": 16.2
+   "value": 16.5
   },
   "4397040": {
    "fantasy_team": null,
@@ -3673,8 +3673,8 @@
   "4431680": {
    "fantasy_team": "Lebron GOAT",
    "id": "4431680",
-   "last15": 33.4,
-   "mpg": 30.6,
+   "last15": 33.3,
+   "mpg": 30.7,
    "name": "Onyeka Okongwu",
    "nba_team": "ATL",
    "positions": [
@@ -3684,7 +3684,7 @@
    "season_avg": 32.5,
    "slot": "C",
    "status": "ACTIVE",
-   "value": 33.1
+   "value": 33.0
   },
   "4431684": {
    "fantasy_team": null,
@@ -3887,7 +3887,7 @@
   "4432166": {
    "fantasy_team": "CCCP  Баскетбол",
    "id": "4432166",
-   "last15": 46.9,
+   "last15": 47.1,
    "mpg": 34.7,
    "name": "Cade Cunningham",
    "nba_team": "DET",
@@ -3895,10 +3895,10 @@
     "PG"
    ],
    "return_date": null,
-   "season_avg": 47.5,
+   "season_avg": 47.7,
    "slot": "PG",
    "status": "ACTIVE",
-   "value": 47.1
+   "value": 47.3
   },
   "4432170": {
    "fantasy_team": null,
@@ -5206,7 +5206,7 @@
    ],
    "return_date": null,
    "season_avg": 23.9,
-   "slot": "UT",
+   "slot": "BE",
    "status": "ACTIVE",
    "value": 23.2
   },
@@ -5246,8 +5246,8 @@
   "4684742": {
    "fantasy_team": "Tropa do Nikola",
    "id": "4684742",
-   "last15": 40.6,
-   "mpg": 28.9,
+   "last15": 41.0,
+   "mpg": 29.1,
    "name": "Ausar Thompson",
    "nba_team": "DET",
    "positions": [
@@ -5255,10 +5255,10 @@
     "PF"
    ],
    "return_date": null,
-   "season_avg": 35.1,
+   "season_avg": 35.3,
    "slot": "PF",
    "status": "ACTIVE",
-   "value": 38.7
+   "value": 39.0
   },
   "4684793": {
    "fantasy_team": null,
@@ -6693,18 +6693,18 @@
   "5107199": {
    "fantasy_team": "Lakers x Bortolan 23",
    "id": "5107199",
-   "last15": 36.5,
-   "mpg": 30.1,
+   "last15": 36.9,
+   "mpg": 30.2,
    "name": "Daniss Jenkins",
    "nba_team": "DET",
    "positions": [
     "PG"
    ],
    "return_date": null,
-   "season_avg": 28.2,
+   "season_avg": 28.4,
    "slot": "PG",
    "status": "ACTIVE",
-   "value": 33.6
+   "value": 33.9
   },
   "5107897": {
    "fantasy_team": null,

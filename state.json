@@ -1421,7 +1421,7 @@
    "fantasy_team": "Polga Silva",
    "id": "3155942",
    "last15": 30.0,
-   "mpg": 32.9,
+   "mpg": 33.1,
    "name": "Domantas Sabonis",
    "nba_team": "SAC",
    "positions": [
@@ -1455,7 +1455,7 @@
    "fantasy_team": null,
    "id": "3195",
    "last15": 12.7,
-   "mpg": 7.8,
+   "mpg": 8.0,
    "name": "Mike Conley",
    "nba_team": "BOS",
    "positions": [
@@ -2229,7 +2229,7 @@
    "fantasy_team": null,
    "id": "4066262",
    "last15": 13.4,
-   "mpg": 16.1,
+   "mpg": 16.3,
    "name": "Malik Monk",
    "nba_team": "SAC",
    "positions": [
@@ -2478,8 +2478,8 @@
   "4251": {
    "fantasy_team": "Bull Market",
    "id": "4251",
-   "last15": 33.9,
-   "mpg": 29.3,
+   "last15": 34.3,
+   "mpg": 29.4,
    "name": "Paul George",
    "nba_team": "BOS",
    "positions": [
@@ -2487,10 +2487,10 @@
     "PF"
    ],
    "return_date": null,
-   "season_avg": 38.5,
+   "season_avg": 38.7,
    "slot": "SF",
    "status": "ACTIVE",
-   "value": 35.5
+   "value": 35.8
   },
   "4277811": {
    "fantasy_team": null,
@@ -2643,18 +2643,18 @@
   "4277951": {
    "fantasy_team": null,
    "id": "4277951",
-   "last15": 9.9,
-   "mpg": 12.4,
+   "last15": 10.1,
+   "mpg": 12.5,
    "name": "Luka Garza",
    "nba_team": "BOS",
    "positions": [
     "C"
    ],
    "return_date": null,
-   "season_avg": 12.3,
+   "season_avg": 12.4,
    "slot": "",
    "status": "ACTIVE",
-   "value": 10.7
+   "value": 10.9
   },
   "4277956": {
    "fantasy_team": "Bull Market",
@@ -3490,18 +3490,18 @@
   "4397251": {
    "fantasy_team": null,
    "id": "4397251",
-   "last15": 4.4,
-   "mpg": 6.9,
+   "last15": 4.2,
+   "mpg": 7.0,
    "name": "Ron Harper Jr.",
    "nba_team": "BOS",
    "positions": [
     "SG"
    ],
    "return_date": null,
-   "season_avg": 3.4,
+   "season_avg": 3.2,
    "slot": "",
    "status": "ACTIVE",
-   "value": 4.0
+   "value": 3.9
   },
   "4397424": {
    "fantasy_team": "BL0CK BY ZION",
@@ -4866,7 +4866,7 @@
    "fantasy_team": "Lebron GOAT",
    "id": "4594327",
    "last15": 23.4,
-   "mpg": 29.0,
+   "mpg": 29.1,
    "name": "Keegan Murray",
    "nba_team": "SAC",
    "positions": [

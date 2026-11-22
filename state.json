@@ -211,7 +211,7 @@
   "5254165:20261115"
  ],
  "hot_status": "ok: 263 FAs, 2399 games",
- "last_activity_ms": 1795286619247,
+ "last_activity_ms": 1795307957267,
  "last_digest": 1795306583.0459907,
  "last_error_alert": 1794388335.8497355,
  "last_hot_check": 1795307896.6858916,
@@ -1054,22 +1054,6 @@
    "slot": "BE",
    "status": "ACTIVE",
    "value": 25.2
-  },
-  "3133626": {
-   "fantasy_team": null,
-   "id": "3133626",
-   "last15": 21.9,
-   "mpg": 20.9,
-   "name": "Kenrich Williams",
-   "nba_team": "OKC",
-   "positions": [
-    "SF"
-   ],
-   "return_date": null,
-   "season_avg": 17.8,
-   "slot": "",
-   "status": "ACTIVE",
-   "value": 20.4
   },
   "3133628": {
    "fantasy_team": "Caxias French Fries",

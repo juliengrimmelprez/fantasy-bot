@@ -216,7 +216,7 @@
   "4845374:20261108"
  ],
  "hot_status": "ok: 263 FAs, 2443 games",
- "last_activity_ms": 1795383043498,
+ "last_activity_ms": 1795387780169,
  "last_digest": 1795384335.214203,
  "last_error_alert": 1794388335.8497355,
  "last_hot_check": 1795387579.4645846,
@@ -561,7 +561,7 @@
    ],
    "return_date": null,
    "season_avg": 16.0,
-   "slot": "UT",
+   "slot": "SF",
    "status": "ACTIVE",
    "value": 20.3
   },
@@ -1026,22 +1026,6 @@
    "slot": "C",
    "status": "ACTIVE",
    "value": 58.0
-  },
-  "3133602": {
-   "fantasy_team": null,
-   "id": "3133602",
-   "last15": 14.4,
-   "mpg": 18.5,
-   "name": "Svi Mykhailiuk",
-   "nba_team": "UTA",
-   "positions": [
-    "SG"
-   ],
-   "return_date": null,
-   "season_avg": 10.9,
-   "slot": "",
-   "status": "ACTIVE",
-   "value": 13.2
   },
   "3133603": {
    "fantasy_team": "Hospital do Gansola",
@@ -2347,7 +2331,7 @@
   "4066372": {
    "fantasy_team": "Lakers x Bortolan 23",
    "id": "4066372",
-   "last15": 28.2,
+   "last15": 28.1,
    "mpg": 26.8,
    "name": "Kevin Huerter",
    "nba_team": "DET",
@@ -2359,7 +2343,7 @@
    "season_avg": 21.9,
    "slot": "SF",
    "status": "ACTIVE",
-   "value": 26.0
+   "value": 25.9
   },
   "4066383": {
    "fantasy_team": "Caxias French Fries",
@@ -2728,8 +2712,8 @@
   "4278039": {
    "fantasy_team": "Tropa do Nikola",
    "id": "4278039",
-   "last15": 31.3,
-   "mpg": 31.4,
+   "last15": 32.1,
+   "mpg": 31.5,
    "name": "Nickeil Alexander-Walker",
    "nba_team": "ATL",
    "positions": [
@@ -2737,10 +2721,10 @@
     "SG"
    ],
    "return_date": null,
-   "season_avg": 32.9,
+   "season_avg": 33.2,
    "slot": "SG",
    "status": "ACTIVE",
-   "value": 31.8
+   "value": 32.5
   },
   "4278049": {
    "fantasy_team": "Lakers x Bortolan 23",
@@ -2925,8 +2909,8 @@
   "4278562": {
    "fantasy_team": "Tiki Taka Laranja",
    "id": "4278562",
-   "last15": 27.2,
-   "mpg": 26.0,
+   "last15": 27.5,
+   "mpg": 26.1,
    "name": "Paul Reed",
    "nba_team": "DET",
    "positions": [
@@ -2934,10 +2918,10 @@
     "C"
    ],
    "return_date": null,
-   "season_avg": 28.6,
+   "season_avg": 28.7,
    "slot": "C",
    "status": "ACTIVE",
-   "value": 27.7
+   "value": 27.9
   },
   "4278572": {
    "fantasy_team": null,
@@ -3299,7 +3283,7 @@
    ],
    "return_date": null,
    "season_avg": 18.8,
-   "slot": "SF",
+   "slot": "UT",
    "status": "ACTIVE",
    "value": 18.3
   },
@@ -3374,7 +3358,7 @@
   "4397020": {
    "fantasy_team": null,
    "id": "4397020",
-   "last15": 15.9,
+   "last15": 16.4,
    "mpg": 24.6,
    "name": "Luguentz Dort",
    "nba_team": "ATL",
@@ -3383,10 +3367,10 @@
     "SF"
    ],
    "return_date": null,
-   "season_avg": 18.5,
+   "season_avg": 18.7,
    "slot": "",
    "status": "ACTIVE",
-   "value": 16.8
+   "value": 17.2
   },
   "4397040": {
    "fantasy_team": null,
@@ -3673,8 +3657,8 @@
   "4431680": {
    "fantasy_team": "Lebron GOAT",
    "id": "4431680",
-   "last15": 33.3,
-   "mpg": 30.7,
+   "last15": 33.4,
+   "mpg": 30.8,
    "name": "Onyeka Okongwu",
    "nba_team": "ATL",
    "positions": [
@@ -3684,7 +3668,7 @@
    "season_avg": 32.5,
    "slot": "C",
    "status": "ACTIVE",
-   "value": 33.0
+   "value": 33.1
   },
   "4431684": {
    "fantasy_team": null,
@@ -3887,18 +3871,18 @@
   "4432166": {
    "fantasy_team": "CCCP  Баскетбол",
    "id": "4432166",
-   "last15": 47.1,
-   "mpg": 34.7,
+   "last15": 46.9,
+   "mpg": 34.9,
    "name": "Cade Cunningham",
    "nba_team": "DET",
    "positions": [
     "PG"
    ],
    "return_date": null,
-   "season_avg": 47.7,
+   "season_avg": 47.5,
    "slot": "PG",
    "status": "ACTIVE",
-   "value": 47.3
+   "value": 47.1
   },
   "4432170": {
    "fantasy_team": null,
@@ -5675,7 +5659,7 @@
   "4869342": {
    "fantasy_team": "King Coopa",
    "id": "4869342",
-   "last15": 43.7,
+   "last15": 43.4,
    "mpg": 31.5,
    "name": "Dyson Daniels",
    "nba_team": "ATL",
@@ -5684,10 +5668,10 @@
     "SG"
    ],
    "return_date": null,
-   "season_avg": 38.8,
+   "season_avg": 38.6,
    "slot": "PG",
    "status": "ACTIVE",
-   "value": 42.0
+   "value": 41.8
   },
   "4869780": {
    "fantasy_team": "Lucky",
@@ -6694,7 +6678,7 @@
    "fantasy_team": "Lakers x Bortolan 23",
    "id": "5107199",
    "last15": 36.9,
-   "mpg": 30.2,
+   "mpg": 30.3,
    "name": "Daniss Jenkins",
    "nba_team": "DET",
    "positions": [

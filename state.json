@@ -216,7 +216,7 @@
   "3195:20261122"
  ],
  "hot_status": "ok: 264 FAs, 2460 games",
- "last_activity_ms": 1795369056811,
+ "last_activity_ms": 1795383043498,
  "last_digest": 1795380636.9937055,
  "last_error_alert": 1794388335.8497355,
  "last_hot_check": 1795382778.3532977,
@@ -2803,7 +2803,7 @@
    "return_date": null,
    "season_avg": 47.6,
    "slot": "PG",
-   "status": "DAY_TO_DAY",
+   "status": "OUT",
    "value": 48.3
   },
   "4278076": {
@@ -2926,7 +2926,7 @@
    "fantasy_team": "Tiki Taka Laranja",
    "id": "4278562",
    "last15": 26.2,
-   "mpg": 25.2,
+   "mpg": 25.3,
    "name": "Paul Reed",
    "nba_team": "DET",
    "positions": [
@@ -3054,23 +3054,6 @@
    "status": "ACTIVE",
    "value": 16.9
   },
-  "4351851": {
-   "fantasy_team": null,
-   "id": "4351851",
-   "last15": 20.9,
-   "mpg": 22.8,
-   "name": "Anfernee Simons",
-   "nba_team": "PHL",
-   "positions": [
-    "PG",
-    "SG"
-   ],
-   "return_date": null,
-   "season_avg": 18.1,
-   "slot": "",
-   "status": "ACTIVE",
-   "value": 19.9
-  },
   "4351852": {
    "fantasy_team": "Fernando  Diniz",
    "id": "4351852",
@@ -3190,18 +3173,18 @@
   "4395702": {
    "fantasy_team": null,
    "id": "4395702",
-   "last15": 12.3,
-   "mpg": 14.3,
+   "last15": 15.7,
+   "mpg": 14.5,
    "name": "Isaiah Joe",
    "nba_team": "DET",
    "positions": [
     "SG"
    ],
    "return_date": null,
-   "season_avg": 11.5,
+   "season_avg": 13.2,
    "slot": "",
    "status": "ACTIVE",
-   "value": 12.0
+   "value": 14.8
   },
   "4395712": {
    "fantasy_team": "Lakers x Bortolan 23",
@@ -3690,7 +3673,7 @@
   "4431680": {
    "fantasy_team": "Lebron GOAT",
    "id": "4431680",
-   "last15": 31.7,
+   "last15": 31.6,
    "mpg": 29.9,
    "name": "Onyeka Okongwu",
    "nba_team": "ATL",
@@ -3701,7 +3684,7 @@
    "season_avg": 31.8,
    "slot": "C",
    "status": "ACTIVE",
-   "value": 31.7
+   "value": 31.6
   },
   "4431684": {
    "fantasy_team": null,
@@ -3904,18 +3887,18 @@
   "4432166": {
    "fantasy_team": "CCCP  Баскетбол",
    "id": "4432166",
-   "last15": 44.9,
-   "mpg": 33.6,
+   "last15": 45.3,
+   "mpg": 33.7,
    "name": "Cade Cunningham",
    "nba_team": "DET",
    "positions": [
     "PG"
    ],
    "return_date": null,
-   "season_avg": 46.6,
+   "season_avg": 46.8,
    "slot": "PG",
    "status": "ACTIVE",
-   "value": 45.5
+   "value": 45.8
   },
   "4432170": {
    "fantasy_team": null,
@@ -5263,8 +5246,8 @@
   "4684742": {
    "fantasy_team": "Tropa do Nikola",
    "id": "4684742",
-   "last15": 36.5,
-   "mpg": 27.6,
+   "last15": 37.1,
+   "mpg": 27.7,
    "name": "Ausar Thompson",
    "nba_team": "DET",
    "positions": [
@@ -5272,10 +5255,10 @@
     "PF"
    ],
    "return_date": null,
-   "season_avg": 32.9,
+   "season_avg": 33.3,
    "slot": "PF",
    "status": "ACTIVE",
-   "value": 35.3
+   "value": 35.8
   },
   "4684793": {
    "fantasy_team": null,
@@ -5331,7 +5314,7 @@
    "fantasy_team": "Tiki Taka Laranja",
    "id": "4701230",
    "last15": 37.7,
-   "mpg": 32.9,
+   "mpg": 33.0,
    "name": "Jalen Johnson",
    "nba_team": "ATL",
    "positions": [
@@ -5692,8 +5675,8 @@
   "4869342": {
    "fantasy_team": "King Coopa",
    "id": "4869342",
-   "last15": 39.9,
-   "mpg": 30.2,
+   "last15": 40.9,
+   "mpg": 30.3,
    "name": "Dyson Daniels",
    "nba_team": "ATL",
    "positions": [
@@ -5701,10 +5684,10 @@
     "SG"
    ],
    "return_date": null,
-   "season_avg": 37.2,
+   "season_avg": 37.6,
    "slot": "PG",
    "status": "ACTIVE",
-   "value": 38.9
+   "value": 39.7
   },
   "4869780": {
    "fantasy_team": "Lucky",
@@ -6710,8 +6693,8 @@
   "5107199": {
    "fantasy_team": "Lakers x Bortolan 23",
    "id": "5107199",
-   "last15": 35.9,
-   "mpg": 28.9,
+   "last15": 35.8,
+   "mpg": 29.1,
    "name": "Daniss Jenkins",
    "nba_team": "DET",
    "positions": [
@@ -6721,7 +6704,7 @@
    "season_avg": 27.9,
    "slot": "PG",
    "status": "ACTIVE",
-   "value": 33.1
+   "value": 33.0
   },
   "5107897": {
    "fantasy_team": null,
@@ -6890,8 +6873,8 @@
   "5149077": {
    "fantasy_team": null,
    "id": "5149077",
-   "last15": 13.5,
-   "mpg": 20.8,
+   "last15": 13.2,
+   "mpg": 20.9,
    "name": "Kingston Flemings",
    "nba_team": "ATL",
    "positions": [
@@ -6899,10 +6882,10 @@
     "PG"
    ],
    "return_date": null,
-   "season_avg": 18.4,
+   "season_avg": 18.3,
    "slot": "",
    "status": "ACTIVE",
-   "value": 15.2
+   "value": 15.0
   },
   "5149115": {
    "fantasy_team": null,
@@ -7965,6 +7948,7 @@
   "inj:2595516:OUT",
   "drop:5214640:1795361153706",
   "drop:4432170:1795361121509",
-  "drop:4431736:1795369056811"
+  "drop:4431736:1795369056811",
+  "inj:4278073:OUT"
  ]
 }

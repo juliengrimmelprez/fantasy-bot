@@ -215,11 +215,11 @@
   "4431893:20261119",
   "3195:20261122"
  ],
- "hot_status": "ok: 264 FAs, 2455 games",
+ "hot_status": "ok: 264 FAs, 2460 games",
  "last_activity_ms": 1795369056811,
  "last_digest": 1795380636.9937055,
  "last_error_alert": 1794388335.8497355,
- "last_hot_check": 1795380857.858383,
+ "last_hot_check": 1795381824.7407296,
  "last_run": "2026-10-19T22:05:14+00:00",
  "matchup_periods": {
   "1": [
@@ -2348,7 +2348,7 @@
    "fantasy_team": "Lakers x Bortolan 23",
    "id": "4066372",
    "last15": 28.0,
-   "mpg": 25.5,
+   "mpg": 25.6,
    "name": "Kevin Huerter",
    "nba_team": "DET",
    "positions": [
@@ -3025,7 +3025,7 @@
    "fantasy_team": null,
    "id": "4280151",
    "last15": 16.5,
-   "mpg": 11.0,
+   "mpg": 11.1,
    "name": "Corey Kispert",
    "nba_team": "ATL",
    "positions": [
@@ -3905,7 +3905,7 @@
    "fantasy_team": "CCCP  Баскетбол",
    "id": "4432166",
    "last15": 43.7,
-   "mpg": 33.2,
+   "mpg": 33.3,
    "name": "Cade Cunningham",
    "nba_team": "DET",
    "positions": [
@@ -6662,7 +6662,7 @@
    "fantasy_team": null,
    "id": "5106262",
    "last15": 9.0,
-   "mpg": 10.9,
+   "mpg": 11.0,
    "name": "Zuby Ejiofor",
    "nba_team": "ATL",
    "positions": [

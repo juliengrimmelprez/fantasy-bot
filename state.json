@@ -216,7 +216,7 @@
   "3912848:20261115"
  ],
  "hot_status": "ok: 264 FAs, 2447 games",
- "last_activity_ms": 1795351978481,
+ "last_activity_ms": 1795361153706,
  "last_digest": 1795358296.2955964,
  "last_error_alert": 1794388335.8497355,
  "last_hot_check": 1795360695.7899919,
@@ -1288,22 +1288,6 @@
    "status": "ACTIVE",
    "value": 3.9
   },
-  "3137259": {
-   "fantasy_team": null,
-   "id": "3137259",
-   "last15": 0,
-   "mpg": null,
-   "name": "Gabe Vincent",
-   "nba_team": "FA",
-   "positions": [
-    "PG"
-   ],
-   "return_date": null,
-   "season_avg": 0,
-   "slot": "",
-   "status": "ACTIVE",
-   "value": 0.0
-  },
   "3138160": {
    "fantasy_team": "Tiki Taka Laranja",
    "id": "3138160",
@@ -2027,23 +2011,6 @@
    "slot": "UT",
    "status": "ACTIVE",
    "value": 26.7
-  },
-  "4017844": {
-   "fantasy_team": null,
-   "id": "4017844",
-   "last15": 0,
-   "mpg": null,
-   "name": "Guerschon Yabusele",
-   "nba_team": "FA",
-   "positions": [
-    "PF",
-    "C"
-   ],
-   "return_date": null,
-   "season_avg": 0,
-   "slot": "",
-   "status": "ACTIVE",
-   "value": 0.0
   },
   "4065648": {
    "fantasy_team": "Caxias French Fries",
@@ -3918,7 +3885,7 @@
    "value": 49.9
   },
   "4432170": {
-   "fantasy_team": "Bull Market",
+   "fantasy_team": null,
    "id": "4432170",
    "last15": 19.7,
    "mpg": 17.8,
@@ -3930,7 +3897,7 @@
    ],
    "return_date": null,
    "season_avg": 22.2,
-   "slot": "C",
+   "slot": "",
    "status": "ACTIVE",
    "value": 20.6
   },
@@ -7165,7 +7132,7 @@
    "value": 8.1
   },
   "5214640": {
-   "fantasy_team": "Bull Market",
+   "fantasy_team": null,
    "id": "5214640",
    "last15": 22.1,
    "mpg": 18.6,
@@ -7176,7 +7143,7 @@
    ],
    "return_date": null,
    "season_avg": 18.4,
-   "slot": "BE",
+   "slot": "",
    "status": "ACTIVE",
    "value": 20.8
   },
@@ -7962,6 +7929,8 @@
   "diag:34",
   "lastday:34",
   "planday:34",
-  "inj:2595516:OUT"
+  "inj:2595516:OUT",
+  "drop:5214640:1795361153706",
+  "drop:4432170:1795361121509"
  ]
 }

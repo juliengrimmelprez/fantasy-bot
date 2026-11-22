@@ -215,11 +215,11 @@
   "4431893:20261119",
   "3195:20261122"
  ],
- "hot_status": "ok: 264 FAs, 2460 games",
+ "hot_status": "ok: 263 FAs, 2443 games",
  "last_activity_ms": 1795383043498,
  "last_digest": 1795380636.9937055,
  "last_error_alert": 1794388335.8497355,
- "last_hot_check": 1795382778.3532977,
+ "last_hot_check": 1795383738.6484241,
  "last_run": "2026-10-19T22:05:14+00:00",
  "matchup_periods": {
   "1": [
@@ -5246,7 +5246,7 @@
   "4684742": {
    "fantasy_team": "Tropa do Nikola",
    "id": "4684742",
-   "last15": 38.2,
+   "last15": 38.4,
    "mpg": 27.9,
    "name": "Ausar Thompson",
    "nba_team": "DET",
@@ -5258,7 +5258,7 @@
    "season_avg": 33.9,
    "slot": "PF",
    "status": "ACTIVE",
-   "value": 36.7
+   "value": 36.8
   },
   "4684793": {
    "fantasy_team": null,

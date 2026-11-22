@@ -1977,8 +1977,8 @@
   "3995": {
    "fantasy_team": "Polga Silva",
    "id": "3995",
-   "last15": 23.9,
-   "mpg": 25.3,
+   "last15": 23.8,
+   "mpg": 25.4,
    "name": "Jrue Holiday",
    "nba_team": "POR",
    "positions": [
@@ -1986,10 +1986,10 @@
     "SG"
    ],
    "return_date": null,
-   "season_avg": 27.3,
+   "season_avg": 27.2,
    "slot": "PG",
    "status": "ACTIVE",
-   "value": 25.1
+   "value": 25.0
   },
   "4017837": {
    "fantasy_team": "Caxias French Fries",
@@ -2159,18 +2159,18 @@
   "4066211": {
    "fantasy_team": null,
    "id": "4066211",
-   "last15": 17.4,
-   "mpg": 15.1,
+   "last15": 17.6,
+   "mpg": 15.2,
    "name": "Robert Williams III",
    "nba_team": "POR",
    "positions": [
     "C"
    ],
    "return_date": null,
-   "season_avg": 20.2,
+   "season_avg": 20.3,
    "slot": "",
    "status": "ACTIVE",
-   "value": 18.4
+   "value": 18.5
   },
   "4066218": {
    "fantasy_team": null,
@@ -4080,7 +4080,7 @@
    "fantasy_team": null,
    "id": "4432808",
    "last15": 3.3,
-   "mpg": 4.1,
+   "mpg": 4.3,
    "name": "James Wiseman",
    "nba_team": "NYK",
    "positions": [
@@ -4977,7 +4977,7 @@
    "fantasy_team": "Contagem Hunters",
    "id": "4683021",
    "last15": 40.9,
-   "mpg": 30.6,
+   "mpg": 30.7,
    "name": "Deni Avdija",
    "nba_team": "POR",
    "positions": [
@@ -5010,8 +5010,8 @@
   "4683678": {
    "fantasy_team": null,
    "id": "4683678",
-   "last15": 13.4,
-   "mpg": 23.1,
+   "last15": 11.7,
+   "mpg": 21.6,
    "name": "Scoot Henderson",
    "nba_team": "POR",
    "positions": [
@@ -5019,10 +5019,10 @@
     "SG"
    ],
    "return_date": null,
-   "season_avg": 11.5,
+   "season_avg": 10.7,
    "slot": "",
    "status": "ACTIVE",
-   "value": 12.7
+   "value": 11.3
   },
   "4683688": {
    "fantasy_team": null,
@@ -7555,7 +7555,7 @@
    "fantasy_team": "Bull Market",
    "id": "6606",
    "last15": 26.4,
-   "mpg": 28.1,
+   "mpg": 28.2,
    "name": "Damian Lillard",
    "nba_team": "POR",
    "positions": [

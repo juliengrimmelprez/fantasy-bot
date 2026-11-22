@@ -2347,8 +2347,8 @@
   "4066372": {
    "fantasy_team": "Lakers x Bortolan 23",
    "id": "4066372",
-   "last15": 28.4,
-   "mpg": 26.6,
+   "last15": 28.2,
+   "mpg": 26.7,
    "name": "Kevin Huerter",
    "nba_team": "DET",
    "positions": [
@@ -2356,10 +2356,10 @@
     "SF"
    ],
    "return_date": null,
-   "season_avg": 22.0,
+   "season_avg": 21.9,
    "slot": "SF",
    "status": "ACTIVE",
-   "value": 26.1
+   "value": 26.0
   },
   "4066383": {
    "fantasy_team": "Caxias French Fries",
@@ -3375,7 +3375,7 @@
    "fantasy_team": null,
    "id": "4397020",
    "last15": 15.3,
-   "mpg": 24.2,
+   "mpg": 24.3,
    "name": "Luguentz Dort",
    "nba_team": "ATL",
    "positions": [
@@ -3887,7 +3887,7 @@
   "4432166": {
    "fantasy_team": "CCCP  Баскетбол",
    "id": "4432166",
-   "last15": 46.0,
+   "last15": 46.6,
    "mpg": 34.5,
    "name": "Cade Cunningham",
    "nba_team": "DET",
@@ -3895,10 +3895,10 @@
     "PG"
    ],
    "return_date": null,
-   "season_avg": 47.1,
+   "season_avg": 47.4,
    "slot": "PG",
    "status": "ACTIVE",
-   "value": 46.4
+   "value": 46.9
   },
   "4432170": {
    "fantasy_team": null,
@@ -5246,7 +5246,7 @@
   "4684742": {
    "fantasy_team": "Tropa do Nikola",
    "id": "4684742",
-   "last15": 40.9,
+   "last15": 41.4,
    "mpg": 28.7,
    "name": "Ausar Thompson",
    "nba_team": "DET",
@@ -5255,10 +5255,10 @@
     "PF"
    ],
    "return_date": null,
-   "season_avg": 35.3,
+   "season_avg": 35.5,
    "slot": "PF",
    "status": "ACTIVE",
-   "value": 38.9
+   "value": 39.3
   },
   "4684793": {
    "fantasy_team": null,
@@ -5675,7 +5675,7 @@
   "4869342": {
    "fantasy_team": "King Coopa",
    "id": "4869342",
-   "last15": 42.6,
+   "last15": 42.3,
    "mpg": 31.2,
    "name": "Dyson Daniels",
    "nba_team": "ATL",
@@ -5684,10 +5684,10 @@
     "SG"
    ],
    "return_date": null,
-   "season_avg": 38.3,
+   "season_avg": 38.2,
    "slot": "PG",
    "status": "ACTIVE",
-   "value": 41.1
+   "value": 40.9
   },
   "4869780": {
    "fantasy_team": "Lucky",
@@ -6644,7 +6644,7 @@
   "5106262": {
    "fantasy_team": null,
    "id": "5106262",
-   "last15": 9.2,
+   "last15": 9.3,
    "mpg": 12.0,
    "name": "Zuby Ejiofor",
    "nba_team": "ATL",
@@ -6652,10 +6652,10 @@
     "PF"
    ],
    "return_date": null,
-   "season_avg": 11.2,
+   "season_avg": 11.3,
    "slot": "",
    "status": "ACTIVE",
-   "value": 9.9
+   "value": 10.0
   },
   "5107157": {
    "fantasy_team": null,
@@ -7030,7 +7030,7 @@
    "return_date": null,
    "season_avg": 25.9,
    "slot": "C",
-   "status": "ACTIVE",
+   "status": "OUT",
    "value": 31.5
   },
   "5175643": {

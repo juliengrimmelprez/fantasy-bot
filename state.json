@@ -219,7 +219,7 @@
  "last_activity_ms": 1795387780169,
  "last_digest": 1795387944.6078577,
  "last_error_alert": 1794388335.8497355,
- "last_hot_check": 1795387579.4645846,
+ "last_hot_check": 1795388538.048074,
  "last_run": "2026-10-19T22:05:14+00:00",
  "matchup_periods": {
   "1": [
@@ -5659,7 +5659,7 @@
   "4869342": {
    "fantasy_team": "King Coopa",
    "id": "4869342",
-   "last15": 44.0,
+   "last15": 43.4,
    "mpg": 31.6,
    "name": "Dyson Daniels",
    "nba_team": "ATL",
@@ -5668,10 +5668,10 @@
     "SG"
    ],
    "return_date": null,
-   "season_avg": 38.9,
+   "season_avg": 38.6,
    "slot": "PG",
    "status": "ACTIVE",
-   "value": 42.2
+   "value": 41.8
   },
   "4869780": {
    "fantasy_team": "Lucky",

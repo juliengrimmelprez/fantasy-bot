@@ -959,7 +959,7 @@
    "return_date": null,
    "season_avg": 16.5,
    "slot": "",
-   "status": "OUT",
+   "status": "ACTIVE",
    "value": 16.5
   },
   "3102530": {
@@ -5692,7 +5692,7 @@
   "4869342": {
    "fantasy_team": "King Coopa",
    "id": "4869342",
-   "last15": 39.6,
+   "last15": 39.7,
    "mpg": 30.1,
    "name": "Dyson Daniels",
    "nba_team": "ATL",
@@ -5704,7 +5704,7 @@
    "season_avg": 37.1,
    "slot": "PG",
    "status": "ACTIVE",
-   "value": 38.7
+   "value": 38.8
   },
   "4869780": {
    "fantasy_team": "Lucky",

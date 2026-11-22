@@ -217,7 +217,7 @@
  "last_activity_ms": 1795307957267,
  "last_digest": 1795321458.2840173,
  "last_error_alert": 1794388335.8497355,
- "last_hot_check": 1795321338.2014081,
+ "last_hot_check": 1795322294.5053878,
  "last_run": "2026-10-19T22:05:14+00:00",
  "matchup_periods": {
   "1": [
@@ -865,7 +865,7 @@
    "fantasy_team": "BL0CK BY ZION",
    "id": "3064440",
    "last15": 30.0,
-   "mpg": 31.9,
+   "mpg": 32.1,
    "name": "Zach LaVine",
    "nba_team": "SAC",
    "positions": [
@@ -1420,7 +1420,7 @@
   "3155942": {
    "fantasy_team": "Polga Silva",
    "id": "3155942",
-   "last15": 27.7,
+   "last15": 27.9,
    "mpg": 32.5,
    "name": "Domantas Sabonis",
    "nba_team": "SAC",
@@ -1429,10 +1429,10 @@
     "C"
    ],
    "return_date": null,
-   "season_avg": 35.3,
+   "season_avg": 35.4,
    "slot": "UT",
    "status": "ACTIVE",
-   "value": 30.4
+   "value": 30.5
   },
   "3157465": {
    "fantasy_team": "Lucky",
@@ -2295,7 +2295,7 @@
   "4066354": {
    "fantasy_team": "Hospital do Gansola",
    "id": "4066354",
-   "last15": 25.5,
+   "last15": 25.6,
    "mpg": 26.9,
    "name": "Payton Pritchard",
    "nba_team": "BOS",
@@ -2304,10 +2304,10 @@
     "SG"
    ],
    "return_date": null,
-   "season_avg": 24.6,
+   "season_avg": 24.7,
    "slot": "UT",
    "status": "ACTIVE",
-   "value": 25.2
+   "value": 25.3
   },
   "4066372": {
    "fantasy_team": "Lakers x Bortolan 23",
@@ -2478,8 +2478,8 @@
   "4251": {
    "fantasy_team": "Bull Market",
    "id": "4251",
-   "last15": 33.7,
-   "mpg": 29.1,
+   "last15": 33.6,
+   "mpg": 29.2,
    "name": "Paul George",
    "nba_team": "BOS",
    "positions": [
@@ -2490,7 +2490,7 @@
    "season_avg": 38.4,
    "slot": "SF",
    "status": "ACTIVE",
-   "value": 35.4
+   "value": 35.2
   },
   "4277811": {
    "fantasy_team": null,
@@ -3491,7 +3491,7 @@
    "fantasy_team": null,
    "id": "4397251",
    "last15": 4.6,
-   "mpg": 6.2,
+   "mpg": 6.4,
    "name": "Ron Harper Jr.",
    "nba_team": "BOS",
    "positions": [
@@ -3506,7 +3506,7 @@
   "4397424": {
    "fantasy_team": "BL0CK BY ZION",
    "id": "4397424",
-   "last15": 24.0,
+   "last15": 24.6,
    "mpg": 22.2,
    "name": "Neemias Queta",
    "nba_team": "BOS",
@@ -3514,10 +3514,10 @@
     "C"
    ],
    "return_date": null,
-   "season_avg": 23.6,
+   "season_avg": 23.9,
    "slot": "UT",
    "status": "ACTIVE",
-   "value": 23.9
+   "value": 24.3
   },
   "4397475": {
    "fantasy_team": null,
@@ -4816,18 +4816,18 @@
   "4593841": {
    "fantasy_team": null,
    "id": "4593841",
-   "last15": 15.4,
-   "mpg": 18.8,
+   "last15": 15.2,
+   "mpg": 18.9,
    "name": "Baylor Scheierman",
    "nba_team": "BOS",
    "positions": [
     "SG"
    ],
    "return_date": null,
-   "season_avg": 14.9,
+   "season_avg": 14.8,
    "slot": "",
    "status": "ACTIVE",
-   "value": 15.2
+   "value": 15.1
   },
   "4594268": {
    "fantasy_team": "Bull Market",
@@ -4865,8 +4865,8 @@
   "4594327": {
    "fantasy_team": "Lebron GOAT",
    "id": "4594327",
-   "last15": 22.7,
-   "mpg": 28.8,
+   "last15": 23.7,
+   "mpg": 28.9,
    "name": "Keegan Murray",
    "nba_team": "SAC",
    "positions": [
@@ -4874,10 +4874,10 @@
     "PF"
    ],
    "return_date": null,
-   "season_avg": 20.0,
+   "season_avg": 20.8,
    "slot": "SF",
    "status": "ACTIVE",
-   "value": 21.8
+   "value": 22.7
   },
   "4595400": {
    "fantasy_team": null,
@@ -6756,7 +6756,7 @@
   "5142620": {
    "fantasy_team": "BL0CK BY ZION",
    "id": "5142620",
-   "last15": 37.5,
+   "last15": 37.1,
    "mpg": 35.8,
    "name": "Darius Acuff Jr.",
    "nba_team": "SAC",
@@ -6764,10 +6764,10 @@
     "PG"
    ],
    "return_date": null,
-   "season_avg": 37.2,
+   "season_avg": 37.1,
    "slot": "UT",
    "status": "ACTIVE",
-   "value": 37.4
+   "value": 37.1
   },
   "5142621": {
    "fantasy_team": null,

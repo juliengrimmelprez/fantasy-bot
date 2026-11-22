@@ -215,11 +215,11 @@
   "4431893:20261119",
   "3195:20261122"
  ],
- "hot_status": "ok: 264 FAs, 2454 games",
+ "hot_status": "ok: 264 FAs, 2455 games",
  "last_activity_ms": 1795369056811,
  "last_digest": 1795380636.9937055,
  "last_error_alert": 1794388335.8497355,
- "last_hot_check": 1795379898.1751883,
+ "last_hot_check": 1795380857.858383,
  "last_run": "2026-10-19T22:05:14+00:00",
  "matchup_periods": {
   "1": [
@@ -3391,8 +3391,8 @@
   "4397020": {
    "fantasy_team": null,
    "id": "4397020",
-   "last15": 13.3,
-   "mpg": 24.4,
+   "last15": 11.3,
+   "mpg": 23.0,
    "name": "Luguentz Dort",
    "nba_team": "ATL",
    "positions": [
@@ -3400,10 +3400,10 @@
     "SF"
    ],
    "return_date": null,
-   "season_avg": 17.7,
+   "season_avg": 16.6,
    "slot": "",
    "status": "ACTIVE",
-   "value": 14.9
+   "value": 13.1
   },
   "4397040": {
    "fantasy_team": null,
@@ -3690,7 +3690,7 @@
   "4431680": {
    "fantasy_team": "Lebron GOAT",
    "id": "4431680",
-   "last15": 30.7,
+   "last15": 30.9,
    "mpg": 29.5,
    "name": "Onyeka Okongwu",
    "nba_team": "ATL",
@@ -3698,10 +3698,10 @@
     "C"
    ],
    "return_date": null,
-   "season_avg": 31.4,
+   "season_avg": 31.5,
    "slot": "C",
    "status": "ACTIVE",
-   "value": 31.0
+   "value": 31.1
   },
   "4431684": {
    "fantasy_team": null,
@@ -5263,7 +5263,7 @@
   "4684742": {
    "fantasy_team": "Tropa do Nikola",
    "id": "4684742",
-   "last15": 35.2,
+   "last15": 35.0,
    "mpg": 27.1,
    "name": "Ausar Thompson",
    "nba_team": "DET",
@@ -5272,10 +5272,10 @@
     "PF"
    ],
    "return_date": null,
-   "season_avg": 32.3,
+   "season_avg": 32.1,
    "slot": "PF",
    "status": "ACTIVE",
-   "value": 34.2
+   "value": 34.0
   },
   "4684793": {
    "fantasy_team": null,

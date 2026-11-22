@@ -943,7 +943,7 @@
    "return_date": null,
    "season_avg": 29.3,
    "slot": "UT",
-   "status": "DAY_TO_DAY",
+   "status": "ACTIVE",
    "value": 29.5
   },
   "3102529": {
@@ -3084,7 +3084,7 @@
    "return_date": null,
    "season_avg": 16.1,
    "slot": "UT",
-   "status": "DAY_TO_DAY",
+   "status": "OUT",
    "value": 17.3
   },
   "4395625": {
@@ -5263,7 +5263,7 @@
   "4684742": {
    "fantasy_team": "Tropa do Nikola",
    "id": "4684742",
-   "last15": 35.4,
+   "last15": 35.6,
    "mpg": 27.3,
    "name": "Ausar Thompson",
    "nba_team": "DET",
@@ -5272,10 +5272,10 @@
     "PF"
    ],
    "return_date": null,
-   "season_avg": 32.3,
+   "season_avg": 32.5,
    "slot": "PF",
    "status": "ACTIVE",
-   "value": 34.3
+   "value": 34.5
   },
   "4684793": {
    "fantasy_team": null,
@@ -6890,7 +6890,7 @@
   "5149077": {
    "fantasy_team": null,
    "id": "5149077",
-   "last15": 13.5,
+   "last15": 13.8,
    "mpg": 20.5,
    "name": "Kingston Flemings",
    "nba_team": "ATL",
@@ -6899,10 +6899,10 @@
     "PG"
    ],
    "return_date": null,
-   "season_avg": 18.4,
+   "season_avg": 18.5,
    "slot": "",
    "status": "ACTIVE",
-   "value": 15.2
+   "value": 15.4
   },
   "5149115": {
    "fantasy_team": null,

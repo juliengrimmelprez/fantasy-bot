@@ -216,7 +216,7 @@
   "3912848:20261115"
  ],
  "hot_status": "ok: 264 FAs, 2447 games",
- "last_activity_ms": 1795361153706,
+ "last_activity_ms": 1795361325298,
  "last_digest": 1795358296.2955964,
  "last_error_alert": 1794388335.8497355,
  "last_hot_check": 1795360695.7899919,
@@ -549,7 +549,7 @@
    "value": 11.8
   },
   "2990984": {
-   "fantasy_team": null,
+   "fantasy_team": "Bull Market",
    "id": "2990984",
    "last15": 22.6,
    "mpg": 16.2,
@@ -561,7 +561,7 @@
    ],
    "return_date": null,
    "season_avg": 16.0,
-   "slot": "",
+   "slot": "UT",
    "status": "ACTIVE",
    "value": 20.3
   },
@@ -1288,6 +1288,22 @@
    "status": "ACTIVE",
    "value": 3.9
   },
+  "3137259": {
+   "fantasy_team": null,
+   "id": "3137259",
+   "last15": 0,
+   "mpg": null,
+   "name": "Gabe Vincent",
+   "nba_team": "FA",
+   "positions": [
+    "PG"
+   ],
+   "return_date": null,
+   "season_avg": 0,
+   "slot": "",
+   "status": "ACTIVE",
+   "value": 0.0
+  },
   "3138160": {
    "fantasy_team": "Tiki Taka Laranja",
    "id": "3138160",
@@ -2012,6 +2028,23 @@
    "status": "ACTIVE",
    "value": 26.7
   },
+  "4017844": {
+   "fantasy_team": null,
+   "id": "4017844",
+   "last15": 0,
+   "mpg": null,
+   "name": "Guerschon Yabusele",
+   "nba_team": "FA",
+   "positions": [
+    "PF",
+    "C"
+   ],
+   "return_date": null,
+   "season_avg": 0,
+   "slot": "",
+   "status": "ACTIVE",
+   "value": 0.0
+  },
   "4065648": {
    "fantasy_team": "Caxias French Fries",
    "id": "4065648",
@@ -2107,7 +2140,7 @@
    ],
    "return_date": null,
    "season_avg": 23.4,
-   "slot": "UT",
+   "slot": "BE",
    "status": "ACTIVE",
    "value": 27.6
   },
@@ -3271,7 +3304,7 @@
    "value": 35.4
   },
   "4396909": {
-   "fantasy_team": null,
+   "fantasy_team": "Bull Market",
    "id": "4396909",
    "last15": 18.0,
    "mpg": 27.0,
@@ -3283,7 +3316,7 @@
    ],
    "return_date": null,
    "season_avg": 18.8,
-   "slot": "",
+   "slot": "SF",
    "status": "ACTIVE",
    "value": 18.3
   },
@@ -5787,7 +5820,7 @@
    ],
    "return_date": null,
    "season_avg": 26.6,
-   "slot": "SF",
+   "slot": "PF",
    "status": "ACTIVE",
    "value": 27.0
   },
@@ -7536,7 +7569,7 @@
    ],
    "return_date": null,
    "season_avg": 45.1,
-   "slot": "PF",
+   "slot": "C",
    "status": "ACTIVE",
    "value": 46.8
   },

@@ -481,7 +481,7 @@
    "return_date": null,
    "season_avg": 29.7,
    "slot": "SG",
-   "status": "DAY_TO_DAY",
+   "status": "OUT",
    "value": 33.8
   },
   "2596112": {
@@ -7961,6 +7961,7 @@
   "drop:5105623:1795351978481",
   "diag:34",
   "lastday:34",
-  "planday:34"
+  "planday:34",
+  "inj:2595516:OUT"
  ]
 }

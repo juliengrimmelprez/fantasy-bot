@@ -216,7 +216,7 @@
   "4601023:20261105"
  ],
  "hot_status": "ok: 264 FAs, 2457 games",
- "last_activity_ms": 1795345829497,
+ "last_activity_ms": 1795351780327,
  "last_digest": 1795350861.7536032,
  "last_error_alert": 1794388335.8497355,
  "last_hot_check": 1795351102.5671284,
@@ -1448,7 +1448,7 @@
    ],
    "return_date": null,
    "season_avg": 36.5,
-   "slot": "UT",
+   "slot": "PF",
    "status": "ACTIVE",
    "value": 32.0
   },
@@ -1962,7 +1962,7 @@
    "value": 38.0
   },
   "3978": {
-   "fantasy_team": null,
+   "fantasy_team": "Polga Silva",
    "id": "3978",
    "last15": 14.9,
    "mpg": 22.8,
@@ -1974,7 +1974,7 @@
    ],
    "return_date": null,
    "season_avg": 16.1,
-   "slot": "",
+   "slot": "SF",
    "status": "ACTIVE",
    "value": 15.3
   },
@@ -2008,7 +2008,7 @@
    ],
    "return_date": null,
    "season_avg": 29.8,
-   "slot": "PG",
+   "slot": "UT",
    "status": "ACTIVE",
    "value": 28.6
   },
@@ -2391,7 +2391,7 @@
    ],
    "return_date": null,
    "season_avg": 21.9,
-   "slot": "BE",
+   "slot": "UT",
    "status": "ACTIVE",
    "value": 19.7
   },
@@ -2785,7 +2785,7 @@
    ],
    "return_date": null,
    "season_avg": 47.6,
-   "slot": "UT",
+   "slot": "PG",
    "status": "DAY_TO_DAY",
    "value": 48.3
   },
@@ -2835,7 +2835,7 @@
    ],
    "return_date": null,
    "season_avg": 26.4,
-   "slot": "SF",
+   "slot": "IR",
    "status": "OUT",
    "value": 24.8
   },
@@ -3216,7 +3216,7 @@
    ],
    "return_date": null,
    "season_avg": 19.2,
-   "slot": "PF",
+   "slot": "BE",
    "status": "ACTIVE",
    "value": 21.6
   },
@@ -3316,7 +3316,7 @@
    ],
    "return_date": null,
    "season_avg": 28.8,
-   "slot": "BE",
+   "slot": "UT",
    "status": "ACTIVE",
    "value": 31.7
   },
@@ -3504,6 +3504,23 @@
    "slot": "C",
    "status": "DAY_TO_DAY",
    "value": 38.8
+  },
+  "4397227": {
+   "fantasy_team": null,
+   "id": "4397227",
+   "last15": 0,
+   "mpg": null,
+   "name": "Vince Williams Jr.",
+   "nba_team": "FA",
+   "positions": [
+    "PG",
+    "SG"
+   ],
+   "return_date": null,
+   "season_avg": 0,
+   "slot": "",
+   "status": "OUT",
+   "value": 0.0
   },
   "4397251": {
    "fantasy_team": null,
@@ -4776,7 +4793,7 @@
    ],
    "return_date": null,
    "season_avg": 23.1,
-   "slot": "BE",
+   "slot": "SG",
    "status": "ACTIVE",
    "value": 22.2
   },
@@ -6343,7 +6360,7 @@
    ],
    "return_date": null,
    "season_avg": 22.2,
-   "slot": "SG",
+   "slot": "BE",
    "status": "ACTIVE",
    "value": 24.8
   },
@@ -6489,7 +6506,7 @@
    ],
    "return_date": null,
    "season_avg": 35.9,
-   "slot": "UT",
+   "slot": "C",
    "status": "ACTIVE",
    "value": 35.9
   },
@@ -6522,7 +6539,7 @@
    ],
    "return_date": null,
    "season_avg": 20.3,
-   "slot": "C",
+   "slot": "BE",
    "status": "ACTIVE",
    "value": 21.1
   },

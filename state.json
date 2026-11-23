@@ -940,8 +940,8 @@
   "3078576": {
    "fantasy_team": "Lucky",
    "id": "3078576",
-   "last15": 28.9,
-   "mpg": 29.8,
+   "last15": 28.7,
+   "mpg": 29.9,
    "name": "Derrick White",
    "nba_team": "BOS",
    "positions": [
@@ -952,7 +952,7 @@
    "season_avg": 28.9,
    "slot": "UT",
    "status": "ACTIVE",
-   "value": 28.9
+   "value": 28.8
   },
   "3102529": {
    "fantasy_team": null,
@@ -2323,7 +2323,7 @@
    "fantasy_team": "Hospital do Gansola",
    "id": "4066354",
    "last15": 25.4,
-   "mpg": 27.5,
+   "mpg": 27.6,
    "name": "Payton Pritchard",
    "nba_team": "BOS",
    "positions": [
@@ -3516,18 +3516,18 @@
   "4397424": {
    "fantasy_team": "BL0CK BY ZION",
    "id": "4397424",
-   "last15": 26.1,
-   "mpg": 23.0,
+   "last15": 26.3,
+   "mpg": 23.1,
    "name": "Neemias Queta",
    "nba_team": "BOS",
    "positions": [
     "C"
    ],
    "return_date": null,
-   "season_avg": 23.7,
+   "season_avg": 23.8,
    "slot": "UT",
    "status": "ACTIVE",
-   "value": 25.3
+   "value": 25.4
   },
   "4397475": {
    "fantasy_team": null,
@@ -3566,7 +3566,7 @@
    "fantasy_team": "Polga Silva",
    "id": "4397886",
    "last15": 23.9,
-   "mpg": 15.3,
+   "mpg": 15.5,
    "name": "Charles Bassey",
    "nba_team": "GSW",
    "positions": [
@@ -5469,8 +5469,8 @@
   "4709138": {
    "fantasy_team": "CCCP  Баскетбол",
    "id": "4709138",
-   "last15": 27.1,
-   "mpg": 32.1,
+   "last15": 28.1,
+   "mpg": 32.2,
    "name": "Brandin Podziemski",
    "nba_team": "GSW",
    "positions": [
@@ -5478,10 +5478,10 @@
     "SG"
    ],
    "return_date": null,
-   "season_avg": 30.1,
+   "season_avg": 30.6,
    "slot": "UT",
    "status": "ACTIVE",
-   "value": 28.2
+   "value": 29.0
   },
   "4711272": {
    "fantasy_team": "Tiki Taka Laranja",
@@ -6018,18 +6018,18 @@
   "4997536": {
    "fantasy_team": null,
    "id": "4997536",
-   "last15": 12.8,
-   "mpg": 18.9,
+   "last15": 13.0,
+   "mpg": 19.1,
    "name": "Gui Santos",
    "nba_team": "GSW",
    "positions": [
     "SF"
    ],
    "return_date": null,
-   "season_avg": 13.9,
+   "season_avg": 14.1,
    "slot": "",
    "status": "ACTIVE",
-   "value": 13.2
+   "value": 13.4
   },
   "4997537": {
    "fantasy_team": null,
@@ -7045,18 +7045,18 @@
   "5175647": {
    "fantasy_team": null,
    "id": "5175647",
-   "last15": 10.0,
-   "mpg": 13.4,
+   "last15": 9.9,
+   "mpg": 13.5,
    "name": "Hugo Gonzalez",
    "nba_team": "BOS",
    "positions": [
     "SF"
    ],
    "return_date": null,
-   "season_avg": 9.2,
+   "season_avg": 9.1,
    "slot": "",
    "status": "ACTIVE",
-   "value": 9.7
+   "value": 9.6
   },
   "5175737": {
    "fantasy_team": "Fernando  Diniz",
@@ -7568,7 +7568,7 @@
    "fantasy_team": "Lakers x Bortolan 23",
    "id": "6589",
    "last15": 23.0,
-   "mpg": 25.5,
+   "mpg": 25.6,
    "name": "Draymond Green",
    "nba_team": "GSW",
    "positions": [

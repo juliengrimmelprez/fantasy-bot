@@ -288,7 +288,7 @@
    9
   ]
  },
- "matchup_periods_day": "2026-11-22",
+ "matchup_periods_day": "2026-11-23",
  "plan_status": "ok: day 34, matchup 5 [28]..[34], adds left 10, opp Bull Market",
  "players": {
   "1966": {
@@ -941,7 +941,7 @@
    "fantasy_team": "Lucky",
    "id": "3078576",
    "last15": 28.6,
-   "mpg": 29.9,
+   "mpg": 30.0,
    "name": "Derrick White",
    "nba_team": "BOS",
    "positions": [
@@ -2040,7 +2040,7 @@
   "4065648": {
    "fantasy_team": "Caxias French Fries",
    "id": "4065648",
-   "last15": 41.9,
+   "last15": 41.7,
    "mpg": 34.3,
    "name": "Jayson Tatum",
    "nba_team": "BOS",
@@ -2049,10 +2049,10 @@
     "PF"
    ],
    "return_date": null,
-   "season_avg": 44.7,
+   "season_avg": 44.6,
    "slot": "IR",
    "status": "ACTIVE",
-   "value": 42.8
+   "value": 42.7
   },
   "4065654": {
    "fantasy_team": null,
@@ -4827,7 +4827,7 @@
    "fantasy_team": null,
    "id": "4593841",
    "last15": 15.2,
-   "mpg": 18.9,
+   "mpg": 19.0,
    "name": "Baylor Scheierman",
    "nba_team": "BOS",
    "positions": [
@@ -5470,7 +5470,7 @@
    "fantasy_team": "CCCP  Баскетбол",
    "id": "4709138",
    "last15": 27.9,
-   "mpg": 32.3,
+   "mpg": 32.4,
    "name": "Brandin Podziemski",
    "nba_team": "GSW",
    "positions": [
@@ -7062,7 +7062,7 @@
    "fantasy_team": "Fernando  Diniz",
    "id": "5175737",
    "last15": 30.6,
-   "mpg": 31.6,
+   "mpg": 31.7,
    "name": "Yaxel Lendeborg",
    "nba_team": "GSW",
    "positions": [

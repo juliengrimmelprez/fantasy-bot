@@ -841,8 +841,8 @@
   "3062679": {
    "fantasy_team": "King Coopa",
    "id": "3062679",
-   "last15": 18.9,
-   "mpg": 30.6,
+   "last15": 18.6,
+   "mpg": 30.7,
    "name": "Josh Hart",
    "nba_team": "NYK",
    "positions": [
@@ -850,10 +850,10 @@
     "SF"
    ],
    "return_date": null,
-   "season_avg": 23.8,
+   "season_avg": 23.6,
    "slot": "SG",
    "status": "ACTIVE",
-   "value": 20.6
+   "value": 20.3
   },
   "3064290": {
    "fantasy_team": "CCCP  Баскетбол",
@@ -940,8 +940,8 @@
   "3078576": {
    "fantasy_team": "Lucky",
    "id": "3078576",
-   "last15": 27.9,
-   "mpg": 29.7,
+   "last15": 28.9,
+   "mpg": 29.8,
    "name": "Derrick White",
    "nba_team": "BOS",
    "positions": [
@@ -949,10 +949,10 @@
     "SG"
    ],
    "return_date": null,
-   "season_avg": 28.5,
+   "season_avg": 28.9,
    "slot": "UT",
    "status": "ACTIVE",
-   "value": 28.1
+   "value": 28.9
   },
   "3102529": {
    "fantasy_team": null,
@@ -1104,7 +1104,7 @@
    "fantasy_team": null,
    "id": "3134903",
    "last15": 11.3,
-   "mpg": 13.7,
+   "mpg": 13.8,
    "name": "Gary Payton II",
    "nba_team": "GSW",
    "positions": [
@@ -1218,7 +1218,7 @@
   "3136195": {
    "fantasy_team": "Contagem Hunters",
    "id": "3136195",
-   "last15": 54.2,
+   "last15": 54.4,
    "mpg": 32.5,
    "name": "Karl-Anthony Towns",
    "nba_team": "NYK",
@@ -1226,10 +1226,10 @@
     "C"
    ],
    "return_date": null,
-   "season_avg": 46.6,
+   "season_avg": 46.7,
    "slot": "UT",
    "status": "ACTIVE",
-   "value": 51.6
+   "value": 51.7
   },
   "3136196": {
    "fantasy_team": null,
@@ -2040,8 +2040,8 @@
   "4065648": {
    "fantasy_team": "Caxias French Fries",
    "id": "4065648",
-   "last15": 41.7,
-   "mpg": 34.0,
+   "last15": 42.0,
+   "mpg": 34.1,
    "name": "Jayson Tatum",
    "nba_team": "BOS",
    "positions": [
@@ -2049,10 +2049,10 @@
     "PF"
    ],
    "return_date": null,
-   "season_avg": 44.6,
+   "season_avg": 44.7,
    "slot": "IR",
    "status": "ACTIVE",
-   "value": 42.7
+   "value": 43.0
   },
   "4065654": {
    "fantasy_team": null,
@@ -2106,7 +2106,7 @@
   "4065731": {
    "fantasy_team": null,
    "id": "4065731",
-   "last15": 9.6,
+   "last15": 9.4,
    "mpg": 14.6,
    "name": "Jay Huff",
    "nba_team": "IND",
@@ -2117,7 +2117,7 @@
    "season_avg": 13.5,
    "slot": "",
    "status": "ACTIVE",
-   "value": 11.0
+   "value": 10.8
   },
   "4065732": {
    "fantasy_team": "Bull Market",
@@ -2323,7 +2323,7 @@
    "fantasy_team": "Hospital do Gansola",
    "id": "4066354",
    "last15": 25.4,
-   "mpg": 27.4,
+   "mpg": 27.5,
    "name": "Payton Pritchard",
    "nba_team": "BOS",
    "positions": [
@@ -2390,8 +2390,8 @@
   "4066436": {
    "fantasy_team": "Polga Silva",
    "id": "4066436",
-   "last15": 18.5,
-   "mpg": 22.2,
+   "last15": 18.2,
+   "mpg": 22.3,
    "name": "De'Anthony Melton",
    "nba_team": "GSW",
    "positions": [
@@ -2399,10 +2399,10 @@
     "SG"
    ],
    "return_date": null,
-   "season_avg": 21.7,
+   "season_avg": 21.6,
    "slot": "UT",
    "status": "ACTIVE",
-   "value": 19.6
+   "value": 19.4
   },
   "4066457": {
    "fantasy_team": "King Coopa",
@@ -3517,7 +3517,7 @@
    "fantasy_team": "BL0CK BY ZION",
    "id": "4397424",
    "last15": 26.1,
-   "mpg": 22.9,
+   "mpg": 23.0,
    "name": "Neemias Queta",
    "nba_team": "BOS",
    "positions": [
@@ -5469,8 +5469,8 @@
   "4709138": {
    "fantasy_team": "CCCP  Баскетбол",
    "id": "4709138",
-   "last15": 27.2,
-   "mpg": 32.0,
+   "last15": 27.1,
+   "mpg": 32.1,
    "name": "Brandin Podziemski",
    "nba_team": "GSW",
    "positions": [
@@ -5481,7 +5481,7 @@
    "season_avg": 30.1,
    "slot": "UT",
    "status": "ACTIVE",
-   "value": 28.3
+   "value": 28.2
   },
   "4711272": {
    "fantasy_team": "Tiki Taka Laranja",
@@ -6587,7 +6587,7 @@
    "fantasy_team": null,
    "id": "5105854",
    "last15": 15.0,
-   "mpg": 13.8,
+   "mpg": 13.9,
    "name": "Braden Smith",
    "nba_team": "IND",
    "positions": [
@@ -7045,7 +7045,7 @@
   "5175647": {
    "fantasy_team": null,
    "id": "5175647",
-   "last15": 9.9,
+   "last15": 10.0,
    "mpg": 13.4,
    "name": "Hugo Gonzalez",
    "nba_team": "BOS",
@@ -7053,16 +7053,16 @@
     "SF"
    ],
    "return_date": null,
-   "season_avg": 9.1,
+   "season_avg": 9.2,
    "slot": "",
    "status": "ACTIVE",
-   "value": 9.6
+   "value": 9.7
   },
   "5175737": {
    "fantasy_team": "Fernando  Diniz",
    "id": "5175737",
    "last15": 30.9,
-   "mpg": 31.3,
+   "mpg": 31.5,
    "name": "Yaxel Lendeborg",
    "nba_team": "GSW",
    "positions": [

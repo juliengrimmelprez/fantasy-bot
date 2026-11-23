@@ -2039,6 +2039,22 @@
    "status": "ACTIVE",
    "value": 26.0
   },
+  "4017850": {
+   "fantasy_team": null,
+   "id": "4017850",
+   "last15": 0,
+   "mpg": null,
+   "name": "Wang Zhelin",
+   "nba_team": "MEM",
+   "positions": [
+    "C"
+   ],
+   "return_date": null,
+   "season_avg": 0,
+   "slot": "",
+   "status": "ACTIVE",
+   "value": 0.0
+  },
   "4065648": {
    "fantasy_team": "Caxias French Fries",
    "id": "4065648",
@@ -5469,22 +5485,6 @@
    "slot": "",
    "status": "ACTIVE",
    "value": 8.8
-  },
-  "4703396": {
-   "fantasy_team": null,
-   "id": "4703396",
-   "last15": 10.8,
-   "mpg": 9.5,
-   "name": "Graham Ike",
-   "nba_team": "GSW",
-   "positions": [
-    "PF"
-   ],
-   "return_date": null,
-   "season_avg": 11.0,
-   "slot": "",
-   "status": "ACTIVE",
-   "value": 10.9
   },
   "4706557": {
    "fantasy_team": null,

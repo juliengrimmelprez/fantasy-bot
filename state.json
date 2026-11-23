@@ -225,11 +225,11 @@
   "4712896:20261112",
   "4277956:20261122"
  ],
- "hot_status": "ok: 264 FAs, 2518 games",
- "last_activity_ms": 1795387780169,
+ "hot_status": "ok: 264 FAs, 2523 games",
+ "last_activity_ms": 1795422096262,
  "last_digest": 1795421299.141356,
  "last_error_alert": 1794388335.8497355,
- "last_hot_check": 1795421177.8689547,
+ "last_hot_check": 1795422138.9203758,
  "last_run": "2026-10-19T22:05:14+00:00",
  "matchup_periods": {
   "1": [
@@ -1152,7 +1152,7 @@
    "value": 23.9
   },
   "3134908": {
-   "fantasy_team": null,
+   "fantasy_team": "CCCP  Баскетбол",
    "id": "3134908",
    "last15": 27.6,
    "mpg": 23.9,
@@ -1163,7 +1163,7 @@
    ],
    "return_date": null,
    "season_avg": 23.9,
-   "slot": "",
+   "slot": "UT",
    "status": "ACTIVE",
    "value": 26.3
   },
@@ -2188,7 +2188,7 @@
    "value": 21.1
   },
   "4065804": {
-   "fantasy_team": "Hospital do Gansola",
+   "fantasy_team": null,
    "id": "4065804",
    "last15": 20.0,
    "mpg": 21.1,
@@ -2200,7 +2200,7 @@
    ],
    "return_date": null,
    "season_avg": 17.7,
-   "slot": "UT",
+   "slot": "",
    "status": "ACTIVE",
    "value": 19.2
   },
@@ -4973,7 +4973,7 @@
    "value": 18.1
   },
   "4601025": {
-   "fantasy_team": null,
+   "fantasy_team": "Hospital do Gansola",
    "id": "4601025",
    "last15": 25.8,
    "mpg": 28.5,
@@ -4985,7 +4985,7 @@
    ],
    "return_date": null,
    "season_avg": 24.5,
-   "slot": "",
+   "slot": "UT",
    "status": "ACTIVE",
    "value": 25.3
   },
@@ -7111,7 +7111,7 @@
    "value": 31.8
   },
   "5203685": {
-   "fantasy_team": "CCCP  Баскетбол",
+   "fantasy_team": null,
    "id": "5203685",
    "last15": 18.2,
    "mpg": 18.5,
@@ -7122,7 +7122,7 @@
    ],
    "return_date": null,
    "season_avg": 18.9,
-   "slot": "UT",
+   "slot": "",
    "status": "ACTIVE",
    "value": 18.5
   },

@@ -227,7 +227,7 @@
   "5175643:20261119"
  ],
  "hot_status": "ok: 264 FAs, 2547 games",
- "last_activity_ms": 1795450552342,
+ "last_activity_ms": 1795463212651,
  "last_digest": 1795461869.6302369,
  "last_error_alert": 1794388335.8497355,
  "last_hot_check": 1795462457.2930257,
@@ -3516,6 +3516,23 @@
    "status": "DAY_TO_DAY",
    "value": 40.8
   },
+  "4397227": {
+   "fantasy_team": null,
+   "id": "4397227",
+   "last15": 0,
+   "mpg": null,
+   "name": "Vince Williams Jr.",
+   "nba_team": "FA",
+   "positions": [
+    "PG",
+    "SG"
+   ],
+   "return_date": null,
+   "season_avg": 0,
+   "slot": "",
+   "status": "OUT",
+   "value": 0.0
+  },
   "4397251": {
    "fantasy_team": null,
    "id": "4397251",
@@ -6083,7 +6100,7 @@
    "value": 8.9
   },
   "5023693": {
-   "fantasy_team": null,
+   "fantasy_team": "Lakers x Bortolan 23",
    "id": "5023693",
    "last15": 27.0,
    "mpg": 20.6,
@@ -6094,7 +6111,7 @@
    ],
    "return_date": null,
    "season_avg": 20.4,
-   "slot": "",
+   "slot": "UT",
    "status": "ACTIVE",
    "value": 24.7
   },

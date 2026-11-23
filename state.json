@@ -2039,23 +2039,6 @@
    "status": "ACTIVE",
    "value": 26.0
   },
-  "4017844": {
-   "fantasy_team": null,
-   "id": "4017844",
-   "last15": 0,
-   "mpg": null,
-   "name": "Guerschon Yabusele",
-   "nba_team": "FA",
-   "positions": [
-    "PF",
-    "C"
-   ],
-   "return_date": null,
-   "season_avg": 0,
-   "slot": "",
-   "status": "ACTIVE",
-   "value": 0.0
-  },
   "4065648": {
    "fantasy_team": "Caxias French Fries",
    "id": "4065648",
@@ -3532,6 +3515,23 @@
    "slot": "C",
    "status": "ACTIVE",
    "value": 40.8
+  },
+  "4397227": {
+   "fantasy_team": null,
+   "id": "4397227",
+   "last15": 0,
+   "mpg": null,
+   "name": "Vince Williams Jr.",
+   "nba_team": "FA",
+   "positions": [
+    "PG",
+    "SG"
+   ],
+   "return_date": null,
+   "season_avg": 0,
+   "slot": "",
+   "status": "OUT",
+   "value": 0.0
   },
   "4397251": {
    "fantasy_team": null,

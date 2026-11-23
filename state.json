@@ -556,7 +556,7 @@
    "fantasy_team": "Bull Market",
    "id": "2990984",
    "last15": 25.5,
-   "mpg": 16.6,
+   "mpg": 16.7,
    "name": "Buddy Hield",
    "nba_team": "CHI",
    "positions": [
@@ -838,7 +838,7 @@
    "fantasy_team": "King Coopa",
    "id": "3062679",
    "last15": 14.4,
-   "mpg": 28.8,
+   "mpg": 28.9,
    "name": "Josh Hart",
    "nba_team": "NYK",
    "positions": [
@@ -2004,7 +2004,7 @@
    "fantasy_team": "Caxias French Fries",
    "id": "4017837",
    "last15": 25.9,
-   "mpg": 22.5,
+   "mpg": 22.6,
    "name": "Ivica Zubac",
    "nba_team": "IND",
    "positions": [
@@ -2269,7 +2269,7 @@
    "fantasy_team": "Fernando  Diniz",
    "id": "4066320",
    "last15": 39.1,
-   "mpg": 34.4,
+   "mpg": 34.5,
    "name": "Desmond Bane",
    "nba_team": "ORL",
    "positions": [
@@ -2569,7 +2569,7 @@
   "4277847": {
    "fantasy_team": "Lebron GOAT",
    "id": "4277847",
-   "last15": 26.0,
+   "last15": 26.6,
    "mpg": 31.8,
    "name": "Wendell Carter Jr.",
    "nba_team": "ORL",
@@ -2577,10 +2577,10 @@
     "C"
    ],
    "return_date": null,
-   "season_avg": 28.9,
+   "season_avg": 29.2,
    "slot": "UT",
    "status": "ACTIVE",
-   "value": 27.0
+   "value": 27.5
   },
   "4277848": {
    "fantasy_team": null,
@@ -2602,24 +2602,24 @@
   "4277869": {
    "fantasy_team": null,
    "id": "4277869",
-   "last15": 6.2,
-   "mpg": 9.2,
+   "last15": 6.0,
+   "mpg": 9.3,
    "name": "Jose Alvarado",
    "nba_team": "NYK",
    "positions": [
     "PG"
    ],
    "return_date": null,
-   "season_avg": 6.6,
+   "season_avg": 6.5,
    "slot": "",
    "status": "ACTIVE",
-   "value": 6.3
+   "value": 6.2
   },
   "4277905": {
    "fantasy_team": "BL0CK BY ZION",
    "id": "4277905",
-   "last15": 30.9,
-   "mpg": 34.3,
+   "last15": 30.8,
+   "mpg": 34.4,
    "name": "Trae Young",
    "nba_team": "WAS",
    "positions": [
@@ -2629,7 +2629,7 @@
    "season_avg": 34.8,
    "slot": "UT",
    "status": "ACTIVE",
-   "value": 32.3
+   "value": 32.2
   },
   "4277919": {
    "fantasy_team": "CCCP  Баскетбол",
@@ -2880,18 +2880,18 @@
   "4278355": {
    "fantasy_team": null,
    "id": "4278355",
-   "last15": 13.2,
-   "mpg": 19.4,
+   "last15": 13.5,
+   "mpg": 19.5,
    "name": "Obi Toppin",
    "nba_team": "IND",
    "positions": [
     "PF"
    ],
    "return_date": null,
-   "season_avg": 18.2,
+   "season_avg": 18.4,
    "slot": "",
    "status": "ACTIVE",
-   "value": 15.0
+   "value": 15.2
   },
   "4278402": {
    "fantasy_team": null,
@@ -3178,7 +3178,7 @@
    "fantasy_team": "Lakers x Bortolan 23",
    "id": "4395712",
    "last15": 26.7,
-   "mpg": 31.1,
+   "mpg": 31.2,
    "name": "Andrew Nembhard",
    "nba_team": "IND",
    "positions": [
@@ -3479,8 +3479,8 @@
   "4397189": {
    "fantasy_team": "Contagem Hunters",
    "id": "4397189",
-   "last15": 42.8,
-   "mpg": 24.5,
+   "last15": 43.7,
+   "mpg": 24.6,
    "name": "Jalen Smith",
    "nba_team": "CHI",
    "positions": [
@@ -3488,10 +3488,10 @@
     "C"
    ],
    "return_date": null,
-   "season_avg": 33.4,
+   "season_avg": 33.7,
    "slot": "C",
    "status": "ACTIVE",
-   "value": 39.5
+   "value": 40.2
   },
   "4397251": {
    "fantasy_team": null,
@@ -3577,7 +3577,7 @@
   "4398207": {
    "fantasy_team": null,
    "id": "4398207",
-   "last15": 14.6,
+   "last15": 15.1,
    "mpg": 13.5,
    "name": "Jalen Slawson",
    "nba_team": "IND",
@@ -3585,10 +3585,10 @@
     "SF"
    ],
    "return_date": null,
-   "season_avg": 13.8,
+   "season_avg": 14.1,
    "slot": "",
    "status": "ACTIVE",
-   "value": 14.3
+   "value": 14.8
   },
   "4398390": {
    "fantasy_team": null,
@@ -3859,7 +3859,7 @@
    "fantasy_team": "Lebron GOAT",
    "id": "4432165",
    "last15": 19.4,
-   "mpg": 28.0,
+   "mpg": 28.1,
    "name": "Jalen Suggs",
    "nba_team": "ORL",
    "positions": [
@@ -4438,7 +4438,7 @@
    "fantasy_team": null,
    "id": "4433225",
    "last15": 15.1,
-   "mpg": 13.0,
+   "mpg": 13.1,
    "name": "Tyler Kolek",
    "nba_team": "NYK",
    "positions": [
@@ -4587,7 +4587,7 @@
   "4566434": {
    "fantasy_team": "King Coopa",
    "id": "4566434",
-   "last15": 53.0,
+   "last15": 53.4,
    "mpg": 36.1,
    "name": "Franz Wagner",
    "nba_team": "ORL",
@@ -4596,10 +4596,10 @@
     "PF"
    ],
    "return_date": null,
-   "season_avg": 44.7,
+   "season_avg": 44.9,
    "slot": "PF",
    "status": "ACTIVE",
-   "value": 50.1
+   "value": 50.4
   },
   "4576060": {
    "fantasy_team": null,
@@ -4671,7 +4671,7 @@
    "fantasy_team": null,
    "id": "4592427",
    "last15": 9.0,
-   "mpg": 17.6,
+   "mpg": 17.8,
    "name": "Spencer Jones",
    "nba_team": "DEN",
    "positions": [
@@ -5118,18 +5118,18 @@
   "4683766": {
    "fantasy_team": null,
    "id": "4683766",
-   "last15": 12.3,
-   "mpg": 14.6,
+   "last15": 12.2,
+   "mpg": 14.7,
    "name": "Isaiah Collier",
    "nba_team": "UTA",
    "positions": [
     "PG"
    ],
    "return_date": null,
-   "season_avg": 12.8,
+   "season_avg": 12.7,
    "slot": "",
    "status": "ACTIVE",
-   "value": 12.5
+   "value": 12.4
   },
   "4683771": {
    "fantasy_team": null,
@@ -5285,7 +5285,7 @@
    "fantasy_team": null,
    "id": "4698719",
    "last15": 11.2,
-   "mpg": 17.8,
+   "mpg": 17.9,
    "name": "Trevon Brazile",
    "nba_team": "DEN",
    "positions": [
@@ -5500,7 +5500,7 @@
    "fantasy_team": "Fernando  Diniz",
    "id": "4711294",
    "last15": 29.1,
-   "mpg": 26.9,
+   "mpg": 27.0,
    "name": "Matas Buzelis",
    "nba_team": "CHI",
    "positions": [
@@ -5747,7 +5747,7 @@
   "4871145": {
    "fantasy_team": "Lebron GOAT",
    "id": "4871145",
-   "last15": 34.2,
+   "last15": 34.5,
    "mpg": 27.8,
    "name": "Josh Giddey",
    "nba_team": "CHI",
@@ -5756,10 +5756,10 @@
     "SG"
    ],
    "return_date": null,
-   "season_avg": 30.1,
+   "season_avg": 30.2,
    "slot": "SG",
    "status": "ACTIVE",
-   "value": 32.8
+   "value": 33.0
   },
   "4873090": {
    "fantasy_team": null,
@@ -5798,7 +5798,7 @@
   "4873153": {
    "fantasy_team": null,
    "id": "4873153",
-   "last15": 10.0,
+   "last15": 10.1,
    "mpg": 17.1,
    "name": "Morez Johnson Jr.",
    "nba_team": "DAL",
@@ -5810,7 +5810,7 @@
    "season_avg": 13.2,
    "slot": "",
    "status": "ACTIVE",
-   "value": 11.1
+   "value": 11.2
   },
   "4873201": {
    "fantasy_team": null,
@@ -6111,7 +6111,7 @@
   "5041939": {
    "fantasy_team": "King Coopa",
    "id": "5041939",
-   "last15": 46.0,
+   "last15": 45.9,
    "mpg": 33.1,
    "name": "Cooper Flagg",
    "nba_team": "DAL",
@@ -6123,7 +6123,7 @@
    "season_avg": 47.2,
    "slot": "SF",
    "status": "ACTIVE",
-   "value": 46.4
+   "value": 46.3
   },
   "5041951": {
    "fantasy_team": "Fernando  Diniz",
@@ -6419,7 +6419,7 @@
   "5104155": {
    "fantasy_team": null,
    "id": "5104155",
-   "last15": 15.1,
+   "last15": 15.0,
    "mpg": 24.5,
    "name": "Bilal Coulibaly",
    "nba_team": "WAS",
@@ -6431,7 +6431,7 @@
    "season_avg": 18.9,
    "slot": "",
    "status": "ACTIVE",
-   "value": 16.5
+   "value": 16.4
   },
   "5104157": {
    "fantasy_team": "CCCP  Баскетбол",
@@ -6582,18 +6582,18 @@
   "5105854": {
    "fantasy_team": null,
    "id": "5105854",
-   "last15": 13.0,
-   "mpg": 12.8,
+   "last15": 14.0,
+   "mpg": 12.9,
    "name": "Braden Smith",
    "nba_team": "IND",
    "positions": [
     "PG"
    ],
    "return_date": null,
-   "season_avg": 14.1,
+   "season_avg": 14.6,
    "slot": "",
    "status": "ACTIVE",
-   "value": 13.4
+   "value": 14.2
   },
   "5106060": {
    "fantasy_team": null,
@@ -6813,7 +6813,7 @@
    "fantasy_team": "Contagem Hunters",
    "id": "5142718",
    "last15": 28.1,
-   "mpg": 33.2,
+   "mpg": 33.3,
    "name": "AJ Dybantsa",
    "nba_team": "WAS",
    "positions": [
@@ -6959,7 +6959,7 @@
    "fantasy_team": "King Coopa",
    "id": "5160992",
    "last15": 28.0,
-   "mpg": 26.4,
+   "mpg": 26.5,
    "name": "Alex Sarr",
    "nba_team": "WAS",
    "positions": [
@@ -7122,18 +7122,18 @@
   "5211983": {
    "fantasy_team": null,
    "id": "5211983",
-   "last15": 6.8,
-   "mpg": 6.0,
+   "last15": 6.5,
+   "mpg": 6.2,
    "name": "Pacome Dadiet",
    "nba_team": "NYK",
    "positions": [
     "SF"
    ],
    "return_date": null,
-   "season_avg": 5.3,
+   "season_avg": 5.2,
    "slot": "",
    "status": "ACTIVE",
-   "value": 6.3
+   "value": 6.0
   },
   "5214640": {
    "fantasy_team": null,
@@ -7597,7 +7597,7 @@
    "fantasy_team": null,
    "id": "6609",
    "last15": 14.2,
-   "mpg": 15.6,
+   "mpg": 15.7,
    "name": "Khris Middleton",
    "nba_team": "WAS",
    "positions": [

@@ -392,7 +392,7 @@
    "return_date": null,
    "season_avg": 19.6,
    "slot": "",
-   "status": "DAY_TO_DAY",
+   "status": "OUT",
    "value": 20.3
   },
   "2578185": {
@@ -1394,7 +1394,7 @@
    "return_date": null,
    "season_avg": 37.5,
    "slot": "PF",
-   "status": "ACTIVE",
+   "status": "DAY_TO_DAY",
    "value": 39.5
   },
   "3150844": {
@@ -3311,7 +3311,7 @@
    "return_date": null,
    "season_avg": 18.6,
    "slot": "",
-   "status": "ACTIVE",
+   "status": "OUT",
    "value": 19.0
   },
   "4396971": {

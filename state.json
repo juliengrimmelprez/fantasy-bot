@@ -1051,7 +1051,7 @@
   "3133626": {
    "fantasy_team": "Lebron GOAT",
    "id": "3133626",
-   "last15": 21.4,
+   "last15": 22.0,
    "mpg": 20.5,
    "name": "Kenrich Williams",
    "nba_team": "OKC",
@@ -1059,10 +1059,10 @@
     "SF"
    ],
    "return_date": null,
-   "season_avg": 17.3,
+   "season_avg": 17.6,
    "slot": "SF",
    "status": "ACTIVE",
-   "value": 19.9
+   "value": 20.5
   },
   "3133628": {
    "fantasy_team": "Caxias French Fries",
@@ -2234,8 +2234,8 @@
   "4066261": {
    "fantasy_team": "Lakers x Bortolan 23",
    "id": "4066261",
-   "last15": 40.1,
-   "mpg": 31.2,
+   "last15": 40.7,
+   "mpg": 31.3,
    "name": "Bam Adebayo",
    "nba_team": "MIA",
    "positions": [
@@ -2243,10 +2243,10 @@
     "C"
    ],
    "return_date": null,
-   "season_avg": 40.1,
+   "season_avg": 40.3,
    "slot": "PF",
    "status": "ACTIVE",
-   "value": 40.1
+   "value": 40.6
   },
   "4066262": {
    "fantasy_team": null,
@@ -2749,18 +2749,18 @@
   "4278053": {
    "fantasy_team": "Tropa do Nikola",
    "id": "4278053",
-   "last15": 44.0,
-   "mpg": 34.2,
+   "last15": 43.9,
+   "mpg": 34.3,
    "name": "Davion Mitchell",
    "nba_team": "MIA",
    "positions": [
     "PG"
    ],
    "return_date": null,
-   "season_avg": 40.7,
+   "season_avg": 40.6,
    "slot": "PG",
    "status": "ACTIVE",
-   "value": 42.8
+   "value": 42.7
   },
   "4278067": {
    "fantasy_team": "BL0CK BY ZION",
@@ -3803,7 +3803,7 @@
    "return_date": null,
    "season_avg": 14.1,
    "slot": "",
-   "status": "ACTIVE",
+   "status": "OUT",
    "value": 13.1
   },
   "4431893": {
@@ -4936,7 +4936,7 @@
   "4601025": {
    "fantasy_team": null,
    "id": "4601025",
-   "last15": 16.5,
+   "last15": 17.2,
    "mpg": 27.2,
    "name": "Pelle Larsson",
    "nba_team": "MIA",
@@ -4945,10 +4945,10 @@
     "SF"
    ],
    "return_date": null,
-   "season_avg": 21.6,
+   "season_avg": 21.9,
    "slot": "",
    "status": "ACTIVE",
-   "value": 18.3
+   "value": 18.9
   },
   "4602025": {
    "fantasy_team": null,
@@ -5932,7 +5932,7 @@
    "fantasy_team": "Bull Market",
    "id": "4900671",
    "last15": 22.0,
-   "mpg": 26.9,
+   "mpg": 27.0,
    "name": "Ajay Mitchell",
    "nba_team": "OKC",
    "positions": [
@@ -6648,18 +6648,18 @@
   "5107157": {
    "fantasy_team": null,
    "id": "5107157",
-   "last15": 19.1,
-   "mpg": 17.2,
+   "last15": 19.3,
+   "mpg": 17.3,
    "name": "Ryan Conwell",
    "nba_team": "MIA",
    "positions": [
     "SG"
    ],
    "return_date": null,
-   "season_avg": 14.1,
+   "season_avg": 14.2,
    "slot": "",
    "status": "ACTIVE",
-   "value": 17.4
+   "value": 17.5
   },
   "5107173": {
    "fantasy_team": null,
@@ -7234,7 +7234,7 @@
   "5241364": {
    "fantasy_team": null,
    "id": "5241364",
-   "last15": 17.0,
+   "last15": 17.1,
    "mpg": 18.1,
    "name": "Bennett Stirtz",
    "nba_team": "OKC",
@@ -7245,7 +7245,7 @@
    "season_avg": 15.1,
    "slot": "",
    "status": "ACTIVE",
-   "value": 16.3
+   "value": 16.4
   },
   "5242496": {
    "fantasy_team": null,
@@ -7448,7 +7448,7 @@
    "fantasy_team": "Bull Market",
    "id": "6475",
    "last15": 32.7,
-   "mpg": 23.3,
+   "mpg": 23.4,
    "name": "Klay Thompson",
    "nba_team": "MIA",
    "positions": [

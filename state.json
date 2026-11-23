@@ -223,11 +223,11 @@
   "5241364:20261122",
   "4601025:20261122"
  ],
- "hot_status": "ok: 262 FAs, 2487 games",
+ "hot_status": "ok: 262 FAs, 2489 games",
  "last_activity_ms": 1795387780169,
  "last_digest": 1795402829.4826791,
  "last_error_alert": 1794388335.8497355,
- "last_hot_check": 1795403897.5385997,
+ "last_hot_check": 1795404856.7634509,
  "last_run": "2026-10-19T22:05:14+00:00",
  "matchup_periods": {
   "1": [
@@ -841,7 +841,7 @@
   "3062679": {
    "fantasy_team": "King Coopa",
    "id": "3062679",
-   "last15": 19.4,
+   "last15": 18.9,
    "mpg": 30.6,
    "name": "Josh Hart",
    "nba_team": "NYK",
@@ -850,10 +850,10 @@
     "SF"
    ],
    "return_date": null,
-   "season_avg": 24.1,
+   "season_avg": 23.8,
    "slot": "SG",
    "status": "ACTIVE",
-   "value": 21.1
+   "value": 20.6
   },
   "3064290": {
    "fantasy_team": "CCCP  Баскетбол",
@@ -1219,7 +1219,7 @@
    "fantasy_team": "Contagem Hunters",
    "id": "3136195",
    "last15": 54.2,
-   "mpg": 32.4,
+   "mpg": 32.5,
    "name": "Karl-Anthony Towns",
    "nba_team": "NYK",
    "positions": [
@@ -1465,7 +1465,7 @@
    "fantasy_team": null,
    "id": "3195",
    "last15": 24.7,
-   "mpg": 10.8,
+   "mpg": 11.0,
    "name": "Mike Conley",
    "nba_team": "BOS",
    "positions": [
@@ -1498,7 +1498,7 @@
    "fantasy_team": null,
    "id": "3213",
    "last15": 15.4,
-   "mpg": 16.9,
+   "mpg": 17.0,
    "name": "Al Horford",
    "nba_team": "GSW",
    "positions": [
@@ -1808,7 +1808,7 @@
   "3934672": {
    "fantasy_team": "Hospital do Gansola",
    "id": "3934672",
-   "last15": 44.6,
+   "last15": 44.3,
    "mpg": 34.2,
    "name": "Jalen Brunson",
    "nba_team": "NYK",
@@ -1816,10 +1816,10 @@
     "PG"
    ],
    "return_date": null,
-   "season_avg": 40.9,
+   "season_avg": 40.8,
    "slot": "UT",
    "status": "ACTIVE",
-   "value": 43.3
+   "value": 43.1
   },
   "3934673": {
    "fantasy_team": null,
@@ -2040,8 +2040,8 @@
   "4065648": {
    "fantasy_team": "Caxias French Fries",
    "id": "4065648",
-   "last15": 42.0,
-   "mpg": 33.9,
+   "last15": 41.7,
+   "mpg": 34.0,
    "name": "Jayson Tatum",
    "nba_team": "BOS",
    "positions": [
@@ -2049,10 +2049,10 @@
     "PF"
    ],
    "return_date": null,
-   "season_avg": 44.7,
+   "season_avg": 44.6,
    "slot": "IR",
    "status": "ACTIVE",
-   "value": 43.0
+   "value": 42.7
   },
   "4065654": {
    "fantasy_team": null,
@@ -2107,7 +2107,7 @@
    "fantasy_team": null,
    "id": "4065731",
    "last15": 9.6,
-   "mpg": 14.5,
+   "mpg": 14.6,
    "name": "Jay Huff",
    "nba_team": "IND",
    "positions": [
@@ -2607,7 +2607,7 @@
    "fantasy_team": null,
    "id": "4277869",
    "last15": 9.3,
-   "mpg": 10.9,
+   "mpg": 11.0,
    "name": "Jose Alvarado",
    "nba_team": "NYK",
    "positions": [
@@ -2671,7 +2671,7 @@
    "fantasy_team": null,
    "id": "4277951",
    "last15": 9.5,
-   "mpg": 12.9,
+   "mpg": 13.0,
    "name": "Luka Garza",
    "nba_team": "BOS",
    "positions": [
@@ -2884,7 +2884,7 @@
   "4278355": {
    "fantasy_team": null,
    "id": "4278355",
-   "last15": 13.6,
+   "last15": 14.0,
    "mpg": 20.4,
    "name": "Obi Toppin",
    "nba_team": "IND",
@@ -2892,10 +2892,10 @@
     "PF"
    ],
    "return_date": null,
-   "season_avg": 18.4,
+   "season_avg": 18.6,
    "slot": "",
    "status": "ACTIVE",
-   "value": 15.3
+   "value": 15.6
   },
   "4278402": {
    "fantasy_team": null,
@@ -4758,8 +4758,8 @@
   "4592829": {
    "fantasy_team": "Polga Silva",
    "id": "4592829",
-   "last15": 20.4,
-   "mpg": 21.5,
+   "last15": 20.9,
+   "mpg": 21.6,
    "name": "Quenton Jackson",
    "nba_team": "IND",
    "positions": [
@@ -4767,10 +4767,10 @@
     "SG"
    ],
    "return_date": null,
-   "season_avg": 22.4,
+   "season_avg": 22.6,
    "slot": "SG",
    "status": "ACTIVE",
-   "value": 21.1
+   "value": 21.5
   },
   "4593016": {
    "fantasy_team": null,
@@ -6587,7 +6587,7 @@
    "fantasy_team": null,
    "id": "5105854",
    "last15": 15.0,
-   "mpg": 13.7,
+   "mpg": 13.8,
    "name": "Braden Smith",
    "nba_team": "IND",
    "positions": [
@@ -6603,7 +6603,7 @@
    "fantasy_team": null,
    "id": "5106060",
    "last15": 8.4,
-   "mpg": 18.4,
+   "mpg": 18.5,
    "name": "Jarace Walker",
    "nba_team": "IND",
    "positions": [
@@ -7046,7 +7046,7 @@
    "fantasy_team": null,
    "id": "5175647",
    "last15": 9.8,
-   "mpg": 13.2,
+   "mpg": 13.3,
    "name": "Hugo Gonzalez",
    "nba_team": "BOS",
    "positions": [

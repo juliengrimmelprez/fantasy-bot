@@ -230,7 +230,7 @@
  "last_activity_ms": 1795441195369,
  "last_digest": 1795443496.7052214,
  "last_error_alert": 1794388335.8497355,
- "last_hot_check": 1795444228.6825874,
+ "last_hot_check": 1795445178.292563,
  "last_run": "2026-10-19T22:05:14+00:00",
  "matchup_periods": {
   "1": [
@@ -4586,7 +4586,7 @@
    ],
    "return_date": null,
    "season_avg": 31.5,
-   "slot": "C",
+   "slot": "IR",
    "status": "OUT",
    "value": 31.5
   },
@@ -6275,7 +6275,7 @@
    ],
    "return_date": null,
    "season_avg": -2.0,
-   "slot": "IR",
+   "slot": "BE",
    "status": "OUT",
    "value": 35.2
   },

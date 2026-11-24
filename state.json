@@ -886,7 +886,7 @@
   "3064440": {
    "fantasy_team": "BL0CK BY ZION",
    "id": "3064440",
-   "last15": 31.4,
+   "last15": 31.3,
    "mpg": 32.9,
    "name": "Zach LaVine",
    "nba_team": "SAC",
@@ -895,10 +895,10 @@
     "SF"
    ],
    "return_date": null,
-   "season_avg": 31.6,
+   "season_avg": 31.5,
    "slot": "SF",
    "status": "ACTIVE",
-   "value": 31.5
+   "value": 31.4
   },
   "3064482": {
    "fantasy_team": null,
@@ -936,7 +936,7 @@
   "3064560": {
    "fantasy_team": null,
    "id": "3064560",
-   "last15": 15.2,
+   "last15": 15.1,
    "mpg": 15.3,
    "name": "Luke Kornet",
    "nba_team": "SAS",
@@ -947,7 +947,7 @@
    "season_avg": 12.7,
    "slot": "",
    "status": "ACTIVE",
-   "value": 14.4
+   "value": 14.3
   },
   "3078576": {
    "fantasy_team": "Lucky",
@@ -1688,7 +1688,7 @@
    "fantasy_team": "BL0CK BY ZION",
    "id": "3907498",
    "last15": 28.2,
-   "mpg": 24.8,
+   "mpg": 24.9,
    "name": "Matisse Thybulle",
    "nba_team": "LAL",
    "positions": [
@@ -2132,8 +2132,8 @@
   "4065732": {
    "fantasy_team": "Bull Market",
    "id": "4065732",
-   "last15": 31.3,
-   "mpg": 33.8,
+   "last15": 31.6,
+   "mpg": 33.9,
    "name": "De'Andre Hunter",
    "nba_team": "SAC",
    "positions": [
@@ -2141,10 +2141,10 @@
     "PF"
    ],
    "return_date": null,
-   "season_avg": 24.5,
+   "season_avg": 24.6,
    "slot": "PF",
    "status": "ACTIVE",
-   "value": 28.9
+   "value": 29.1
   },
   "4065733": {
    "fantasy_team": "BL0CK BY ZION",
@@ -3226,7 +3226,7 @@
    "fantasy_team": "Polga Silva",
    "id": "4395723",
    "last15": 22.9,
-   "mpg": 23.9,
+   "mpg": 24.0,
    "name": "Keldon Johnson",
    "nba_team": "SAS",
    "positions": [
@@ -3692,8 +3692,8 @@
   "4431679": {
    "fantasy_team": "Contagem Hunters",
    "id": "4431679",
-   "last15": 11.6,
-   "mpg": 23.5,
+   "last15": 13.0,
+   "mpg": 23.6,
    "name": "Precious Achiuwa",
    "nba_team": "SAC",
    "positions": [
@@ -3701,10 +3701,10 @@
     "C"
    ],
    "return_date": null,
-   "season_avg": 21.9,
+   "season_avg": 22.4,
    "slot": "UT",
    "status": "ACTIVE",
-   "value": 15.2
+   "value": 16.3
   },
   "4431680": {
    "fantasy_team": "Lebron GOAT",
@@ -4186,7 +4186,7 @@
   "4432811": {
    "fantasy_team": null,
    "id": "4432811",
-   "last15": 12.5,
+   "last15": 12.4,
    "mpg": 20.0,
    "name": "Josh Green",
    "nba_team": "UTA",
@@ -4371,7 +4371,7 @@
    "fantasy_team": "Tropa do Nikola",
    "id": "4433136",
    "last15": 35.3,
-   "mpg": 30.7,
+   "mpg": 30.8,
    "name": "Walker Kessler",
    "nba_team": "LAL",
    "positions": [
@@ -4386,7 +4386,7 @@
   "4433137": {
    "fantasy_team": null,
    "id": "4433137",
-   "last15": 17.4,
+   "last15": 17.5,
    "mpg": 22.9,
    "name": "Ziaire Williams",
    "nba_team": "LAL",
@@ -4395,10 +4395,10 @@
     "SF"
    ],
    "return_date": null,
-   "season_avg": 20.9,
+   "season_avg": 21.0,
    "slot": "",
    "status": "ACTIVE",
-   "value": 18.6
+   "value": 18.7
   },
   "4433144": {
    "fantasy_team": null,
@@ -4752,8 +4752,8 @@
   "4592691": {
    "fantasy_team": null,
    "id": "4592691",
-   "last15": 17.9,
-   "mpg": 25.5,
+   "last15": 17.8,
+   "mpg": 25.6,
    "name": "Jake LaRavia",
    "nba_team": "LAL",
    "positions": [
@@ -4761,10 +4761,10 @@
     "PF"
    ],
    "return_date": null,
-   "season_avg": 19.7,
+   "season_avg": 19.6,
    "slot": "",
    "status": "ACTIVE",
-   "value": 18.5
+   "value": 18.4
   },
   "4592714": {
    "fantasy_team": null,
@@ -4903,8 +4903,8 @@
   "4594327": {
    "fantasy_team": "Lebron GOAT",
    "id": "4594327",
-   "last15": 24.5,
-   "mpg": 31.0,
+   "last15": 24.6,
+   "mpg": 31.1,
    "name": "Keegan Murray",
    "nba_team": "SAC",
    "positions": [
@@ -4912,10 +4912,10 @@
     "PF"
    ],
    "return_date": null,
-   "season_avg": 21.7,
+   "season_avg": 21.8,
    "slot": "UT",
    "status": "ACTIVE",
-   "value": 23.5
+   "value": 23.6
   },
   "4595400": {
    "fantasy_team": null,
@@ -5151,7 +5151,7 @@
    "fantasy_team": null,
    "id": "4683766",
    "last15": 15.6,
-   "mpg": 15.3,
+   "mpg": 15.4,
    "name": "Isaiah Collier",
    "nba_team": "UTA",
    "positions": [
@@ -5629,7 +5629,7 @@
   "4845367": {
    "fantasy_team": "King Coopa",
    "id": "4845367",
-   "last15": 38.8,
+   "last15": 38.9,
    "mpg": 29.8,
    "name": "Stephon Castle",
    "nba_team": "SAS",
@@ -5641,7 +5641,7 @@
    "season_avg": 34.2,
    "slot": "UT",
    "status": "ACTIVE",
-   "value": 37.1
+   "value": 37.2
   },
   "4845374": {
    "fantasy_team": null,
@@ -5813,7 +5813,7 @@
   "4873138": {
    "fantasy_team": "Bull Market",
    "id": "4873138",
-   "last15": 28.4,
+   "last15": 28.5,
    "mpg": 30.2,
    "name": "Ace Bailey",
    "nba_team": "UTA",
@@ -5825,7 +5825,7 @@
    "season_avg": 27.4,
    "slot": "UT",
    "status": "ACTIVE",
-   "value": 28.0
+   "value": 28.1
   },
   "4873153": {
    "fantasy_team": null,
@@ -6598,7 +6598,7 @@
    "fantasy_team": "Lakers x Bortolan 23",
    "id": "5105839",
    "last15": 22.1,
-   "mpg": 18.0,
+   "mpg": 18.1,
    "name": "Brice Sensabaugh",
    "nba_team": "UTA",
    "positions": [

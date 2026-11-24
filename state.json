@@ -239,7 +239,7 @@
  "last_activity_ms": 1795479776247,
  "last_digest": 1795495220.6659508,
  "last_error_alert": 1794388335.8497355,
- "last_hot_check": 1795497021.9460588,
+ "last_hot_check": 1795497977.9749503,
  "last_run": "2026-10-19T22:05:14+00:00",
  "matchup_periods": {
   "1": [
@@ -1918,18 +1918,18 @@
   "3945274": {
    "fantasy_team": "BL0CK BY ZION",
    "id": "3945274",
-   "last15": 49.3,
-   "mpg": 35.9,
+   "last15": 49.6,
+   "mpg": 36.0,
    "name": "Luka Doncic",
    "nba_team": "LAL",
    "positions": [
     "PG"
    ],
    "return_date": null,
-   "season_avg": 59.2,
+   "season_avg": 59.4,
    "slot": "PG",
    "status": "ACTIVE",
-   "value": 52.8
+   "value": 53.0
   },
   "3948153": {
    "fantasy_team": null,
@@ -4387,7 +4387,7 @@
    "fantasy_team": null,
    "id": "4433137",
    "last15": 17.5,
-   "mpg": 23.0,
+   "mpg": 23.1,
    "name": "Ziaire Williams",
    "nba_team": "LAL",
    "positions": [
@@ -4752,8 +4752,8 @@
   "4592691": {
    "fantasy_team": null,
    "id": "4592691",
-   "last15": 17.9,
-   "mpg": 25.6,
+   "last15": 18.5,
+   "mpg": 25.7,
    "name": "Jake LaRavia",
    "nba_team": "LAL",
    "positions": [
@@ -4761,10 +4761,10 @@
     "PF"
    ],
    "return_date": null,
-   "season_avg": 19.7,
+   "season_avg": 20.0,
    "slot": "",
    "status": "ACTIVE",
-   "value": 18.5
+   "value": 19.0
   },
   "4592714": {
    "fantasy_team": null,
@@ -6566,7 +6566,7 @@
    "fantasy_team": null,
    "id": "5105809",
    "last15": 9.6,
-   "mpg": 6.7,
+   "mpg": 6.8,
    "name": "Tarris Reed Jr.",
    "nba_team": "SAS",
    "positions": [

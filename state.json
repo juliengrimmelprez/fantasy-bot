@@ -240,7 +240,7 @@
   "4711272:20261116"
  ],
  "hot_status": "ok: 264 FAs, 2652 games",
- "last_activity_ms": 1795530213528,
+ "last_activity_ms": 1795530629801,
  "last_digest": 1795528456.648458,
  "last_error_alert": 1794388335.8497355,
  "last_hot_check": 1795530628.7805545,
@@ -2201,7 +2201,7 @@
    "value": 20.8
   },
   "4065804": {
-   "fantasy_team": null,
+   "fantasy_team": "Bull Market",
    "id": "4065804",
    "last15": 21.1,
    "mpg": 21.1,
@@ -2213,7 +2213,7 @@
    ],
    "return_date": null,
    "season_avg": 17.7,
-   "slot": "",
+   "slot": "BE",
    "status": "ACTIVE",
    "value": 19.9
   },
@@ -6228,6 +6228,22 @@
    "slot": "",
    "status": "ACTIVE",
    "value": 10.1
+  },
+  "5060631": {
+   "fantasy_team": null,
+   "id": "5060631",
+   "last15": 6.5,
+   "mpg": 8.0,
+   "name": "Adou Thiero",
+   "nba_team": "LAL",
+   "positions": [
+    "SF"
+   ],
+   "return_date": null,
+   "season_avg": 6.8,
+   "slot": "",
+   "status": "ACTIVE",
+   "value": 6.6
   },
   "5060701": {
    "fantasy_team": null,

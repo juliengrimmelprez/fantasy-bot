@@ -236,7 +236,7 @@
   "4066648:20261124"
  ],
  "hot_status": "ok: 263 FAs, 2613 games",
- "last_activity_ms": 1795479776247,
+ "last_activity_ms": 1795498266655,
  "last_digest": 1795495220.6659508,
  "last_error_alert": 1794388335.8497355,
  "last_hot_check": 1795497977.9749503,
@@ -1050,18 +1050,18 @@
   "3133602": {
    "fantasy_team": "Bull Market",
    "id": "3133602",
-   "last15": 17.1,
-   "mpg": 19.5,
+   "last15": 17.2,
+   "mpg": 19.6,
    "name": "Svi Mykhailiuk",
    "nba_team": "UTA",
    "positions": [
     "SG"
    ],
    "return_date": null,
-   "season_avg": 12.7,
+   "season_avg": 12.8,
    "slot": "UT",
    "status": "ACTIVE",
-   "value": 15.6
+   "value": 15.7
   },
   "3133603": {
    "fantasy_team": "Hospital do Gansola",
@@ -1918,7 +1918,7 @@
   "3945274": {
    "fantasy_team": "BL0CK BY ZION",
    "id": "3945274",
-   "last15": 49.9,
+   "last15": 49.7,
    "mpg": 36.1,
    "name": "Luka Doncic",
    "nba_team": "LAL",
@@ -1926,10 +1926,10 @@
     "PG"
    ],
    "return_date": null,
-   "season_avg": 59.5,
+   "season_avg": 59.4,
    "slot": "PG",
    "status": "ACTIVE",
-   "value": 53.2
+   "value": 53.1
   },
   "3948153": {
    "fantasy_team": null,
@@ -2532,7 +2532,7 @@
   "4277811": {
    "fantasy_team": null,
    "id": "4277811",
-   "last15": 19.8,
+   "last15": 19.9,
    "mpg": 18.9,
    "name": "Collin Sexton",
    "nba_team": "LAL",
@@ -2541,10 +2541,10 @@
     "SG"
    ],
    "return_date": null,
-   "season_avg": 17.1,
+   "season_avg": 17.2,
    "slot": "",
    "status": "ACTIVE",
-   "value": 18.8
+   "value": 18.9
   },
   "4277813": {
    "fantasy_team": null,
@@ -3188,22 +3188,6 @@
    "slot": "SG",
    "status": "ACTIVE",
    "value": 23.1
-  },
-  "4395702": {
-   "fantasy_team": null,
-   "id": "4395702",
-   "last15": 22.7,
-   "mpg": 16.8,
-   "name": "Isaiah Joe",
-   "nba_team": "DET",
-   "positions": [
-    "SG"
-   ],
-   "return_date": null,
-   "season_avg": 16.7,
-   "slot": "",
-   "status": "ACTIVE",
-   "value": 20.6
   },
   "4395712": {
    "fantasy_team": "Lakers x Bortolan 23",
@@ -4370,7 +4354,7 @@
   "4433136": {
    "fantasy_team": "Tropa do Nikola",
    "id": "4433136",
-   "last15": 35.4,
+   "last15": 35.7,
    "mpg": 31.0,
    "name": "Walker Kessler",
    "nba_team": "LAL",
@@ -4378,16 +4362,16 @@
     "C"
    ],
    "return_date": null,
-   "season_avg": 39.1,
+   "season_avg": 39.2,
    "slot": "C",
    "status": "ACTIVE",
-   "value": 36.7
+   "value": 36.9
   },
   "4433137": {
    "fantasy_team": null,
    "id": "4433137",
    "last15": 17.5,
-   "mpg": 23.1,
+   "mpg": 23.2,
    "name": "Ziaire Williams",
    "nba_team": "LAL",
    "positions": [
@@ -4585,8 +4569,8 @@
   "4433627": {
    "fantasy_team": "Lebron GOAT",
    "id": "4433627",
-   "last15": 34.7,
-   "mpg": 33.0,
+   "last15": 34.6,
+   "mpg": 33.1,
    "name": "Keyonte George",
    "nba_team": "UTA",
    "positions": [
@@ -4597,7 +4581,7 @@
    "season_avg": 34.2,
    "slot": "UT",
    "status": "ACTIVE",
-   "value": 34.5
+   "value": 34.4
   },
   "4437244": {
    "fantasy_team": "Bull Market",
@@ -4752,7 +4736,7 @@
   "4592691": {
    "fantasy_team": null,
    "id": "4592691",
-   "last15": 19.4,
+   "last15": 18.9,
    "mpg": 25.8,
    "name": "Jake LaRavia",
    "nba_team": "LAL",
@@ -4761,10 +4745,10 @@
     "PF"
    ],
    "return_date": null,
-   "season_avg": 20.4,
+   "season_avg": 20.2,
    "slot": "",
    "status": "ACTIVE",
-   "value": 19.7
+   "value": 19.3
   },
   "4592714": {
    "fantasy_team": null,
@@ -5151,7 +5135,7 @@
    "fantasy_team": null,
    "id": "4683766",
    "last15": 15.4,
-   "mpg": 15.4,
+   "mpg": 15.5,
    "name": "Isaiah Collier",
    "nba_team": "UTA",
    "positions": [

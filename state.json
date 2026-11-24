@@ -4940,7 +4940,7 @@
    "value": 10.4
   },
   "4600663": {
-   "fantasy_team": "King Coopa",
+   "fantasy_team": null,
    "id": "4600663",
    "last15": 21.8,
    "mpg": 21.1,
@@ -4951,7 +4951,7 @@
    ],
    "return_date": null,
    "season_avg": 21.6,
-   "slot": "BE",
+   "slot": "",
    "status": "ACTIVE",
    "value": 21.8
   },
@@ -5629,7 +5629,7 @@
    ],
    "return_date": null,
    "season_avg": 34.4,
-   "slot": "UT",
+   "slot": "BE",
    "status": "ACTIVE",
    "value": 37.5
   },
@@ -7533,7 +7533,7 @@
    "value": 0.0
   },
   "6478": {
-   "fantasy_team": null,
+   "fantasy_team": "King Coopa",
    "id": "6478",
    "last15": 14.2,
    "mpg": 11.4,
@@ -7544,7 +7544,7 @@
    ],
    "return_date": null,
    "season_avg": 10.5,
-   "slot": "",
+   "slot": "UT",
    "status": "ACTIVE",
    "value": 12.9
   },

@@ -3373,7 +3373,7 @@
   "4397014": {
    "fantasy_team": "Tropa do Nikola",
    "id": "4397014",
-   "last15": 32.8,
+   "last15": 33.2,
    "mpg": 28.2,
    "name": "Quentin Grimes",
    "nba_team": "LAL",
@@ -3382,10 +3382,10 @@
     "SF"
    ],
    "return_date": null,
-   "season_avg": 22.2,
+   "season_avg": 22.3,
    "slot": "UT",
    "status": "ACTIVE",
-   "value": 29.1
+   "value": 29.4
   },
   "4397020": {
    "fantasy_team": null,
@@ -5147,7 +5147,7 @@
   "4683766": {
    "fantasy_team": null,
    "id": "4683766",
-   "last15": 15.1,
+   "last15": 15.3,
    "mpg": 15.1,
    "name": "Isaiah Collier",
    "nba_team": "UTA",
@@ -5155,10 +5155,10 @@
     "PG"
    ],
    "return_date": null,
-   "season_avg": 14.0,
+   "season_avg": 14.1,
    "slot": "",
    "status": "ACTIVE",
-   "value": 14.7
+   "value": 14.9
   },
   "4683771": {
    "fantasy_team": null,
@@ -5281,7 +5281,7 @@
    "fantasy_team": null,
    "id": "4684793",
    "last15": 8.8,
-   "mpg": 8.1,
+   "mpg": 8.2,
    "name": "Kyle Filipowski",
    "nba_team": "UTA",
    "positions": [
@@ -6189,8 +6189,8 @@
   "5041955": {
    "fantasy_team": "Hospital do Gansola",
    "id": "5041955",
-   "last15": 29.9,
-   "mpg": 29.5,
+   "last15": 29.8,
+   "mpg": 29.6,
    "name": "Darryn Peterson",
    "nba_team": "UTA",
    "positions": [
@@ -6198,7 +6198,7 @@
     "SG"
    ],
    "return_date": null,
-   "season_avg": 29.5,
+   "season_avg": 29.4,
    "slot": "UT",
    "status": "ACTIVE",
    "value": 29.7

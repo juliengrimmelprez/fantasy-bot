@@ -3294,22 +3294,6 @@
    "status": "ACTIVE",
    "value": 37.7
   },
-  "4396818": {
-   "fantasy_team": null,
-   "id": "4396818",
-   "last15": 0,
-   "mpg": null,
-   "name": "Jordan Miller",
-   "nba_team": "LAC",
-   "positions": [
-    "SF"
-   ],
-   "return_date": null,
-   "season_avg": 0,
-   "slot": "",
-   "status": "OUT",
-   "value": 0.0
-  },
   "4396907": {
    "fantasy_team": "Tropa do Nikola",
    "id": "4396907",
@@ -3692,6 +3676,23 @@
    "slot": "PF",
    "status": "ACTIVE",
    "value": 43.2
+  },
+  "4431675": {
+   "fantasy_team": null,
+   "id": "4431675",
+   "last15": 0,
+   "mpg": 17.8,
+   "name": "Trendon Watford",
+   "nba_team": "NOP",
+   "positions": [
+    "SF",
+    "PF"
+   ],
+   "return_date": null,
+   "season_avg": 16.0,
+   "slot": "",
+   "status": "OUT",
+   "value": 16.0
   },
   "4431678": {
    "fantasy_team": "Tiki Taka Laranja",
@@ -4570,22 +4571,6 @@
    "slot": "UT",
    "status": "ACTIVE",
    "value": 28.0
-  },
-  "4433569": {
-   "fantasy_team": null,
-   "id": "4433569",
-   "last15": 1.0,
-   "mpg": 2.0,
-   "name": "Johni Broome",
-   "nba_team": "MIN",
-   "positions": [
-    "PF"
-   ],
-   "return_date": null,
-   "season_avg": 1.0,
-   "slot": "",
-   "status": "ACTIVE",
-   "value": 1.0
   },
   "4433621": {
    "fantasy_team": "Hospital do Gansola",
@@ -6015,6 +6000,23 @@
    "slot": "",
    "status": "OUT",
    "value": 24.8
+  },
+  "4917149": {
+   "fantasy_team": null,
+   "id": "4917149",
+   "last15": 2.3,
+   "mpg": 10.4,
+   "name": "Alex Karaban",
+   "nba_team": "SAC",
+   "positions": [
+    "SF",
+    "PF"
+   ],
+   "return_date": null,
+   "season_avg": 1.9,
+   "slot": "",
+   "status": "ACTIVE",
+   "value": 2.2
   },
   "4997526": {
    "fantasy_team": null,

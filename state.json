@@ -3693,6 +3693,23 @@
    "status": "ACTIVE",
    "value": 42.0
   },
+  "4431675": {
+   "fantasy_team": null,
+   "id": "4431675",
+   "last15": 9.0,
+   "mpg": 17.8,
+   "name": "Trendon Watford",
+   "nba_team": "NOP",
+   "positions": [
+    "SF",
+    "PF"
+   ],
+   "return_date": null,
+   "season_avg": 16.0,
+   "slot": "",
+   "status": "OUT",
+   "value": 11.4
+  },
   "4431678": {
    "fantasy_team": "Tiki Taka Laranja",
    "id": "4431678",
@@ -5482,22 +5499,6 @@
    "slot": "",
    "status": "ACTIVE",
    "value": 8.0
-  },
-  "4703396": {
-   "fantasy_team": null,
-   "id": "4703396",
-   "last15": 10.8,
-   "mpg": 9.5,
-   "name": "Graham Ike",
-   "nba_team": "GSW",
-   "positions": [
-    "PF"
-   ],
-   "return_date": null,
-   "season_avg": 11.0,
-   "slot": "",
-   "status": "ACTIVE",
-   "value": 10.9
   },
   "4706557": {
    "fantasy_team": null,

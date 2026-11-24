@@ -401,7 +401,7 @@
    "return_date": null,
    "season_avg": 19.6,
    "slot": "",
-   "status": "OUT",
+   "status": "DAY_TO_DAY",
    "value": 20.3
   },
   "2578185": {
@@ -1687,18 +1687,18 @@
   "3907498": {
    "fantasy_team": "BL0CK BY ZION",
    "id": "3907498",
-   "last15": 26.6,
-   "mpg": 24.3,
+   "last15": 27.4,
+   "mpg": 24.4,
    "name": "Matisse Thybulle",
    "nba_team": "LAL",
    "positions": [
     "SF"
    ],
    "return_date": null,
-   "season_avg": 23.6,
+   "season_avg": 23.9,
    "slot": "UT",
    "status": "ACTIVE",
-   "value": 25.5
+   "value": 26.2
   },
   "3907823": {
    "fantasy_team": null,
@@ -1918,18 +1918,18 @@
   "3945274": {
    "fantasy_team": "BL0CK BY ZION",
    "id": "3945274",
-   "last15": 47.7,
-   "mpg": 35.3,
+   "last15": 47.6,
+   "mpg": 35.4,
    "name": "Luka Doncic",
    "nba_team": "LAL",
    "positions": [
     "PG"
    ],
    "return_date": null,
-   "season_avg": 58.6,
+   "season_avg": 58.5,
    "slot": "PG",
    "status": "ACTIVE",
-   "value": 51.5
+   "value": 51.4
   },
   "3948153": {
    "fantasy_team": null,
@@ -2648,18 +2648,18 @@
   "4277919": {
    "fantasy_team": "CCCP  Баскетбол",
    "id": "4277919",
-   "last15": 24.3,
-   "mpg": 20.7,
+   "last15": 24.4,
+   "mpg": 20.8,
    "name": "Mo Bamba",
    "nba_team": "UTA",
    "positions": [
     "C"
    ],
    "return_date": null,
-   "season_avg": 24.3,
+   "season_avg": 24.4,
    "slot": "C",
    "status": "ACTIVE",
-   "value": 24.3
+   "value": 24.4
   },
   "4277922": {
    "fantasy_team": null,
@@ -3319,7 +3319,7 @@
    "return_date": null,
    "season_avg": 18.6,
    "slot": "",
-   "status": "OUT",
+   "status": "DAY_TO_DAY",
    "value": 19.0
   },
   "4396971": {
@@ -3376,8 +3376,8 @@
   "4397014": {
    "fantasy_team": "Tropa do Nikola",
    "id": "4397014",
-   "last15": 32.8,
-   "mpg": 28.5,
+   "last15": 32.7,
+   "mpg": 28.6,
    "name": "Quentin Grimes",
    "nba_team": "LAL",
    "positions": [
@@ -3385,10 +3385,10 @@
     "SF"
    ],
    "return_date": null,
-   "season_avg": 22.2,
+   "season_avg": 22.1,
    "slot": "UT",
    "status": "ACTIVE",
-   "value": 29.1
+   "value": 29.0
   },
   "4397020": {
    "fantasy_team": null,
@@ -4187,7 +4187,7 @@
    "fantasy_team": null,
    "id": "4432811",
    "last15": 12.2,
-   "mpg": 19.8,
+   "mpg": 19.9,
    "name": "Josh Green",
    "nba_team": "UTA",
    "positions": [
@@ -4371,7 +4371,7 @@
    "fantasy_team": "Tropa do Nikola",
    "id": "4433136",
    "last15": 34.0,
-   "mpg": 30.1,
+   "mpg": 30.2,
    "name": "Walker Kessler",
    "nba_team": "LAL",
    "positions": [
@@ -4585,8 +4585,8 @@
   "4433627": {
    "fantasy_team": "Lebron GOAT",
    "id": "4433627",
-   "last15": 33.7,
-   "mpg": 32.2,
+   "last15": 33.8,
+   "mpg": 32.3,
    "name": "Keyonte George",
    "nba_team": "UTA",
    "positions": [
@@ -4594,10 +4594,10 @@
     "SG"
    ],
    "return_date": null,
-   "season_avg": 33.7,
+   "season_avg": 33.8,
    "slot": "UT",
    "status": "ACTIVE",
-   "value": 33.7
+   "value": 33.8
   },
   "4437244": {
    "fantasy_team": "Bull Market",
@@ -4752,8 +4752,8 @@
   "4592691": {
    "fantasy_team": null,
    "id": "4592691",
-   "last15": 16.1,
-   "mpg": 24.9,
+   "last15": 17.0,
+   "mpg": 25.0,
    "name": "Jake LaRavia",
    "nba_team": "LAL",
    "positions": [
@@ -4761,10 +4761,10 @@
     "PF"
    ],
    "return_date": null,
-   "season_avg": 18.9,
+   "season_avg": 19.3,
    "slot": "",
    "status": "ACTIVE",
-   "value": 17.1
+   "value": 17.8
   },
   "4592714": {
    "fantasy_team": null,
@@ -5813,8 +5813,8 @@
   "4873138": {
    "fantasy_team": "Bull Market",
    "id": "4873138",
-   "last15": 26.9,
-   "mpg": 29.7,
+   "last15": 27.3,
+   "mpg": 29.8,
    "name": "Ace Bailey",
    "nba_team": "UTA",
    "positions": [
@@ -5822,10 +5822,10 @@
     "PF"
    ],
    "return_date": null,
-   "season_avg": 26.6,
+   "season_avg": 26.8,
    "slot": "UT",
    "status": "ACTIVE",
-   "value": 26.8
+   "value": 27.1
   },
   "4873153": {
    "fantasy_team": null,
@@ -6192,7 +6192,7 @@
   "5041955": {
    "fantasy_team": "Hospital do Gansola",
    "id": "5041955",
-   "last15": 30.4,
+   "last15": 30.6,
    "mpg": 29.8,
    "name": "Darryn Peterson",
    "nba_team": "UTA",
@@ -6201,10 +6201,10 @@
     "SG"
    ],
    "return_date": null,
-   "season_avg": 29.7,
+   "season_avg": 29.8,
    "slot": "UT",
    "status": "ACTIVE",
-   "value": 30.2
+   "value": 30.3
   },
   "5044385": {
    "fantasy_team": null,

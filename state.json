@@ -4572,6 +4572,22 @@
    "status": "ACTIVE",
    "value": 28.0
   },
+  "4433569": {
+   "fantasy_team": null,
+   "id": "4433569",
+   "last15": 1.0,
+   "mpg": 2.0,
+   "name": "Johni Broome",
+   "nba_team": "MIN",
+   "positions": [
+    "PF"
+   ],
+   "return_date": null,
+   "season_avg": 1.0,
+   "slot": "",
+   "status": "ACTIVE",
+   "value": 1.0
+  },
   "4433621": {
    "fantasy_team": "Hospital do Gansola",
    "id": "4433621",
@@ -6228,22 +6244,6 @@
    "slot": "",
    "status": "ACTIVE",
    "value": 10.1
-  },
-  "5060631": {
-   "fantasy_team": null,
-   "id": "5060631",
-   "last15": 6.5,
-   "mpg": 8.0,
-   "name": "Adou Thiero",
-   "nba_team": "LAL",
-   "positions": [
-    "SF"
-   ],
-   "return_date": null,
-   "season_avg": 6.8,
-   "slot": "",
-   "status": "ACTIVE",
-   "value": 6.6
   },
   "5060701": {
    "fantasy_team": null,

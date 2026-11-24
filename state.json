@@ -1728,18 +1728,18 @@
   "3912848": {
    "fantasy_team": null,
    "id": "3912848",
-   "last15": 18.7,
-   "mpg": 25.2,
+   "last15": 18.5,
+   "mpg": 25.3,
    "name": "Dean Wade",
    "nba_team": "PHL",
    "positions": [
     "PF"
    ],
    "return_date": null,
-   "season_avg": 18.5,
+   "season_avg": 18.4,
    "slot": "",
    "status": "ACTIVE",
-   "value": 18.6
+   "value": 18.5
   },
   "3913174": {
    "fantasy_team": null,
@@ -2140,8 +2140,8 @@
   "4065733": {
    "fantasy_team": "BL0CK BY ZION",
    "id": "4065733",
-   "last15": 28.8,
-   "mpg": 28.5,
+   "last15": 29.8,
+   "mpg": 28.6,
    "name": "Ty Jerome",
    "nba_team": "MEM",
    "positions": [
@@ -2149,10 +2149,10 @@
     "SG"
    ],
    "return_date": null,
-   "season_avg": 36.9,
+   "season_avg": 37.2,
    "slot": "SG",
    "status": "ACTIVE",
-   "value": 31.6
+   "value": 32.4
   },
   "4065778": {
    "fantasy_team": "BL0CK BY ZION",
@@ -3127,7 +3127,7 @@
    "return_date": null,
    "season_avg": 39.4,
    "slot": "UT",
-   "status": "DAY_TO_DAY",
+   "status": "ACTIVE",
    "value": 38.2
   },
   "4395630": {
@@ -3166,8 +3166,8 @@
   "4395651": {
    "fantasy_team": "King Coopa",
    "id": "4395651",
-   "last15": 22.7,
-   "mpg": 18.8,
+   "last15": 22.3,
+   "mpg": 18.9,
    "name": "Coby White",
    "nba_team": "CHA",
    "positions": [
@@ -3175,10 +3175,10 @@
     "SG"
    ],
    "return_date": null,
-   "season_avg": 16.4,
+   "season_avg": 16.2,
    "slot": "SG",
    "status": "ACTIVE",
-   "value": 20.5
+   "value": 20.2
   },
   "4395702": {
    "fantasy_team": null,
@@ -4062,18 +4062,18 @@
   "4432446": {
    "fantasy_team": null,
    "id": "4432446",
-   "last15": 17.2,
-   "mpg": 13.3,
+   "last15": 17.8,
+   "mpg": 13.4,
    "name": "Jabari Walker",
    "nba_team": "PHL",
    "positions": [
     "PF"
    ],
    "return_date": null,
-   "season_avg": 13.7,
+   "season_avg": 14.0,
    "slot": "",
    "status": "ACTIVE",
-   "value": 16.0
+   "value": 16.4
   },
   "4432452": {
    "fantasy_team": null,
@@ -4511,7 +4511,7 @@
    "fantasy_team": "Caxias French Fries",
    "id": "4433249",
    "last15": 25.6,
-   "mpg": 28.1,
+   "mpg": 28.2,
    "name": "Moussa Diabate",
    "nba_team": "CHA",
    "positions": [
@@ -4545,7 +4545,7 @@
    "fantasy_team": "Tropa do Nikola",
    "id": "4433287",
    "last15": 21.0,
-   "mpg": 29.1,
+   "mpg": 29.2,
    "name": "Brandon Miller",
    "nba_team": "CHA",
    "positions": [
@@ -4896,7 +4896,7 @@
    "fantasy_team": null,
    "id": "4594326",
    "last15": 7.2,
-   "mpg": 10.0,
+   "mpg": 10.1,
    "name": "Kris Murray",
    "nba_team": "MEM",
    "positions": [
@@ -4929,7 +4929,7 @@
    "fantasy_team": null,
    "id": "4595400",
    "last15": 10.1,
-   "mpg": 10.9,
+   "mpg": 11.0,
    "name": "Olivier-Maxence Prosper",
    "nba_team": "MEM",
    "positions": [
@@ -4944,18 +4944,18 @@
   "4600663": {
    "fantasy_team": "King Coopa",
    "id": "4600663",
-   "last15": 19.3,
-   "mpg": 19.9,
+   "last15": 20.0,
+   "mpg": 20.0,
    "name": "Zach Edey",
    "nba_team": "MEM",
    "positions": [
     "C"
    ],
    "return_date": null,
-   "season_avg": 20.6,
+   "season_avg": 20.9,
    "slot": "C",
    "status": "ACTIVE",
-   "value": 19.8
+   "value": 20.3
   },
   "4601023": {
    "fantasy_team": null,
@@ -4994,7 +4994,7 @@
    "fantasy_team": null,
    "id": "4602025",
    "last15": 15.0,
-   "mpg": 26.2,
+   "mpg": 26.3,
    "name": "Sion James",
    "nba_team": "CHA",
    "positions": [
@@ -5059,7 +5059,7 @@
   "4683678": {
    "fantasy_team": null,
    "id": "4683678",
-   "last15": 11.8,
+   "last15": 11.6,
    "mpg": 22.0,
    "name": "Scoot Henderson",
    "nba_team": "POR",
@@ -5068,10 +5068,10 @@
     "SG"
    ],
    "return_date": null,
-   "season_avg": 10.0,
+   "season_avg": 9.9,
    "slot": "",
    "status": "ACTIVE",
-   "value": 11.1
+   "value": 11.0
   },
   "4683688": {
    "fantasy_team": null,
@@ -5136,7 +5136,7 @@
    "return_date": null,
    "season_avg": 18.8,
    "slot": "",
-   "status": "OUT",
+   "status": "ACTIVE",
    "value": 19.8
   },
   "4683750": {
@@ -5605,18 +5605,18 @@
   "4781746": {
    "fantasy_team": "Tiki Taka Laranja",
    "id": "4781746",
-   "last15": 22.9,
-   "mpg": 20.7,
+   "last15": 23.1,
+   "mpg": 20.8,
    "name": "Javon Small",
    "nba_team": "MEM",
    "positions": [
     "PG"
    ],
    "return_date": null,
-   "season_avg": 20.8,
+   "season_avg": 21.0,
    "slot": "UT",
    "status": "ACTIVE",
-   "value": 22.2
+   "value": 22.4
   },
   "4845367": {
    "fantasy_team": "King Coopa",
@@ -6331,7 +6331,7 @@
    "fantasy_team": null,
    "id": "5081727",
    "last15": 18.5,
-   "mpg": 23.5,
+   "mpg": 23.6,
    "name": "Sidy Cissoko",
    "nba_team": "POR",
    "positions": [
@@ -7131,7 +7131,7 @@
    "fantasy_team": null,
    "id": "5211176",
    "last15": 7.3,
-   "mpg": 13.0,
+   "mpg": 13.1,
    "name": "Tidjane Salaun",
    "nba_team": "CHA",
    "positions": [

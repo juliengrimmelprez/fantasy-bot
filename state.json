@@ -239,11 +239,11 @@
   "4594326:20261124",
   "3133603:20261114"
  ],
- "hot_status": "ok: 263 FAs, 2621 games",
+ "hot_status": "ok: 263 FAs, 2625 games",
  "last_activity_ms": 1795565298129,
  "last_digest": 1795565285.9420257,
  "last_error_alert": 1794388335.8497355,
- "last_hot_check": 1795566256.8987205,
+ "last_hot_check": 1795567222.7475271,
  "last_run": "2026-10-19T22:05:14+00:00",
  "matchup_periods": {
   "1": [
@@ -1119,18 +1119,18 @@
   "3133635": {
    "fantasy_team": null,
    "id": "3133635",
-   "last15": 10.8,
-   "mpg": 13.6,
+   "last15": 11.4,
+   "mpg": 13.7,
    "name": "Jevon Carter",
    "nba_team": "ORL",
    "positions": [
     "PG"
    ],
    "return_date": null,
-   "season_avg": 10.2,
+   "season_avg": 10.6,
    "slot": "",
    "status": "ACTIVE",
-   "value": 10.6
+   "value": 11.1
   },
   "3134903": {
    "fantasy_team": null,
@@ -2370,7 +2370,7 @@
   "4066372": {
    "fantasy_team": null,
    "id": "4066372",
-   "last15": 20.9,
+   "last15": 21.1,
    "mpg": 25.9,
    "name": "Kevin Huerter",
    "nba_team": "DET",
@@ -2379,10 +2379,10 @@
     "SF"
    ],
    "return_date": null,
-   "season_avg": 21.4,
+   "season_avg": 21.5,
    "slot": "",
    "status": "ACTIVE",
-   "value": 21.1
+   "value": 21.3
   },
   "4066383": {
    "fantasy_team": "Caxias French Fries",
@@ -2604,18 +2604,18 @@
   "4277847": {
    "fantasy_team": "Lebron GOAT",
    "id": "4277847",
-   "last15": 23.4,
-   "mpg": 30.7,
+   "last15": 23.2,
+   "mpg": 30.8,
    "name": "Wendell Carter Jr.",
    "nba_team": "ORL",
    "positions": [
     "C"
    ],
    "return_date": null,
-   "season_avg": 27.7,
+   "season_avg": 27.6,
    "slot": "C",
    "status": "ACTIVE",
-   "value": 24.9
+   "value": 24.8
   },
   "4277848": {
    "fantasy_team": null,
@@ -2948,8 +2948,8 @@
   "4278562": {
    "fantasy_team": "Tiki Taka Laranja",
    "id": "4278562",
-   "last15": 27.2,
-   "mpg": 25.0,
+   "last15": 27.4,
+   "mpg": 25.1,
    "name": "Paul Reed",
    "nba_team": "DET",
    "positions": [
@@ -2960,7 +2960,7 @@
    "season_avg": 27.6,
    "slot": "PF",
    "status": "ACTIVE",
-   "value": 27.4
+   "value": 27.5
   },
   "4278572": {
    "fantasy_team": null,
@@ -3912,7 +3912,7 @@
    "fantasy_team": "Lebron GOAT",
    "id": "4432165",
    "last15": 17.7,
-   "mpg": 26.2,
+   "mpg": 26.3,
    "name": "Jalen Suggs",
    "nba_team": "ORL",
    "positions": [
@@ -4234,7 +4234,7 @@
    "return_date": null,
    "season_avg": 4.1,
    "slot": "",
-   "status": "DAY_TO_DAY",
+   "status": "ACTIVE",
    "value": 3.1
   },
   "4432822": {
@@ -4625,7 +4625,7 @@
    "fantasy_team": "King Coopa",
    "id": "4566434",
    "last15": 48.6,
-   "mpg": 34.8,
+   "mpg": 34.9,
    "name": "Franz Wagner",
    "nba_team": "ORL",
    "positions": [
@@ -5171,8 +5171,8 @@
   "4683771": {
    "fantasy_team": null,
    "id": "4683771",
-   "last15": 8.2,
-   "mpg": 14.6,
+   "last15": 8.8,
+   "mpg": 14.7,
    "name": "Ronald Holland II",
    "nba_team": "DET",
    "positions": [
@@ -5180,10 +5180,10 @@
     "PF"
    ],
    "return_date": null,
-   "season_avg": 13.0,
+   "season_avg": 13.2,
    "slot": "",
    "status": "ACTIVE",
-   "value": 9.9
+   "value": 10.3
   },
   "4683774": {
    "fantasy_team": null,
@@ -5553,8 +5553,8 @@
   "4712849": {
    "fantasy_team": "Contagem Hunters",
    "id": "4712849",
-   "last15": 32.6,
-   "mpg": 31.5,
+   "last15": 32.9,
+   "mpg": 31.6,
    "name": "Anthony Black",
    "nba_team": "ORL",
    "positions": [
@@ -5562,10 +5562,10 @@
     "SG"
    ],
    "return_date": null,
-   "season_avg": 34.1,
+   "season_avg": 34.3,
    "slot": "PG",
    "status": "ACTIVE",
-   "value": 33.2
+   "value": 33.4
   },
   "4712863": {
    "fantasy_team": null,
@@ -6719,7 +6719,7 @@
   "5107199": {
    "fantasy_team": "Lakers x Bortolan 23",
    "id": "5107199",
-   "last15": 30.2,
+   "last15": 30.6,
    "mpg": 29.2,
    "name": "Daniss Jenkins",
    "nba_team": "DET",
@@ -6727,10 +6727,10 @@
     "PG"
    ],
    "return_date": null,
-   "season_avg": 26.9,
+   "season_avg": 27.1,
    "slot": "UT",
    "status": "ACTIVE",
-   "value": 29.1
+   "value": 29.4
   },
   "5107897": {
    "fantasy_team": null,

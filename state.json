@@ -240,11 +240,11 @@
   "4431736:20261114",
   "4066372:20261125"
  ],
- "hot_status": "ok: 263 FAs, 2650 games",
+ "hot_status": "ok: 263 FAs, 2651 games",
  "last_activity_ms": 1795573857009,
  "last_digest": 1795576336.627741,
  "last_error_alert": 1794388335.8497355,
- "last_hot_check": 1795578739.6313286,
+ "last_hot_check": 1795579696.3260486,
  "last_run": "2026-10-19T22:05:14+00:00",
  "matchup_periods": {
   "1": [
@@ -4708,7 +4708,7 @@
   "4592427": {
    "fantasy_team": null,
    "id": "4592427",
-   "last15": 6.9,
+   "last15": 7.0,
    "mpg": 17.4,
    "name": "Spencer Jones",
    "nba_team": "DEN",
@@ -4717,10 +4717,10 @@
     "PF"
    ],
    "return_date": null,
-   "season_avg": 9.4,
+   "season_avg": 9.6,
    "slot": "",
    "status": "ACTIVE",
-   "value": 7.8
+   "value": 7.9
   },
   "4592479": {
    "fantasy_team": "Lucky",

@@ -240,7 +240,7 @@
   "3133603:20261114"
  ],
  "hot_status": "ok: 264 FAs, 2636 games",
- "last_activity_ms": 1795562173072,
+ "last_activity_ms": 1795565298129,
  "last_digest": 1795565285.9420257,
  "last_error_alert": 1794388335.8497355,
  "last_hot_check": 1795565285.9411218,
@@ -3791,23 +3791,6 @@
    "slot": "",
    "status": "ACTIVE",
    "value": 11.0
-  },
-  "4431736": {
-   "fantasy_team": null,
-   "id": "4431736",
-   "last15": 21.9,
-   "mpg": 29.9,
-   "name": "Toumani Camara",
-   "nba_team": "POR",
-   "positions": [
-    "SF",
-    "PF"
-   ],
-   "return_date": null,
-   "season_avg": 22.5,
-   "slot": "",
-   "status": "ACTIVE",
-   "value": 22.1
   },
   "4431752": {
    "fantasy_team": null,

@@ -311,8 +311,8 @@
   "1966": {
    "fantasy_team": "Lucky",
    "id": "1966",
-   "last15": 35.0,
-   "mpg": 30.8,
+   "last15": 35.5,
+   "mpg": 30.9,
    "name": "LeBron James",
    "nba_team": "PHL",
    "positions": [
@@ -320,10 +320,10 @@
     "PF"
    ],
    "return_date": null,
-   "season_avg": 36.3,
+   "season_avg": 36.5,
    "slot": "SF",
    "status": "ACTIVE",
-   "value": 35.4
+   "value": 35.8
   },
   "2326307": {
    "fantasy_team": null,
@@ -461,7 +461,7 @@
   "2581018": {
    "fantasy_team": "Contagem Hunters",
    "id": "2581018",
-   "last15": 15.5,
+   "last15": 16.1,
    "mpg": 22.4,
    "name": "Kentavious Caldwell-Pope",
    "nba_team": "PHL",
@@ -470,10 +470,10 @@
     "SF"
    ],
    "return_date": null,
-   "season_avg": 15.8,
+   "season_avg": 16.1,
    "slot": "SF",
    "status": "ACTIVE",
-   "value": 15.6
+   "value": 16.1
   },
   "2583632": {
    "fantasy_team": null,
@@ -776,7 +776,7 @@
    "fantasy_team": "Fernando  Diniz",
    "id": "3032977",
    "last15": 55.0,
-   "mpg": 30.7,
+   "mpg": 30.8,
    "name": "Giannis Antetokounmpo",
    "nba_team": "MIA",
    "positions": [
@@ -841,7 +841,7 @@
   "3059319": {
    "fantasy_team": "King Coopa",
    "id": "3059319",
-   "last15": 18.9,
+   "last15": 19.3,
    "mpg": 24.8,
    "name": "Andrew Wiggins",
    "nba_team": "MIA",
@@ -850,10 +850,10 @@
     "PF"
    ],
    "return_date": null,
-   "season_avg": 17.7,
+   "season_avg": 17.9,
    "slot": "PF",
    "status": "ACTIVE",
-   "value": 18.5
+   "value": 18.8
   },
   "3062679": {
    "fantasy_team": "King Coopa",
@@ -908,7 +908,7 @@
   "3064482": {
    "fantasy_team": null,
    "id": "3064482",
-   "last15": 13.6,
+   "last15": 13.9,
    "mpg": 18.9,
    "name": "Bobby Portis",
    "nba_team": "MIA",
@@ -917,10 +917,10 @@
     "C"
    ],
    "return_date": null,
-   "season_avg": 16.9,
+   "season_avg": 17.0,
    "slot": "",
    "status": "ACTIVE",
-   "value": 14.7
+   "value": 15.0
   },
   "3064514": {
    "fantasy_team": "Lebron GOAT",
@@ -3698,8 +3698,8 @@
   "4431678": {
    "fantasy_team": "Tiki Taka Laranja",
    "id": "4431678",
-   "last15": 36.0,
-   "mpg": 34.5,
+   "last15": 36.4,
+   "mpg": 34.6,
    "name": "Tyrese Maxey",
    "nba_team": "PHL",
    "positions": [
@@ -3707,10 +3707,10 @@
     "SG"
    ],
    "return_date": null,
-   "season_avg": 42.3,
+   "season_avg": 42.5,
    "slot": "PG",
    "status": "ACTIVE",
-   "value": 38.2
+   "value": 38.6
   },
   "4431679": {
    "fantasy_team": "Contagem Hunters",
@@ -6704,7 +6704,7 @@
   "5107157": {
    "fantasy_team": null,
    "id": "5107157",
-   "last15": 17.6,
+   "last15": 17.4,
    "mpg": 17.3,
    "name": "Ryan Conwell",
    "nba_team": "MIA",
@@ -6715,7 +6715,7 @@
    "season_avg": 13.3,
    "slot": "",
    "status": "ACTIVE",
-   "value": 16.1
+   "value": 16.0
   },
   "5107173": {
    "fantasy_team": "Bull Market",
@@ -6820,7 +6820,7 @@
    "fantasy_team": "Caxias French Fries",
    "id": "5124612",
    "last15": 34.1,
-   "mpg": 32.8,
+   "mpg": 32.9,
    "name": "VJ Edgecombe",
    "nba_team": "PHL",
    "positions": [
@@ -7504,7 +7504,7 @@
    "fantasy_team": "Bull Market",
    "id": "6475",
    "last15": 26.2,
-   "mpg": 23.0,
+   "mpg": 23.1,
    "name": "Klay Thompson",
    "nba_team": "MIA",
    "positions": [

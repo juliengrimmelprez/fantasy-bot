@@ -244,7 +244,7 @@
  "last_activity_ms": 1795628406082,
  "last_digest": 1795628060.0069516,
  "last_error_alert": 1794388335.8497355,
- "last_hot_check": 1795627580.1399968,
+ "last_hot_check": 1795628536.2901065,
  "last_run": "2026-10-19T22:05:14+00:00",
  "matchup_periods": {
   "1": [
@@ -4669,7 +4669,7 @@
    "return_date": null,
    "season_avg": 16.4,
    "slot": "",
-   "status": "DAY_TO_DAY",
+   "status": "OUT",
    "value": 13.7
   },
   "4576087": {

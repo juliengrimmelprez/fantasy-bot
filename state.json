@@ -311,8 +311,8 @@
   "1966": {
    "fantasy_team": "Lucky",
    "id": "1966",
-   "last15": 34.2,
-   "mpg": 30.6,
+   "last15": 34.0,
+   "mpg": 30.7,
    "name": "LeBron James",
    "nba_team": "PHL",
    "positions": [
@@ -323,7 +323,7 @@
    "season_avg": 35.9,
    "slot": "SF",
    "status": "ACTIVE",
-   "value": 34.8
+   "value": 34.7
   },
   "2326307": {
    "fantasy_team": null,
@@ -461,8 +461,8 @@
   "2581018": {
    "fantasy_team": "Contagem Hunters",
    "id": "2581018",
-   "last15": 17.4,
-   "mpg": 23.4,
+   "last15": 15.5,
+   "mpg": 22.3,
    "name": "Kentavious Caldwell-Pope",
    "nba_team": "PHL",
    "positions": [
@@ -470,10 +470,10 @@
     "SF"
    ],
    "return_date": null,
-   "season_avg": 16.6,
+   "season_avg": 15.8,
    "slot": "SF",
    "status": "ACTIVE",
-   "value": 17.1
+   "value": 15.6
   },
   "2583632": {
    "fantasy_team": null,
@@ -775,8 +775,8 @@
   "3032977": {
    "fantasy_team": "Fernando  Diniz",
    "id": "3032977",
-   "last15": 53.5,
-   "mpg": 30.5,
+   "last15": 54.7,
+   "mpg": 30.6,
    "name": "Giannis Antetokounmpo",
    "nba_team": "MIA",
    "positions": [
@@ -784,10 +784,10 @@
     "C"
    ],
    "return_date": null,
-   "season_avg": 52.2,
+   "season_avg": 52.7,
    "slot": "PF",
    "status": "ACTIVE",
-   "value": 53.1
+   "value": 54.0
   },
   "3032979": {
    "fantasy_team": null,
@@ -908,8 +908,8 @@
   "3064482": {
    "fantasy_team": null,
    "id": "3064482",
-   "last15": 15.3,
-   "mpg": 19.9,
+   "last15": 13.7,
+   "mpg": 18.8,
    "name": "Bobby Portis",
    "nba_team": "MIA",
    "positions": [
@@ -917,10 +917,10 @@
     "C"
    ],
    "return_date": null,
-   "season_avg": 17.8,
+   "season_avg": 16.9,
    "slot": "",
    "status": "ACTIVE",
-   "value": 16.2
+   "value": 14.8
   },
   "3064514": {
    "fantasy_team": "Lebron GOAT",
@@ -3698,8 +3698,8 @@
   "4431678": {
    "fantasy_team": "Tiki Taka Laranja",
    "id": "4431678",
-   "last15": 35.3,
-   "mpg": 34.3,
+   "last15": 35.1,
+   "mpg": 34.4,
    "name": "Tyrese Maxey",
    "nba_team": "PHL",
    "positions": [
@@ -3707,10 +3707,10 @@
     "SG"
    ],
    "return_date": null,
-   "season_avg": 42.1,
+   "season_avg": 42.0,
    "slot": "PG",
    "status": "ACTIVE",
-   "value": 37.7
+   "value": 37.5
   },
   "4431679": {
    "fantasy_team": "Contagem Hunters",
@@ -4077,18 +4077,18 @@
   "4432446": {
    "fantasy_team": null,
    "id": "4432446",
-   "last15": 17.5,
-   "mpg": 13.7,
+   "last15": 17.9,
+   "mpg": 13.9,
    "name": "Jabari Walker",
    "nba_team": "PHL",
    "positions": [
     "PF"
    ],
    "return_date": null,
-   "season_avg": 14.3,
+   "season_avg": 14.5,
    "slot": "",
    "status": "ACTIVE",
-   "value": 16.4
+   "value": 16.7
   },
   "4432452": {
    "fantasy_team": null,
@@ -4991,8 +4991,8 @@
   "4601025": {
    "fantasy_team": "Hospital do Gansola",
    "id": "4601025",
-   "last15": 20.8,
-   "mpg": 26.8,
+   "last15": 21.0,
+   "mpg": 26.9,
    "name": "Pelle Larsson",
    "nba_team": "MIA",
    "positions": [
@@ -5000,10 +5000,10 @@
     "SF"
    ],
    "return_date": null,
-   "season_avg": 23.0,
+   "season_avg": 23.1,
    "slot": "SF",
    "status": "ACTIVE",
-   "value": 21.5
+   "value": 21.7
   },
   "4602025": {
    "fantasy_team": null,
@@ -5018,7 +5018,7 @@
    "return_date": null,
    "season_avg": 15.1,
    "slot": "",
-   "status": "DAY_TO_DAY",
+   "status": "ACTIVE",
    "value": 14.9
   },
   "4610139": {
@@ -6704,18 +6704,18 @@
   "5107157": {
    "fantasy_team": null,
    "id": "5107157",
-   "last15": 19.8,
-   "mpg": 18.3,
+   "last15": 17.0,
+   "mpg": 17.2,
    "name": "Ryan Conwell",
    "nba_team": "MIA",
    "positions": [
     "SG"
    ],
    "return_date": null,
-   "season_avg": 14.0,
+   "season_avg": 13.1,
    "slot": "",
    "status": "ACTIVE",
-   "value": 17.8
+   "value": 15.6
   },
   "5107173": {
    "fantasy_team": "Bull Market",
@@ -6820,7 +6820,7 @@
    "fantasy_team": "Caxias French Fries",
    "id": "5124612",
    "last15": 34.1,
-   "mpg": 32.7,
+   "mpg": 32.8,
    "name": "VJ Edgecombe",
    "nba_team": "PHL",
    "positions": [
@@ -7503,8 +7503,8 @@
   "6475": {
    "fantasy_team": "Bull Market",
    "id": "6475",
-   "last15": 24.8,
-   "mpg": 22.8,
+   "last15": 25.7,
+   "mpg": 22.9,
    "name": "Klay Thompson",
    "nba_team": "MIA",
    "positions": [
@@ -7512,10 +7512,10 @@
     "SF"
    ],
    "return_date": null,
-   "season_avg": 24.1,
+   "season_avg": 24.4,
    "slot": "SG",
    "status": "ACTIVE",
-   "value": 24.6
+   "value": 25.2
   },
   "6477": {
    "fantasy_team": null,

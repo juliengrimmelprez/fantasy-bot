@@ -311,8 +311,8 @@
   "1966": {
    "fantasy_team": "Lucky",
    "id": "1966",
-   "last15": 38.8,
-   "mpg": 31.2,
+   "last15": 39.5,
+   "mpg": 31.3,
    "name": "LeBron James",
    "nba_team": "PHL",
    "positions": [
@@ -320,10 +320,10 @@
     "PF"
    ],
    "return_date": null,
-   "season_avg": 37.8,
+   "season_avg": 38.1,
    "slot": "SF",
    "status": "ACTIVE",
-   "value": 38.5
+   "value": 39.0
   },
   "2326307": {
    "fantasy_team": null,
@@ -775,8 +775,8 @@
   "3032977": {
    "fantasy_team": "Fernando  Diniz",
    "id": "3032977",
-   "last15": 54.7,
-   "mpg": 30.8,
+   "last15": 54.2,
+   "mpg": 30.9,
    "name": "Giannis Antetokounmpo",
    "nba_team": "MIA",
    "positions": [
@@ -784,10 +784,10 @@
     "C"
    ],
    "return_date": null,
-   "season_avg": 52.7,
+   "season_avg": 52.5,
    "slot": "PF",
    "status": "ACTIVE",
-   "value": 54.0
+   "value": 53.6
   },
   "3032979": {
    "fantasy_team": null,
@@ -842,7 +842,7 @@
    "fantasy_team": "King Coopa",
    "id": "3059319",
    "last15": 20.4,
-   "mpg": 25.1,
+   "mpg": 25.2,
    "name": "Andrew Wiggins",
    "nba_team": "MIA",
    "positions": [
@@ -1760,7 +1760,7 @@
    "fantasy_team": null,
    "id": "3912848",
    "last15": 18.0,
-   "mpg": 25.4,
+   "mpg": 25.5,
    "name": "Dean Wade",
    "nba_team": "PHL",
    "positions": [
@@ -1825,7 +1825,7 @@
    "fantasy_team": "Lakers x Bortolan 23",
    "id": "3917376",
    "last15": 31.2,
-   "mpg": 32.8,
+   "mpg": 32.9,
    "name": "Jaylen Brown",
    "nba_team": "PHL",
    "positions": [
@@ -3082,7 +3082,7 @@
    "fantasy_team": null,
    "id": "4351851",
    "last15": 17.6,
-   "mpg": 21.5,
+   "mpg": 21.6,
    "name": "Anfernee Simons",
    "nba_team": "PHL",
    "positions": [
@@ -6688,7 +6688,7 @@
    "fantasy_team": null,
    "id": "5107157",
    "last15": 17.9,
-   "mpg": 17.5,
+   "mpg": 17.6,
    "name": "Ryan Conwell",
    "nba_team": "MIA",
    "positions": [

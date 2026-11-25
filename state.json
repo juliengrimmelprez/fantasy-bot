@@ -240,11 +240,11 @@
   "4431736:20261114",
   "4066372:20261125"
  ],
- "hot_status": "ok: 263 FAs, 2647 games",
+ "hot_status": "ok: 263 FAs, 2650 games",
  "last_activity_ms": 1795573857009,
  "last_digest": 1795576336.627741,
  "last_error_alert": 1794388335.8497355,
- "last_hot_check": 1795577780.3319073,
+ "last_hot_check": 1795578739.6313286,
  "last_run": "2026-10-19T22:05:14+00:00",
  "matchup_periods": {
   "1": [
@@ -1218,7 +1218,7 @@
   "3135046": {
    "fantasy_team": null,
    "id": "3135046",
-   "last15": 3.8,
+   "last15": 4.0,
    "mpg": 10.2,
    "name": "Tyus Jones",
    "nba_team": "DEN",
@@ -1226,10 +1226,10 @@
     "PG"
    ],
    "return_date": null,
-   "season_avg": 6.9,
+   "season_avg": 7.1,
    "slot": "",
    "status": "ACTIVE",
-   "value": 4.9
+   "value": 5.1
   },
   "3136193": {
    "fantasy_team": "Caxias French Fries",
@@ -1348,7 +1348,7 @@
   "3138196": {
    "fantasy_team": "Lakers x Bortolan 23",
    "id": "3138196",
-   "last15": 22.8,
+   "last15": 23.1,
    "mpg": 27.5,
    "name": "Cameron Johnson",
    "nba_team": "DEN",
@@ -1357,10 +1357,10 @@
     "PF"
    ],
    "return_date": null,
-   "season_avg": 22.1,
+   "season_avg": 22.4,
    "slot": "UT",
    "status": "ACTIVE",
-   "value": 22.5
+   "value": 22.9
   },
   "3146557": {
    "fantasy_team": null,
@@ -1989,8 +1989,8 @@
   "3978": {
    "fantasy_team": "Polga Silva",
    "id": "3978",
-   "last15": 10.9,
-   "mpg": 21.5,
+   "last15": 11.2,
+   "mpg": 21.7,
    "name": "DeMar DeRozan",
    "nba_team": "DEN",
    "positions": [
@@ -1998,10 +1998,10 @@
     "PF"
    ],
    "return_date": null,
-   "season_avg": 14.3,
+   "season_avg": 14.5,
    "slot": "SF",
    "status": "ACTIVE",
-   "value": 12.1
+   "value": 12.4
   },
   "3992": {
    "fantasy_team": "Lakers x Bortolan 23",
@@ -2622,7 +2622,7 @@
    "fantasy_team": null,
    "id": "4277848",
    "last15": 12.4,
-   "mpg": 11.3,
+   "mpg": 11.4,
    "name": "Marvin Bagley III",
    "nba_team": "DEN",
    "positions": [
@@ -2769,18 +2769,18 @@
   "4278049": {
    "fantasy_team": "Lakers x Bortolan 23",
    "id": "4278049",
-   "last15": 20.1,
-   "mpg": 21.5,
+   "last15": 20.4,
+   "mpg": 21.6,
    "name": "Daniel Gafford",
    "nba_team": "DAL",
    "positions": [
     "C"
    ],
    "return_date": null,
-   "season_avg": 24.9,
+   "season_avg": 25.1,
    "slot": "C",
    "status": "ACTIVE",
-   "value": 21.8
+   "value": 22.0
   },
   "4278053": {
    "fantasy_team": "Tropa do Nikola",
@@ -2867,7 +2867,7 @@
    "fantasy_team": "Polga Silva",
    "id": "4278078",
    "last15": 23.7,
-   "mpg": 29.4,
+   "mpg": 29.5,
    "name": "P.J. Washington",
    "nba_team": "DAL",
    "positions": [
@@ -4709,7 +4709,7 @@
    "fantasy_team": null,
    "id": "4592427",
    "last15": 6.9,
-   "mpg": 17.0,
+   "mpg": 17.2,
    "name": "Spencer Jones",
    "nba_team": "DEN",
    "positions": [
@@ -5887,7 +5887,7 @@
    "fantasy_team": null,
    "id": "4896372",
    "last15": 14.4,
-   "mpg": 17.8,
+   "mpg": 17.9,
    "name": "Walter Clayton Jr.",
    "nba_team": "DAL",
    "positions": [
@@ -6151,7 +6151,7 @@
    "fantasy_team": "King Coopa",
    "id": "5041939",
    "last15": 40.1,
-   "mpg": 32.2,
+   "mpg": 32.3,
    "name": "Cooper Flagg",
    "nba_team": "DAL",
    "positions": [

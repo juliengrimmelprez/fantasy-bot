@@ -512,7 +512,7 @@
    "fantasy_team": null,
    "id": "2596112",
    "last15": 13.6,
-   "mpg": 17.8,
+   "mpg": 17.9,
    "name": "Javonte Green",
    "nba_team": "DET",
    "positions": [
@@ -1120,7 +1120,7 @@
    "fantasy_team": null,
    "id": "3133635",
    "last15": 10.1,
-   "mpg": 13.3,
+   "mpg": 13.4,
    "name": "Jevon Carter",
    "nba_team": "ORL",
    "positions": [
@@ -2371,7 +2371,7 @@
    "fantasy_team": null,
    "id": "4066372",
    "last15": 20.9,
-   "mpg": 25.8,
+   "mpg": 25.9,
    "name": "Kevin Huerter",
    "nba_team": "DET",
    "positions": [
@@ -3064,18 +3064,18 @@
   "4348700": {
    "fantasy_team": null,
    "id": "4348700",
-   "last15": 15.9,
-   "mpg": 12.3,
+   "last15": 16.2,
+   "mpg": 12.5,
    "name": "Goga Bitadze",
    "nba_team": "ORL",
    "positions": [
     "C"
    ],
    "return_date": null,
-   "season_avg": 12.5,
+   "season_avg": 12.7,
    "slot": "",
    "status": "ACTIVE",
-   "value": 14.7
+   "value": 15.0
   },
   "4351851": {
    "fantasy_team": null,
@@ -4624,7 +4624,7 @@
   "4566434": {
    "fantasy_team": "King Coopa",
    "id": "4566434",
-   "last15": 48.0,
+   "last15": 48.4,
    "mpg": 34.6,
    "name": "Franz Wagner",
    "nba_team": "ORL",
@@ -4633,10 +4633,10 @@
     "PF"
    ],
    "return_date": null,
-   "season_avg": 43.1,
+   "season_avg": 43.2,
    "slot": "PF",
    "status": "ACTIVE",
-   "value": 46.3
+   "value": 46.6
   },
   "4576060": {
    "fantasy_team": null,
@@ -5171,8 +5171,8 @@
   "4683771": {
    "fantasy_team": null,
    "id": "4683771",
-   "last15": 10.2,
-   "mpg": 15.5,
+   "last15": 8.2,
+   "mpg": 14.4,
    "name": "Ronald Holland II",
    "nba_team": "DET",
    "positions": [
@@ -5180,10 +5180,10 @@
     "PF"
    ],
    "return_date": null,
-   "season_avg": 14.0,
+   "season_avg": 13.0,
    "slot": "",
    "status": "ACTIVE",
-   "value": 11.6
+   "value": 9.9
   },
   "4683774": {
    "fantasy_team": null,
@@ -5421,7 +5421,7 @@
    "fantasy_team": "CCCP  Баскетбол",
    "id": "4702382",
    "last15": 20.0,
-   "mpg": 27.8,
+   "mpg": 27.9,
    "name": "Tristan da Silva",
    "nba_team": "ORL",
    "positions": [

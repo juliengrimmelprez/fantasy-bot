@@ -876,7 +876,7 @@
    "fantasy_team": "CCCP  Баскетбол",
    "id": "3064290",
    "last15": 20.0,
-   "mpg": 28.3,
+   "mpg": 28.4,
    "name": "Aaron Gordon",
    "nba_team": "DEN",
    "positions": [
@@ -1332,24 +1332,24 @@
   "3138160": {
    "fantasy_team": "Tiki Taka Laranja",
    "id": "3138160",
-   "last15": 28.4,
-   "mpg": 21.4,
+   "last15": 29.2,
+   "mpg": 21.5,
    "name": "Caleb Martin",
    "nba_team": "DAL",
    "positions": [
     "SG"
    ],
    "return_date": null,
-   "season_avg": 20.0,
+   "season_avg": 20.5,
    "slot": "SG",
    "status": "ACTIVE",
-   "value": 25.4
+   "value": 26.2
   },
   "3138196": {
    "fantasy_team": "Lakers x Bortolan 23",
    "id": "3138196",
-   "last15": 23.5,
-   "mpg": 28.0,
+   "last15": 23.2,
+   "mpg": 28.1,
    "name": "Cameron Johnson",
    "nba_team": "DEN",
    "positions": [
@@ -1357,10 +1357,10 @@
     "PF"
    ],
    "return_date": null,
-   "season_avg": 22.6,
+   "season_avg": 22.5,
    "slot": "UT",
    "status": "ACTIVE",
-   "value": 23.2
+   "value": 23.0
   },
   "3146557": {
    "fantasy_team": null,
@@ -1924,18 +1924,18 @@
   "3936299": {
    "fantasy_team": "Hospital do Gansola",
    "id": "3936299",
-   "last15": 48.9,
-   "mpg": 35.7,
+   "last15": 48.8,
+   "mpg": 35.8,
    "name": "Jamal Murray",
    "nba_team": "DEN",
    "positions": [
     "PG"
    ],
    "return_date": null,
-   "season_avg": 47.1,
+   "season_avg": 47.0,
    "slot": "PG",
    "status": "ACTIVE",
-   "value": 48.2
+   "value": 48.1
   },
   "3945274": {
    "fantasy_team": "BL0CK BY ZION",
@@ -2866,7 +2866,7 @@
   "4278078": {
    "fantasy_team": "Polga Silva",
    "id": "4278078",
-   "last15": 25.0,
+   "last15": 24.8,
    "mpg": 29.9,
    "name": "P.J. Washington",
    "nba_team": "DAL",
@@ -2878,7 +2878,7 @@
    "season_avg": 26.2,
    "slot": "IR",
    "status": "ACTIVE",
-   "value": 25.4
+   "value": 25.3
   },
   "4278104": {
    "fantasy_team": "Tropa do Nikola",
@@ -3015,8 +3015,8 @@
   "4278594": {
    "fantasy_team": null,
    "id": "4278594",
-   "last15": 19.1,
-   "mpg": 23.2,
+   "last15": 19.5,
+   "mpg": 23.3,
    "name": "Naji Marshall",
    "nba_team": "DAL",
    "positions": [
@@ -3024,10 +3024,10 @@
     "PF"
    ],
    "return_date": null,
-   "season_avg": 22.5,
+   "season_avg": 22.7,
    "slot": "",
    "status": "ACTIVE",
-   "value": 20.3
+   "value": 20.6
   },
   "4279888": {
    "fantasy_team": "BL0CK BY ZION",
@@ -4708,8 +4708,8 @@
   "4592427": {
    "fantasy_team": null,
    "id": "4592427",
-   "last15": 7.0,
-   "mpg": 17.4,
+   "last15": 6.8,
+   "mpg": 17.6,
    "name": "Spencer Jones",
    "nba_team": "DEN",
    "positions": [
@@ -4717,10 +4717,10 @@
     "PF"
    ],
    "return_date": null,
-   "season_avg": 9.6,
+   "season_avg": 9.3,
    "slot": "",
    "status": "ACTIVE",
-   "value": 7.9
+   "value": 7.7
   },
   "4592479": {
    "fantasy_team": "Lucky",
@@ -6150,8 +6150,8 @@
   "5041939": {
    "fantasy_team": "King Coopa",
    "id": "5041939",
-   "last15": 40.9,
-   "mpg": 32.4,
+   "last15": 41.6,
+   "mpg": 32.5,
    "name": "Cooper Flagg",
    "nba_team": "DAL",
    "positions": [
@@ -6159,10 +6159,10 @@
     "PF"
    ],
    "return_date": null,
-   "season_avg": 45.5,
+   "season_avg": 45.8,
    "slot": "SF",
    "status": "ACTIVE",
-   "value": 42.5
+   "value": 43.1
   },
   "5041951": {
    "fantasy_team": "Fernando  Diniz",
@@ -7453,18 +7453,18 @@
   "6442": {
    "fantasy_team": "Hospital do Gansola",
    "id": "6442",
-   "last15": 35.3,
-   "mpg": 29.7,
+   "last15": 35.7,
+   "mpg": 29.8,
    "name": "Kyrie Irving",
    "nba_team": "DAL",
    "positions": [
     "PG"
    ],
    "return_date": null,
-   "season_avg": 36.9,
+   "season_avg": 37.1,
    "slot": "UT",
    "status": "ACTIVE",
-   "value": 35.9
+   "value": 36.2
   },
   "6450": {
    "fantasy_team": "Fernando  Diniz",

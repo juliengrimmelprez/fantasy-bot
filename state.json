@@ -243,7 +243,7 @@
  "last_activity_ms": 1795565298129,
  "last_digest": 1795572632.821616,
  "last_error_alert": 1794388335.8497355,
- "last_hot_check": 1795572026.5374558,
+ "last_hot_check": 1795572982.865315,
  "last_run": "2026-10-19T22:05:14+00:00",
  "matchup_periods": {
   "1": [
@@ -1741,7 +1741,7 @@
   "3908845": {
    "fantasy_team": "Tropa do Nikola",
    "id": "3908845",
-   "last15": 24.2,
+   "last15": 24.4,
    "mpg": 25.5,
    "name": "John Collins",
    "nba_team": "DET",
@@ -1750,10 +1750,10 @@
     "C"
    ],
    "return_date": null,
-   "season_avg": 21.9,
+   "season_avg": 22.0,
    "slot": "PF",
    "status": "ACTIVE",
-   "value": 23.4
+   "value": 23.5
   },
   "3912848": {
    "fantasy_team": null,
@@ -2604,7 +2604,7 @@
   "4277847": {
    "fantasy_team": "Lebron GOAT",
    "id": "4277847",
-   "last15": 26.8,
+   "last15": 26.6,
    "mpg": 32.4,
    "name": "Wendell Carter Jr.",
    "nba_team": "ORL",
@@ -2612,10 +2612,10 @@
     "C"
    ],
    "return_date": null,
-   "season_avg": 29.3,
+   "season_avg": 29.2,
    "slot": "C",
    "status": "ACTIVE",
-   "value": 27.6
+   "value": 27.5
   },
   "4277848": {
    "fantasy_team": null,
@@ -5271,7 +5271,7 @@
   "4684742": {
    "fantasy_team": "Tropa do Nikola",
    "id": "4684742",
-   "last15": 44.4,
+   "last15": 44.5,
    "mpg": 29.2,
    "name": "Ausar Thompson",
    "nba_team": "DET",
@@ -5283,7 +5283,7 @@
    "season_avg": 36.1,
    "slot": "SF",
    "status": "ACTIVE",
-   "value": 41.5
+   "value": 41.6
   },
   "4684793": {
    "fantasy_team": null,
@@ -5420,8 +5420,8 @@
   "4702382": {
    "fantasy_team": "CCCP  Баскетбол",
    "id": "4702382",
-   "last15": 22.3,
-   "mpg": 29.7,
+   "last15": 22.2,
+   "mpg": 29.8,
    "name": "Tristan da Silva",
    "nba_team": "ORL",
    "positions": [
@@ -5432,7 +5432,7 @@
    "season_avg": 23.3,
    "slot": "UT",
    "status": "ACTIVE",
-   "value": 22.7
+   "value": 22.6
   },
   "4702384": {
    "fantasy_team": null,
@@ -7224,7 +7224,7 @@
   "5238230": {
    "fantasy_team": null,
    "id": "5238230",
-   "last15": 10.9,
+   "last15": 10.6,
    "mpg": 19.9,
    "name": "Tre Johnson",
    "nba_team": "WAS",
@@ -7232,10 +7232,10 @@
     "SG"
    ],
    "return_date": null,
-   "season_avg": 11.5,
+   "season_avg": 11.3,
    "slot": "",
    "status": "ACTIVE",
-   "value": 11.1
+   "value": 10.9
   },
   "5239561": {
    "fantasy_team": null,
@@ -7568,7 +7568,7 @@
   "6583": {
    "fantasy_team": "Bull Market",
    "id": "6583",
-   "last15": 45.1,
+   "last15": 45.3,
    "mpg": 33.1,
    "name": "Anthony Davis",
    "nba_team": "WAS",
@@ -7577,10 +7577,10 @@
     "C"
    ],
    "return_date": null,
-   "season_avg": 44.1,
+   "season_avg": 44.2,
    "slot": "C",
    "status": "ACTIVE",
-   "value": 44.7
+   "value": 44.9
   },
   "6585": {
    "fantasy_team": null,

@@ -876,7 +876,7 @@
    "fantasy_team": "CCCP  Баскетбол",
    "id": "3064290",
    "last15": 20.6,
-   "mpg": 28.6,
+   "mpg": 28.8,
    "name": "Aaron Gordon",
    "nba_team": "DEN",
    "positions": [
@@ -1333,7 +1333,7 @@
    "fantasy_team": "Tiki Taka Laranja",
    "id": "3138160",
    "last15": 29.6,
-   "mpg": 21.8,
+   "mpg": 21.9,
    "name": "Caleb Martin",
    "nba_team": "DAL",
    "positions": [
@@ -1349,7 +1349,7 @@
    "fantasy_team": "Lakers x Bortolan 23",
    "id": "3138196",
    "last15": 24.4,
-   "mpg": 28.4,
+   "mpg": 28.5,
    "name": "Cameron Johnson",
    "nba_team": "DEN",
    "positions": [
@@ -1924,7 +1924,7 @@
   "3936299": {
    "fantasy_team": "Hospital do Gansola",
    "id": "3936299",
-   "last15": 49.6,
+   "last15": 49.8,
    "mpg": 36.1,
    "name": "Jamal Murray",
    "nba_team": "DEN",
@@ -1932,10 +1932,10 @@
     "PG"
    ],
    "return_date": null,
-   "season_avg": 47.4,
+   "season_avg": 47.5,
    "slot": "PG",
    "status": "ACTIVE",
-   "value": 48.9
+   "value": 49.0
   },
   "3945274": {
    "fantasy_team": "BL0CK BY ZION",
@@ -2769,7 +2769,7 @@
   "4278049": {
    "fantasy_team": "Lakers x Bortolan 23",
    "id": "4278049",
-   "last15": 22.4,
+   "last15": 22.8,
    "mpg": 22.1,
    "name": "Daniel Gafford",
    "nba_team": "DAL",
@@ -2777,10 +2777,10 @@
     "C"
    ],
    "return_date": null,
-   "season_avg": 25.9,
+   "season_avg": 26.1,
    "slot": "C",
    "status": "ACTIVE",
-   "value": 23.6
+   "value": 23.9
   },
   "4278053": {
    "fantasy_team": "Tropa do Nikola",
@@ -3813,7 +3813,7 @@
    "fantasy_team": "CCCP  Баскетбол",
    "id": "4431767",
    "last15": 33.5,
-   "mpg": 32.9,
+   "mpg": 33.0,
    "name": "Christian Braun",
    "nba_team": "DEN",
    "positions": [
@@ -6150,8 +6150,8 @@
   "5041939": {
    "fantasy_team": "King Coopa",
    "id": "5041939",
-   "last15": 42.0,
-   "mpg": 32.7,
+   "last15": 42.1,
+   "mpg": 32.8,
    "name": "Cooper Flagg",
    "nba_team": "DAL",
    "positions": [
@@ -6159,10 +6159,10 @@
     "PF"
    ],
    "return_date": null,
-   "season_avg": 46.0,
+   "season_avg": 46.1,
    "slot": "SF",
    "status": "ACTIVE",
-   "value": 43.4
+   "value": 43.5
   },
   "5041951": {
    "fantasy_team": "Fernando  Diniz",
@@ -7129,18 +7129,18 @@
   "5211175": {
    "fantasy_team": null,
    "id": "5211175",
-   "last15": 20.2,
-   "mpg": 23.4,
+   "last15": 20.4,
+   "mpg": 23.5,
    "name": "Zaccharie Risacher",
    "nba_team": "DAL",
    "positions": [
     "SF"
    ],
    "return_date": null,
-   "season_avg": 21.4,
+   "season_avg": 21.5,
    "slot": "",
    "status": "ACTIVE",
-   "value": 20.7
+   "value": 20.8
   },
   "5211176": {
    "fantasy_team": null,
@@ -7454,7 +7454,7 @@
    "fantasy_team": "Hospital do Gansola",
    "id": "6442",
    "last15": 36.6,
-   "mpg": 30.1,
+   "mpg": 30.2,
    "name": "Kyrie Irving",
    "nba_team": "DAL",
    "positions": [

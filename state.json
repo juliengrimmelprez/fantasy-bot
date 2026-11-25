@@ -1219,7 +1219,7 @@
    "fantasy_team": null,
    "id": "3135046",
    "last15": 3.8,
-   "mpg": 10.1,
+   "mpg": 10.2,
    "name": "Tyus Jones",
    "nba_team": "DEN",
    "positions": [
@@ -1348,8 +1348,8 @@
   "3138196": {
    "fantasy_team": "Lakers x Bortolan 23",
    "id": "3138196",
-   "last15": 22.5,
-   "mpg": 27.3,
+   "last15": 22.8,
+   "mpg": 27.5,
    "name": "Cameron Johnson",
    "nba_team": "DEN",
    "positions": [
@@ -1357,10 +1357,10 @@
     "PF"
    ],
    "return_date": null,
-   "season_avg": 22.0,
+   "season_avg": 22.1,
    "slot": "UT",
    "status": "ACTIVE",
-   "value": 22.3
+   "value": 22.5
   },
   "3146557": {
    "fantasy_team": null,
@@ -1989,7 +1989,7 @@
   "3978": {
    "fantasy_team": "Polga Silva",
    "id": "3978",
-   "last15": 10.8,
+   "last15": 10.9,
    "mpg": 21.5,
    "name": "DeMar DeRozan",
    "nba_team": "DEN",
@@ -2001,7 +2001,7 @@
    "season_avg": 14.3,
    "slot": "SF",
    "status": "ACTIVE",
-   "value": 12.0
+   "value": 12.1
   },
   "3992": {
    "fantasy_team": "Lakers x Bortolan 23",
@@ -2621,8 +2621,8 @@
   "4277848": {
    "fantasy_team": null,
    "id": "4277848",
-   "last15": 12.5,
-   "mpg": 11.2,
+   "last15": 12.4,
+   "mpg": 11.3,
    "name": "Marvin Bagley III",
    "nba_team": "DEN",
    "positions": [
@@ -2630,10 +2630,10 @@
     "C"
    ],
    "return_date": null,
-   "season_avg": 12.1,
+   "season_avg": 12.0,
    "slot": "",
    "status": "ACTIVE",
-   "value": 12.3
+   "value": 12.2
   },
   "4277869": {
    "fantasy_team": null,
@@ -2770,7 +2770,7 @@
    "fantasy_team": "Lakers x Bortolan 23",
    "id": "4278049",
    "last15": 20.1,
-   "mpg": 21.4,
+   "mpg": 21.5,
    "name": "Daniel Gafford",
    "nba_team": "DAL",
    "positions": [
@@ -4109,18 +4109,18 @@
   "4432582": {
    "fantasy_team": null,
    "id": "4432582",
-   "last15": 13.2,
-   "mpg": 18.1,
+   "last15": 11.2,
+   "mpg": 17.0,
    "name": "Max Christie",
    "nba_team": "DAL",
    "positions": [
     "SG"
    ],
    "return_date": null,
-   "season_avg": 12.1,
+   "season_avg": 11.3,
    "slot": "",
    "status": "ACTIVE",
-   "value": 12.8
+   "value": 11.2
   },
   "4432639": {
    "fantasy_team": "Tropa do Nikola",
@@ -4708,8 +4708,8 @@
   "4592427": {
    "fantasy_team": null,
    "id": "4592427",
-   "last15": 6.4,
-   "mpg": 16.9,
+   "last15": 6.9,
+   "mpg": 17.0,
    "name": "Spencer Jones",
    "nba_team": "DEN",
    "positions": [
@@ -4717,10 +4717,10 @@
     "PF"
    ],
    "return_date": null,
-   "season_avg": 9.0,
+   "season_avg": 9.4,
    "slot": "",
    "status": "ACTIVE",
-   "value": 7.3
+   "value": 7.8
   },
   "4592479": {
    "fantasy_team": "Lucky",
@@ -5886,8 +5886,8 @@
   "4896372": {
    "fantasy_team": null,
    "id": "4896372",
-   "last15": 14.2,
-   "mpg": 17.7,
+   "last15": 14.4,
+   "mpg": 17.8,
    "name": "Walter Clayton Jr.",
    "nba_team": "DAL",
    "positions": [
@@ -5895,10 +5895,10 @@
     "SG"
    ],
    "return_date": null,
-   "season_avg": 16.5,
+   "season_avg": 16.6,
    "slot": "",
    "status": "ACTIVE",
-   "value": 15.0
+   "value": 15.2
   },
   "4897262": {
    "fantasy_team": null,
@@ -6150,8 +6150,8 @@
   "5041939": {
    "fantasy_team": "King Coopa",
    "id": "5041939",
-   "last15": 40.0,
-   "mpg": 32.1,
+   "last15": 40.1,
+   "mpg": 32.2,
    "name": "Cooper Flagg",
    "nba_team": "DAL",
    "positions": [
@@ -6162,7 +6162,7 @@
    "season_avg": 45.1,
    "slot": "SF",
    "status": "ACTIVE",
-   "value": 41.8
+   "value": 41.9
   },
   "5041951": {
    "fantasy_team": "Fernando  Diniz",
@@ -7130,7 +7130,7 @@
    "fantasy_team": null,
    "id": "5211175",
    "last15": 19.9,
-   "mpg": 23.1,
+   "mpg": 23.2,
    "name": "Zaccharie Risacher",
    "nba_team": "DAL",
    "positions": [

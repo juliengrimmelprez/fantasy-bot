@@ -2353,8 +2353,8 @@
   "4066354": {
    "fantasy_team": "Hospital do Gansola",
    "id": "4066354",
-   "last15": 22.8,
-   "mpg": 27.0,
+   "last15": 23.4,
+   "mpg": 27.1,
    "name": "Payton Pritchard",
    "nba_team": "BOS",
    "positions": [
@@ -2362,10 +2362,10 @@
     "SG"
    ],
    "return_date": null,
-   "season_avg": 23.9,
+   "season_avg": 24.2,
    "slot": "SG",
    "status": "ACTIVE",
-   "value": 23.2
+   "value": 23.7
   },
   "4066372": {
    "fantasy_team": null,
@@ -2536,8 +2536,8 @@
   "4251": {
    "fantasy_team": "Bull Market",
    "id": "4251",
-   "last15": 39.8,
-   "mpg": 29.8,
+   "last15": 40.5,
+   "mpg": 29.9,
    "name": "Paul George",
    "nba_team": "BOS",
    "positions": [
@@ -2545,10 +2545,10 @@
     "PF"
    ],
    "return_date": null,
-   "season_avg": 40.3,
+   "season_avg": 40.5,
    "slot": "SF",
    "status": "ACTIVE",
-   "value": 40.0
+   "value": 40.5
   },
   "4277811": {
    "fantasy_team": null,
@@ -2701,7 +2701,7 @@
   "4277951": {
    "fantasy_team": null,
    "id": "4277951",
-   "last15": 10.1,
+   "last15": 10.6,
    "mpg": 12.9,
    "name": "Luka Garza",
    "nba_team": "BOS",
@@ -2709,10 +2709,10 @@
     "C"
    ],
    "return_date": null,
-   "season_avg": 12.9,
+   "season_avg": 13.2,
    "slot": "",
    "status": "ACTIVE",
-   "value": 11.1
+   "value": 11.5
   },
   "4277956": {
    "fantasy_team": null,
@@ -3550,7 +3550,7 @@
    "fantasy_team": null,
    "id": "4397251",
    "last15": 5.4,
-   "mpg": 6.9,
+   "mpg": 7.1,
    "name": "Ron Harper Jr.",
    "nba_team": "BOS",
    "positions": [
@@ -5636,7 +5636,7 @@
    "fantasy_team": null,
    "id": "4845374",
    "last15": 3.9,
-   "mpg": 15.2,
+   "mpg": 15.3,
    "name": "Bub Carrington",
    "nba_team": "WAS",
    "positions": [
@@ -6457,8 +6457,8 @@
   "5104155": {
    "fantasy_team": "Tiki Taka Laranja",
    "id": "5104155",
-   "last15": 16.8,
-   "mpg": 24.2,
+   "last15": 17.1,
+   "mpg": 24.3,
    "name": "Bilal Coulibaly",
    "nba_team": "WAS",
    "positions": [
@@ -6466,10 +6466,10 @@
     "SF"
    ],
    "return_date": null,
-   "season_avg": 18.2,
+   "season_avg": 18.4,
    "slot": "UT",
    "status": "ACTIVE",
-   "value": 17.3
+   "value": 17.6
   },
   "5104157": {
    "fantasy_team": "CCCP  Баскетбол",
@@ -6850,7 +6850,7 @@
   "5142718": {
    "fantasy_team": "Contagem Hunters",
    "id": "5142718",
-   "last15": 29.1,
+   "last15": 29.2,
    "mpg": 33.5,
    "name": "AJ Dybantsa",
    "nba_team": "WAS",
@@ -6858,10 +6858,10 @@
     "SF"
    ],
    "return_date": null,
-   "season_avg": 28.0,
+   "season_avg": 28.1,
    "slot": "SF",
    "status": "ACTIVE",
-   "value": 28.7
+   "value": 28.8
   },
   "5144091": {
    "fantasy_team": "King Coopa",
@@ -7079,7 +7079,7 @@
   "5175647": {
    "fantasy_team": null,
    "id": "5175647",
-   "last15": 10.2,
+   "last15": 10.4,
    "mpg": 13.2,
    "name": "Hugo Gonzalez",
    "nba_team": "BOS",
@@ -7087,10 +7087,10 @@
     "SF"
    ],
    "return_date": null,
-   "season_avg": 8.9,
+   "season_avg": 9.0,
    "slot": "",
    "status": "ACTIVE",
-   "value": 9.8
+   "value": 9.9
   },
   "5175737": {
    "fantasy_team": "Fernando  Diniz",
@@ -7568,8 +7568,8 @@
   "6583": {
    "fantasy_team": "Bull Market",
    "id": "6583",
-   "last15": 47.7,
-   "mpg": 33.6,
+   "last15": 47.6,
+   "mpg": 33.7,
    "name": "Anthony Davis",
    "nba_team": "WAS",
    "positions": [
@@ -7580,7 +7580,7 @@
    "season_avg": 45.4,
    "slot": "C",
    "status": "ACTIVE",
-   "value": 46.9
+   "value": 46.8
   },
   "6585": {
    "fantasy_team": null,
@@ -7634,8 +7634,8 @@
   "6609": {
    "fantasy_team": null,
    "id": "6609",
-   "last15": 11.3,
-   "mpg": 15.8,
+   "last15": 11.5,
+   "mpg": 15.9,
    "name": "Khris Middleton",
    "nba_team": "WAS",
    "positions": [
@@ -7643,10 +7643,10 @@
     "PF"
    ],
    "return_date": null,
-   "season_avg": 7.7,
+   "season_avg": 7.8,
    "slot": "",
    "status": "ACTIVE",
-   "value": 10.1
+   "value": 10.2
   }
  },
  "sent_keys": [

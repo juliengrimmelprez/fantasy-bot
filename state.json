@@ -305,7 +305,7 @@
    9
   ]
  },
- "matchup_periods_day": "2026-11-24",
+ "matchup_periods_day": "2026-11-25",
  "plan_status": "ok: day 36, matchup 6 [35]..[41], adds left 9, opp Caxias French Fries",
  "players": {
   "1966": {
@@ -1039,7 +1039,7 @@
   "3112335": {
    "fantasy_team": "Tropa do Nikola",
    "id": "3112335",
-   "last15": 56.9,
+   "last15": 57.4,
    "mpg": 35.5,
    "name": "Nikola Jokic",
    "nba_team": "DEN",
@@ -1047,10 +1047,10 @@
     "C"
    ],
    "return_date": null,
-   "season_avg": 57.0,
+   "season_avg": 57.2,
    "slot": "C",
    "status": "ACTIVE",
-   "value": 56.9
+   "value": 57.3
   },
   "3133602": {
    "fantasy_team": null,
@@ -1332,24 +1332,24 @@
   "3138160": {
    "fantasy_team": "Tiki Taka Laranja",
    "id": "3138160",
-   "last15": 27.1,
-   "mpg": 21.1,
+   "last15": 27.0,
+   "mpg": 21.2,
    "name": "Caleb Martin",
    "nba_team": "DAL",
    "positions": [
     "SG"
    ],
    "return_date": null,
-   "season_avg": 19.3,
+   "season_avg": 19.2,
    "slot": "SG",
    "status": "ACTIVE",
-   "value": 24.4
+   "value": 24.3
   },
   "3138196": {
    "fantasy_team": "Lakers x Bortolan 23",
    "id": "3138196",
-   "last15": 22.8,
-   "mpg": 27.7,
+   "last15": 23.4,
+   "mpg": 27.8,
    "name": "Cameron Johnson",
    "nba_team": "DEN",
    "positions": [
@@ -1357,10 +1357,10 @@
     "PF"
    ],
    "return_date": null,
-   "season_avg": 22.1,
+   "season_avg": 22.5,
    "slot": "UT",
    "status": "ACTIVE",
-   "value": 22.5
+   "value": 23.1
   },
   "3146557": {
    "fantasy_team": null,
@@ -1924,18 +1924,18 @@
   "3936299": {
    "fantasy_team": "Hospital do Gansola",
    "id": "3936299",
-   "last15": 47.9,
-   "mpg": 35.4,
+   "last15": 48.5,
+   "mpg": 35.5,
    "name": "Jamal Murray",
    "nba_team": "DEN",
    "positions": [
     "PG"
    ],
    "return_date": null,
-   "season_avg": 46.6,
+   "season_avg": 46.9,
    "slot": "PG",
    "status": "ACTIVE",
-   "value": 47.4
+   "value": 47.9
   },
   "3945274": {
    "fantasy_team": "BL0CK BY ZION",
@@ -2769,18 +2769,18 @@
   "4278049": {
    "fantasy_team": "Lakers x Bortolan 23",
    "id": "4278049",
-   "last15": 21.9,
-   "mpg": 21.7,
+   "last15": 22.0,
+   "mpg": 21.8,
    "name": "Daniel Gafford",
    "nba_team": "DAL",
    "positions": [
     "C"
    ],
    "return_date": null,
-   "season_avg": 25.7,
+   "season_avg": 25.8,
    "slot": "C",
    "status": "ACTIVE",
-   "value": 23.2
+   "value": 23.3
   },
   "4278053": {
    "fantasy_team": "Tropa do Nikola",
@@ -2866,8 +2866,8 @@
   "4278078": {
    "fantasy_team": "Polga Silva",
    "id": "4278078",
-   "last15": 24.2,
-   "mpg": 29.6,
+   "last15": 24.0,
+   "mpg": 29.7,
    "name": "P.J. Washington",
    "nba_team": "DAL",
    "positions": [
@@ -2878,7 +2878,7 @@
    "season_avg": 25.9,
    "slot": "IR",
    "status": "ACTIVE",
-   "value": 24.8
+   "value": 24.7
   },
   "4278104": {
    "fantasy_team": "Tropa do Nikola",
@@ -3812,8 +3812,8 @@
   "4431767": {
    "fantasy_team": "CCCP  Баскетбол",
    "id": "4431767",
-   "last15": 32.9,
-   "mpg": 32.4,
+   "last15": 33.0,
+   "mpg": 32.5,
    "name": "Christian Braun",
    "nba_team": "DEN",
    "positions": [
@@ -3824,7 +3824,7 @@
    "season_avg": 31.1,
    "slot": "SF",
    "status": "ACTIVE",
-   "value": 32.2
+   "value": 32.3
   },
   "4431785": {
    "fantasy_team": null,
@@ -7453,7 +7453,7 @@
   "6442": {
    "fantasy_team": "Hospital do Gansola",
    "id": "6442",
-   "last15": 35.1,
+   "last15": 35.0,
    "mpg": 29.5,
    "name": "Kyrie Irving",
    "nba_team": "DAL",
@@ -7461,10 +7461,10 @@
     "PG"
    ],
    "return_date": null,
-   "season_avg": 36.9,
+   "season_avg": 36.8,
    "slot": "UT",
    "status": "ACTIVE",
-   "value": 35.7
+   "value": 35.6
   },
   "6450": {
    "fantasy_team": "Fernando  Diniz",

@@ -239,11 +239,11 @@
   "4594326:20261124",
   "3133603:20261114"
  ],
- "hot_status": "ok: 264 FAs, 2636 games",
+ "hot_status": "ok: 263 FAs, 2621 games",
  "last_activity_ms": 1795565298129,
  "last_digest": 1795565285.9420257,
  "last_error_alert": 1794388335.8497355,
- "last_hot_check": 1795565285.9411218,
+ "last_hot_check": 1795566256.8987205,
  "last_run": "2026-10-19T22:05:14+00:00",
  "matchup_periods": {
   "1": [
@@ -1741,7 +1741,7 @@
   "3908845": {
    "fantasy_team": "Tropa do Nikola",
    "id": "3908845",
-   "last15": 23.0,
+   "last15": 23.1,
    "mpg": 24.5,
    "name": "John Collins",
    "nba_team": "DET",
@@ -1753,7 +1753,7 @@
    "season_avg": 21.4,
    "slot": "PF",
    "status": "ACTIVE",
-   "value": 22.4
+   "value": 22.5
   },
   "3912848": {
    "fantasy_team": null,
@@ -2303,8 +2303,8 @@
   "4066320": {
    "fantasy_team": "Fernando  Diniz",
    "id": "4066320",
-   "last15": 34.9,
-   "mpg": 33.0,
+   "last15": 34.8,
+   "mpg": 33.1,
    "name": "Desmond Bane",
    "nba_team": "ORL",
    "positions": [
@@ -2312,10 +2312,10 @@
     "SF"
    ],
    "return_date": null,
-   "season_avg": 30.8,
+   "season_avg": 30.7,
    "slot": "SG",
    "status": "ACTIVE",
-   "value": 33.4
+   "value": 33.3
   },
   "4066328": {
    "fantasy_team": "Polga Silva",
@@ -2370,7 +2370,7 @@
   "4066372": {
    "fantasy_team": null,
    "id": "4066372",
-   "last15": 20.8,
+   "last15": 20.6,
    "mpg": 25.7,
    "name": "Kevin Huerter",
    "nba_team": "DET",
@@ -2379,10 +2379,10 @@
     "SF"
    ],
    "return_date": null,
-   "season_avg": 21.4,
+   "season_avg": 21.3,
    "slot": "",
    "status": "ACTIVE",
-   "value": 21.0
+   "value": 20.9
   },
   "4066383": {
    "fantasy_team": "Caxias French Fries",
@@ -2604,7 +2604,7 @@
   "4277847": {
    "fantasy_team": "Lebron GOAT",
    "id": "4277847",
-   "last15": 23.0,
+   "last15": 23.1,
    "mpg": 30.5,
    "name": "Wendell Carter Jr.",
    "nba_team": "ORL",
@@ -2612,10 +2612,10 @@
     "C"
    ],
    "return_date": null,
-   "season_avg": 27.5,
+   "season_avg": 27.6,
    "slot": "C",
    "status": "ACTIVE",
-   "value": 24.6
+   "value": 24.7
   },
   "4277848": {
    "fantasy_team": null,
@@ -5271,7 +5271,7 @@
   "4684742": {
    "fantasy_team": "Tropa do Nikola",
    "id": "4684742",
-   "last15": 40.1,
+   "last15": 40.5,
    "mpg": 27.8,
    "name": "Ausar Thompson",
    "nba_team": "DET",
@@ -5280,10 +5280,10 @@
     "PF"
    ],
    "return_date": null,
-   "season_avg": 33.9,
+   "season_avg": 34.1,
    "slot": "SF",
    "status": "ACTIVE",
-   "value": 38.0
+   "value": 38.3
   },
   "4684793": {
    "fantasy_team": null,
@@ -5421,7 +5421,7 @@
    "fantasy_team": "CCCP  Баскетбол",
    "id": "4702382",
    "last15": 19.3,
-   "mpg": 27.6,
+   "mpg": 27.7,
    "name": "Tristan da Silva",
    "nba_team": "ORL",
    "positions": [
@@ -5553,7 +5553,7 @@
   "4712849": {
    "fantasy_team": "Contagem Hunters",
    "id": "4712849",
-   "last15": 32.4,
+   "last15": 32.2,
    "mpg": 31.3,
    "name": "Anthony Black",
    "nba_team": "ORL",
@@ -5562,10 +5562,10 @@
     "SG"
    ],
    "return_date": null,
-   "season_avg": 34.0,
+   "season_avg": 33.9,
    "slot": "PG",
    "status": "ACTIVE",
-   "value": 32.9
+   "value": 32.8
   },
   "4712863": {
    "fantasy_team": null,

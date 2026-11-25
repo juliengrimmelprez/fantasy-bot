@@ -241,7 +241,7 @@
   "4395702:20261122"
  ],
  "hot_status": "ok: 264 FAs, 2666 games",
- "last_activity_ms": 1795573857009,
+ "last_activity_ms": 1795600551493,
  "last_digest": 1795598542.649295,
  "last_error_alert": 1794388335.8497355,
  "last_hot_check": 1795599859.8158352,
@@ -2716,7 +2716,7 @@
    "value": 11.2
   },
   "4277956": {
-   "fantasy_team": null,
+   "fantasy_team": "Lebron GOAT",
    "id": "4277956",
    "last15": 25.3,
    "mpg": 22.8,
@@ -2728,7 +2728,7 @@
    ],
    "return_date": null,
    "season_avg": 22.7,
-   "slot": "",
+   "slot": "BE",
    "status": "ACTIVE",
    "value": 24.4
   },
@@ -3927,7 +3927,7 @@
    "value": 27.8
   },
   "4432165": {
-   "fantasy_team": "Lebron GOAT",
+   "fantasy_team": null,
    "id": "4432165",
    "last15": 19.2,
    "mpg": 29.1,
@@ -3939,7 +3939,7 @@
    ],
    "return_date": null,
    "season_avg": 21.1,
-   "slot": "BE",
+   "slot": "",
    "status": "ACTIVE",
    "value": 19.8
   },
@@ -8014,6 +8014,7 @@
   "diag:36",
   "planday:36",
   "drop:4781746:1795530213528",
-  "ltrade:1795531574065"
+  "ltrade:1795531574065",
+  "drop:4432165:1795600551493"
  ]
 }

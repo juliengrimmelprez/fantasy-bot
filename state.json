@@ -311,8 +311,8 @@
   "1966": {
    "fantasy_team": "Lucky",
    "id": "1966",
-   "last15": 38.0,
-   "mpg": 31.1,
+   "last15": 38.8,
+   "mpg": 31.2,
    "name": "LeBron James",
    "nba_team": "PHL",
    "positions": [
@@ -320,10 +320,10 @@
     "PF"
    ],
    "return_date": null,
-   "season_avg": 37.5,
+   "season_avg": 37.8,
    "slot": "SF",
    "status": "ACTIVE",
-   "value": 37.8
+   "value": 38.5
   },
   "2326307": {
    "fantasy_team": null,
@@ -1760,7 +1760,7 @@
    "fantasy_team": null,
    "id": "3912848",
    "last15": 18.0,
-   "mpg": 25.3,
+   "mpg": 25.4,
    "name": "Dean Wade",
    "nba_team": "PHL",
    "positions": [
@@ -3081,7 +3081,7 @@
   "4351851": {
    "fantasy_team": null,
    "id": "4351851",
-   "last15": 17.4,
+   "last15": 17.6,
    "mpg": 21.5,
    "name": "Anfernee Simons",
    "nba_team": "PHL",
@@ -3090,10 +3090,10 @@
     "SG"
    ],
    "return_date": null,
-   "season_avg": 16.2,
+   "season_avg": 16.3,
    "slot": "",
    "status": "ACTIVE",
-   "value": 17.0
+   "value": 17.2
   },
   "4351852": {
    "fantasy_team": "Fernando  Diniz",
@@ -4975,7 +4975,7 @@
    "fantasy_team": "Hospital do Gansola",
    "id": "4601025",
    "last15": 21.2,
-   "mpg": 27.0,
+   "mpg": 27.1,
    "name": "Pelle Larsson",
    "nba_team": "MIA",
    "positions": [

@@ -306,7 +306,7 @@
   ]
  },
  "matchup_periods_day": "2026-11-25",
- "plan_status": "ok: day 36, matchup 6 [35]..[41], adds left 9, opp Caxias French Fries",
+ "plan_status": "ok: day 37, matchup 6 [35]..[41], adds left 9, opp Caxias French Fries",
  "players": {
   "1966": {
    "fantasy_team": "Lucky",
@@ -321,7 +321,7 @@
    ],
    "return_date": null,
    "season_avg": 38.1,
-   "slot": "PF",
+   "slot": "SF",
    "status": "ACTIVE",
    "value": 39.3
   },
@@ -471,7 +471,7 @@
    ],
    "return_date": null,
    "season_avg": 16.6,
-   "slot": "BE",
+   "slot": "SF",
    "status": "ACTIVE",
    "value": 17.1
   },
@@ -586,7 +586,7 @@
    ],
    "return_date": null,
    "season_avg": 20.2,
-   "slot": "BE",
+   "slot": "UT",
    "status": "ACTIVE",
    "value": 26.4
   },
@@ -653,7 +653,7 @@
    ],
    "return_date": null,
    "season_avg": 25.4,
-   "slot": "UT",
+   "slot": "PG",
    "status": "ACTIVE",
    "value": 20.0
   },
@@ -736,7 +736,7 @@
    ],
    "return_date": null,
    "season_avg": 19.7,
-   "slot": "BE",
+   "slot": "UT",
    "status": "ACTIVE",
    "value": 20.3
   },
@@ -768,7 +768,7 @@
    ],
    "return_date": null,
    "season_avg": 22.9,
-   "slot": "BE",
+   "slot": "C",
    "status": "ACTIVE",
    "value": 23.4
   },
@@ -868,7 +868,7 @@
    ],
    "return_date": null,
    "season_avg": 23.6,
-   "slot": "UT",
+   "slot": "SF",
    "status": "DAY_TO_DAY",
    "value": 20.3
   },
@@ -967,7 +967,7 @@
    ],
    "return_date": null,
    "season_avg": 28.5,
-   "slot": "PG",
+   "slot": "BE",
    "status": "ACTIVE",
    "value": 27.1
   },
@@ -1048,7 +1048,7 @@
    ],
    "return_date": null,
    "season_avg": 58.1,
-   "slot": "C",
+   "slot": "UT",
    "status": "ACTIVE",
    "value": 58.8
   },
@@ -1097,7 +1097,7 @@
    ],
    "return_date": null,
    "season_avg": 19.5,
-   "slot": "BE",
+   "slot": "SF",
    "status": "ACTIVE",
    "value": 24.1
   },
@@ -1244,7 +1244,7 @@
    ],
    "return_date": null,
    "season_avg": 39.5,
-   "slot": "PG",
+   "slot": "UT",
    "status": "ACTIVE",
    "value": 40.3
   },
@@ -1341,7 +1341,7 @@
    ],
    "return_date": null,
    "season_avg": 21.5,
-   "slot": "SG",
+   "slot": "BE",
    "status": "ACTIVE",
    "value": 27.7
   },
@@ -1358,7 +1358,7 @@
    ],
    "return_date": null,
    "season_avg": 23.6,
-   "slot": "UT",
+   "slot": "BE",
    "status": "ACTIVE",
    "value": 24.6
   },
@@ -1391,7 +1391,7 @@
    ],
    "return_date": null,
    "season_avg": 18.5,
-   "slot": "BE",
+   "slot": "SF",
    "status": "ACTIVE",
    "value": 20.2
   },
@@ -1407,7 +1407,7 @@
    ],
    "return_date": null,
    "season_avg": 37.5,
-   "slot": "PF",
+   "slot": "UT",
    "status": "ACTIVE",
    "value": 39.3
   },
@@ -1440,7 +1440,7 @@
    ],
    "return_date": null,
    "season_avg": 23.8,
-   "slot": "BE",
+   "slot": "UT",
    "status": "ACTIVE",
    "value": 21.3
   },
@@ -1490,7 +1490,7 @@
    ],
    "return_date": null,
    "season_avg": 29.8,
-   "slot": "SG",
+   "slot": "UT",
    "status": "OUT",
    "value": 24.5
   },
@@ -1572,7 +1572,7 @@
    ],
    "return_date": null,
    "season_avg": 28.2,
-   "slot": "UT",
+   "slot": "C",
    "status": "ACTIVE",
    "value": 29.3
   },
@@ -1735,12 +1735,12 @@
    ],
    "return_date": null,
    "season_avg": 41.9,
-   "slot": "UT",
+   "slot": "PG",
    "status": "ACTIVE",
    "value": 41.8
   },
   "3908845": {
-   "fantasy_team": "Tropa do Nikola",
+   "fantasy_team": "Polga Silva",
    "id": "3908845",
    "last15": 25.2,
    "mpg": 25.6,
@@ -1752,7 +1752,7 @@
    ],
    "return_date": null,
    "season_avg": 22.4,
-   "slot": "PF",
+   "slot": "BE",
    "status": "ACTIVE",
    "value": 24.3
   },
@@ -1801,7 +1801,7 @@
    ],
    "return_date": null,
    "season_avg": 22.0,
-   "slot": "BE",
+   "slot": "PF",
    "status": "ACTIVE",
    "value": 22.0
   },
@@ -1817,7 +1817,7 @@
    ],
    "return_date": null,
    "season_avg": 19.5,
-   "slot": "BE",
+   "slot": "SG",
    "status": "ACTIVE",
    "value": 22.5
   },
@@ -1933,7 +1933,7 @@
    ],
    "return_date": null,
    "season_avg": 48.4,
-   "slot": "PG",
+   "slot": "UT",
    "status": "ACTIVE",
    "value": 50.4
   },
@@ -2082,7 +2082,7 @@
    ],
    "return_date": null,
    "season_avg": 46.2,
-   "slot": "SF",
+   "slot": "UT",
    "status": "ACTIVE",
    "value": 46.1
   },
@@ -2214,7 +2214,7 @@
    ],
    "return_date": null,
    "season_avg": 17.6,
-   "slot": "PF",
+   "slot": "BE",
    "status": "ACTIVE",
    "value": 19.4
   },
@@ -2263,7 +2263,7 @@
    ],
    "return_date": null,
    "season_avg": 29.0,
-   "slot": "UT",
+   "slot": "SG",
    "status": "DAY_TO_DAY",
    "value": 25.4
   },
@@ -2280,7 +2280,7 @@
    ],
    "return_date": null,
    "season_avg": 42.9,
-   "slot": "BE",
+   "slot": "C",
    "status": "ACTIVE",
    "value": 45.6
   },
@@ -2314,7 +2314,7 @@
    ],
    "return_date": null,
    "season_avg": 32.6,
-   "slot": "SG",
+   "slot": "BE",
    "status": "ACTIVE",
    "value": 36.4
   },
@@ -2347,7 +2347,7 @@
    ],
    "return_date": null,
    "season_avg": 30.4,
-   "slot": "UT",
+   "slot": "BE",
    "status": "OUT",
    "value": 30.4
   },
@@ -2364,7 +2364,7 @@
    ],
    "return_date": null,
    "season_avg": 24.5,
-   "slot": "SG",
+   "slot": "BE",
    "status": "ACTIVE",
    "value": 24.2
   },
@@ -2398,7 +2398,7 @@
    ],
    "return_date": null,
    "season_avg": 35.2,
-   "slot": "PF",
+   "slot": "UT",
    "status": "ACTIVE",
    "value": 32.0
   },
@@ -2449,7 +2449,7 @@
    ],
    "return_date": null,
    "season_avg": 38.6,
-   "slot": "SG",
+   "slot": "UT",
    "status": "OUT",
    "value": 42.1
   },
@@ -2466,7 +2466,7 @@
    ],
    "return_date": null,
    "season_avg": 24.4,
-   "slot": "BE",
+   "slot": "UT",
    "status": "ACTIVE",
    "value": 25.4
   },
@@ -2530,7 +2530,7 @@
    ],
    "return_date": null,
    "season_avg": 28.8,
-   "slot": "UT",
+   "slot": "C",
    "status": "ACTIVE",
    "value": 31.3
   },
@@ -2547,7 +2547,7 @@
    ],
    "return_date": null,
    "season_avg": 40.7,
-   "slot": "SF",
+   "slot": "UT",
    "status": "ACTIVE",
    "value": 40.9
   },
@@ -2614,7 +2614,7 @@
    ],
    "return_date": null,
    "season_avg": 29.2,
-   "slot": "C",
+   "slot": "BE",
    "status": "ACTIVE",
    "value": 27.5
   },
@@ -2762,7 +2762,7 @@
    ],
    "return_date": null,
    "season_avg": 33.4,
-   "slot": "SG",
+   "slot": "BE",
    "status": "ACTIVE",
    "value": 34.1
   },
@@ -2778,7 +2778,7 @@
    ],
    "return_date": null,
    "season_avg": 26.7,
-   "slot": "C",
+   "slot": "BE",
    "status": "ACTIVE",
    "value": 25.0
   },
@@ -2893,7 +2893,7 @@
    ],
    "return_date": null,
    "season_avg": 31.9,
-   "slot": "BE",
+   "slot": "SF",
    "status": "ACTIVE",
    "value": 29.0
   },
@@ -2959,7 +2959,7 @@
    ],
    "return_date": null,
    "season_avg": 28.5,
-   "slot": "PF",
+   "slot": "BE",
    "status": "ACTIVE",
    "value": 28.9
   },
@@ -3107,7 +3107,7 @@
    ],
    "return_date": null,
    "season_avg": 16.1,
-   "slot": "C",
+   "slot": "BE",
    "status": "OUT",
    "value": 13.6
   },
@@ -3124,7 +3124,7 @@
    ],
    "return_date": null,
    "season_avg": 34.2,
-   "slot": "SF",
+   "slot": "UT",
    "status": "OUT",
    "value": 34.5
   },
@@ -3140,7 +3140,7 @@
    ],
    "return_date": null,
    "season_avg": 23.5,
-   "slot": "BE",
+   "slot": "PG",
    "status": "ACTIVE",
    "value": 25.1
   },
@@ -3207,7 +3207,7 @@
    ],
    "return_date": null,
    "season_avg": 18.4,
-   "slot": "BE",
+   "slot": "PG",
    "status": "ACTIVE",
    "value": 23.1
   },
@@ -3240,7 +3240,7 @@
    ],
    "return_date": null,
    "season_avg": 31.0,
-   "slot": "UT",
+   "slot": "BE",
    "status": "ACTIVE",
    "value": 29.3
   },
@@ -3274,7 +3274,7 @@
    ],
    "return_date": null,
    "season_avg": 33.5,
-   "slot": "PG",
+   "slot": "UT",
    "status": "ACTIVE",
    "value": 32.8
   },
@@ -3291,7 +3291,7 @@
    ],
    "return_date": null,
    "season_avg": 36.5,
-   "slot": "SG",
+   "slot": "PG",
    "status": "ACTIVE",
    "value": 37.7
   },
@@ -3442,7 +3442,7 @@
    ],
    "return_date": null,
    "season_avg": 24.7,
-   "slot": "UT",
+   "slot": "BE",
    "status": "DAY_TO_DAY",
    "value": 23.3
   },
@@ -3526,7 +3526,7 @@
    ],
    "return_date": null,
    "season_avg": 33.6,
-   "slot": "UT",
+   "slot": "PF",
    "status": "DAY_TO_DAY",
    "value": 38.3
   },
@@ -3608,12 +3608,12 @@
    ],
    "return_date": null,
    "season_avg": 30.0,
-   "slot": "UT",
+   "slot": "BE",
    "status": "ACTIVE",
    "value": 30.0
   },
   "4397886": {
-   "fantasy_team": "Polga Silva",
+   "fantasy_team": null,
    "id": "4397886",
    "last15": 25.0,
    "mpg": 15.6,
@@ -3624,7 +3624,7 @@
    ],
    "return_date": null,
    "season_avg": 20.8,
-   "slot": "BE",
+   "slot": "",
    "status": "ACTIVE",
    "value": 23.5
   },
@@ -3725,7 +3725,7 @@
    ],
    "return_date": null,
    "season_avg": 22.4,
-   "slot": "PF",
+   "slot": "BE",
    "status": "ACTIVE",
    "value": 15.7
   },
@@ -3741,7 +3741,7 @@
    ],
    "return_date": null,
    "season_avg": 32.5,
-   "slot": "UT",
+   "slot": "C",
    "status": "ACTIVE",
    "value": 32.4
   },
@@ -3792,6 +3792,23 @@
    "slot": "",
    "status": "ACTIVE",
    "value": 11.0
+  },
+  "4431736": {
+   "fantasy_team": "Tropa do Nikola",
+   "id": "4431736",
+   "last15": 21.9,
+   "mpg": 29.9,
+   "name": "Toumani Camara",
+   "nba_team": "POR",
+   "positions": [
+    "SF",
+    "PF"
+   ],
+   "return_date": null,
+   "season_avg": 22.5,
+   "slot": "UT",
+   "status": "ACTIVE",
+   "value": 22.1
   },
   "4431752": {
    "fantasy_team": null,
@@ -3905,7 +3922,7 @@
    ],
    "return_date": null,
    "season_avg": 36.8,
-   "slot": "C",
+   "slot": "PF",
    "status": "OUT",
    "value": 27.8
   },
@@ -3922,7 +3939,7 @@
    ],
    "return_date": null,
    "season_avg": 21.1,
-   "slot": "PG",
+   "slot": "BE",
    "status": "ACTIVE",
    "value": 19.8
   },
@@ -3938,7 +3955,7 @@
    ],
    "return_date": null,
    "season_avg": 47.9,
-   "slot": "PG",
+   "slot": "BE",
    "status": "OUT",
    "value": 49.5
   },
@@ -4021,7 +4038,7 @@
    ],
    "return_date": null,
    "season_avg": 28.4,
-   "slot": "UT",
+   "slot": "C",
    "status": "ACTIVE",
    "value": 31.5
   },
@@ -4102,7 +4119,7 @@
    ],
    "return_date": null,
    "season_avg": 45.0,
-   "slot": "SF",
+   "slot": "UT",
    "status": "OUT",
    "value": 45.0
   },
@@ -4135,7 +4152,7 @@
    ],
    "return_date": null,
    "season_avg": 31.6,
-   "slot": "UT",
+   "slot": "PF",
    "status": "ACTIVE",
    "value": 27.2
   },
@@ -4301,7 +4318,7 @@
    ],
    "return_date": null,
    "season_avg": 23.5,
-   "slot": "BE",
+   "slot": "SG",
    "status": "ACTIVE",
    "value": 21.8
   },
@@ -4352,7 +4369,7 @@
    ],
    "return_date": null,
    "season_avg": 29.7,
-   "slot": "BE",
+   "slot": "UT",
    "status": "ACTIVE",
    "value": 32.6
   },
@@ -4369,7 +4386,7 @@
    ],
    "return_date": null,
    "season_avg": 46.0,
-   "slot": "SG",
+   "slot": "UT",
    "status": "ACTIVE",
    "value": 51.0
   },
@@ -4501,7 +4518,7 @@
    ],
    "return_date": null,
    "season_avg": 27.4,
-   "slot": "SF",
+   "slot": "PF",
    "status": "ACTIVE",
    "value": 27.1
   },
@@ -4518,7 +4535,7 @@
    ],
    "return_date": null,
    "season_avg": 30.4,
-   "slot": "UT",
+   "slot": "PF",
    "status": "ACTIVE",
    "value": 31.8
   },
@@ -4552,7 +4569,7 @@
    ],
    "return_date": null,
    "season_avg": 28.6,
-   "slot": "UT",
+   "slot": "SG",
    "status": "ACTIVE",
    "value": 28.0
   },
@@ -4618,7 +4635,7 @@
    ],
    "return_date": null,
    "season_avg": 22.4,
-   "slot": "UT",
+   "slot": "SF",
    "status": "ACTIVE",
    "value": 23.0
   },
@@ -4635,7 +4652,7 @@
    ],
    "return_date": null,
    "season_avg": 45.4,
-   "slot": "PF",
+   "slot": "UT",
    "status": "ACTIVE",
    "value": 50.2
   },
@@ -4668,7 +4685,7 @@
    ],
    "return_date": null,
    "season_avg": 24.9,
-   "slot": "UT",
+   "slot": "PF",
    "status": "ACTIVE",
    "value": 23.7
   },
@@ -4701,7 +4718,7 @@
    ],
    "return_date": null,
    "season_avg": 21.9,
-   "slot": "BE",
+   "slot": "UT",
    "status": "ACTIVE",
    "value": 21.9
   },
@@ -4919,7 +4936,7 @@
    ],
    "return_date": null,
    "season_avg": 22.0,
-   "slot": "BE",
+   "slot": "UT",
    "status": "ACTIVE",
    "value": 24.0
   },
@@ -4984,7 +5001,7 @@
    ],
    "return_date": null,
    "season_avg": 24.5,
-   "slot": "BE",
+   "slot": "SF",
    "status": "ACTIVE",
    "value": 25.7
   },
@@ -5216,7 +5233,7 @@
    ],
    "return_date": null,
    "season_avg": 22.2,
-   "slot": "BE",
+   "slot": "PG",
    "status": "ACTIVE",
    "value": 23.8
   },
@@ -5232,7 +5249,7 @@
    ],
    "return_date": null,
    "season_avg": 24.4,
-   "slot": "UT",
+   "slot": "BE",
    "status": "ACTIVE",
    "value": 24.1
   },
@@ -5265,7 +5282,7 @@
    ],
    "return_date": null,
    "season_avg": 33.7,
-   "slot": "UT",
+   "slot": "SG",
    "status": "ACTIVE",
    "value": 36.0
   },
@@ -5282,7 +5299,7 @@
    ],
    "return_date": null,
    "season_avg": 36.2,
-   "slot": "SF",
+   "slot": "BE",
    "status": "ACTIVE",
    "value": 41.7
   },
@@ -5431,7 +5448,7 @@
    ],
    "return_date": null,
    "season_avg": 23.3,
-   "slot": "UT",
+   "slot": "BE",
    "status": "ACTIVE",
    "value": 22.6
   },
@@ -5497,7 +5514,7 @@
    ],
    "return_date": null,
    "season_avg": 30.5,
-   "slot": "BE",
+   "slot": "PG",
    "status": "ACTIVE",
    "value": 27.5
   },
@@ -5514,7 +5531,7 @@
    ],
    "return_date": null,
    "season_avg": 19.9,
-   "slot": "BE",
+   "slot": "SG",
    "status": "ACTIVE",
    "value": 18.7
   },
@@ -5564,7 +5581,7 @@
    ],
    "return_date": null,
    "season_avg": 33.6,
-   "slot": "PG",
+   "slot": "UT",
    "status": "ACTIVE",
    "value": 32.3
   },
@@ -5629,7 +5646,7 @@
    ],
    "return_date": null,
    "season_avg": 34.4,
-   "slot": "BE",
+   "slot": "UT",
    "status": "ACTIVE",
    "value": 37.5
   },
@@ -5695,7 +5712,7 @@
    ],
    "return_date": null,
    "season_avg": 38.9,
-   "slot": "PG",
+   "slot": "UT",
    "status": "ACTIVE",
    "value": 41.0
   },
@@ -5712,7 +5729,7 @@
    ],
    "return_date": null,
    "season_avg": 24.4,
-   "slot": "UT",
+   "slot": "BE",
    "status": "ACTIVE",
    "value": 24.1
   },
@@ -5762,7 +5779,7 @@
    ],
    "return_date": null,
    "season_avg": 48.1,
-   "slot": "C",
+   "slot": "UT",
    "status": "ACTIVE",
    "value": 47.9
   },
@@ -5779,7 +5796,7 @@
    ],
    "return_date": null,
    "season_avg": 31.4,
-   "slot": "UT",
+   "slot": "PG",
    "status": "ACTIVE",
    "value": 33.3
   },
@@ -5813,7 +5830,7 @@
    ],
    "return_date": null,
    "season_avg": 27.4,
-   "slot": "UT",
+   "slot": "BE",
    "status": "ACTIVE",
    "value": 28.3
   },
@@ -5963,7 +5980,7 @@
    ],
    "return_date": null,
    "season_avg": 30.0,
-   "slot": "UT",
+   "slot": "SG",
    "status": "ACTIVE",
    "value": 25.7
   },
@@ -6160,7 +6177,7 @@
    ],
    "return_date": null,
    "season_avg": 47.2,
-   "slot": "SF",
+   "slot": "UT",
    "status": "ACTIVE",
    "value": 45.5
   },
@@ -6176,7 +6193,7 @@
    ],
    "return_date": null,
    "season_avg": 24.3,
-   "slot": "UT",
+   "slot": "SG",
    "status": "ACTIVE",
    "value": 26.6
   },
@@ -6209,7 +6226,7 @@
    ],
    "return_date": null,
    "season_avg": 29.9,
-   "slot": "UT",
+   "slot": "BE",
    "status": "ACTIVE",
    "value": 29.5
   },
@@ -6274,7 +6291,7 @@
    ],
    "return_date": null,
    "season_avg": -2.0,
-   "slot": "BE",
+   "slot": "UT",
    "status": "OUT",
    "value": 35.2
   },
@@ -6434,7 +6451,7 @@
    ],
    "return_date": null,
    "season_avg": 18.8,
-   "slot": "BE",
+   "slot": "UT",
    "status": "ACTIVE",
    "value": 18.2
   },
@@ -6549,7 +6566,7 @@
    ],
    "return_date": null,
    "season_avg": 20.7,
-   "slot": "BE",
+   "slot": "UT",
    "status": "ACTIVE",
    "value": 23.2
   },
@@ -6713,7 +6730,7 @@
    ],
    "return_date": null,
    "season_avg": 20.6,
-   "slot": "BE",
+   "slot": "PF",
    "status": "ACTIVE",
    "value": 22.4
   },
@@ -6778,7 +6795,7 @@
    ],
    "return_date": null,
    "season_avg": 20.3,
-   "slot": "BE",
+   "slot": "UT",
    "status": "ACTIVE",
    "value": 20.1
   },
@@ -6811,7 +6828,7 @@
    ],
    "return_date": null,
    "season_avg": 34.5,
-   "slot": "UT",
+   "slot": "SG",
    "status": "ACTIVE",
    "value": 36.9
   },
@@ -6860,7 +6877,7 @@
    ],
    "return_date": null,
    "season_avg": 28.8,
-   "slot": "SF",
+   "slot": "BE",
    "status": "ACTIVE",
    "value": 29.9
   },
@@ -6877,7 +6894,7 @@
    ],
    "return_date": null,
    "season_avg": 31.3,
-   "slot": "UT",
+   "slot": "BE",
    "status": "ACTIVE",
    "value": 32.0
   },
@@ -7007,7 +7024,7 @@
    ],
    "return_date": null,
    "season_avg": 27.8,
-   "slot": "C",
+   "slot": "BE",
    "status": "ACTIVE",
    "value": 27.8
   },
@@ -7040,7 +7057,7 @@
    ],
    "return_date": null,
    "season_avg": 34.6,
-   "slot": "SG",
+   "slot": "BE",
    "status": "ACTIVE",
    "value": 33.3
   },
@@ -7528,7 +7545,7 @@
    ],
    "return_date": null,
    "season_avg": 10.5,
-   "slot": "UT",
+   "slot": "C",
    "status": "ACTIVE",
    "value": 12.9
   },

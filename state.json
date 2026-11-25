@@ -461,8 +461,8 @@
   "2581018": {
    "fantasy_team": "Contagem Hunters",
    "id": "2581018",
-   "last15": 16.9,
-   "mpg": 22.7,
+   "last15": 17.2,
+   "mpg": 22.8,
    "name": "Kentavious Caldwell-Pope",
    "nba_team": "PHL",
    "positions": [
@@ -470,10 +470,10 @@
     "SF"
    ],
    "return_date": null,
-   "season_avg": 16.4,
+   "season_avg": 16.5,
    "slot": "SF",
    "status": "ACTIVE",
-   "value": 16.7
+   "value": 17.0
   },
   "2583632": {
    "fantasy_team": null,
@@ -775,8 +775,8 @@
   "3032977": {
    "fantasy_team": "Fernando  Diniz",
    "id": "3032977",
-   "last15": 54.2,
-   "mpg": 30.9,
+   "last15": 55.7,
+   "mpg": 31.0,
    "name": "Giannis Antetokounmpo",
    "nba_team": "MIA",
    "positions": [
@@ -784,10 +784,10 @@
     "C"
    ],
    "return_date": null,
-   "season_avg": 52.5,
+   "season_avg": 53.1,
    "slot": "PF",
    "status": "ACTIVE",
-   "value": 53.6
+   "value": 54.8
   },
   "3032979": {
    "fantasy_team": null,
@@ -842,7 +842,7 @@
    "fantasy_team": "King Coopa",
    "id": "3059319",
    "last15": 20.4,
-   "mpg": 25.3,
+   "mpg": 25.4,
    "name": "Andrew Wiggins",
    "nba_team": "MIA",
    "positions": [
@@ -1825,7 +1825,7 @@
    "fantasy_team": "Lakers x Bortolan 23",
    "id": "3917376",
    "last15": 31.0,
-   "mpg": 32.9,
+   "mpg": 33.0,
    "name": "Jaylen Brown",
    "nba_team": "PHL",
    "positions": [
@@ -1851,7 +1851,7 @@
    "return_date": null,
    "season_avg": 40.8,
    "slot": "PG",
-   "status": "DAY_TO_DAY",
+   "status": "ACTIVE",
    "value": 42.4
   },
   "3934673": {
@@ -2785,7 +2785,7 @@
   "4278053": {
    "fantasy_team": "Tropa do Nikola",
    "id": "4278053",
-   "last15": 41.6,
+   "last15": 41.9,
    "mpg": 34.2,
    "name": "Davion Mitchell",
    "nba_team": "MIA",
@@ -2793,10 +2793,10 @@
     "PG"
    ],
    "return_date": null,
-   "season_avg": 39.8,
+   "season_avg": 39.9,
    "slot": "PG",
    "status": "ACTIVE",
-   "value": 41.0
+   "value": 41.2
   },
   "4278067": {
    "fantasy_team": "BL0CK BY ZION",
@@ -3681,7 +3681,7 @@
   "4431678": {
    "fantasy_team": "Tiki Taka Laranja",
    "id": "4431678",
-   "last15": 37.0,
+   "last15": 37.3,
    "mpg": 34.8,
    "name": "Tyrese Maxey",
    "nba_team": "PHL",
@@ -3690,10 +3690,10 @@
     "SG"
    ],
    "return_date": null,
-   "season_avg": 42.7,
+   "season_avg": 42.8,
    "slot": "PG",
    "status": "ACTIVE",
-   "value": 39.0
+   "value": 39.2
   },
   "4431679": {
    "fantasy_team": "Contagem Hunters",
@@ -6557,7 +6557,7 @@
    "fantasy_team": null,
    "id": "5105637",
    "last15": 10.5,
-   "mpg": 12.5,
+   "mpg": 12.6,
    "name": "Adem Bona",
    "nba_team": "PHL",
    "positions": [
@@ -7487,7 +7487,7 @@
    "fantasy_team": "Bull Market",
    "id": "6475",
    "last15": 26.2,
-   "mpg": 23.2,
+   "mpg": 23.3,
    "name": "Klay Thompson",
    "nba_team": "MIA",
    "positions": [

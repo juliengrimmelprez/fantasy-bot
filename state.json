@@ -241,7 +241,7 @@
   "4601023:20261105"
  ],
  "hot_status": "ok: 264 FAs, 2665 games",
- "last_activity_ms": 1795615802310,
+ "last_activity_ms": 1795628406082,
  "last_digest": 1795628060.0069516,
  "last_error_alert": 1794388335.8497355,
  "last_hot_check": 1795627580.1399968,
@@ -306,7 +306,7 @@
   ]
  },
  "matchup_periods_day": "2026-11-25",
- "plan_status": "ok: day 37, matchup 6 [35]..[41], adds left 9, opp Caxias French Fries",
+ "plan_status": "ok: day 37, matchup 6 [35]..[41], adds left 8, opp Caxias French Fries",
  "players": {
   "1966": {
    "fantasy_team": "Lucky",
@@ -839,7 +839,7 @@
    "value": 39.9
   },
   "3059319": {
-   "fantasy_team": null,
+   "fantasy_team": "King Coopa",
    "id": "3059319",
    "last15": 22.0,
    "mpg": 26.2,
@@ -851,7 +851,7 @@
    ],
    "return_date": null,
    "season_avg": 18.8,
-   "slot": "",
+   "slot": "PF",
    "status": "ACTIVE",
    "value": 20.9
   },
@@ -868,7 +868,7 @@
    ],
    "return_date": null,
    "season_avg": 23.6,
-   "slot": "SF",
+   "slot": "SG",
    "status": "DAY_TO_DAY",
    "value": 20.3
   },
@@ -2449,7 +2449,7 @@
    ],
    "return_date": null,
    "season_avg": 38.6,
-   "slot": "UT",
+   "slot": "BE",
    "status": "OUT",
    "value": 42.1
   },
@@ -4685,7 +4685,7 @@
    ],
    "return_date": null,
    "season_avg": 24.9,
-   "slot": "PF",
+   "slot": "SF",
    "status": "ACTIVE",
    "value": 24.7
   },
@@ -5282,7 +5282,7 @@
    ],
    "return_date": null,
    "season_avg": 33.7,
-   "slot": "SG",
+   "slot": "UT",
    "status": "ACTIVE",
    "value": 37.6
   },
@@ -7024,7 +7024,7 @@
    ],
    "return_date": null,
    "season_avg": 27.8,
-   "slot": "BE",
+   "slot": "C",
    "status": "ACTIVE",
    "value": 28.7
   },
@@ -7534,7 +7534,7 @@
    "value": 0.0
   },
   "6478": {
-   "fantasy_team": "King Coopa",
+   "fantasy_team": null,
    "id": "6478",
    "last15": 14.2,
    "mpg": 11.4,
@@ -7545,7 +7545,7 @@
    ],
    "return_date": null,
    "season_avg": 10.5,
-   "slot": "C",
+   "slot": "",
    "status": "ACTIVE",
    "value": 12.9
   },

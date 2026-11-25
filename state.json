@@ -1218,7 +1218,7 @@
   "3135046": {
    "fantasy_team": null,
    "id": "3135046",
-   "last15": 4.0,
+   "last15": 4.1,
    "mpg": 10.6,
    "name": "Tyus Jones",
    "nba_team": "DEN",
@@ -1229,7 +1229,7 @@
    "season_avg": 7.1,
    "slot": "",
    "status": "ACTIVE",
-   "value": 5.1
+   "value": 5.2
   },
   "3136193": {
    "fantasy_team": "Caxias French Fries",
@@ -4826,8 +4826,8 @@
   "4593125": {
    "fantasy_team": null,
    "id": "4593125",
-   "last15": 7.1,
-   "mpg": 12.6,
+   "last15": 6.9,
+   "mpg": 12.7,
    "name": "Santi Aldama",
    "nba_team": "DAL",
    "positions": [
@@ -4835,10 +4835,10 @@
     "PF"
    ],
    "return_date": null,
-   "season_avg": 9.0,
+   "season_avg": 8.8,
    "slot": "",
    "status": "ACTIVE",
-   "value": 7.8
+   "value": 7.5
   },
   "4593803": {
    "fantasy_team": null,
@@ -5323,7 +5323,7 @@
    "fantasy_team": null,
    "id": "4698719",
    "last15": 10.5,
-   "mpg": 17.7,
+   "mpg": 17.8,
    "name": "Trevon Brazile",
    "nba_team": "DEN",
    "positions": [

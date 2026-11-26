@@ -240,11 +240,11 @@
   "5175647:20261111",
   "4396909:20261105"
  ],
- "hot_status": "ok: 263 FAs, 2682 games",
+ "hot_status": "ok: 263 FAs, 2687 games",
  "last_activity_ms": 1795646478973,
  "last_digest": 1795650375.8740573,
  "last_error_alert": 1794388335.8497355,
- "last_hot_check": 1795652534.3803813,
+ "last_hot_check": 1795653496.67726,
  "last_run": "2026-10-19T22:05:14+00:00",
  "matchup_periods": {
   "1": [
@@ -479,7 +479,7 @@
    "fantasy_team": null,
    "id": "2583632",
    "last15": 8.7,
-   "mpg": 19.2,
+   "mpg": 19.4,
    "name": "Royce O'Neale",
    "nba_team": "CHA",
    "positions": [
@@ -577,7 +577,7 @@
    "fantasy_team": "Bull Market",
    "id": "2990984",
    "last15": 26.0,
-   "mpg": 17.6,
+   "mpg": 17.8,
    "name": "Buddy Hield",
    "nba_team": "CHI",
    "positions": [
@@ -2802,7 +2802,7 @@
    "fantasy_team": "BL0CK BY ZION",
    "id": "4278067",
    "last15": 19.4,
-   "mpg": 19.0,
+   "mpg": 19.2,
    "name": "Nic Claxton",
    "nba_team": "CHI",
    "positions": [
@@ -3198,7 +3198,7 @@
    "fantasy_team": "King Coopa",
    "id": "4395651",
    "last15": 24.0,
-   "mpg": 19.5,
+   "mpg": 19.7,
    "name": "Coby White",
    "nba_team": "CHA",
    "positions": [
@@ -4509,7 +4509,7 @@
    "fantasy_team": "Caxias French Fries",
    "id": "4433249",
    "last15": 28.0,
-   "mpg": 28.5,
+   "mpg": 28.6,
    "name": "Moussa Diabate",
    "nba_team": "CHA",
    "positions": [
@@ -4542,7 +4542,7 @@
   "4433287": {
    "fantasy_team": "Tropa do Nikola",
    "id": "4433287",
-   "last15": 24.4,
+   "last15": 25.0,
    "mpg": 29.5,
    "name": "Brandon Miller",
    "nba_team": "CHA",
@@ -4551,10 +4551,10 @@
     "SF"
    ],
    "return_date": null,
-   "season_avg": 27.4,
+   "season_avg": 27.6,
    "slot": "SG",
    "status": "ACTIVE",
-   "value": 25.4
+   "value": 25.9
   },
   "4433569": {
    "fantasy_team": null,
@@ -5521,8 +5521,8 @@
   "4711294": {
    "fantasy_team": "Fernando  Diniz",
    "id": "4711294",
-   "last15": 27.0,
-   "mpg": 26.7,
+   "last15": 27.3,
+   "mpg": 26.8,
    "name": "Matas Buzelis",
    "nba_team": "CHI",
    "positions": [
@@ -5530,10 +5530,10 @@
     "PF"
    ],
    "return_date": null,
-   "season_avg": 23.9,
+   "season_avg": 24.1,
    "slot": "UT",
    "status": "ACTIVE",
-   "value": 25.9
+   "value": 26.2
   },
   "4711297": {
    "fantasy_team": null,
@@ -5769,8 +5769,8 @@
   "4871145": {
    "fantasy_team": "Lebron GOAT",
    "id": "4871145",
-   "last15": 30.9,
-   "mpg": 27.1,
+   "last15": 31.1,
+   "mpg": 27.2,
    "name": "Josh Giddey",
    "nba_team": "CHI",
    "positions": [
@@ -5778,10 +5778,10 @@
     "SG"
    ],
    "return_date": null,
-   "season_avg": 29.9,
+   "season_avg": 30.0,
    "slot": "PG",
    "status": "ACTIVE",
-   "value": 30.5
+   "value": 30.7
   },
   "4873090": {
    "fantasy_team": null,
@@ -7146,7 +7146,7 @@
    "fantasy_team": null,
    "id": "5211176",
    "last15": 4.8,
-   "mpg": 13.3,
+   "mpg": 13.4,
    "name": "Tidjane Salaun",
    "nba_team": "CHA",
    "positions": [
@@ -7289,7 +7289,7 @@
   "5242496": {
    "fantasy_team": null,
    "id": "5242496",
-   "last15": 9.8,
+   "last15": 10.3,
    "mpg": 11.8,
    "name": "Noa Essengue",
    "nba_team": "CHI",
@@ -7297,10 +7297,10 @@
     "PF"
    ],
    "return_date": null,
-   "season_avg": 9.1,
+   "season_avg": 9.4,
    "slot": "",
    "status": "ACTIVE",
-   "value": 9.5
+   "value": 10.0
   },
   "5254165": {
    "fantasy_team": null,

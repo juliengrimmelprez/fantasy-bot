@@ -240,11 +240,11 @@
   "5175647:20261111",
   "4396909:20261105"
  ],
- "hot_status": "ok: 263 FAs, 2677 games",
+ "hot_status": "ok: 263 FAs, 2682 games",
  "last_activity_ms": 1795646478973,
  "last_digest": 1795650375.8740573,
  "last_error_alert": 1794388335.8497355,
- "last_hot_check": 1795651578.778016,
+ "last_hot_check": 1795652534.3803813,
  "last_run": "2026-10-19T22:05:14+00:00",
  "matchup_periods": {
   "1": [
@@ -478,8 +478,8 @@
   "2583632": {
    "fantasy_team": null,
    "id": "2583632",
-   "last15": 10.0,
-   "mpg": 20.0,
+   "last15": 8.5,
+   "mpg": 18.9,
    "name": "Royce O'Neale",
    "nba_team": "CHA",
    "positions": [
@@ -487,10 +487,10 @@
     "PF"
    ],
    "return_date": null,
-   "season_avg": 11.6,
+   "season_avg": 11.0,
    "slot": "",
    "status": "ACTIVE",
-   "value": 10.6
+   "value": 9.4
   },
   "2595516": {
    "fantasy_team": "Contagem Hunters",
@@ -576,7 +576,7 @@
   "2990984": {
    "fantasy_team": "Bull Market",
    "id": "2990984",
-   "last15": 25.8,
+   "last15": 26.0,
    "mpg": 17.6,
    "name": "Buddy Hield",
    "nba_team": "CHI",
@@ -585,10 +585,10 @@
     "SF"
    ],
    "return_date": null,
-   "season_avg": 18.8,
+   "season_avg": 18.9,
    "slot": "UT",
    "status": "ACTIVE",
-   "value": 23.3
+   "value": 23.5
   },
   "2990992": {
    "fantasy_team": null,
@@ -2473,18 +2473,18 @@
   "4066650": {
    "fantasy_team": null,
    "id": "4066650",
-   "last15": 12.8,
-   "mpg": 11.5,
+   "last15": 10.5,
+   "mpg": 10.6,
    "name": "Zach Collins",
    "nba_team": "CHI",
    "positions": [
     "C"
    ],
    "return_date": null,
-   "season_avg": 8.4,
+   "season_avg": 7.6,
    "slot": "",
    "status": "ACTIVE",
-   "value": 11.2
+   "value": 9.5
   },
   "4066731": {
    "fantasy_team": null,
@@ -3331,8 +3331,8 @@
   "4396971": {
    "fantasy_team": "Polga Silva",
    "id": "4396971",
-   "last15": 25.5,
-   "mpg": 30.0,
+   "last15": 26.0,
+   "mpg": 30.1,
    "name": "Naz Reid",
    "nba_team": "CHA",
    "positions": [
@@ -3340,10 +3340,10 @@
     "C"
    ],
    "return_date": null,
-   "season_avg": 27.3,
+   "season_avg": 27.5,
    "slot": "PF",
    "status": "ACTIVE",
-   "value": 26.1
+   "value": 26.5
   },
   "4396993": {
    "fantasy_team": "Lebron GOAT",
@@ -4242,7 +4242,7 @@
    "fantasy_team": "Tiki Taka Laranja",
    "id": "4432822",
    "last15": 20.7,
-   "mpg": 23.5,
+   "mpg": 23.6,
    "name": "Isaac Okoro",
    "nba_team": "CHI",
    "positions": [
@@ -4509,7 +4509,7 @@
    "fantasy_team": "Caxias French Fries",
    "id": "4433249",
    "last15": 27.7,
-   "mpg": 28.3,
+   "mpg": 28.4,
    "name": "Moussa Diabate",
    "nba_team": "CHA",
    "positions": [
@@ -4542,7 +4542,7 @@
   "4433287": {
    "fantasy_team": "Tropa do Nikola",
    "id": "4433287",
-   "last15": 23.4,
+   "last15": 24.0,
    "mpg": 29.3,
    "name": "Brandon Miller",
    "nba_team": "CHA",
@@ -4551,10 +4551,10 @@
     "SF"
    ],
    "return_date": null,
-   "season_avg": 27.1,
+   "season_avg": 27.3,
    "slot": "SG",
    "status": "ACTIVE",
-   "value": 24.7
+   "value": 25.1
   },
   "4433569": {
    "fantasy_team": null,
@@ -5140,18 +5140,18 @@
   "4683750": {
    "fantasy_team": null,
    "id": "4683750",
-   "last15": 15.8,
-   "mpg": 11.0,
+   "last15": 13.6,
+   "mpg": 10.0,
    "name": "Jordan Hawkins",
    "nba_team": "CHI",
    "positions": [
     "SG"
    ],
    "return_date": null,
-   "season_avg": 9.4,
+   "season_avg": 9.0,
    "slot": "",
    "status": "ACTIVE",
-   "value": 13.5
+   "value": 12.0
   },
   "4683766": {
    "fantasy_team": null,
@@ -5521,7 +5521,7 @@
   "4711294": {
    "fantasy_team": "Fernando  Diniz",
    "id": "4711294",
-   "last15": 26.8,
+   "last15": 27.1,
    "mpg": 26.6,
    "name": "Matas Buzelis",
    "nba_team": "CHI",
@@ -5530,10 +5530,10 @@
     "PF"
    ],
    "return_date": null,
-   "season_avg": 23.8,
+   "season_avg": 24.0,
    "slot": "UT",
    "status": "ACTIVE",
-   "value": 25.7
+   "value": 26.0
   },
   "4711297": {
    "fantasy_team": null,
@@ -5770,7 +5770,7 @@
    "fantasy_team": "Lebron GOAT",
    "id": "4871145",
    "last15": 30.7,
-   "mpg": 26.9,
+   "mpg": 27.0,
    "name": "Josh Giddey",
    "nba_team": "CHI",
    "positions": [
@@ -6232,18 +6232,18 @@
   "5060701": {
    "fantasy_team": "Tiki Taka Laranja",
    "id": "5060701",
-   "last15": 24.2,
-   "mpg": 14.7,
+   "last15": 20.5,
+   "mpg": 13.8,
    "name": "Christian Anderson",
    "nba_team": "CHA",
    "positions": [
     "PG"
    ],
    "return_date": null,
-   "season_avg": 12.0,
+   "season_avg": 11.4,
    "slot": "UT",
    "status": "ACTIVE",
-   "value": 19.9
+   "value": 17.3
   },
   "5061568": {
    "fantasy_team": null,

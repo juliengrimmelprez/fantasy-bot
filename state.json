@@ -245,7 +245,7 @@
  "last_activity_ms": 1795646478973,
  "last_digest": 1795665258.5321443,
  "last_error_alert": 1794388335.8497355,
- "last_hot_check": 1795665021.613783,
+ "last_hot_check": 1795665984.679221,
  "last_run": "2026-10-19T22:05:14+00:00",
  "matchup_periods": {
   "1": [
@@ -1186,7 +1186,7 @@
   "3134916": {
    "fantasy_team": null,
    "id": "3134916",
-   "last15": 14.0,
+   "last15": 13.9,
    "mpg": 10.0,
    "name": "Jordan McLaughlin",
    "nba_team": "SAS",
@@ -1194,10 +1194,10 @@
     "PG"
    ],
    "return_date": null,
-   "season_avg": 10.5,
+   "season_avg": 10.4,
    "slot": "",
    "status": "ACTIVE",
-   "value": 12.8
+   "value": 12.6
   },
   "3135045": {
    "fantasy_team": "Fernando  Diniz",
@@ -1464,7 +1464,7 @@
   "3155942": {
    "fantasy_team": "Polga Silva",
    "id": "3155942",
-   "last15": 30.9,
+   "last15": 31.1,
    "mpg": 32.1,
    "name": "Domantas Sabonis",
    "nba_team": "SAC",
@@ -1473,10 +1473,10 @@
     "C"
    ],
    "return_date": null,
-   "season_avg": 36.4,
+   "season_avg": 36.5,
    "slot": "UT",
    "status": "ACTIVE",
-   "value": 32.8
+   "value": 33.0
   },
   "3157465": {
    "fantasy_team": "Lucky",
@@ -2155,7 +2155,7 @@
   "4065732": {
    "fantasy_team": "Bull Market",
    "id": "4065732",
-   "last15": 29.1,
+   "last15": 29.9,
    "mpg": 32.8,
    "name": "De'Andre Hunter",
    "nba_team": "SAC",
@@ -2164,10 +2164,10 @@
     "PF"
    ],
    "return_date": null,
-   "season_avg": 23.0,
+   "season_avg": 23.3,
    "slot": "UT",
    "status": "ACTIVE",
-   "value": 27.0
+   "value": 27.6
   },
   "4065733": {
    "fantasy_team": "BL0CK BY ZION",
@@ -2222,18 +2222,18 @@
   "4066211": {
    "fantasy_team": null,
    "id": "4066211",
-   "last15": 16.2,
-   "mpg": 15.6,
+   "last15": 16.4,
+   "mpg": 15.7,
    "name": "Robert Williams III",
    "nba_team": "POR",
    "positions": [
     "C"
    ],
    "return_date": null,
-   "season_avg": 20.4,
+   "season_avg": 20.5,
    "slot": "",
    "status": "ACTIVE",
-   "value": 17.7
+   "value": 17.8
   },
   "4066218": {
    "fantasy_team": null,
@@ -3182,8 +3182,8 @@
   "4395650": {
    "fantasy_team": null,
    "id": "4395650",
-   "last15": 12.4,
-   "mpg": 16.7,
+   "last15": 12.5,
+   "mpg": 16.8,
    "name": "Leaky Black",
    "nba_team": "SAC",
    "positions": [
@@ -3193,7 +3193,7 @@
    "season_avg": 15.9,
    "slot": "",
    "status": "ACTIVE",
-   "value": 13.6
+   "value": 13.7
   },
   "4395651": {
    "fantasy_team": "King Coopa",
@@ -3249,7 +3249,7 @@
    "fantasy_team": "Polga Silva",
    "id": "4395723",
    "last15": 21.9,
-   "mpg": 23.2,
+   "mpg": 23.3,
    "name": "Keldon Johnson",
    "nba_team": "SAS",
    "positions": [
@@ -3600,7 +3600,7 @@
    "fantasy_team": null,
    "id": "4397886",
    "last15": 21.9,
-   "mpg": 15.2,
+   "mpg": 15.3,
    "name": "Charles Bassey",
    "nba_team": "GSW",
    "positions": [
@@ -4726,7 +4726,7 @@
   "4592479": {
    "fantasy_team": "Lucky",
    "id": "4592479",
-   "last15": 23.2,
+   "last15": 23.4,
    "mpg": 25.7,
    "name": "Julian Champagnie",
    "nba_team": "SAS",
@@ -4738,7 +4738,7 @@
    "season_avg": 23.4,
    "slot": "UT",
    "status": "ACTIVE",
-   "value": 23.3
+   "value": 23.4
   },
   "4592492": {
    "fantasy_team": null,
@@ -5024,7 +5024,7 @@
   "4683021": {
    "fantasy_team": "Contagem Hunters",
    "id": "4683021",
-   "last15": 45.4,
+   "last15": 45.7,
    "mpg": 31.2,
    "name": "Deni Avdija",
    "nba_team": "POR",
@@ -5033,10 +5033,10 @@
     "PF"
    ],
    "return_date": null,
-   "season_avg": 40.8,
+   "season_avg": 40.9,
    "slot": "UT",
    "status": "ACTIVE",
-   "value": 43.8
+   "value": 44.0
   },
   "4683634": {
    "fantasy_team": null,
@@ -6820,7 +6820,7 @@
    "fantasy_team": "BL0CK BY ZION",
    "id": "5142620",
    "last15": 29.4,
-   "mpg": 35.4,
+   "mpg": 35.5,
    "name": "Darius Acuff Jr.",
    "nba_team": "SAC",
    "positions": [
@@ -7097,7 +7097,7 @@
   "5175737": {
    "fantasy_team": "Fernando  Diniz",
    "id": "5175737",
-   "last15": 25.1,
+   "last15": 25.6,
    "mpg": 30.7,
    "name": "Yaxel Lendeborg",
    "nba_team": "GSW",
@@ -7106,10 +7106,10 @@
     "PF"
    ],
    "return_date": null,
-   "season_avg": 33.1,
+   "season_avg": 33.3,
    "slot": "SF",
    "status": "ACTIVE",
-   "value": 27.9
+   "value": 28.3
   },
   "5203685": {
    "fantasy_team": null,
@@ -7603,7 +7603,7 @@
   "6589": {
    "fantasy_team": "Bull Market",
    "id": "6589",
-   "last15": 19.8,
+   "last15": 20.2,
    "mpg": 24.8,
    "name": "Draymond Green",
    "nba_team": "GSW",
@@ -7612,10 +7612,10 @@
     "C"
    ],
    "return_date": null,
-   "season_avg": 21.9,
+   "season_avg": 22.0,
    "slot": "UT",
    "status": "ACTIVE",
-   "value": 20.5
+   "value": 20.8
   },
   "6606": {
    "fantasy_team": "Bull Market",

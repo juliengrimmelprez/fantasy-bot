@@ -611,7 +611,7 @@
    "fantasy_team": null,
    "id": "2991043",
    "last15": 7.0,
-   "mpg": 8.6,
+   "mpg": 8.8,
    "name": "Caris LeVert",
    "nba_team": "MIL",
    "positions": [
@@ -759,7 +759,7 @@
   "3032976": {
    "fantasy_team": "Tropa do Nikola",
    "id": "3032976",
-   "last15": 22.9,
+   "last15": 22.6,
    "mpg": 29.3,
    "name": "Rudy Gobert",
    "nba_team": "MIN",
@@ -767,10 +767,10 @@
     "C"
    ],
    "return_date": null,
-   "season_avg": 22.6,
+   "season_avg": 22.5,
    "slot": "C",
    "status": "ACTIVE",
-   "value": 22.8
+   "value": 22.6
   },
   "3032977": {
    "fantasy_team": "Fernando  Diniz",
@@ -2521,18 +2521,18 @@
   "4222252": {
    "fantasy_team": "Fernando  Diniz",
    "id": "4222252",
-   "last15": 33.7,
-   "mpg": 25.5,
+   "last15": 33.4,
+   "mpg": 25.6,
    "name": "Isaiah Hartenstein",
    "nba_team": "OKC",
    "positions": [
     "C"
    ],
    "return_date": null,
-   "season_avg": 29.5,
+   "season_avg": 29.4,
    "slot": "C",
    "status": "ACTIVE",
-   "value": 32.2
+   "value": 32.0
   },
   "4251": {
    "fantasy_team": "Bull Market",
@@ -3282,7 +3282,7 @@
    "fantasy_team": "Contagem Hunters",
    "id": "4395725",
    "last15": 36.1,
-   "mpg": 30.8,
+   "mpg": 30.9,
    "name": "Tyler Herro",
    "nba_team": "MIL",
    "positions": [
@@ -3365,7 +3365,7 @@
   "4397002": {
    "fantasy_team": "Lakers x Bortolan 23",
    "id": "4397002",
-   "last15": 29.6,
+   "last15": 30.0,
    "mpg": 31.7,
    "name": "Ayo Dosunmu",
    "nba_team": "MIN",
@@ -3374,10 +3374,10 @@
     "SG"
    ],
    "return_date": null,
-   "season_avg": 33.0,
+   "season_avg": 33.2,
    "slot": "SG",
    "status": "ACTIVE",
-   "value": 30.8
+   "value": 31.1
   },
   "4397014": {
    "fantasy_team": "Tropa do Nikola",
@@ -3648,7 +3648,7 @@
    "fantasy_team": "Lakers x Bortolan 23",
    "id": "4431671",
    "last15": 48.5,
-   "mpg": 34.0,
+   "mpg": 34.1,
    "name": "Jaden McDaniels",
    "nba_team": "MIN",
    "positions": [
@@ -4291,7 +4291,7 @@
   "4432848": {
    "fantasy_team": "Contagem Hunters",
    "id": "4432848",
-   "last15": 22.7,
+   "last15": 22.6,
    "mpg": 26.9,
    "name": "Jaime Jaquez Jr.",
    "nba_team": "MIL",
@@ -4303,7 +4303,7 @@
    "season_avg": 24.2,
    "slot": "SG",
    "status": "ACTIVE",
-   "value": 23.2
+   "value": 23.1
   },
   "4432907": {
    "fantasy_team": null,
@@ -5587,7 +5587,7 @@
   "4712896": {
    "fantasy_team": null,
    "id": "4712896",
-   "last15": 21.7,
+   "last15": 22.1,
    "mpg": 21.4,
    "name": "Noah Clowney",
    "nba_team": "BKN",
@@ -5595,10 +5595,10 @@
     "PF"
    ],
    "return_date": null,
-   "season_avg": 15.2,
+   "season_avg": 15.4,
    "slot": "",
    "status": "ACTIVE",
-   "value": 19.4
+   "value": 19.8
   },
   "4781746": {
    "fantasy_team": null,
@@ -6540,8 +6540,8 @@
   "5105623": {
    "fantasy_team": "Lakers x Bortolan 23",
    "id": "5105623",
-   "last15": 25.2,
-   "mpg": 18.9,
+   "last15": 25.3,
+   "mpg": 19.0,
    "name": "Kel'el Ware",
    "nba_team": "MIL",
    "positions": [
@@ -6551,7 +6551,7 @@
    "season_avg": 21.2,
    "slot": "UT",
    "status": "ACTIVE",
-   "value": 23.8
+   "value": 23.9
   },
   "5105637": {
    "fantasy_team": null,
@@ -7064,7 +7064,7 @@
    "fantasy_team": null,
    "id": "5175643",
    "last15": 20.3,
-   "mpg": 23.5,
+   "mpg": 23.6,
    "name": "Egor Demin",
    "nba_team": "BKN",
    "positions": [
@@ -7178,7 +7178,7 @@
    "fantasy_team": null,
    "id": "5214640",
    "last15": 20.5,
-   "mpg": 17.3,
+   "mpg": 17.4,
    "name": "Kasparas Jakucionis",
    "nba_team": "MIL",
    "positions": [

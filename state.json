@@ -1188,7 +1188,7 @@
    "fantasy_team": null,
    "id": "3134916",
    "last15": 14.1,
-   "mpg": 10.8,
+   "mpg": 10.9,
    "name": "Jordan McLaughlin",
    "nba_team": "SAS",
    "positions": [
@@ -1465,8 +1465,8 @@
   "3155942": {
    "fantasy_team": "Polga Silva",
    "id": "3155942",
-   "last15": 34.5,
-   "mpg": 33.4,
+   "last15": 34.9,
+   "mpg": 33.5,
    "name": "Domantas Sabonis",
    "nba_team": "SAC",
    "positions": [
@@ -1474,10 +1474,10 @@
     "C"
    ],
    "return_date": null,
-   "season_avg": 38.1,
+   "season_avg": 38.2,
    "slot": "UT",
    "status": "ACTIVE",
-   "value": 35.7
+   "value": 36.1
   },
   "3157465": {
    "fantasy_team": "Lucky",
@@ -2156,8 +2156,8 @@
   "4065732": {
    "fantasy_team": "Bull Market",
    "id": "4065732",
-   "last15": 33.3,
-   "mpg": 34.1,
+   "last15": 34.0,
+   "mpg": 34.2,
    "name": "De'Andre Hunter",
    "nba_team": "SAC",
    "positions": [
@@ -2165,10 +2165,10 @@
     "PF"
    ],
    "return_date": null,
-   "season_avg": 24.8,
+   "season_avg": 25.1,
    "slot": "UT",
    "status": "ACTIVE",
-   "value": 30.3
+   "value": 30.9
   },
   "4065733": {
    "fantasy_team": "BL0CK BY ZION",
@@ -3166,7 +3166,7 @@
   "4395630": {
    "fantasy_team": "Contagem Hunters",
    "id": "4395630",
-   "last15": 26.7,
+   "last15": 26.6,
    "mpg": 30.5,
    "name": "Devin Vassell",
    "nba_team": "SAS",
@@ -3178,12 +3178,12 @@
    "season_avg": 27.2,
    "slot": "UT",
    "status": "ACTIVE",
-   "value": 26.9
+   "value": 26.8
   },
   "4395650": {
    "fantasy_team": null,
    "id": "4395650",
-   "last15": 12.5,
+   "last15": 13.0,
    "mpg": 17.6,
    "name": "Leaky Black",
    "nba_team": "SAC",
@@ -3191,10 +3191,10 @@
     "SF"
    ],
    "return_date": null,
-   "season_avg": 15.9,
+   "season_avg": 16.2,
    "slot": "",
    "status": "ACTIVE",
-   "value": 13.7
+   "value": 14.1
   },
   "4395651": {
    "fantasy_team": "King Coopa",
@@ -3418,8 +3418,8 @@
   "4397040": {
    "fantasy_team": null,
    "id": "4397040",
-   "last15": 20.0,
-   "mpg": 15.8,
+   "last15": 23.0,
+   "mpg": 15.9,
    "name": "Brandon Williams",
    "nba_team": "GSW",
    "positions": [
@@ -3427,10 +3427,10 @@
     "SG"
    ],
    "return_date": null,
-   "season_avg": 18.3,
+   "season_avg": 18.6,
    "slot": "",
    "status": "ACTIVE",
-   "value": 19.4
+   "value": 21.4
   },
   "4397077": {
    "fantasy_team": "Caxias French Fries",
@@ -3781,8 +3781,8 @@
   "4431736": {
    "fantasy_team": "Tropa do Nikola",
    "id": "4431736",
-   "last15": 20.8,
-   "mpg": 29.7,
+   "last15": 21.0,
+   "mpg": 29.8,
    "name": "Toumani Camara",
    "nba_team": "POR",
    "positions": [
@@ -3790,10 +3790,10 @@
     "PF"
    ],
    "return_date": null,
-   "season_avg": 21.9,
+   "season_avg": 22.0,
    "slot": "UT",
    "status": "ACTIVE",
-   "value": 21.2
+   "value": 21.4
   },
   "4431752": {
    "fantasy_team": null,
@@ -5026,7 +5026,7 @@
    "fantasy_team": "Contagem Hunters",
    "id": "4683021",
    "last15": 51.1,
-   "mpg": 32.5,
+   "mpg": 32.6,
    "name": "Deni Avdija",
    "nba_team": "POR",
    "positions": [
@@ -5489,7 +5489,7 @@
   "4709138": {
    "fantasy_team": "CCCP  Баскетбол",
    "id": "4709138",
-   "last15": 24.0,
+   "last15": 24.3,
    "mpg": 32.4,
    "name": "Brandin Podziemski",
    "nba_team": "GSW",
@@ -5498,10 +5498,10 @@
     "SG"
    ],
    "return_date": null,
-   "season_avg": 30.8,
+   "season_avg": 30.9,
    "slot": "PG",
    "status": "ACTIVE",
-   "value": 26.4
+   "value": 26.6
   },
   "4711272": {
    "fantasy_team": "Tiki Taka Laranja",
@@ -5906,7 +5906,7 @@
    "fantasy_team": null,
    "id": "4897262",
    "last15": 17.7,
-   "mpg": 19.4,
+   "mpg": 19.5,
    "name": "Will Richard",
    "nba_team": "GSW",
    "positions": [
@@ -6509,7 +6509,7 @@
   "5105565": {
    "fantasy_team": "Polga Silva",
    "id": "5105565",
-   "last15": 38.7,
+   "last15": 38.8,
    "mpg": 25.9,
    "name": "Donovan Clingan",
    "nba_team": "POR",
@@ -6520,7 +6520,7 @@
    "season_avg": 35.9,
    "slot": "UT",
    "status": "ACTIVE",
-   "value": 37.7
+   "value": 37.8
   },
   "5105592": {
    "fantasy_team": null,

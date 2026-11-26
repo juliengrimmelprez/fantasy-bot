@@ -245,7 +245,7 @@
   "4601023:20261105"
  ],
  "hot_status": "ok: 264 FAs, 2773 games",
- "last_activity_ms": 1795646478973,
+ "last_activity_ms": 1795699639774,
  "last_digest": 1795698623.43378,
  "last_error_alert": 1794388335.8497355,
  "last_hot_check": 1795699582.2387855,
@@ -2373,7 +2373,7 @@
    "value": 22.6
   },
   "4066372": {
-   "fantasy_team": null,
+   "fantasy_team": "Bull Market",
    "id": "4066372",
    "last15": 23.4,
    "mpg": 27.2,
@@ -2385,7 +2385,7 @@
    ],
    "return_date": null,
    "season_avg": 22.6,
-   "slot": "",
+   "slot": "BE",
    "status": "ACTIVE",
    "value": 23.1
   },
@@ -6722,7 +6722,7 @@
    "value": 17.3
   },
   "5107173": {
-   "fantasy_team": "Bull Market",
+   "fantasy_team": null,
    "id": "5107173",
    "last15": 20.3,
    "mpg": 22.8,
@@ -6734,7 +6734,7 @@
    ],
    "return_date": null,
    "season_avg": 19.1,
-   "slot": "C",
+   "slot": "",
    "status": "ACTIVE",
    "value": 19.9
   },
@@ -7633,7 +7633,7 @@
    ],
    "return_date": null,
    "season_avg": 22.9,
-   "slot": "BE",
+   "slot": "C",
    "status": "ACTIVE",
    "value": 22.7
   },

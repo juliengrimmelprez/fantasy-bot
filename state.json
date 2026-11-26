@@ -904,7 +904,7 @@
    "return_date": null,
    "season_avg": 32.0,
    "slot": "SF",
-   "status": "OUT",
+   "status": "DAY_TO_DAY",
    "value": 33.4
   },
   "3064482": {
@@ -2025,7 +2025,7 @@
   "3995": {
    "fantasy_team": "Polga Silva",
    "id": "3995",
-   "last15": 30.9,
+   "last15": 31.0,
    "mpg": 27.3,
    "name": "Jrue Holiday",
    "nba_team": "POR",
@@ -2034,10 +2034,10 @@
     "SG"
    ],
    "return_date": null,
-   "season_avg": 29.9,
+   "season_avg": 30.0,
    "slot": "UT",
    "status": "ACTIVE",
-   "value": 30.6
+   "value": 30.7
   },
   "4017837": {
    "fantasy_team": "Caxias French Fries",
@@ -2224,7 +2224,7 @@
    "fantasy_team": null,
    "id": "4066211",
    "last15": 17.9,
-   "mpg": 16.5,
+   "mpg": 16.6,
    "name": "Robert Williams III",
    "nba_team": "POR",
    "positions": [
@@ -3166,8 +3166,8 @@
   "4395630": {
    "fantasy_team": "Contagem Hunters",
    "id": "4395630",
-   "last15": 26.6,
-   "mpg": 30.6,
+   "last15": 26.3,
+   "mpg": 30.7,
    "name": "Devin Vassell",
    "nba_team": "SAS",
    "positions": [
@@ -3175,10 +3175,10 @@
     "SF"
    ],
    "return_date": null,
-   "season_avg": 27.2,
+   "season_avg": 27.1,
    "slot": "UT",
    "status": "ACTIVE",
-   "value": 26.8
+   "value": 26.6
   },
   "4395650": {
    "fantasy_team": null,
@@ -3249,8 +3249,8 @@
   "4395723": {
    "fantasy_team": "Polga Silva",
    "id": "4395723",
-   "last15": 23.0,
-   "mpg": 24.4,
+   "last15": 23.1,
+   "mpg": 24.5,
    "name": "Keldon Johnson",
    "nba_team": "SAS",
    "positions": [
@@ -3261,7 +3261,7 @@
    "season_avg": 19.1,
    "slot": "SF",
    "status": "ACTIVE",
-   "value": 21.6
+   "value": 21.7
   },
   "4395724": {
    "fantasy_team": "Fernando  Diniz",
@@ -3781,8 +3781,8 @@
   "4431736": {
    "fantasy_team": "Tropa do Nikola",
    "id": "4431736",
-   "last15": 21.0,
-   "mpg": 29.9,
+   "last15": 21.4,
+   "mpg": 30.0,
    "name": "Toumani Camara",
    "nba_team": "POR",
    "positions": [
@@ -3790,10 +3790,10 @@
     "PF"
    ],
    "return_date": null,
-   "season_avg": 22.0,
+   "season_avg": 22.2,
    "slot": "UT",
    "status": "ACTIVE",
-   "value": 21.4
+   "value": 21.7
   },
   "4431752": {
    "fantasy_team": null,
@@ -4728,7 +4728,7 @@
    "fantasy_team": "Lucky",
    "id": "4592479",
    "last15": 23.8,
-   "mpg": 27.0,
+   "mpg": 27.1,
    "name": "Julian Champagnie",
    "nba_team": "SAS",
    "positions": [
@@ -5025,7 +5025,7 @@
   "4683021": {
    "fantasy_team": "Contagem Hunters",
    "id": "4683021",
-   "last15": 51.1,
+   "last15": 52.0,
    "mpg": 32.8,
    "name": "Deni Avdija",
    "nba_team": "POR",
@@ -5034,10 +5034,10 @@
     "PF"
    ],
    "return_date": null,
-   "season_avg": 43.2,
+   "season_avg": 43.6,
    "slot": "UT",
    "status": "ACTIVE",
-   "value": 48.4
+   "value": 49.1
   },
   "4683634": {
    "fantasy_team": null,
@@ -5622,7 +5622,7 @@
    "fantasy_team": "King Coopa",
    "id": "4845367",
    "last15": 41.5,
-   "mpg": 30.0,
+   "mpg": 30.1,
    "name": "Stephon Castle",
    "nba_team": "SAS",
    "positions": [
@@ -6477,8 +6477,8 @@
   "5104157": {
    "fantasy_team": "CCCP  Баскетбол",
    "id": "5104157",
-   "last15": 69.7,
-   "mpg": 30.4,
+   "last15": 69.6,
+   "mpg": 30.5,
    "name": "Victor Wembanyama",
    "nba_team": "SAS",
    "positions": [
@@ -6488,7 +6488,7 @@
    "season_avg": 67.7,
    "slot": "UT",
    "status": "ACTIVE",
-   "value": 69.0
+   "value": 68.9
   },
   "5105550": {
    "fantasy_team": null,
@@ -7621,8 +7621,8 @@
   "6606": {
    "fantasy_team": "Bull Market",
    "id": "6606",
-   "last15": 31.7,
-   "mpg": 29.9,
+   "last15": 31.8,
+   "mpg": 30.0,
    "name": "Damian Lillard",
    "nba_team": "POR",
    "positions": [
@@ -7632,7 +7632,7 @@
    "season_avg": 30.9,
    "slot": "UT",
    "status": "ACTIVE",
-   "value": 31.4
+   "value": 31.5
   },
   "6609": {
    "fantasy_team": null,

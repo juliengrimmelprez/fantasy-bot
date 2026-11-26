@@ -246,7 +246,7 @@
  "last_activity_ms": 1795646478973,
  "last_digest": 1795668979.785694,
  "last_error_alert": 1794388335.8497355,
- "last_hot_check": 1795668859.1730678,
+ "last_hot_check": 1795669823.8307495,
  "last_run": "2026-10-19T22:05:14+00:00",
  "matchup_periods": {
   "1": [
@@ -562,7 +562,7 @@
   "2990969": {
    "fantasy_team": null,
    "id": "2990969",
-   "last15": 7.0,
+   "last15": 7.3,
    "mpg": 18.2,
    "name": "Georges Niang",
    "nba_team": "GSW",
@@ -570,10 +570,10 @@
     "PF"
    ],
    "return_date": null,
-   "season_avg": 12.6,
+   "season_avg": 12.7,
    "slot": "",
    "status": "ACTIVE",
-   "value": 9.0
+   "value": 9.2
   },
   "2990984": {
    "fantasy_team": "Bull Market",
@@ -1139,7 +1139,7 @@
    "fantasy_team": null,
    "id": "3134903",
    "last15": 13.0,
-   "mpg": 13.9,
+   "mpg": 14.0,
    "name": "Gary Payton II",
    "nba_team": "GSW",
    "positions": [
@@ -3183,7 +3183,7 @@
   "4395650": {
    "fantasy_team": null,
    "id": "4395650",
-   "last15": 12.5,
+   "last15": 12.4,
    "mpg": 17.4,
    "name": "Leaky Black",
    "nba_team": "SAC",
@@ -3194,7 +3194,7 @@
    "season_avg": 15.9,
    "slot": "",
    "status": "ACTIVE",
-   "value": 13.7
+   "value": 13.6
   },
   "4395651": {
    "fantasy_team": "King Coopa",
@@ -3249,7 +3249,7 @@
   "4395723": {
    "fantasy_team": "Polga Silva",
    "id": "4395723",
-   "last15": 22.5,
+   "last15": 22.8,
    "mpg": 24.1,
    "name": "Keldon Johnson",
    "nba_team": "SAS",
@@ -3258,10 +3258,10 @@
     "PF"
    ],
    "return_date": null,
-   "season_avg": 18.8,
+   "season_avg": 18.9,
    "slot": "SF",
    "status": "ACTIVE",
-   "value": 21.2
+   "value": 21.4
   },
   "4395724": {
    "fantasy_team": "Fernando  Diniz",
@@ -3418,8 +3418,8 @@
   "4397040": {
    "fantasy_team": null,
    "id": "4397040",
-   "last15": 12.0,
-   "mpg": 15.6,
+   "last15": 15.0,
+   "mpg": 15.7,
    "name": "Brandon Williams",
    "nba_team": "GSW",
    "positions": [
@@ -3427,10 +3427,10 @@
     "SG"
    ],
    "return_date": null,
-   "season_avg": 17.6,
+   "season_avg": 17.8,
    "slot": "",
    "status": "ACTIVE",
-   "value": 13.9
+   "value": 16.0
   },
   "4397077": {
    "fantasy_team": "Caxias French Fries",
@@ -3600,8 +3600,8 @@
   "4397886": {
    "fantasy_team": null,
    "id": "4397886",
-   "last15": 24.3,
-   "mpg": 15.9,
+   "last15": 24.4,
+   "mpg": 16.0,
    "name": "Charles Bassey",
    "nba_team": "GSW",
    "positions": [
@@ -3611,7 +3611,7 @@
    "season_avg": 21.1,
    "slot": "",
    "status": "ACTIVE",
-   "value": 23.2
+   "value": 23.3
   },
   "4398207": {
    "fantasy_team": null,
@@ -4728,7 +4728,7 @@
    "fantasy_team": "Lucky",
    "id": "4592479",
    "last15": 23.8,
-   "mpg": 26.6,
+   "mpg": 26.7,
    "name": "Julian Champagnie",
    "nba_team": "SAS",
    "positions": [
@@ -4912,7 +4912,7 @@
    "fantasy_team": "Lebron GOAT",
    "id": "4594327",
    "last15": 25.5,
-   "mpg": 31.5,
+   "mpg": 31.6,
    "name": "Keegan Murray",
    "nba_team": "SAC",
    "positions": [
@@ -6251,7 +6251,7 @@
    "fantasy_team": null,
    "id": "5061568",
    "last15": 7.9,
-   "mpg": 11.1,
+   "mpg": 11.2,
    "name": "Carter Bryant",
    "nba_team": "SAS",
    "positions": [
@@ -6477,7 +6477,7 @@
   "5104157": {
    "fantasy_team": "CCCP  Баскетбол",
    "id": "5104157",
-   "last15": 67.3,
+   "last15": 67.6,
    "mpg": 30.2,
    "name": "Victor Wembanyama",
    "nba_team": "SAS",
@@ -6485,10 +6485,10 @@
     "C"
    ],
    "return_date": null,
-   "season_avg": 66.8,
+   "season_avg": 66.9,
    "slot": "UT",
    "status": "ACTIVE",
-   "value": 67.1
+   "value": 67.3
   },
   "5105550": {
    "fantasy_team": null,
@@ -6820,7 +6820,7 @@
   "5142620": {
    "fantasy_team": "BL0CK BY ZION",
    "id": "5142620",
-   "last15": 31.5,
+   "last15": 31.9,
    "mpg": 36.2,
    "name": "Darius Acuff Jr.",
    "nba_team": "SAC",
@@ -6828,10 +6828,10 @@
     "PG"
    ],
    "return_date": null,
-   "season_avg": 36.0,
+   "season_avg": 36.2,
    "slot": "UT",
    "status": "ACTIVE",
-   "value": 33.1
+   "value": 33.4
   },
   "5142621": {
    "fantasy_team": null,
@@ -7098,8 +7098,8 @@
   "5175737": {
    "fantasy_team": "Fernando  Diniz",
    "id": "5175737",
-   "last15": 26.4,
-   "mpg": 31.4,
+   "last15": 26.6,
+   "mpg": 31.5,
    "name": "Yaxel Lendeborg",
    "nba_team": "GSW",
    "positions": [
@@ -7107,10 +7107,10 @@
     "PF"
    ],
    "return_date": null,
-   "season_avg": 33.6,
+   "season_avg": 33.7,
    "slot": "SF",
    "status": "ACTIVE",
-   "value": 28.9
+   "value": 29.1
   },
   "5203685": {
    "fantasy_team": null,

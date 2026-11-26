@@ -4577,22 +4577,6 @@
    "status": "ACTIVE",
    "value": 31.3
   },
-  "4433569": {
-   "fantasy_team": null,
-   "id": "4433569",
-   "last15": 1.0,
-   "mpg": 2.0,
-   "name": "Johni Broome",
-   "nba_team": "MIN",
-   "positions": [
-    "PF"
-   ],
-   "return_date": null,
-   "season_avg": 1.0,
-   "slot": "",
-   "status": "ACTIVE",
-   "value": 1.0
-  },
   "4433621": {
    "fantasy_team": "Hospital do Gansola",
    "id": "4433621",
@@ -5473,22 +5457,6 @@
    "status": "ACTIVE",
    "value": 7.1
   },
-  "4702656": {
-   "fantasy_team": null,
-   "id": "4702656",
-   "last15": 6.7,
-   "mpg": 12.2,
-   "name": "Alijah Martin",
-   "nba_team": "TOR",
-   "positions": [
-    "SG"
-   ],
-   "return_date": null,
-   "season_avg": 9.4,
-   "slot": "",
-   "status": "ACTIVE",
-   "value": 7.7
-  },
   "4706557": {
    "fantasy_team": null,
    "id": "4706557",
@@ -6250,6 +6218,22 @@
    "status": "ACTIVE",
    "value": 10.1
   },
+  "5060631": {
+   "fantasy_team": null,
+   "id": "5060631",
+   "last15": 5.3,
+   "mpg": 8.0,
+   "name": "Adou Thiero",
+   "nba_team": "LAL",
+   "positions": [
+    "SF"
+   ],
+   "return_date": null,
+   "season_avg": 6.8,
+   "slot": "",
+   "status": "ACTIVE",
+   "value": 5.9
+  },
   "5060701": {
    "fantasy_team": "Tiki Taka Laranja",
    "id": "5060701",
@@ -6769,6 +6753,22 @@
    "slot": "",
    "status": "ACTIVE",
    "value": 9.6
+  },
+  "5107968": {
+   "fantasy_team": null,
+   "id": "5107968",
+   "last15": 8.0,
+   "mpg": 6.5,
+   "name": "Ja'Kobi Gillespie",
+   "nba_team": "SAS",
+   "positions": [
+    "PG"
+   ],
+   "return_date": null,
+   "season_avg": 5.5,
+   "slot": "",
+   "status": "ACTIVE",
+   "value": 7.1
   },
   "5108024": {
    "fantasy_team": null,

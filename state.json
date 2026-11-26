@@ -245,7 +245,7 @@
  "last_activity_ms": 1795646478973,
  "last_digest": 1795665258.5321443,
  "last_error_alert": 1794388335.8497355,
- "last_hot_check": 1795666936.43744,
+ "last_hot_check": 1795667896.1735795,
  "last_run": "2026-10-19T22:05:14+00:00",
  "matchup_periods": {
   "1": [
@@ -1465,7 +1465,7 @@
    "fantasy_team": "Polga Silva",
    "id": "3155942",
    "last15": 32.9,
-   "mpg": 32.5,
+   "mpg": 32.6,
    "name": "Domantas Sabonis",
    "nba_team": "SAC",
    "positions": [
@@ -1531,7 +1531,7 @@
   "3213": {
    "fantasy_team": null,
    "id": "3213",
-   "last15": 9.2,
+   "last15": 9.3,
    "mpg": 16.5,
    "name": "Al Horford",
    "nba_team": "GSW",
@@ -1540,10 +1540,10 @@
     "C"
    ],
    "return_date": null,
-   "season_avg": 14.3,
+   "season_avg": 14.4,
    "slot": "",
    "status": "ACTIVE",
-   "value": 11.0
+   "value": 11.1
   },
   "3442": {
    "fantasy_team": null,
@@ -2156,7 +2156,7 @@
    "fantasy_team": "Bull Market",
    "id": "4065732",
    "last15": 32.1,
-   "mpg": 33.2,
+   "mpg": 33.3,
    "name": "De'Andre Hunter",
    "nba_team": "SAC",
    "positions": [
@@ -3165,7 +3165,7 @@
   "4395630": {
    "fantasy_team": "Contagem Hunters",
    "id": "4395630",
-   "last15": 25.0,
+   "last15": 24.7,
    "mpg": 29.8,
    "name": "Devin Vassell",
    "nba_team": "SAS",
@@ -3174,26 +3174,26 @@
     "SF"
    ],
    "return_date": null,
-   "season_avg": 26.5,
+   "season_avg": 26.4,
    "slot": "UT",
    "status": "ACTIVE",
-   "value": 25.5
+   "value": 25.3
   },
   "4395650": {
    "fantasy_team": null,
    "id": "4395650",
-   "last15": 12.5,
-   "mpg": 16.8,
+   "last15": 12.6,
+   "mpg": 16.9,
    "name": "Leaky Black",
    "nba_team": "SAC",
    "positions": [
     "SF"
    ],
    "return_date": null,
-   "season_avg": 15.9,
+   "season_avg": 16.0,
    "slot": "",
    "status": "ACTIVE",
-   "value": 13.7
+   "value": 13.8
   },
   "4395651": {
    "fantasy_team": "King Coopa",
@@ -3418,7 +3418,7 @@
    "fantasy_team": null,
    "id": "4397040",
    "last15": 1.0,
-   "mpg": 15.3,
+   "mpg": 15.4,
    "name": "Brandon Williams",
    "nba_team": "GSW",
    "positions": [
@@ -3781,7 +3781,7 @@
    "fantasy_team": "Tropa do Nikola",
    "id": "4431736",
    "last15": 19.9,
-   "mpg": 29.2,
+   "mpg": 29.3,
    "name": "Toumani Camara",
    "nba_team": "POR",
    "positions": [
@@ -5024,7 +5024,7 @@
   "4683021": {
    "fantasy_team": "Contagem Hunters",
    "id": "4683021",
-   "last15": 48.7,
+   "last15": 48.6,
    "mpg": 31.8,
    "name": "Deni Avdija",
    "nba_team": "POR",
@@ -5033,10 +5033,10 @@
     "PF"
    ],
    "return_date": null,
-   "season_avg": 42.2,
+   "season_avg": 42.1,
    "slot": "UT",
    "status": "ACTIVE",
-   "value": 46.4
+   "value": 46.3
   },
   "4683634": {
    "fantasy_team": null,
@@ -5620,8 +5620,8 @@
   "4845367": {
    "fantasy_team": "King Coopa",
    "id": "4845367",
-   "last15": 38.9,
-   "mpg": 29.3,
+   "last15": 39.4,
+   "mpg": 29.4,
    "name": "Stephon Castle",
    "nba_team": "SAS",
    "positions": [
@@ -5629,10 +5629,10 @@
     "SG"
    ],
    "return_date": null,
-   "season_avg": 33.4,
+   "season_avg": 33.6,
    "slot": "UT",
    "status": "ACTIVE",
-   "value": 37.0
+   "value": 37.4
   },
   "4845374": {
    "fantasy_team": null,
@@ -5904,7 +5904,7 @@
   "4897262": {
    "fantasy_team": null,
    "id": "4897262",
-   "last15": 17.0,
+   "last15": 17.7,
    "mpg": 19.2,
    "name": "Will Richard",
    "nba_team": "GSW",
@@ -5913,10 +5913,10 @@
     "SF"
    ],
    "return_date": null,
-   "season_avg": 13.8,
+   "season_avg": 14.1,
    "slot": "",
    "status": "ACTIVE",
-   "value": 15.9
+   "value": 16.4
   },
   "4897943": {
    "fantasy_team": null,
@@ -6055,7 +6055,7 @@
    "fantasy_team": null,
    "id": "4997536",
    "last15": 15.9,
-   "mpg": 18.7,
+   "mpg": 18.8,
    "name": "Gui Santos",
    "nba_team": "GSW",
    "positions": [
@@ -6347,7 +6347,7 @@
    "fantasy_team": null,
    "id": "5081727",
    "last15": 20.0,
-   "mpg": 23.9,
+   "mpg": 24.0,
    "name": "Sidy Cissoko",
    "nba_team": "POR",
    "positions": [
@@ -6476,18 +6476,18 @@
   "5104157": {
    "fantasy_team": "CCCP  Баскетбол",
    "id": "5104157",
-   "last15": 65.6,
-   "mpg": 29.6,
+   "last15": 66.9,
+   "mpg": 29.7,
    "name": "Victor Wembanyama",
    "nba_team": "SAS",
    "positions": [
     "C"
    ],
    "return_date": null,
-   "season_avg": 66.1,
+   "season_avg": 66.6,
    "slot": "UT",
    "status": "ACTIVE",
-   "value": 65.8
+   "value": 66.8
   },
   "5105550": {
    "fantasy_team": null,
@@ -6819,7 +6819,7 @@
   "5142620": {
    "fantasy_team": "BL0CK BY ZION",
    "id": "5142620",
-   "last15": 31.2,
+   "last15": 31.4,
    "mpg": 35.9,
    "name": "Darius Acuff Jr.",
    "nba_team": "SAC",
@@ -6830,7 +6830,7 @@
    "season_avg": 35.9,
    "slot": "UT",
    "status": "ACTIVE",
-   "value": 32.9
+   "value": 33.0
   },
   "5142621": {
    "fantasy_team": null,
@@ -7537,7 +7537,7 @@
    "fantasy_team": null,
    "id": "6578",
    "last15": 8.1,
-   "mpg": 15.1,
+   "mpg": 15.2,
    "name": "Harrison Barnes",
    "nba_team": "SAS",
    "positions": [
@@ -7620,7 +7620,7 @@
   "6606": {
    "fantasy_team": "Bull Market",
    "id": "6606",
-   "last15": 30.0,
+   "last15": 30.2,
    "mpg": 29.2,
    "name": "Damian Lillard",
    "nba_team": "POR",
@@ -7628,10 +7628,10 @@
     "PG"
    ],
    "return_date": null,
-   "season_avg": 30.1,
+   "season_avg": 30.2,
    "slot": "UT",
    "status": "ACTIVE",
-   "value": 30.0
+   "value": 30.2
   },
   "6609": {
    "fantasy_team": null,

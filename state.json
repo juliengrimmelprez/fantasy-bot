@@ -3167,7 +3167,7 @@
    "fantasy_team": "Contagem Hunters",
    "id": "4395630",
    "last15": 26.6,
-   "mpg": 30.5,
+   "mpg": 30.6,
    "name": "Devin Vassell",
    "nba_team": "SAS",
    "positions": [
@@ -3512,7 +3512,7 @@
    "return_date": null,
    "season_avg": 33.6,
    "slot": "PF",
-   "status": "OUT",
+   "status": "DAY_TO_DAY",
    "value": 38.3
   },
   "4397227": {
@@ -5025,8 +5025,8 @@
   "4683021": {
    "fantasy_team": "Contagem Hunters",
    "id": "4683021",
-   "last15": 51.1,
-   "mpg": 32.6,
+   "last15": 51.0,
+   "mpg": 32.7,
    "name": "Deni Avdija",
    "nba_team": "POR",
    "positions": [
@@ -5037,7 +5037,7 @@
    "season_avg": 43.2,
    "slot": "UT",
    "status": "ACTIVE",
-   "value": 48.4
+   "value": 48.3
   },
   "4683634": {
    "fantasy_team": null,
@@ -6477,18 +6477,18 @@
   "5104157": {
    "fantasy_team": "CCCP  Баскетбол",
    "id": "5104157",
-   "last15": 68.7,
-   "mpg": 30.3,
+   "last15": 69.3,
+   "mpg": 30.4,
    "name": "Victor Wembanyama",
    "nba_team": "SAS",
    "positions": [
     "C"
    ],
    "return_date": null,
-   "season_avg": 67.3,
+   "season_avg": 67.6,
    "slot": "UT",
    "status": "ACTIVE",
-   "value": 68.2
+   "value": 68.7
   },
   "5105550": {
    "fantasy_team": null,
@@ -7622,7 +7622,7 @@
    "fantasy_team": "Bull Market",
    "id": "6606",
    "last15": 31.7,
-   "mpg": 29.8,
+   "mpg": 29.9,
    "name": "Damian Lillard",
    "nba_team": "POR",
    "positions": [

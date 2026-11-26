@@ -311,7 +311,7 @@
   "1966": {
    "fantasy_team": "Lucky",
    "id": "1966",
-   "last15": 43.2,
+   "last15": 43.3,
    "mpg": 32.2,
    "name": "LeBron James",
    "nba_team": "PHL",
@@ -320,10 +320,10 @@
     "PF"
    ],
    "return_date": null,
-   "season_avg": 39.5,
+   "season_avg": 39.6,
    "slot": "SF",
    "status": "ACTIVE",
-   "value": 41.9
+   "value": 42.0
   },
   "2326307": {
    "fantasy_team": null,
@@ -461,7 +461,7 @@
   "2581018": {
    "fantasy_team": "Contagem Hunters",
    "id": "2581018",
-   "last15": 17.8,
+   "last15": 17.6,
    "mpg": 23.4,
    "name": "Kentavious Caldwell-Pope",
    "nba_team": "PHL",
@@ -473,7 +473,7 @@
    "season_avg": 16.7,
    "slot": "SF",
    "status": "ACTIVE",
-   "value": 17.4
+   "value": 17.3
   },
   "2583632": {
    "fantasy_team": null,
@@ -775,7 +775,7 @@
   "3032977": {
    "fantasy_team": "Fernando  Diniz",
    "id": "3032977",
-   "last15": 58.2,
+   "last15": 58.3,
    "mpg": 31.9,
    "name": "Giannis Antetokounmpo",
    "nba_team": "MIA",
@@ -784,10 +784,10 @@
     "C"
    ],
    "return_date": null,
-   "season_avg": 54.0,
+   "season_avg": 54.1,
    "slot": "PF",
    "status": "ACTIVE",
-   "value": 56.7
+   "value": 56.8
   },
   "3032979": {
    "fantasy_team": null,
@@ -842,7 +842,7 @@
    "fantasy_team": "King Coopa",
    "id": "3059319",
    "last15": 21.1,
-   "mpg": 26.0,
+   "mpg": 26.1,
    "name": "Andrew Wiggins",
    "nba_team": "MIA",
    "positions": [
@@ -2270,8 +2270,8 @@
   "4066261": {
    "fantasy_team": "Lakers x Bortolan 23",
    "id": "4066261",
-   "last15": 42.7,
-   "mpg": 32.3,
+   "last15": 42.6,
+   "mpg": 32.4,
    "name": "Bam Adebayo",
    "nba_team": "MIA",
    "positions": [
@@ -2279,10 +2279,10 @@
     "C"
    ],
    "return_date": null,
-   "season_avg": 41.4,
+   "season_avg": 41.3,
    "slot": "C",
    "status": "ACTIVE",
-   "value": 42.2
+   "value": 42.1
   },
   "4066262": {
    "fantasy_team": null,
@@ -6557,7 +6557,7 @@
    "fantasy_team": null,
    "id": "5105637",
    "last15": 13.5,
-   "mpg": 13.0,
+   "mpg": 13.1,
    "name": "Adem Bona",
    "nba_team": "PHL",
    "positions": [
@@ -6688,7 +6688,7 @@
    "fantasy_team": null,
    "id": "5107157",
    "last15": 17.4,
-   "mpg": 18.1,
+   "mpg": 18.2,
    "name": "Ryan Conwell",
    "nba_team": "MIA",
    "positions": [

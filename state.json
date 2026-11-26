@@ -2224,7 +2224,7 @@
    "fantasy_team": null,
    "id": "4066211",
    "last15": 17.6,
-   "mpg": 16.1,
+   "mpg": 16.2,
    "name": "Robert Williams III",
    "nba_team": "POR",
    "positions": [
@@ -3166,8 +3166,8 @@
   "4395630": {
    "fantasy_team": "Contagem Hunters",
    "id": "4395630",
-   "last15": 26.1,
-   "mpg": 30.3,
+   "last15": 26.9,
+   "mpg": 30.4,
    "name": "Devin Vassell",
    "nba_team": "SAS",
    "positions": [
@@ -3175,10 +3175,10 @@
     "SF"
    ],
    "return_date": null,
-   "season_avg": 27.0,
+   "season_avg": 27.3,
    "slot": "UT",
    "status": "ACTIVE",
-   "value": 26.4
+   "value": 27.0
   },
   "4395650": {
    "fantasy_team": null,
@@ -4427,7 +4427,7 @@
   "4433174": {
    "fantasy_team": null,
    "id": "4433174",
-   "last15": 10.8,
+   "last15": 10.5,
    "mpg": 14.0,
    "name": "Dylan Cardwell",
    "nba_team": "SAC",
@@ -4435,10 +4435,10 @@
     "C"
    ],
    "return_date": null,
-   "season_avg": 13.1,
+   "season_avg": 12.9,
    "slot": "",
    "status": "ACTIVE",
-   "value": 11.6
+   "value": 11.3
   },
   "4433192": {
    "fantasy_team": "Lebron GOAT",
@@ -6478,7 +6478,7 @@
    "fantasy_team": "CCCP  Баскетбол",
    "id": "5104157",
    "last15": 66.9,
-   "mpg": 29.9,
+   "mpg": 30.0,
    "name": "Victor Wembanyama",
    "nba_team": "SAS",
    "positions": [

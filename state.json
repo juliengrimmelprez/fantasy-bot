@@ -2106,22 +2106,6 @@
    "status": "OUT",
    "value": 10.9
   },
-  "4065663": {
-   "fantasy_team": null,
-   "id": "4065663",
-   "last15": 11.4,
-   "mpg": 18.3,
-   "name": "Josh Okogie",
-   "nba_team": "UTA",
-   "positions": [
-    "SF"
-   ],
-   "return_date": null,
-   "season_avg": 10.3,
-   "slot": "",
-   "status": "ACTIVE",
-   "value": 11.0
-  },
   "4065670": {
    "fantasy_team": null,
    "id": "4065670",
@@ -4576,6 +4560,22 @@
    "slot": "UT",
    "status": "ACTIVE",
    "value": 31.3
+  },
+  "4433569": {
+   "fantasy_team": null,
+   "id": "4433569",
+   "last15": 1.0,
+   "mpg": 2.0,
+   "name": "Johni Broome",
+   "nba_team": "MIN",
+   "positions": [
+    "PF"
+   ],
+   "return_date": null,
+   "season_avg": 1.0,
+   "slot": "",
+   "status": "ACTIVE",
+   "value": 1.0
   },
   "4433621": {
    "fantasy_team": "Hospital do Gansola",

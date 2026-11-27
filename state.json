@@ -7650,7 +7650,7 @@
    "return_date": null,
    "season_avg": 31.1,
    "slot": "UT",
-   "status": "ACTIVE",
+   "status": "OUT",
    "value": 31.3
   },
   "6609": {
@@ -8028,6 +8028,7 @@
   "ltrade:1795735561371",
   "diag:39",
   "planday:39",
-  "inj:3059319:ACTIVE"
+  "inj:3059319:ACTIVE",
+  "inj:6606:OUT"
  ]
 }

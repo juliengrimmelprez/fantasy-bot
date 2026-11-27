@@ -4239,7 +4239,7 @@
    "return_date": null,
    "season_avg": 33.6,
    "slot": "PG",
-   "status": "DAY_TO_DAY",
+   "status": "OUT",
    "value": 33.0
   },
   "4432819": {
@@ -8029,6 +8029,7 @@
   "diag:39",
   "planday:39",
   "inj:3059319:ACTIVE",
-  "inj:6606:OUT"
+  "inj:6606:OUT",
+  "inj:4432816:OUT"
  ]
 }

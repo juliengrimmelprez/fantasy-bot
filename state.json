@@ -6580,22 +6580,6 @@
    "status": "ACTIVE",
    "value": 10.4
   },
-  "5105837": {
-   "fantasy_team": null,
-   "id": "5105837",
-   "last15": 1.3,
-   "mpg": 3.8,
-   "name": "Bruce Thornton",
-   "nba_team": "HOU",
-   "positions": [
-    "PG"
-   ],
-   "return_date": null,
-   "season_avg": 2.0,
-   "slot": "",
-   "status": "ACTIVE",
-   "value": 1.6
-  },
   "5105839": {
    "fantasy_team": null,
    "id": "5105839",
@@ -6743,6 +6727,22 @@
    "slot": "",
    "status": "ACTIVE",
    "value": 9.6
+  },
+  "5107968": {
+   "fantasy_team": null,
+   "id": "5107968",
+   "last15": 8.0,
+   "mpg": 6.5,
+   "name": "Ja'Kobi Gillespie",
+   "nba_team": "SAS",
+   "positions": [
+    "PG"
+   ],
+   "return_date": null,
+   "season_avg": 5.5,
+   "slot": "",
+   "status": "ACTIVE",
+   "value": 7.1
   },
   "5108024": {
    "fantasy_team": null,

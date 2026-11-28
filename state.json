@@ -249,7 +249,7 @@
   "4278594:20261128"
  ],
  "hot_status": "ok: 263 FAs, 2831 games",
- "last_activity_ms": 1795831896296,
+ "last_activity_ms": 1795843956924,
  "last_digest": 1795843098.2231646,
  "last_error_alert": 1794388335.8497355,
  "last_hot_check": 1795843580.342048,
@@ -314,7 +314,7 @@
   ]
  },
  "matchup_periods_day": "2026-11-28",
- "plan_status": "ok: day 39, matchup 6 [35]..[41], adds left 8, opp Caxias French Fries",
+ "plan_status": "ok: day 39, matchup 6 [35]..[41], adds left 7, opp Caxias French Fries",
  "players": {
   "1966": {
    "fantasy_team": "Lucky",
@@ -1763,22 +1763,6 @@
    "slot": "PF",
    "status": "ACTIVE",
    "value": 22.1
-  },
-  "3912848": {
-   "fantasy_team": null,
-   "id": "3912848",
-   "last15": 20.0,
-   "mpg": 26.7,
-   "name": "Dean Wade",
-   "nba_team": "PHL",
-   "positions": [
-    "PF"
-   ],
-   "return_date": null,
-   "season_avg": 18.0,
-   "slot": "",
-   "status": "OUT",
-   "value": 19.3
   },
   "3913174": {
    "fantasy_team": null,
